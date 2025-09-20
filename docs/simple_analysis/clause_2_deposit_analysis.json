@@ -1,0 +1,13 @@
+{
+  "original_text": "CLAUSE 2: I\n============================================================\nType: deposit\nRisk Level: standard\nWord Count: 38\n------------------------------------------------------------\n\nn the case of an Borrower doing business in a form other than as\nan individual, the name, date of birth, Social Security number, and residence address of\neach individual who owns 10% or more of the Project;",
+  "summary": "Summary: CLAUSE 2: I ============================================================ Type: deposit Risk Level: standard Word Count: 38 ------------------------------------------------------------ n the case of an Borrower doing business in a form other than as an individual, the...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 51,
+  "key_entities": [
+    "Percentage: 10%"
+  ],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

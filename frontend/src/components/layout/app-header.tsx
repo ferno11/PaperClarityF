@@ -39,7 +39,8 @@ export default function AppHeader() {
   const [lastScrollY, setLastScrollY] = useState(0);
 
   const handleLogout = async () => {
-    await signOut(auth);
+    const { logout } = useAuth();
+    logout();
     router.push("/login");
   };
 
@@ -122,7 +123,7 @@ export default function AppHeader() {
         </DropdownMenuTrigger>
         <DropdownMenuContent align="end">
           <DropdownMenuLabel>
-            {user?.email || "My Account"}
+            {user?.username || "My Account"}
           </DropdownMenuLabel>
           <DropdownMenuSeparator />
           <DropdownMenuItem disabled>Settings</DropdownMenuItem>

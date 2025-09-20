@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 6: T\n============================================================\nType: deposit\nRisk Level: medium\nWord Count: 184\n------------------------------------------------------------\n\nhe Tenant will pay to the Owner an interest-free refundable security deposit of Rs.(Amount\nin Numbers) vide cheque no (Cheque Number) dated (date of the cheque) at the time of signing\nthe Rent Agreement. The said amount of the Security deposit shall be refunded by the Owner to\nthe Tenant at the time of handing over possession of the demised premises by the Tenant upon\nexpiry or sooner termination of this Rent after adjusting any dues (if any) or cost towards\ndamages caused by the negligence of the Tenant or the person he is responsible for, normal wear\n& tear and damages due to act of god exempted. In case the Owner fails to refund the security\ndeposit to the Tenant on early termination or expiry of the Rent agreement, the Tenant is entitled\nto hold possession of the Rented premises, without payment of rent and/or any other charges\nwhatsoever, till such time the Owner refunds the security deposit to the Tenant. This is without\nprejudice and in addition to the other remedies available to the Tenant to recover the amount\nfrom the Owner.",
+  "summary": "Summary: CLAUSE 6: T ============================================================ Type: deposit Risk Level: medium Word Count: 184 ------------------------------------------------------------ he Tenant will pay to the Owner an interest-free refundable security deposit of Rs.(Amount in Numbers) vide...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 1, 'medium': 1, 'low': 0}",
+  "word_count": 197,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

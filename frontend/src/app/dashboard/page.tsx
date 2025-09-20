@@ -20,7 +20,7 @@ export default function DashboardPage() {
 
       if (response.ok) {
         const data = await response.json();
-        router.push(`/dashboard/analysis?file_id=${data.file_id}`);
+        router.push(`/dashboard/analysis?doc_id=${data.doc_id}`);
       } else {
         console.error("Upload failed");
       }

@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 22: A\n============================================================\nType: maintenance\nRisk Level: medium\nWord Count: 110\n------------------------------------------------------------\n\nLTERATIONS. Tenant agrees to make no alterations, installations, repairs or redecorations of any\nkind to Premises without the prior written consent of Landlord. Any alterations, redecorations, repairs,\nadditions or improvements shall inure to the benefit of, and become the property of Landlord. Landlord\nshall not be responsible for installing, maintaining, or repairing telephone lines. Landlord or others may\nfrom time to time make improvements, changes, or additions, (including the construction of new living\nunits) to Premises or on the property of the Premises, or on property adjoining Premises. Such work shall\nnot modify the terms or conditions of this Rental Agreement nor be considered a breach of Tenant’s quiet\nenjoyment.",
+  "summary": "Summary: CLAUSE 22: A ============================================================ Type: maintenance Risk Level: medium Word Count: 110 ------------------------------------------------------------ LTERATIONS. Tenant agrees to make no alterations, installations, repairs or redecorations of any kind to Premises without...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 1, 'medium': 2, 'low': 0}",
+  "word_count": 123,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 4: T\n============================================================\nType: interest\nRisk Level: standard\nWord Count: 17\n------------------------------------------------------------\n\nhat the Tenant shall pay for the running cost of elevator and generator separately to the\nOwner.",
+  "summary": "Summary: CLAUSE 4: T\n============================================================\nType: interest\nRisk Level: standard\nWord Count: 17\n------------------------------------------------------------\n\nhat the Tenant shall pay for the running cost of elevator and generator separately to the\nOwner.",
+  "risk_level": "Medium",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 1, 'low': 0}",
+  "word_count": 30,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

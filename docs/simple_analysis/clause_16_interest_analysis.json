@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 16: B\n============================================================\nType: interest\nRisk Level: standard\nWord Count: 99\n------------------------------------------------------------\n\nEDBUGS. Resident agrees to maintain the Premises in a manner that prevents the occurrence of\nan infestation of bedbugs, and to immediately notify Landlord of any signs of infestation. Tenant\nrepresents and warrants that all furnishings and other personal property items to be moved into the\nPremises at any time have been inspected by Tenant and are free of bedbugs. Tenant may be required\nto pay all reasonable costs of cleaning and pest control treatments incurred by Landlord to treat\nPremises, and possibly units adjacent to Premises, for bedbugs and shall cooperate with pest control\nefforts to treat infestation.",
+  "summary": "Summary: CLAUSE 16: B ============================================================ Type: interest Risk Level: standard Word Count: 99 ------------------------------------------------------------ EDBUGS. Resident agrees to maintain the Premises in a manner that prevents the occurrence of an infestation...",
+  "risk_level": "Medium",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 1, 'low': 0}",
+  "word_count": 112,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

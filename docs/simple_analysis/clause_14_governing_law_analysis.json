@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 14: G\n============================================================\nType: governing_law\nRisk Level: standard\nWord Count: 29\n------------------------------------------------------------\n\noverning Law: This Agreement shall be governed by and construed in accordance with the\n​ ​\nlaws of the State of ____________________, not including its conflicts of law provisions.",
+  "summary": "Summary: CLAUSE 14: G ============================================================ Type: governing_law Risk Level: standard Word Count: 29 ------------------------------------------------------------ overning Law: This Agreement shall be governed by and construed in accordance with the ​ ​ laws...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 0}",
+  "word_count": 42,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

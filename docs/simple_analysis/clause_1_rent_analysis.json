@@ -1,0 +1,13 @@
+{
+  "original_text": "CLAUSE 1: T\n============================================================\nType: rent\nRisk Level: standard\nWord Count: 37\n------------------------------------------------------------\n\nenant fails to pay rent when due and the default continues for 3 days, excluding Saturday, Sunday and legal\nholidays, after delivery of written demand by Landlord for payment of the rent or possession of the Premises.",
+  "summary": "Summary: CLAUSE 1: T ============================================================ Type: rent Risk Level: standard Word Count: 37 ------------------------------------------------------------ enant fails to pay rent when due and the default continues for 3 days, excluding Saturday, Sunday...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 0}",
+  "word_count": 50,
+  "key_entities": [
+    "Time: 3 days"
+  ],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": true
+}

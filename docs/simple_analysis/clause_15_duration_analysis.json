@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 15: T\n============================================================\nType: duration\nRisk Level: standard\nWord Count: 25\n------------------------------------------------------------\n\nhat this Rent Agreement can be terminated before the expiry of this tenancy period by\nserving One month prior notice in writing by either party.",
+  "summary": "Summary: CLAUSE 15: T ============================================================ Type: duration Risk Level: standard Word Count: 25 ------------------------------------------------------------ hat this Rent Agreement can be terminated before the expiry of this tenancy period by serving One...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 1, 'medium': 1, 'low': 0}",
+  "word_count": 38,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

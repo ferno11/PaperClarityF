@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 11: N\n============================================================\nType: general\nRisk Level: medium\nWord Count: 62\n------------------------------------------------------------\n\no Waiver: Lender shall not be deemed to have waived any provision of this Agreement or\n​ ​\nthe exercise of any rights held under this Agreement unless such waiver is made expressly and in\nwriting. Waiver by Lender of a breach or violation of any provision of this Agreement shall not\nconstitute a waiver of any other subsequent breach or violation.",
+  "summary": "Summary: CLAUSE 11: N ============================================================ Type: general Risk Level: medium Word Count: 62 ------------------------------------------------------------ o Waiver: Lender shall not be deemed to have waived any provision of this Agreement or ​...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 1, 'medium': 0, 'low': 0}",
+  "word_count": 75,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

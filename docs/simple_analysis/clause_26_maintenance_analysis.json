@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 26: A\n============================================================\nType: maintenance\nRisk Level: standard\nWord Count: 82\n------------------------------------------------------------\n\nCCESS. Landlord shall have the right to enter Premises in order to inspect Premises, to make\nnecessary or requested repairs, decorations, alterations or improvements to Premises or to adjacent\npremises, supply necessary or agreed services, exhibit Premises to prospective or actual purchasers,\nmortgagees, tenants, workmen, or contractors, or in case of emergency. Except in case of emergency or\nif it is impractical to do so, Landlord shall enter only at reasonable times and shall give Tenant\nreasonable notice of intent to enter.",
+  "summary": "Summary: CLAUSE 26: A ============================================================ Type: maintenance Risk Level: standard Word Count: 82 ------------------------------------------------------------ CCESS. Landlord shall have the right to enter Premises in order to inspect Premises, to make necessary...",
+  "risk_level": "Medium",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 1, 'low': 0}",
+  "word_count": 95,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 4: G\n============================================================\nType: duties\nRisk Level: standard\nWord Count: 64\n------------------------------------------------------------\n\nuarantee: Guarantor’s Full Name, located at Guarantor’s Complete Address (the\n​ ​ ​ ​ ​ ​\n“Guarantor”) promises to unconditionally guarantee to the Lender, the full payment and\nperformance by Borrower of all duties and obligations arising under this Agreement. The\nGuarantor agrees that this guarantee shall remain in full force and effect and be binding on the\nGuarantor until this Agreement is satisfied.",
+  "summary": "Summary: CLAUSE 4: G ============================================================ Type: duties Risk Level: standard Word Count: 64 ------------------------------------------------------------ uarantee: Guarantor’s Full Name, located at Guarantor’s Complete Address (the ​ ​ ​ ​ ​ ​ “Guarantor”)...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 77,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

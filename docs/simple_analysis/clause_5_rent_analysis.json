@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 5: P\n============================================================\nType: rent\nRisk Level: standard\nWord Count: 90\n------------------------------------------------------------\n\nayment will be made directly to the Property Management Company/Landlord at the address\nstated above (or at a designated online website portal that has been directed by the Property\nManagement Company for residents of said property). Payment can be made using a debit card\nor credit card for an additional fee of [Additional fee amount]. It can also be paid by mail or in\nperson by check in the Property Management Office of the Landlord.\nNote that the first rent payment is required upon the Tenant signing this Contract Agreement.",
+  "summary": "Summary: CLAUSE 5: P ============================================================ Type: rent Risk Level: standard Word Count: 90 ------------------------------------------------------------ ayment will be made directly to the Property Management Company/Landlord at the address stated above (or at...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 103,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

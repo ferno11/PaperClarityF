@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 1: I\n============================================================\nType: deposit\nRisk Level: standard\nWord Count: 18\n------------------------------------------------------------\n\nn the case of an individual Borrower, his/her name, date of birth,\nSocial Security number, and residence address;",
+  "summary": "Summary: CLAUSE 1: I ============================================================ Type: deposit Risk Level: standard Word Count: 18 ------------------------------------------------------------ n the case of an individual Borrower, his/her name, date of birth, Social Security number, and residence...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 31,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

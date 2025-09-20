@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 3: O\n============================================================\nType: confidentiality\nRisk Level: standard\nWord Count: 140\n------------------------------------------------------------\n\nbligations of Receiving Party. Receiving Party shall hold and maintain the Confidential\nInformation in strictest confidence for the sole and exclusive benefit of the Disclosing Party.\nReceiving Party shall carefully restrict access to Confidential Information to employees,\ncontractors and third parties as is reasonably required and shall require those persons to sign\nnondisclosure restrictions at least as protective as those in this Agreement. Receiving Party\nshall not, without the prior written approval of Disclosing Party, use for Receiving Party's benefit,\npublish, copy, or otherwise disclose to others, or permit the use by others for their benefit or to\nthe detriment of Disclosing Party, any Confidential Information. Receiving Party shall return to\nDisclosing Party any and all records, notes, and other written, printed, or tangible materials in its\npossession pertaining to Confidential Information immediately if Disclosing Party requests it in\nwriting.",
+  "summary": "Summary: CLAUSE 3: O ============================================================ Type: confidentiality Risk Level: standard Word Count: 140 ------------------------------------------------------------ bligations of Receiving Party. Receiving Party shall hold and maintain the Confidential Information in strictest confidence for...",
+  "risk_level": "Medium",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 1, 'low': 1}",
+  "word_count": 153,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

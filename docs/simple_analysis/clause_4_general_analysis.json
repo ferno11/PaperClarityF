@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 4: I\n============================================================\nType: general\nRisk Level: standard\nWord Count: 3\n------------------------------------------------------------\n\nnadequate sanitation facilities",
+  "summary": "Summary: CLAUSE 4: I\n============================================================\nType: general\nRisk Level: standard\nWord Count: 3\n------------------------------------------------------------\n\nnadequate sanitation facilities",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 0}",
+  "word_count": 16,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

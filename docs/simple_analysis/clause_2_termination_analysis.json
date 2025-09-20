@@ -1,0 +1,13 @@
+{
+  "original_text": "CLAUSE 2: I\n============================================================\nType: termination\nRisk Level: standard\nWord Count: 75\n------------------------------------------------------------\n\nf Tenant defaults under the Lease by failing to pay rent, as set forth in section XIV(B)(1), Landlord may\nterminate Tenant’s rights under the Lease and Tenant shall vacate the Premises immediately. If Tenant defaults\nunder the Lease for any other reason, as set forth in sections XIC(B)(2) or (3) above, Landlord may terminate\nTenant’s rights under the Lease and Tenant shall vacate the Premises within 7 days of delivery of the notice of\ntermination.",
+  "summary": "Summary: CLAUSE 2: I ============================================================ Type: termination Risk Level: standard Word Count: 75 ------------------------------------------------------------ f Tenant defaults under the Lease by failing to pay rent, as set forth in section XIV(B)(1),...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 1, 'medium': 1, 'low': 0}",
+  "word_count": 88,
+  "key_entities": [
+    "Time: 7 days"
+  ],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": true
+}

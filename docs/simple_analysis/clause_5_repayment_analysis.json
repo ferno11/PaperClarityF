@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 5: P\n============================================================\nType: repayment\nRisk Level: medium\nWord Count: 35\n------------------------------------------------------------\n\nrepayment: The Borrower has the right to prepay all or any part of the Loan, together with\n​ ​\naccrued and unpaid interest thereon, at any time without prepayment penalty or premium of any\nkind.",
+  "summary": "Summary: CLAUSE 5: P ============================================================ Type: repayment Risk Level: medium Word Count: 35 ------------------------------------------------------------ repayment: The Borrower has the right to prepay all or any part of the Loan, together with...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 1, 'medium': 1, 'low': 0}",
+  "word_count": 48,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

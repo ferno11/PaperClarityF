@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 19: T\n============================================================\nType: rent\nRisk Level: standard\nWord Count: 47\n------------------------------------------------------------\n\nhat the Tenant and Owners represent and warrant that they are fully empowered and\ncompetent to make this Rent. That both the parties have read over and understood all the contents\nof this agreement and have signed the same without any force or pressure from any side.",
+  "summary": "Summary: CLAUSE 19: T ============================================================ Type: rent Risk Level: standard Word Count: 47 ------------------------------------------------------------ hat the Tenant and Owners represent and warrant that they are fully empowered and competent to make...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 0}",
+  "word_count": 60,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

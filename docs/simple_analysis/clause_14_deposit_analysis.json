@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 14: T\n============================================================\nType: deposit\nRisk Level: standard\nWord Count: 124\n------------------------------------------------------------\n\nhat the Lessee has paid to the Lessor a sum of [Rental Deposit in Number and\nWords] as deposit, free of interest, which the Lessor does accept and acknowledge.\nThis deposit is for the due performance and observance of the terms and conditions\nof this Agreement. The deposit shall be returned to the Lessee simultaneously with\nthe Lessee vacating the said premises. In the event of failure on the part of the\nLessor to refund the said deposit amount to the Lessee as aforesaid, the Lessee shall\nbe entitled to continue to use and occupy the said premises without payment of any\nrent until the Lessor refunds the said amount (without prejudice to the Lessee`s\nrights and remedies in law to recover the deposit).",
+  "summary": "Summary: CLAUSE 14: T ============================================================ Type: deposit Risk Level: standard Word Count: 124 ------------------------------------------------------------ hat the Lessee has paid to the Lessor a sum of [Rental Deposit in Number and Words]...",
+  "risk_level": "Medium",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 1, 'low': 0}",
+  "word_count": 137,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

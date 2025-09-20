@@ -1,0 +1,13 @@
+{
+  "original_text": "CLAUSE 9: N\n============================================================\nType: duration\nRisk Level: standard\nWord Count: 200\n------------------------------------------------------------\n\notices. Any notice or communication required or permitted by this Agreement shall be given in\nwriting and addressed as follows:\nIf to Nation:\nName:\nTitle:\nAddress:\nCity: _______________, State: ______, ZIP_________\nPhone:\nFax:\nWith a copy to:\nTribe\nLegal Department\nIf to Company:\nName:\nTitle:\nAddress:\nCity:\nPhone:\nFax:\nNotices shall be served personally, by telecopy, facsimile, overnight express mail service, or first-class,\ncertified mail, return receipt requested, postage pre-paid. If served personally, by telecopy, or facsimile,\nnotice shall be deemed delivered upon receipt. If mailed by overnight express mail service, notice shall be\ndeemed delivered 24 hours after mailing. If mailed by first-class, certified mail with return receipt\nverification, then notice shall be deemed delivered the earlier of seventy-two (72) hours after mailing, or\nthe date set forth on the signed receipt, if any. Either party may give notification to the other party in any\nmanner described above for changes of address for the sending of notices.\nThe person who signs below on behalf of Company warrants that he/she is authorized to bind Company to\nthe terms contained herein.\nCOMPANY\nSigned: _________________________________\nPrint Name: _____________________________\nTitle: _________________________________\nDate: _________________________________\nTribe\nSigned: _________________________________\nPrint Name: _____________________________\nTitle: ___________________________________\nDate: ___________________________________",
+  "summary": "Summary: CLAUSE 9: N ============================================================ Type: duration Risk Level: standard Word Count: 200 ------------------------------------------------------------ otices. Any notice or communication required or permitted by this Agreement shall be given in writing and...",
+  "risk_level": "Medium",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 2, 'low': 2}",
+  "word_count": 213,
+  "key_entities": [
+    "Time: 24 hours"
+  ],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": true
+}

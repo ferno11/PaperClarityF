@@ -13,23 +13,30 @@ import type { Clause, ChatMessage } from "@/lib/types";
 
 export default function AnalysisPage() {
   const searchParams = useSearchParams();
-  const fileId = searchParams.get("file_id");
+  const docId = searchParams.get("doc_id");
 
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [documentText, setDocumentText] = useState("");
   const [clauses, setClauses] = useState<Clause[]>([]);
   const [analysisSummary, setAnalysisSummary] = useState("");
+  const [filename, setFilename] = useState("");
 
   useEffect(() => {
-    if (fileId) {
+    if (docId) {
       const fetchAnalysis = async () => {
         try {
-          const response = await fetch(`http://localhost:8000/analysis/${fileId}`);
+          const response = await fetch(`http://localhost:8000/clauses/${docId}`);
           if (response.ok) {
             const data = await response.json();
-            setDocumentText(data.full_text);
-            setClauses(data.clauses);
-            setAnalysisSummary(data.summary);
+            setFilename(data.filename || "Document");
+            setClauses(data.clauses || []);
+            setAnalysisSummary(`Document processed successfully. Found ${data.total_clauses} clauses with risk distribution: High: ${data.risk_summary.High}, Medium: ${data.risk_summary.Medium}, Low: ${data.risk_summary.Low}`);
+            
+            // Combine all clause text for document preview
+            const fullText = data.clauses.map((clause: any) => 
+              `${clause.clause_id}: ${clause.original_text}`
+            ).join('\n\n');
+            setDocumentText(fullText);
           } else {
             console.error("Failed to fetch analysis");
           }
@@ -39,7 +46,7 @@ export default function AnalysisPage() {
       };
       fetchAnalysis();
     }
-  }, [fileId]);
+  }, [docId]);
 
   const handleSendMessage = async (input: string) => {
     const userMessage: ChatMessage = {
@@ -57,12 +64,12 @@ export default function AnalysisPage() {
     setMessages((prev) => [...prev, assistantTypingMessage]);
 
     try {
-      const response = await fetch("http://localhost:8000/chat", {
+      const response = await fetch("http://localhost:8000/ask", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify({ file_id: fileId, question: input }),
+        body: JSON.stringify({ doc_id: docId, question: input }),
       });
 
       if (response.ok) {
@@ -71,7 +78,7 @@ export default function AnalysisPage() {
           id: `msg-${Date.now() + 1}`,
           role: "assistant",
           content: result.answer,
-          references: result.references,
+          references: result.relevant_clauses,
         };
         setMessages((prev) =>
           prev.map((msg) =>

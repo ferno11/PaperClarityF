@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 2: E\n============================================================\nType: confidentiality\nRisk Level: standard\nWord Count: 82\n------------------------------------------------------------\n\nxclusions from Confidential Information. Receiving Party's obligations under this\nAgreement do not extend to information that is: (a) publicly known at the time of disclosure or\nsubsequently becomes publicly known through no fault of the Receiving Party; (b) discovered or\ncreated by the Receiving Party before disclosure by Disclosing Party; (c) learned by the\nReceiving Party through legitimate means other than from the Disclosing Party or Disclosing\nParty's representatives; or (d) is disclosed by Receiving Party with Disclosing Party's prior\nwritten approval.",
+  "summary": "Summary: CLAUSE 2: E ============================================================ Type: confidentiality Risk Level: standard Word Count: 82 ------------------------------------------------------------ xclusions from Confidential Information. Receiving Party's obligations under this Agreement do not extend to information that is:...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 95,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

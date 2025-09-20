@@ -1,9 +1,10 @@
 export type Clause = {
-  id: string;
-  originalText: string;
+  clause_id: string;
+  original_text: string;
   summary: string;
-  riskLevel: 'High' | 'Medium' | 'Low' | 'Unknown';
-  explanation: string;
+  risk_level: 'High' | 'Medium' | 'Low' | 'Unknown';
+  entities?: string[];
+  word_count?: number;
 };
 
 export type ChatMessage = {

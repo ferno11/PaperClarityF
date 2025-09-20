@@ -1,0 +1,13 @@
+{
+  "original_text": "CLAUSE 3: E\n============================================================\nType: duration\nRisk Level: standard\nWord Count: 42\n------------------------------------------------------------\n\nxpense payments Actual direct and indirect operating costs\nassociated with expense payment plus a\nmark-up determined by the service\nprovider at its absolute discretion.\nHowever, the mark-up must not exceed\n10% of actual direct and indirect operating\ncosts to the service provider.",
+  "summary": "Summary: CLAUSE 3: E ============================================================ Type: duration Risk Level: standard Word Count: 42 ------------------------------------------------------------ xpense payments Actual direct and indirect operating costs associated with expense payment plus a mark-up determined by...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 55,
+  "key_entities": [
+    "Percentage: 10%"
+  ],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

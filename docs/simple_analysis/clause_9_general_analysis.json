@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 9: A\n============================================================\nType: general\nRisk Level: standard\nWord Count: 24\n------------------------------------------------------------\n\nGENT. Woodard Properties is the Agent for Landlord. Woodard Properties shall notify Tenant of\nthe name and address of the resident manager, if any.",
+  "summary": "Summary: CLAUSE 9: A ============================================================ Type: general Risk Level: standard Word Count: 24 ------------------------------------------------------------ GENT. Woodard Properties is the Agent for Landlord. Woodard Properties shall notify Tenant of the name and...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 37,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 3: R\n============================================================\nType: maintenance\nRisk Level: standard\nWord Count: 44\n------------------------------------------------------------\n\neasonable Care: The Insured shall take all reasonable\naccident which may be the subject of a claim hereunder\nsteps to safeguard the property insured against any loss or\nobtain medical treatment failing which the company will\ndamage.\nnot be liable for any consequence thereof.",
+  "summary": "Summary: CLAUSE 3: R ============================================================ Type: maintenance Risk Level: standard Word Count: 44 ------------------------------------------------------------ easonable Care: The Insured shall take all reasonable accident which may be the subject of a claim...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 0}",
+  "word_count": 57,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

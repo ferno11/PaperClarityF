@@ -1,0 +1,13 @@
+{
+  "original_text": "CLAUSE 2: I\n============================================================\nType: rent\nRisk Level: medium\nWord Count: 50\n------------------------------------------------------------\n\nf Tenant has given the notice referred to in subparagraph (1) above, and if Landlord has not corrected the default\nwithin 7 days, Tenant may, in addition to withholding the applicable amount of rent, file a lawsuit in county court\nto require Landlord to correct the default and for damages.",
+  "summary": "Summary: CLAUSE 2: I ============================================================ Type: rent Risk Level: medium Word Count: 50 ------------------------------------------------------------ f Tenant has given the notice referred to in subparagraph (1) above, and if Landlord has not...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 2, 'medium': 1, 'low': 0}",
+  "word_count": 63,
+  "key_entities": [
+    "Time: 7 days"
+  ],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": true
+}

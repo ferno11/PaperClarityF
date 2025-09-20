@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 13: A\n============================================================\nType: termination\nRisk Level: standard\nWord Count: 35\n------------------------------------------------------------\n\nssignment: Borrower shall not assign this Agreement, in whole or in part, without the\n​ ​\nwritten consent of Lender. Lender may assign all or any portion of this Agreement with written\nnotice to Borrower.",
+  "summary": "Summary: CLAUSE 13: A ============================================================ Type: termination Risk Level: standard Word Count: 35 ------------------------------------------------------------ ssignment: Borrower shall not assign this Agreement, in whole or in part, without the ​ ​ written...",
+  "risk_level": "Medium",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 1, 'low': 0}",
+  "word_count": 48,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

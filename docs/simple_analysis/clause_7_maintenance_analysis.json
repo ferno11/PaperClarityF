@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 7: T\n============================================================\nType: maintenance\nRisk Level: standard\nWord Count: 29\n------------------------------------------------------------\n\nhat all the sanitary, electrical and other fittings and fixtures and appliances in the premises\nshall be handed over from the Owner to the Tenant in good working condition.",
+  "summary": "Summary: CLAUSE 7: T ============================================================ Type: maintenance Risk Level: standard Word Count: 29 ------------------------------------------------------------ hat all the sanitary, electrical and other fittings and fixtures and appliances in the premises shall be...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 0}",
+  "word_count": 42,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

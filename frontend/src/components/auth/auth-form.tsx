@@ -4,14 +4,7 @@ import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import * as z from "zod";
-import {
-  createUserWithEmailAndPassword,
-  GoogleAuthProvider,
-  signInWithEmailAndPassword,
-  signInWithPopup,
-} from "firebase/auth";
-import { auth } from "@/lib/firebase/config";
-import { useRouter } from "next/navigation";
+import { useAuth } from "@/hooks/use-auth";
 import { useToast } from "@/hooks/use-toast";
 
 import { Button } from "@/components/ui/button";
@@ -24,151 +17,108 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Loader2 } from "lucide-react";
 
 const formSchema = z.object({
-  email: z.string().email({ message: "Invalid email address." }),
-  password: z
-    .string()
-    .min(6, { message: "Password must be at least 6 characters." }),
+  username: z.string().min(1, { message: "Username is required." }),
+  password: z.string().min(1, { message: "Password is required." }),
 });
 
 type FormValues = z.infer<typeof formSchema>;
 
 export function AuthForm() {
   const [loading, setLoading] = useState(false);
-  const [googleLoading, setGoogleLoading] = useState(false);
-  const [activeTab, setActiveTab] = useState("signin");
-  const router = useRouter();
+  const { login } = useAuth();
   const { toast } = useToast();
 
   const form = useForm<FormValues>({
     resolver: zodResolver(formSchema),
     defaultValues: {
-      email: "",
+      username: "",
       password: "",
     },
   });
 
-  const handleError = (error: any) => {
-    let message = "An unexpected error occurred.";
-    if (error.code) {
-      switch (error.code) {
-        case "auth/user-not-found":
-        case "auth/wrong-password":
-          message = "Invalid email or password.";
-          break;
-        case "auth/email-already-in-use":
-          message = "This email is already registered.";
-          break;
-        case "auth/weak-password":
-          message = "Password is too weak.";
-          break;
-        default:
-          message = error.message;
-      }
-    }
-    toast({
-      title: "Authentication Failed",
-      description: message,
-      variant: "destructive",
-    });
-  };
-
   const onSubmit = async (values: FormValues) => {
     setLoading(true);
     try {
-      if (activeTab === "signin") {
-        await signInWithEmailAndPassword(auth, values.email, values.password);
+      const success = await login(values.username, values.password);
+      if (success) {
+        toast({
+          title: "Success",
+          description: "Successfully signed in!",
+        });
       } else {
-        await createUserWithEmailAndPassword(
-          auth,
-          values.email,
-          values.password
-        );
+        toast({
+          title: "Authentication Failed",
+          description: "Invalid username or password.",
+          variant: "destructive",
+        });
       }
-      toast({
-        title: "Success",
-        description: `Successfully ${
-          activeTab === "signin" ? "signed in" : "signed up"
-        }.`,
-      });
-      router.push("/dashboard");
     } catch (error: any) {
-      handleError(error);
+      toast({
+        title: "Authentication Failed",
+        description: "An unexpected error occurred.",
+        variant: "destructive",
+      });
     } finally {
       setLoading(false);
     }
   };
 
-  const handleGoogleSignIn = async () => {
-    setGoogleLoading(true);
-    try {
-      const provider = new GoogleAuthProvider();
-      await signInWithPopup(auth, provider);
-      toast({
-        title: "Success",
-        description: "Successfully signed in with Google.",
-      });
-      router.push("/dashboard");
-    } catch (error: any) {
-      handleError(error);
-    } finally {
-      setGoogleLoading(false);
-    }
-  };
-
   return (
-    <Tabs
-      defaultValue="signin"
-      className="w-full"
-      onValueChange={setActiveTab}
-    >
-      <TabsList className="grid w-full grid-cols-2">
-        <TabsTrigger value="signin">Sign In</TabsTrigger>
-        <TabsTrigger value="signup">Sign Up</TabsTrigger>
-      </TabsList>
-      <TabsContent value="signin">
-        <AuthFormContent
-          form={form}
-          onSubmit={onSubmit}
-          loading={loading}
-          buttonText="Sign In"
-        />
-      </TabsContent>
-      <TabsContent value="signup">
-        <AuthFormContent
-          form={form}
-          onSubmit={onSubmit}
-          loading={loading}
-          buttonText="Sign Up"
-        />
-      </TabsContent>
-      <div className="relative my-4">
-        <div className="absolute inset-0 flex items-center">
-          <span className="w-full border-t" />
-        </div>
-        <div className="relative flex justify-center text-xs uppercase">
-          <span className="bg-card px-2 text-muted-foreground">
-            Or continue with
-          </span>
-        </div>
+    <div className="w-full">
+      <div className="mb-4 p-3 bg-blue-50 border border-blue-200 rounded-md">
+        <p className="text-sm text-blue-800">
+          <strong>Demo Credentials:</strong><br />
+          Username: <code>root12345</code><br />
+          Password: <code>root12345</code>
+        </p>
       </div>
-      <Button
-        variant="outline"
-        className="w-full"
-        onClick={handleGoogleSignIn}
-        disabled={googleLoading || loading}
-      >
-        {googleLoading ? (
-          <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-        ) : (
-          <GoogleIcon className="mr-2 h-4 w-4" />
-        )}
-        Google
-      </Button>
-    </Tabs>
+      <Form {...form}>
+        <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-4">
+          <FormField
+            control={form.control}
+            name="username"
+            render={({ field }) => (
+              <FormItem>
+                <FormLabel>Username</FormLabel>
+                <FormControl>
+                  <Input
+                    placeholder="Enter your username"
+                    {...field}
+                    disabled={loading}
+                  />
+                </FormControl>
+                <FormMessage />
+              </FormItem>
+            )}
+          />
+          <FormField
+            control={form.control}
+            name="password"
+            render={({ field }) => (
+              <FormItem>
+                <FormLabel>Password</FormLabel>
+                <FormControl>
+                  <Input
+                    type="password"
+                    placeholder="Enter your password"
+                    {...field}
+                    disabled={loading}
+                  />
+                </FormControl>
+                <FormMessage />
+              </FormItem>
+            )}
+          />
+          <Button type="submit" className="w-full" disabled={loading}>
+            {loading && <Loader2 className="mr-2 h-4 w-4 animate-spin" />}
+            Sign In
+          </Button>
+        </form>
+      </Form>
+    </div>
   );
 }
 

@@ -1,0 +1,13 @@
+{
+  "original_text": "CLAUSE 4: E\n============================================================\nType: duration\nRisk Level: standard\nWord Count: 41\n------------------------------------------------------------\n\nquipment hire Actual operating costs to the service\nprovider relating to the hire of equipment\nplus a mark-up determined by the service\nprovider at its absolute discretion.\nHowever, the mark-up must not exceed\n10% of actual costs to the service\nprovider.",
+  "summary": "Summary: CLAUSE 4: E ============================================================ Type: duration Risk Level: standard Word Count: 41 ------------------------------------------------------------ quipment hire Actual operating costs to the service provider relating to the hire of equipment plus a...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 54,
+  "key_entities": [
+    "Percentage: 10%"
+  ],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

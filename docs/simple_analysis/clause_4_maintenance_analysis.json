@@ -1,0 +1,17 @@
+{
+  "original_text": "CLAUSE 4: C\n============================================================\nType: maintenance\nRisk Level: medium\nWord Count: 433\n------------------------------------------------------------\n\nancellation: The Company may at any time, cancel this\n(iii) The Insured shall forward to the Company forthwith\npolicy, by giving 7 days notices in writing by Regd. A/D. to the\nevery written notice or information of any verbal notice\nInsured at his last known address in which case the\nof claim and shall send to the Company any writ,\nCompany shall return to the Insured a proportion of the last\nsummons or other legal process issued or commenced\npremium corresponding to the unexpired period of\nagainst the Insured and shall give all necessary\ninsurance.\ninformation and assistance to enable the Company to\nsettle or resist any claim or to institute proceedings. The\nThe Insured may also give 7 days notice in writing, to the\nInsured shall not incur any expenses in making good\nCompany, for the cancellation of this policy, in which case\nany claim without the written consent of the Company\nCompany shall retain premium for the period this policy has\nand shall not negotiate, pay, settle, admit or repudiate\nbeen in force at the Company's short period scales (Table\nany claim without such consent.\ngiven here below), provided no claim has occurred up to the\ndate of cancellation of this policy.\n6. Contribution: if at the time of happening of any loss or\ndamage covered by this policy there shall be existing any\nTable of Short Period Scales\nother insurance covering the same property insured,\nPeriod of Risk Premium to be retained whether effected by the Insured or not then the Company\n(Not exceeding) (% of the Annual Rate) shall not be liable to pay or contribute more than its ratable\nproportion of any loss or damage. However, this condition\n1 Week 10%\nshall not have any effect on Section X-Personal Accident of\nthe policy.\n1 Month 25%\n7. Fraud: if any claim under this policy shall be in any respect\n2 Months 35%\nfraudulent or if any fraudulent means or device are used by\nthe Insured or by any one acting on the Insured's behalf to\n3 Months 50%\nobtain any benefit under this policy, all benefits under the\n4 Months 60% policy shall be forfeited.\n6 Months 75% 8. Indemnity: The Company may at its option reinstate,\nreplace or repair the property or premises lost or damaged or\n8 Months 85%\nany part thereof instead of paying the amount of loss or\ndamage or may join with any other insurer in so doing but the\nExceeding 8 Months Full Annual Premium\nCompany shall not be bound to reinstate exactly or\ncompletely but only as circumstances permit and in",
+  "summary": "Summary: CLAUSE 4: C ============================================================ Type: maintenance Risk Level: medium Word Count: 433 ------------------------------------------------------------ ancellation: The Company may at any time, cancel this (iii) The Insured shall forward to the Company...",
+  "risk_level": "Medium",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 1, 'low': 3}",
+  "word_count": 446,
+  "key_entities": [
+    "Percentage: 10%",
+    "Percentage: 25%",
+    "Percentage: 35%",
+    "Time: 7 days",
+    "Time: 7 days"
+  ],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": true
+}

@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 4: P\n============================================================\nType: utilities\nRisk Level: standard\nWord Count: 9\n------------------------------------------------------------\n\nrovide hot and cold running water 24-hours a day.",
+  "summary": "Summary: CLAUSE 4: P\n============================================================\nType: utilities\nRisk Level: standard\nWord Count: 9\n------------------------------------------------------------\n\nrovide hot and cold running water 24-hours a day.",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 0}",
+  "word_count": 22,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

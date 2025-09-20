@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 12: I\n============================================================\nType: duration\nRisk Level: low\nWord Count: 175\n------------------------------------------------------------\n\nt is hereby agreed that if default is made by the lessee in payment of the rent for a\nperiod of three months, or in observance and performance of any of the covenants\nand stipulations hereby contained and on the part to be observed and performed by\nthe lessee, then on such default, the lessor shall be entitled in addition to or in the\nalternative to any other remedy that may be available to him at this discretion, to\nterminate the lease and eject the lessee from the said premises; and to take\npossession thereof as full and absolute owner thereof, provided that a notice in\nwriting shall be given by the lessor to the lessee of his intention to terminate the\nlease and to take possession of the said premises. If the arrears of rent are paid or\nthe lessee comply with or carry out the covenants and conditions or stipulations,\nwithin fifteen days from the service of such notice, then the lessor shall not be\nentitled to take possession of the said premises.",
+  "summary": "Summary: CLAUSE 12: I ============================================================ Type: duration Risk Level: low Word Count: 175 ------------------------------------------------------------ t is hereby agreed that if default is made by the lessee in payment of the rent...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 1, 'medium': 1, 'low': 1}",
+  "word_count": 188,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

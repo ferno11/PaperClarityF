@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 5: I\n============================================================\nType: duration\nRisk Level: standard\nWord Count: 111\n------------------------------------------------------------\n\nf Tenant has defaulted under the Lease and Landlord has obtained a writ of possession. If Tenant has surrendered\npossession of the Premises to Landlord or if Tenant has abandoned the Premises, Landlord may:\na. treat the Lease as terminated, retake possession for Landlord’s own account, and any further liability of\nTenant will be ended;\nb. retake possession of the Premises for Tenant’s account. Tenant will remain liable for the difference between\nrent agreed to be paid under the Lease and rent Landlord is able to recover in good faith from a new tenant; or\n{219312.0001/M1805246_3}\nc. do nothing, and Tenant will be liable for the rent as it comes due.",
+  "summary": "Summary: CLAUSE 5: I ============================================================ Type: duration Risk Level: standard Word Count: 111 ------------------------------------------------------------ f Tenant has defaulted under the Lease and Landlord has obtained a writ of possession. If Tenant...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 2, 'medium': 0, 'low': 0}",
+  "word_count": 124,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

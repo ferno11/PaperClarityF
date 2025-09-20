@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 35: E\n============================================================\nType: duration\nRisk Level: standard\nWord Count: 52\n------------------------------------------------------------\n\nNTIRE AGREEMENT. This Rental Agreement constitutes the final and entire agreement among\nthe parties and they shall not be bound by any terms, conditions, oral statements, warranties, or\nrepresentations not herein contained. Except as provided herein, this Rental Agreement cannot be\nmodified except by written agreement signed by both Landlord and Tenant.",
+  "summary": "Summary: CLAUSE 35: E ============================================================ Type: duration Risk Level: standard Word Count: 52 ------------------------------------------------------------ NTIRE AGREEMENT. This Rental Agreement constitutes the final and entire agreement among the parties and they shall...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 65,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

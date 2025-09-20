@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 32: S\n============================================================\nType: deposit\nRisk Level: standard\nWord Count: 84\n------------------------------------------------------------\n\nECURITY AWARENESS: Tenant and Occupant acknowledge that security systems are subject to\nfailure from malfunction, tampering, power outages, human error or other causes, and agree that they\nshall not rely on such systems as protection against crime, injury or damage. Landlord specifically\ndisclaims any express or implied warranty of any security systems provided by Landlord. Tenant and\nOccupant acknowledge that he or she is responsible for his or her own personal safety and agrees to\ntake appropriate safety measures to protect him or herself.",
+  "summary": "Summary: CLAUSE 32: S ============================================================ Type: deposit Risk Level: standard Word Count: 84 ------------------------------------------------------------ ECURITY AWARENESS: Tenant and Occupant acknowledge that security systems are subject to failure from malfunction, tampering, power...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 97,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 1: L\n============================================================\nType: maintenance\nRisk Level: standard\nWord Count: 51\n------------------------------------------------------------\n\noss, damage, liability or expenses, whether direct or\nindirect occasioned by happening through or arising from\nany consequences of war, invasion, act of foreign enemy,\nhostilities (whether war be declared or not) civil war,\nrebellion, revolution, insurrection military or usurped power\nor civil commotion or loot or pillage in connection therewith.",
+  "summary": "Summary: CLAUSE 1: L ============================================================ Type: maintenance Risk Level: standard Word Count: 51 ------------------------------------------------------------ oss, damage, liability or expenses, whether direct or indirect occasioned by happening through or arising from any...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 1, 'medium': 0, 'low': 0}",
+  "word_count": 64,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

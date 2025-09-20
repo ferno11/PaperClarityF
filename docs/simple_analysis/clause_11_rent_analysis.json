@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 11: T\n============================================================\nType: rent\nRisk Level: standard\nWord Count: 58\n------------------------------------------------------------\n\nhat in consideration of use of the said premises the Lessee agrees that he shall pay\nto the Lessor during the period of this agreement, a monthly rent at the rate of\n[Monthly Rental in Number & Words]. The amount will be paid in advance on or\nbefore the date of [1st day] of every English calendar month.",
+  "summary": "Summary: CLAUSE 11: T ============================================================ Type: rent Risk Level: standard Word Count: 58 ------------------------------------------------------------ hat in consideration of use of the said premises the Lessee agrees that he shall pay to...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 0}",
+  "word_count": 71,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 8: F\n============================================================\nType: duration\nRisk Level: standard\nWord Count: 47\n------------------------------------------------------------\n\nAILURE OF TENANT TO VIEW PREMISES. Tenant acknowledges that Tenant may view Premises\nprior to execution of this Rental Agreement (except for new construction). This Rental Agreement will not\nbe terminated or voided as a result of Tenant’s failure to view the Premises prior to lease signing.",
+  "summary": "Summary: CLAUSE 8: F ============================================================ Type: duration Risk Level: standard Word Count: 47 ------------------------------------------------------------ AILURE OF TENANT TO VIEW PREMISES. Tenant acknowledges that Tenant may view Premises prior to execution of...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 1, 'medium': 0, 'low': 0}",
+  "word_count": 60,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

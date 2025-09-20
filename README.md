@@ -1,260 +1,195 @@
-# GenAI Legal Tool
+# 🏛️ GenAI Legal Tool
 
-## 📘 Objective
-Turn complex legal documents into **plain-English summaries + risk alerts**, empowering users to make informed decisions.
+A comprehensive legal document analysis platform that uses AI to process, analyze, and provide insights on legal documents.
 
-## 🚀 Features
-- **PDF Text Extraction**: Extract text from both regular and scanned PDFs using OCR
-- **Advanced Document Processing**: Clean and preprocess legal documents with enhanced boilerplate detection and intelligent structure preservation
-- **Clause Splitting**: Automatically split legal documents into individual clauses with intelligent categorization
-- **Smart Categorization**: Auto-tag clauses by type (Payment, Termination, Liability, Property, etc.)
-- **Multi-format Support**: Handle various legal document types (rental agreements, loan documents, NDAs, etc.)
-- **OCR Capability**: Process scanned documents using Tesseract OCR with OCR error correction
-- **Comprehensive Dataset**: 27+ legal document samples for training and testing
-- **Clause Analysis**: Generate detailed summaries and statistics of extracted clauses
-- **AI-Powered Clause Summarization**: Generate plain-English summaries, key points, and risk assessments for each clause using Google's Gemini API
-- **Enhanced Validation System**: Automatic quality checks for summaries including completeness, consistency, and accuracy
-- **Advanced Confidence Scoring**: Multi-factor confidence metrics based on text complexity, entity preservation, and content characteristics
-- **Priority-Based Risk Assessment**: Enhanced risk evaluation using a weighted scoring system to identify the highest risk factors
-- **Fast Processing Mode**: CLI flag (--fast) to skip delays for testing with large datasets
-- **Structured Output Schema**: Separated metadata from AI output for better frontend integration
-- **Comprehensive Metrics**: Detailed accuracy and consistency metrics for batch processing
+## ✨ Features
 
-### Example Clause Summary
-
-**Original Clause (Late Payment):**
-```
-In the event that Tenant fails to pay rent when due, Tenant shall pay a late fee of 5% of the monthly rent. If rent remains unpaid for more than 15 days, Landlord may initiate eviction proceedings without further notice.
-```
-
-**AI-Generated Summary:**
-```json
-{
-  "summary": "This clause establishes penalties for late rent payment, including a 5% late fee and potential eviction without notice after 15 days of non-payment.",
-  "risk": "High",
-  "reason": "The clause imposes significant financial penalties and allows for eviction without additional notice, which could result in housing loss with minimal warning."
-}
-```
-
-Our system uses a hybrid approach combining AI analysis with keyword-based risk assessment to provide accurate and consistent results.
-
-## 🛠 Tech Stack
-- **Frontend:** Streamlit (ready for development)
-- **Backend:** FastAPI + Uvicorn (ready for development)
-- **AI:** OpenAI API (integrated), Google Gemini API (integrated), FAISS for vector search
-- **PDF Processing:** PyMuPDF, pdfplumber, pypdfium2, pdfminer.six
-- **OCR:** Tesseract OCR + pytesseract
-- **Document Processing:** python-docx, Pillow, lxml
-- **Data Processing:** pandas, numpy, pyarrow
-- **Web Framework:** tornado, httpx, requests
-- **Utilities:** tqdm, click, colorama, watchdog
-
-## 📊 Current Dataset
-The project includes a comprehensive collection of legal documents:
-
-### Document Types (27 files total):
-- **Rental Agreements** (9 documents)
-- **Loan Agreements** (5 documents)
-- **Terms of Service** (5 documents)
-- **NDAs** (2 documents)
-- **Employment Agreements** (2 documents)
-- **Vendor Agreements** (2 documents)
-- **Insurance Documents** (2 documents)
-- **Consent Forms** (1 document)
-
-## 🏗 Project Structure
-```
-genai-legal-tool/
-├─ frontend/           # Streamlit UI (ready for development)
-├─ backend/            # FastAPI backend
-│  ├─ main.py             # FastAPI application and endpoints
-│  ├─ qa.py               # Question answering functionality
-│  └─ utils.py            # Utility functions for backend
-├─ ai_models/          # AI integration scripts
-│  └─ summarize_clauses.py # Clause summarization with Gemini API
-├─ utils/              # Document processing utilities
-│  ├─ dynamic_clause_splitter.py  # Advanced clause splitting
-│  └─ dynamic_pdf_extractor.py    # PDF text extraction with OCR
-├─ docs/               # Document collection
-│  ├─ processed/       # Extracted text files (27 files)
-│  └─ clauses/         # Individual clause files (74+ files)
-├─ run.py              # Entry point script to run the FastAPI server
-├─ requirements.txt    # Python dependencies
-└─ README.md
-```
+- **📄 Document Upload**: Upload legal documents for analysis
+- **🔍 Clause Analysis**: Automatically split documents into individual clauses
+- **⚠️ Risk Assessment**: Classify clauses as High/Medium/Low risk
+- **🏷️ Entity Extraction**: Identify money, dates, percentages, and timeframes
+- **💬 Chat Interface**: Ask questions about your documents
+- **🎨 Modern UI**: Beautiful, responsive interface with risk color coding
 
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.8+
-- Tesseract OCR (for scanned PDF processing)
+- Python 3.12+
+- Node.js 18+
+- npm or yarn
 
 ### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Endless-Mrianl/genai_legal.git
-   cd genai-legal-tool
+   git clone <repository-url>
+   cd genai_legal
    ```
 
-2. **Create virtual environment**
+2. **Set up Python environment**
    ```bash
-   # Windows
    python -m venv venv
-   venv\Scripts\activate
-
-   # macOS/Linux
-   python -m venv venv
-   source venv/bin/activate
-   ```
-
-3. **Install dependencies**
-   ```bash
+   venv\bin\activate  # Windows
+   # or
+   source venv/bin/activate  # Linux/Mac
    pip install -r requirements.txt
    ```
 
-4. **Install Tesseract OCR** (for scanned PDF processing)
-   - Windows: Download from [UB-Mannheim/tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
-   - Install with "Add to PATH" option
-   - Default path: `C:\Program Files\Tesseract-OCR\tesseract.exe`
+3. **Set up Frontend**
+   ```bash
+   cd frontend
+   npm install
+   ```
 
 ### Running the Application
 
-1. **Start the FastAPI backend**
+1. **Start the Backend** (Terminal 1)
    ```bash
    python run.py
    ```
-   The API will be available at http://127.0.0.1:8000
-   
-   API Documentation is available at:
-   - http://127.0.0.1:8000/docs (Swagger UI)
-   - http://127.0.0.1:8000/redoc (ReDoc)
-   
-   # Windows
-   venv\Scripts\activate
-   
-   # macOS/Linux
-   source venv/bin/activate
-   ```
+   Backend will be available at: http://localhost:8000
 
-3. **Install dependencies**
+2. **Start the Frontend** (Terminal 2)
    ```bash
-   pip install -r requirements.txt
+   cd frontend
+   npm run dev
    ```
+   Frontend will be available at: http://localhost:3000
 
-4. **Install Tesseract OCR (Windows)**
-   - Download from: https://github.com/UB-Mannheim/tesseract/wiki
-   - Install with "Add to PATH" option
-   - Default path: `C:\Program Files\Tesseract-OCR\tesseract.exe`
+## 🏗️ Project Structure
 
-### Usage
+```
+genai_legal/
+├── backend/                 # Backend server
+│   ├── server.py           # Main server implementation
+│   ├── main.py             # Original FastAPI implementation
+│   ├── qa.py               # Q&A functionality
+│   └── utils.py            # Utility functions
+├── frontend/               # Next.js frontend
+│   ├── src/
+│   │   ├── app/           # App pages
+│   │   ├── components/    # UI components
+│   │   ├── lib/           # Utilities and types
+│   │   └── hooks/         # React hooks
+│   ├── package.json       # Dependencies
+│   └── next.config.ts     # Next.js config
+├── docs/                   # Sample documents and processed data
+├── ai_models/              # AI model implementations
+├── run.py                  # Main entry point
+├── requirements.txt        # Python dependencies
+└── README.md              # This file
+```
 
-1. **Extract text from PDFs**
+## 🔧 API Endpoints
+
+### Backend API (http://localhost:8000)
+
+- `GET /` - API information
+- `GET /health` - Health check
+- `POST /upload` - Upload document for analysis
+- `GET /clauses/{doc_id}` - Get clauses for a document
+- `POST /ask` - Ask questions about a document
+
+### Example Usage
+
    ```bash
-   python utils/extract_text.py
-   ```
-   This will process all PDFs in `docs/` and save clean text files to `docs/processed/`
+# Health check
+curl http://localhost:8000/health
 
-2. **Split documents into clauses**
-   ```bash
-   python utils/split_clauses.py
-   ```
-   Basic clause splitting with automatic categorization
+# Upload document
+curl -X POST -F "file=@document.txt" http://localhost:8000/upload
 
-3. **Advanced clause processing**
-   ```bash
-   python utils/split_clauses_v2.py
-   ```
-   Enhanced clause splitting with improved categorization
+# Get clauses
+curl http://localhost:8000/clauses/{doc_id}
 
-4. **Generate clause analysis report**
-   ```bash
-   python utils/clause_summary_v2.py
-   ```
-   Create detailed analysis and statistics of extracted clauses
+# Ask question
+curl -X POST -H "Content-Type: application/json" \
+  -d '{"doc_id": "uuid", "question": "What is the rent amount?"}' \
+  http://localhost:8000/ask
+```
 
-5. **Test Tesseract installation**
-   ```bash
-   python utils/test_tesseract.py
-   ```
+## 🎨 Frontend Features
 
-6. **Validate text cleaning**
-   ```bash
-   python utils/test_cleaning.py
-   ```
+- **Document Upload**: Drag-and-drop interface
+- **Clause Cards**: Interactive cards with risk color coding
+  - 🔴 High Risk
+  - 🟡 Medium Risk  
+  - 🟢 Low Risk
+- **Risk Overview**: Pie chart showing risk distribution
+- **Chat Panel**: Real-time Q&A about documents
+- **Document Preview**: Side-by-side document viewing
 
-## 📋 Current Status
+## 🧠 AI Features
 
-### ✅ Completed
-- [x] Virtual environment setup
-- [x] Library installation (97 dependencies installed)
-- [x] Legal document dataset collection (27 PDFs)
-- [x] PDF text extraction system with OCR
-- [x] Text cleaning and preprocessing pipeline
-- [x] Basic clause splitting functionality
-- [x] Advanced clause splitting with smart categorization
-- [x] Clause analysis and reporting system
-- [x] Comprehensive document processing pipeline
-- [x] Test suite for validation and debugging
-- [x] AI-powered clause summarization with Gemini API
+### Risk Classification
+The system automatically classifies clauses based on keywords:
 
-### 🚧 In Progress
-- [ ] Streamlit frontend development
-- [ ] FastAPI backend implementation
-- [ ] AI model integration for summarization
-- [ ] Risk assessment algorithms
-- [ ] Document comparison tools
+- **High Risk**: termination, liability, damages, penalty, breach, lawsuit, eviction, foreclosure, default
+- **Medium Risk**: modify, change, restrict, limit, notice, interest, late fee, maintenance
+- **Low Risk**: contact, inform, provide, communication, address, signature, governing law
 
-### 📝 Planned Features
-- [ ] Document upload interface
-- [ ] AI-powered document summarization
-- [ ] Risk analysis and alerts
-- [ ] Document comparison tools
-- [ ] Legal clause extraction
-- [ ] Contract analysis dashboard
+### Entity Extraction
+Automatically identifies:
+- **Money**: $1,200, $500, etc.
+- **Percentages**: 5%, 10%, etc.
+- **Dates**: 01/01/2024, 12/31/2024, etc.
+- **Timeframes**: 30 days, 60 days, 1 year, etc.
 
-## 🔧 Technical Details
+## 🛠️ Development
 
-### Document Processing Pipeline
-1. **PDF Text Extraction**: 
-   - Primary: `pdfplumber` for text-based PDFs
-   - OCR Fallback: `pytesseract` + `PyMuPDF` for scanned documents
-2. **Text Cleaning**: Removes headers, footers, page numbers, and extra whitespace
-3. **Clause Splitting**: 
-   - Intelligent detection of clause boundaries
-   - Automatic categorization (Payment, Termination, Liability, etc.)
-   - Smart naming and tagging system
-4. **Analysis & Reporting**: 
-   - Generate detailed statistics and summaries
-   - Category breakdown and clause distribution
-   - File size and content analysis
-5. **Output**: Clean UTF-8 text files and individual clause files ready for AI processing
+### Backend Development
+The backend uses a simple HTTP server implementation for reliability and easy deployment.
 
-### Clause Processing Features
-- **Smart Categorization**: Automatically tags clauses by type:
-  - Payment, Termination, Liability, Property, Duration
-  - Obligations, Rights, Restrictions, Default, Remedies
-- **Intelligent Splitting**: Detects clause boundaries using:
-  - Numbered patterns (1., 2), 3-, 4:)
-  - Section headings (UPPERCASE words)
-  - Legal markers (WHEREAS, THEREFORE, etc.)
-  - Paragraph breaks as fallback
-- **File Organization**: Creates individual clause files with descriptive names
-- **Analysis Reports**: Generates comprehensive statistics and summaries
+### Frontend Development
+The frontend is built with:
+- **Next.js 15** with TypeScript
+- **Tailwind CSS** for styling
+- **Radix UI** for accessible components
+- **Recharts** for data visualization
 
-### Supported Document Formats
-- PDF (text-based and scanned)
-- Automatic OCR detection for image-based PDFs
-- UTF-8 text output for international character support
+### Adding New Features
+1. Backend: Add new endpoints in `backend/server.py`
+2. Frontend: Add new components in `frontend/src/components/`
+3. Types: Update types in `frontend/src/lib/types.ts`
 
-## 👥 Team Members
-- [Add your names here]
+## 📝 Sample Documents
 
-## 📄 License
-[Add license information]
+The `docs/` directory contains sample legal documents for testing:
+- Rental agreements
+- Employment contracts
+- Insurance policies
+- Loan agreements
+- NDAs
+- Terms of service
+- Vendor agreements
+
+## 🔒 Security Notes
+
+- The current implementation uses in-memory storage for demo purposes
+- For production use, implement proper database storage
+- Add authentication and authorization as needed
+- Validate and sanitize all user inputs
 
 ## 🤝 Contributing
-[Add contribution guidelines]
 
-## 📞 Support
-[Add support/contact information]
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 🆘 Support
+
+For issues and questions:
+1. Check the API health: http://localhost:8000/health
+2. Verify both servers are running
+3. Check the browser console for errors
+4. Review the terminal output for backend errors
+
+---
+
+**Happy analyzing! 🎉**

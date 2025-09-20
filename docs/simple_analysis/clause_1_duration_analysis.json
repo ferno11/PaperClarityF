@@ -1,0 +1,11 @@
+{
+  "original_text": "CLAUSE 1: T\n============================================================\nType: duration\nRisk Level: standard\nWord Count: 23\n------------------------------------------------------------\n\nerm. This Agreement shall commence on [DATE] and shall terminate, unless\nearlier terminated as authorized by Section 6, below, on [DATE] (the “Term”).",
+  "summary": "Summary: CLAUSE 1: T ============================================================ Type: duration Risk Level: standard Word Count: 23 ------------------------------------------------------------ erm. This Agreement shall commence on [DATE] and shall terminate, unless earlier terminated as authorized by Section...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 1, 'medium': 0, 'low': 0}",
+  "word_count": 36,
+  "key_entities": [],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

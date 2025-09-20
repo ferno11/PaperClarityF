@@ -1,0 +1,16 @@
+{
+  "original_text": "CLAUSE 12: L\n============================================================\nType: rent\nRisk Level: standard\nWord Count: 185\n------------------------------------------------------------\n\nATE RENT PAYMENTS. In the event Tenant’s full rental payment is not received in the office of\nLandlord by 5:00 PM on the 5 day of each month, Tenant agrees to pay a late fee of 10% of the\nmonthly rental. Tenant agrees to pay an additional $5.00 each day of delay beyond the 6 of each\nmonth until the day the amount is paid in full. Tenant agrees not to submit post-dated checks for\npayments due. Without prior agreement with Landlord, any check received by Landlord will be promptly\ndeposited. Any penalties imposed by Tenant’s bank will be Tenant’s responsibility. For any check\nreturned by Landlord’s bank for any reason Tenant also agrees to pay any associated late fees, a\nhandling fee of $50.00 or the maximum allowed by law, in addition to interest, as allowed by law. Tenant\nunderstands and expressly authorizes Landlord to electronically debit their account for the amount of\nfees in addition to amount of returned payment. Landlord reserves the right to require a cashier’s check\nor money order in payment of rent. Cash is not accepted for any payment.",
+  "summary": "Summary: CLAUSE 12: L ============================================================ Type: rent Risk Level: standard Word Count: 185 ------------------------------------------------------------ ATE RENT PAYMENTS. In the event Tenant’s full rental payment is not received in the office of...",
+  "risk_level": "Medium",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 2, 'low': 0}",
+  "word_count": 198,
+  "key_entities": [
+    "Money: $5.00",
+    "Money: $50.00",
+    "Percentage: 10%",
+    "Time: 5 day"
+  ],
+  "contains_financial": true,
+  "contains_dates": false,
+  "contains_timeframes": true
+}

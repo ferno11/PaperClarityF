@@ -1,0 +1,13 @@
+{
+  "original_text": "CLAUSE 27: R\n============================================================\nType: rent\nRisk Level: medium\nWord Count: 140\n------------------------------------------------------------\n\nULES AND REGULATIONS. Tenant agrees that Woodard Properties’ Rules and Regulations\n(including no smoking and no pets by Tenant or guests) are incorporated herein by reference, and any\nadditional reasonable rules and regulations subsequently adopted by Landlord of which Tenant receives\nreasonable notice, shall be a part of this Rental Agreement. Tenant further agrees that any failure by\nGroup Initials Page 10\nTenant, or failure by others on Premises with the consent or knowledge of Tenant, to fully abide by Rules\nand Regulations may be deemed by Landlord as a default by Tenant and breach of this Rental\nAgreement. Tenant agrees to pay Landlord liquidated damages in the amount of $200.00 per\noccurrence, and, in addition, any actual damages suffered by Landlord, if Tenant or guest of Tenant is in\nviolation of paragraph 13 or 14 of this Rental Agreement.",
+  "summary": "Summary: CLAUSE 27: R ============================================================ Type: rent Risk Level: medium Word Count: 140 ------------------------------------------------------------ ULES AND REGULATIONS. Tenant agrees that Woodard Properties’ Rules and Regulations (including no smoking and no pets...",
+  "risk_level": "High",
+  "risk_reason": "Based on keyword analysis: {'high': 2, 'medium': 1, 'low': 0}",
+  "word_count": 153,
+  "key_entities": [
+    "Money: $200.00"
+  ],
+  "contains_financial": true,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

@@ -1,0 +1,13 @@
+{
+  "original_text": "CLAUSE 2: R\n============================================================\nType: duration\nRisk Level: standard\nWord Count: 48\n------------------------------------------------------------\n\necruitment Actual direct and indirect operating costs\nto the service provider associated with\nrecruitment activities plus a net mark-up at\ndetermined by the service provider at its\nabsolute discretion. However, the mark-\nup must not exceed 10% of actual direct\nand indirect operating costs to the service\nprovider.",
+  "summary": "Summary: CLAUSE 2: R ============================================================ Type: duration Risk Level: standard Word Count: 48 ------------------------------------------------------------ ecruitment Actual direct and indirect operating costs to the service provider associated with recruitment activities plus a...",
+  "risk_level": "Low",
+  "risk_reason": "Based on keyword analysis: {'high': 0, 'medium': 0, 'low': 1}",
+  "word_count": 61,
+  "key_entities": [
+    "Percentage: 10%"
+  ],
+  "contains_financial": false,
+  "contains_dates": false,
+  "contains_timeframes": false
+}

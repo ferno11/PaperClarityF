@@ -35,16 +35,17 @@ const riskConfig = {
 };
 
 export function ClauseCard({ clause }: ClauseCardProps) {
-  const config = riskConfig[clause.riskLevel] || riskConfig.Unknown;
+  const config = riskConfig[clause.risk_level] || riskConfig.Unknown;
   const Icon = config.icon;
 
   return (
-    <AccordionItem value={clause.id}>
+    <AccordionItem value={clause.clause_id}>
       <AccordionTrigger className="text-left hover:no-underline">
         <div className="flex flex-1 items-start gap-4">
           <Icon className={`mt-1 h-5 w-5 shrink-0 ${config.className.split(' ')[1]}`} />
           <div className="flex-1">
             <p className="font-semibold">{clause.summary}</p>
+            <p className="text-sm text-muted-foreground mt-1">{clause.clause_id}</p>
           </div>
           <Badge variant="outline" className={`ml-4 shrink-0 ${config.className}`}>
             {config.label}
@@ -54,9 +55,24 @@ export function ClauseCard({ clause }: ClauseCardProps) {
       <AccordionContent className="pl-11">
         <div className="prose prose-sm max-w-none rounded-md border border-dashed bg-muted/50 p-4 text-muted-foreground">
           <p className="mb-2 font-semibold not-prose text-foreground">Original Clause Text</p>
-          <blockquote className="not-prose">{clause.originalText}</blockquote>
-          <p className="mt-4 mb-2 font-semibold not-prose text-foreground">Risk Explanation</p>
-          <p className="not-prose">{clause.explanation}</p>
+          <blockquote className="not-prose">{clause.original_text}</blockquote>
+          {clause.entities && clause.entities.length > 0 && (
+            <>
+              <p className="mt-4 mb-2 font-semibold not-prose text-foreground">Key Entities</p>
+              <div className="not-prose flex flex-wrap gap-2">
+                {clause.entities.map((entity, index) => (
+                  <Badge key={index} variant="secondary" className="text-xs">
+                    {entity}
+                  </Badge>
+                ))}
+              </div>
+            </>
+          )}
+          {clause.word_count && (
+            <p className="mt-4 text-xs text-muted-foreground not-prose">
+              Word count: {clause.word_count}
+            </p>
+          )}
         </div>
       </AccordionContent>
     </AccordionItem>

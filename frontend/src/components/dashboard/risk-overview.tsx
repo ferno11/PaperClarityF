@@ -31,8 +31,8 @@ export function RiskOverview({ clauses }: RiskOverviewProps) {
   const chartData = React.useMemo(() => {
     const counts = { High: 0, Medium: 0, Low: 0 };
     clauses.forEach((clause) => {
-      if (clause.riskLevel in counts) {
-        counts[clause.riskLevel]++;
+      if (clause.risk_level in counts) {
+        counts[clause.risk_level]++;
       }
     });
     return [
