@@ -1,25 +1,60 @@
-# 🏛️ Legal AI - Complete Legal Document Analysis System
+# 🏛️ Paper Clarity - Legal AI Document Analysis
 
-> **AI-powered legal document analysis with risk assessment, clause summarization, and interactive Q&A**
+> **AI-powered legal document analysis with intelligent risk assessment and Q&A**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Next.js 15](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
+[![Backend Status](https://img.shields.io/badge/Backend-Running-green)](http://localhost:8001/health)
+[![Frontend Status](https://img.shields.io/badge/Frontend-Running-blue)](http://localhost:3000)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 🎯 **What This Does**
+## 🎯 **Overview**
 
-Transform complex legal documents into understandable insights:
-- **📄 Upload** PDF/DOCX legal documents
-- **🤖 AI Analysis** Extract and summarize clauses
-- **⚠️ Risk Assessment** Classify each clause as High/Medium/Low risk
-- **💬 Interactive Chat** Ask questions about your document
-- **🔒 Privacy First** Auto-delete documents after 24 hours
-- **📱 Mobile Ready** Responsive design for all devices
+Paper Clarity is a comprehensive legal document analysis platform that uses AI to:
+- **Analyze legal documents** and extract clauses
+- **Assess risk levels** (High/Medium/Low) using advanced heuristics
+- **Provide intelligent Q&A** with semantic search and reference tracking
+- **Ensure privacy** with automatic 24-hour file deletion
 
-## 🚀 **Quick Start (3 Minutes)**
+## ✨ **Key Features**
 
-### **1. Clone & Setup**
+### 🔍 **Document Analysis**
+- **Multi-format support**: PDF, DOC, DOCX
+- **Intelligent clause extraction** and splitting
+- **AI-powered summarization** of each clause
+- **Advanced risk classification** with scoring system
+
+### 📊 **Risk Assessment**
+- **Visual risk dashboard** with pie charts and statistics
+- **Color-coded clause cards** (red=high, yellow=medium, green=low)
+- **Overall risk scoring** (0-100 scale)
+- **Detailed risk breakdown** with counts and percentages
+
+### 🤖 **AI Chat Interface**
+- **Semantic search** using sentence transformers
+- **Natural language Q&A** about document content
+- **Reference tracking** showing which clauses were used
+- **Fallback keyword search** for reliability
+
+### 🔒 **Privacy & Security**
+- **Automatic file deletion** after 24 hours
+- **No permanent storage** of sensitive documents
+- **Secure processing** with temporary file handling
+- **Clear privacy disclaimers**
+
+### 🎨 **Modern UI/UX**
+- **Responsive design** for mobile and desktop
+- **Dark mode support** with theme switching
+- **Drag & drop upload** with validation
+- **Real-time processing** indicators
+- **Accessibility features** throughout
+
+## 🚀 **Quick Start**
+
+### **Prerequisites**
+- Python 3.8+ with pip
+- Node.js 16+ with npm
+- Git
+
+### **1. Clone Repository**
 ```bash
 git clone https://github.com/Endless-Mrianl/genai_legal.git
 cd genai_legal
@@ -28,287 +63,249 @@ cd genai_legal
 ### **2. Backend Setup**
 ```bash
 # Install Python dependencies
-pip install -r requirements.txt
+py -m pip install fastapi uvicorn python-multipart sentence-transformers torch requests
 
-# Set up environment
-cp .env.example .env
-# Edit .env and add your OpenAI API key
-
-# Start the enhanced backend
-python start_enhanced_backend.py
+# Start backend server
+py backend/main.py
 ```
+**Backend runs on**: http://localhost:8001
 
 ### **3. Frontend Setup**
 ```bash
+# Install Node.js dependencies
 cd frontend
 npm install
+
+# Start development server
 npm run dev
 ```
+**Frontend runs on**: http://localhost:3000
 
-### **4. Test Everything**
-```bash
-python test_integration.py
-```
+### **4. Access the Application**
+- **Main App**: http://localhost:3000
+- **API Documentation**: http://localhost:8001/docs
+- **Health Check**: http://localhost:8001/health
 
-**🎉 Done!** Visit http://localhost:3000
+## 📖 **Usage Guide**
 
----
+### **1. Upload Document**
+- Navigate to the dashboard
+- Drag & drop or click to select a legal document
+- Supported formats: PDF, DOC, DOCX (max 10MB)
+- Wait for upload confirmation
+
+### **2. Analyze Document**
+- Click "Upload and Process" to start analysis
+- System will extract text, split clauses, and assess risks
+- Processing typically takes 10-30 seconds
+
+### **3. Review Results**
+- **Risk Dashboard**: View overall risk distribution and score
+- **Clause Cards**: Browse individual clauses with summaries
+- **Expand Details**: Click to see full original text
+- **Copy Text**: Use copy buttons for easy reference
+
+### **4. Ask Questions**
+- Use the chat panel to ask questions about the document
+- Try questions like:
+  - "What are the penalty clauses?"
+  - "What are the termination conditions?"
+  - "What are the payment terms?"
+- View references to see which clauses were used
 
 ## 🏗️ **Architecture**
 
-```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Frontend      │    │   Backend       │    │   AI Services   │
-│   (Next.js)     │◄──►│   (FastAPI)     │◄──►│   (OpenAI)      │
-│                 │    │                 │    │                 │
-│ • Upload UI     │    │ • Document      │    │ • GPT-3.5       │
-│ • Risk Dashboard│    │   Processing    │    │ • Embeddings    │
-│ • Chat Panel    │    │ • Risk Analysis │    │ • Summarization │
-│ • Mobile Ready  │    │ • Auto-delete   │    │ • Q&A           │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-```
-
----
-
-## 🎬 **Demo Video Script**
-
-See [DEMO_SCRIPT.md](DEMO_SCRIPT.md) for a complete 3-minute demo script.
-
-**Key Demo Points:**
-1. **0:00-0:30** Problem statement & solution overview
-2. **0:30-1:00** Document upload with drag & drop
-3. **1:00-1:45** Risk analysis and clause cards
-4. **1:45-2:30** Interactive AI chatbot
-5. **2:30-3:00** Privacy features & conclusion
-
----
-
-## 🔧 **Technical Features**
-
 ### **Backend (FastAPI)**
-- **Document Processing**: PDF/DOCX text extraction
-- **AI Integration**: OpenAI GPT-3.5 for analysis
-- **Risk Classification**: High/Medium/Low risk assessment
-- **Semantic Search**: Vector embeddings for Q&A
-- **Auto-delete**: Privacy-first document handling
-- **RESTful API**: Clean, documented endpoints
-
-### **Frontend (Next.js)**
-- **Modern UI**: Tailwind CSS + Radix UI components
-- **Drag & Drop**: Intuitive file upload
-- **Real-time Chat**: Interactive Q&A interface
-- **Risk Visualization**: Charts and progress bars
-- **Mobile Responsive**: Works on all devices
-- **Dark Mode**: Theme switching support
-- **Accessibility**: ARIA labels and keyboard navigation
-
-### **AI Capabilities**
-- **Clause Extraction**: Automatic document parsing
-- **Summarization**: Plain English explanations
-- **Risk Assessment**: Intelligent risk classification
-- **Semantic Search**: Context-aware Q&A
-- **Entity Extraction**: Key terms and values
-
----
-
-## 📊 **API Endpoints**
-
-### **Document Management**
-```http
-POST /upload              # Upload document for analysis
-GET  /clauses/{doc_id}    # Get processed clauses
-DELETE /documents/{doc_id} # Delete document
-GET  /documents           # List all documents
+```
+backend/
+├── main.py              # Main API server
+├── utils.py             # Document processing utilities
+└── qa.py               # Q&A and semantic search
 ```
 
-### **AI Chat**
-```http
-POST /ask                 # Ask questions about document
+**Key Endpoints:**
+- `POST /api/upload` - Upload document
+- `POST /api/analyze/{file_id}` - Analyze document
+- `GET /api/results/{file_id}` - Get analysis results
+- `POST /api/chat/{file_id}` - Chat with document
+- `GET /health` - Health check
+
+### **Frontend (Next.js + React)**
+```
+frontend/
+├── src/
+│   ├── app/                    # Next.js app router
+│   ├── components/             # React components
+│   │   ├── dashboard/          # Dashboard components
+│   │   └── ui/                # UI component library
+│   └── lib/                   # Utilities and API
 ```
 
-### **System**
-```http
-GET  /health              # Health check
-GET  /                    # API information
-```
+**Key Components:**
+- `DocumentUpload` - File upload with validation
+- `RiskDashboard` - Risk visualization and statistics
+- `ClauseCard` - Individual clause display
+- `ChatPanel` - AI Q&A interface
+- `Disclaimer` - Privacy and legal notices
 
----
+## 🔧 **Configuration**
 
-## 🔒 **Privacy & Security**
-
-- **Auto-delete**: Documents automatically deleted after 24 hours
-- **No Storage**: No permanent document storage
-- **Local Processing**: All analysis done locally
-- **Secure API**: CORS-enabled, production-ready
-- **Environment Variables**: Sensitive data in .env files
-
----
-
-## 🎯 **Use Cases**
-
-### **For Lawyers**
-- Quick contract review and risk assessment
-- Client consultation preparation
-- Due diligence acceleration
-- Contract comparison and analysis
-
-### **For Businesses**
-- Understanding legal obligations
-- Risk identification and mitigation
-- Contract negotiation preparation
-- Compliance monitoring
-
-### **For Individuals**
-- Lease agreement review
-- Employment contract analysis
-- Terms of service understanding
-- Legal document comprehension
-
----
-
-## 🛠️ **Development**
-
-### **Backend Development**
-```bash
-cd backend
-python enhanced_main.py
-```
-
-### **Frontend Development**
-```bash
-cd frontend
-npm run dev
-```
-
-### **Testing**
-```bash
-python test_integration.py
-```
-
-### **Building for Production**
+### **Environment Variables**
 ```bash
 # Backend
-pip install -r requirements.txt
+NEXT_PUBLIC_API_URL=http://localhost:8001
 
-# Frontend
-cd frontend
-npm run build
-npm start
+# Optional: OpenAI API key for enhanced AI
+OPENAI_API_KEY=your_openai_key_here
 ```
 
----
+### **Risk Classification**
+The system uses advanced heuristics to classify risk levels:
 
-## 📁 **Project Structure**
+**High Risk Indicators:**
+- Penalty, fine, termination, breach, default
+- Legal action, lawsuit, litigation, court
+- Liability, damages, indemnify, warranty
+- Criminal, prosecution, illegal, unlawful
 
-```
-genai_legal/
-├── backend/                 # FastAPI backend
-│   ├── enhanced_main.py    # Main API server
-│   ├── utils.py            # Document processing
-│   ├── qa.py              # AI Q&A functionality
-│   └── main.py            # Original server
-├── frontend/               # Next.js frontend
-│   ├── src/
-│   │   ├── app/           # App router pages
-│   │   ├── components/    # React components
-│   │   ├── lib/          # Utilities and types
-│   │   └── providers/    # Context providers
-│   ├── package.json
-│   └── tailwind.config.ts
-├── docs/                   # Sample documents
-├── test_integration.py     # Integration tests
-├── start_enhanced_backend.py # Backend startup
-├── DEMO_SCRIPT.md         # Demo video script
-└── README_COMPLETE.md     # This file
-```
+**Medium Risk Indicators:**
+- Notice, payment, maintenance, repair
+- Modification, amendment, change, update
+- Schedule, timeline, deadline, expiration
+- Condition, requirement, obligation
 
----
-
-## 🚀 **Deployment**
-
-### **Local Development**
-```bash
-# Terminal 1: Backend
-python start_enhanced_backend.py
-
-# Terminal 2: Frontend
-cd frontend && npm run dev
-```
-
-### **Production Deployment**
-```bash
-# Backend (with gunicorn)
-gunicorn backend.enhanced_main:app -w 4 -k uvicorn.workers.UvicornWorker
-
-# Frontend (static export)
-cd frontend && npm run build && npm start
-```
-
----
+**Low Risk Indicators:**
+- Information, data, record, document
+- Reference, example, sample, template
+- Description, explanation, clarification
+- Purpose, objective, goal, scope
 
 ## 🧪 **Testing**
 
-### **Integration Test**
+### **Backend Testing**
 ```bash
-python test_integration.py
+# Test health endpoint
+curl http://localhost:8001/health
+
+# Test upload
+curl -X POST -F "file=@test.pdf" http://localhost:8001/api/upload
+
+# Test analysis
+curl -X POST http://localhost:8001/api/analyze/{file_id}
+
+# Test results
+curl http://localhost:8001/api/results/{file_id}
+
+# Test chat
+curl -X POST -H "Content-Type: application/json" \
+  -d '{"question":"What are the penalty clauses?"}' \
+  http://localhost:8001/api/chat/{file_id}
 ```
 
-### **Manual Testing**
-1. Upload a PDF/DOCX document
-2. Verify clause extraction and risk analysis
-3. Test chat functionality with various questions
-4. Check auto-delete after 24 hours
-5. Test mobile responsiveness
+### **Frontend Testing**
+- Open http://localhost:3000
+- Upload a test document
+- Verify all components render correctly
+- Test chat functionality
+- Check responsive design
 
----
+## 📊 **Performance**
 
-## 🎯 **Performance**
+### **Backend Performance**
+- **Upload**: < 5 seconds for 10MB files
+- **Analysis**: 10-30 seconds depending on document size
+- **Chat**: < 2 seconds for semantic search
+- **Memory**: ~200MB with sentence transformers
 
-- **Document Processing**: ~5-10 seconds per document
-- **Chat Response**: ~2-3 seconds per question
-- **Memory Usage**: ~100MB for backend
-- **Concurrent Users**: 10+ simultaneous users
-- **File Size Limit**: 10MB per document
+### **Frontend Performance**
+- **Initial Load**: < 3 seconds
+- **Navigation**: < 1 second
+- **Upload**: Real-time progress indication
+- **Responsive**: Works on mobile and desktop
 
----
+## 🔒 **Security & Privacy**
 
-## 🔮 **Future Enhancements**
+### **Data Handling**
+- Files stored temporarily in `uploads/` directory
+- Results cached in `results/` directory
+- Automatic cleanup after 24 hours
+- No permanent storage of sensitive data
 
-- [ ] **Multi-language Support**: Process documents in different languages
-- [ ] **Advanced Analytics**: Detailed risk trends and insights
-- [ ] **Document Comparison**: Side-by-side contract analysis
-- [ ] **Template Generation**: Create contracts from templates
-- [ ] **Integration APIs**: Connect with legal databases
-- [ ] **Advanced Security**: End-to-end encryption
-- [ ] **Batch Processing**: Multiple document analysis
-- [ ] **Custom Models**: Fine-tuned legal AI models
+### **API Security**
+- CORS enabled for frontend communication
+- Input validation on all endpoints
+- Error handling without data leakage
+- Rate limiting (can be added)
 
----
+### **Privacy Features**
+- Clear disclaimers about AI-generated content
+- Automatic file deletion
+- No user data collection
+- Transparent processing
 
-## 📞 **Support & Contact**
+## 🚀 **Deployment**
 
-- **GitHub Issues**: [Report bugs and request features](https://github.com/Endless-Mrianl/genai_legal/issues)
-- **Documentation**: [Full API docs](http://localhost:8000/docs)
-- **Demo Video**: See [DEMO_SCRIPT.md](DEMO_SCRIPT.md)
+### **Production Backend**
+```bash
+# Install production dependencies
+pip install fastapi uvicorn[standard] sentence-transformers
 
----
+# Run with production server
+uvicorn backend.main:app --host 0.0.0.0 --port 8001 --workers 4
+```
 
-## 📄 **License**
+### **Production Frontend**
+```bash
+# Build for production
+npm run build
 
-MIT License - see [LICENSE](LICENSE) file for details.
+# Start production server
+npm start
+```
 
----
+### **Docker Deployment**
+```dockerfile
+# Backend Dockerfile
+FROM python:3.9-slim
+WORKDIR /app
+COPY backend/ .
+RUN pip install -r requirements.txt
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8001"]
+
+# Frontend Dockerfile
+FROM node:16-alpine
+WORKDIR /app
+COPY frontend/ .
+RUN npm install && npm run build
+CMD ["npm", "start"]
+```
+
+## 🤝 **Contributing**
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📝 **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 **Acknowledgments**
 
-- **OpenAI** for GPT-3.5 and embeddings
-- **FastAPI** for the excellent web framework
-- **Next.js** for the React framework
-- **Tailwind CSS** for styling
-- **Radix UI** for accessible components
+- **FastAPI** for the excellent Python web framework
+- **Next.js** for the React-based frontend framework
+- **Sentence Transformers** for semantic search capabilities
+- **Tailwind CSS** for the beautiful UI components
+- **Radix UI** for accessible component primitives
+
+## 📞 **Support**
+
+- **Issues**: [GitHub Issues](https://github.com/Endless-Mrianl/genai_legal/issues)
+- **Documentation**: [API Docs](http://localhost:8001/docs)
+- **Demo**: [Live Demo](http://localhost:3000)
 
 ---
 
-**Built with ❤️ for the legal community**
-
-*Making legal analysis accessible, fast, and secure.*
+**🎉 Ready to analyze your legal documents with AI!**

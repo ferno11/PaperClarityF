@@ -49,7 +49,7 @@ export async function uploadDocument(file: File): Promise<UploadResponse> {
   const formData = new FormData();
   formData.append("file", file);
   
-  const response = await fetch(`${API_BASE_URL}/upload`, {
+  const response = await fetch(`${API_BASE_URL}/api/upload`, {
     method: "POST",
     body: formData,
   });
@@ -63,7 +63,7 @@ export async function uploadDocument(file: File): Promise<UploadResponse> {
 }
 
 export async function analyzeDocument(fileId: string): Promise<AnalysisResponse> {
-  const response = await fetch(`${API_BASE_URL}/analyze/${fileId}`, {
+  const response = await fetch(`${API_BASE_URL}/api/analyze/${fileId}`, {
     method: "POST",
   });
   
@@ -76,7 +76,7 @@ export async function analyzeDocument(fileId: string): Promise<AnalysisResponse>
 }
 
 export async function fetchResults(fileId: string): Promise<ResultsResponse> {
-  const response = await fetch(`${API_BASE_URL}/results/${fileId}`);
+  const response = await fetch(`${API_BASE_URL}/api/results/${fileId}`);
   
   if (!response.ok) {
     const errorData = await response.json().catch(() => ({}));
@@ -87,7 +87,7 @@ export async function fetchResults(fileId: string): Promise<ResultsResponse> {
 }
 
 export async function chatWithDoc(fileId: string, question: string): Promise<ChatResponse> {
-  const response = await fetch(`${API_BASE_URL}/chat/${fileId}`, {
+  const response = await fetch(`${API_BASE_URL}/api/chat/${fileId}`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ question }),

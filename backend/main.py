@@ -12,7 +12,10 @@ import os
 import shutil
 import time
 import json
+import asyncio
 from datetime import datetime, timedelta
+from pathlib import Path
+from sentence_transformers import SentenceTransformer, util
 
 app = FastAPI(title="Legal Document Analysis API", version="1.0.0")
 
@@ -39,6 +42,14 @@ file_metadata: Dict[str, Dict[str, Any]] = {}
 
 # Auto-delete configuration
 AUTO_DELETE_HOURS = 24
+
+# Load embeddings model once (lightweight model for fast inference)
+try:
+    embedder = SentenceTransformer("all-MiniLM-L6-v2")
+    print("✅ Semantic search model loaded successfully")
+except Exception as e:
+    print(f"⚠️ Warning: Could not load semantic search model: {e}")
+    embedder = None
 
 class QuestionRequest(BaseModel):
     question: str
@@ -77,11 +88,84 @@ def summarize_clause(clause: str) -> str:
     return clause
 
 def classify_risk(clause: str) -> str:
-    """Mock risk classification - replace with real AI."""
+    """Enhanced risk classification with better heuristics."""
     clause_lower = clause.lower()
-    if any(word in clause_lower for word in ['penalty', 'termination', 'dispute', 'arbitration']):
+    
+    # High risk indicators
+    high_risk_keywords = [
+        'penalty', 'fine', 'termination', 'breach', 'default', 'dispute', 'arbitration',
+        'liability', 'damages', 'indemnify', 'warranty', 'guarantee', 'forfeit',
+        'liquidated damages', 'consequential damages', 'punitive', 'criminal',
+        'prosecution', 'lawsuit', 'litigation', 'court', 'judgment', 'enforce',
+        'irrevocable', 'binding', 'mandatory', 'required', 'must', 'shall not',
+        'prohibited', 'forbidden', 'illegal', 'unlawful', 'violation'
+    ]
+    
+    # Medium risk indicators
+    medium_risk_keywords = [
+        'notice', 'payment', 'maintenance', 'repair', 'renewal', 'extension',
+        'modification', 'amendment', 'change', 'update', 'revise', 'alter',
+        'schedule', 'timeline', 'deadline', 'due date', 'expiration', 'expire',
+        'renew', 'extend', 'continue', 'ongoing', 'permanent', 'temporary',
+        'condition', 'requirement', 'obligation', 'responsibility', 'duty',
+        'comply', 'adhere', 'follow', 'observe', 'respect', 'honor'
+    ]
+    
+    # Low risk indicators
+    low_risk_keywords = [
+        'information', 'data', 'record', 'document', 'file', 'copy', 'duplicate',
+        'reference', 'example', 'sample', 'template', 'format', 'structure',
+        'description', 'explanation', 'clarification', 'definition', 'meaning',
+        'purpose', 'objective', 'goal', 'aim', 'intent', 'intention', 'scope',
+        'coverage', 'inclusion', 'exclusion', 'exception', 'special', 'particular'
+    ]
+    
+    # Count keyword matches
+    high_count = sum(1 for keyword in high_risk_keywords if keyword in clause_lower)
+    medium_count = sum(1 for keyword in medium_risk_keywords if keyword in clause_lower)
+    low_count = sum(1 for keyword in low_risk_keywords if keyword in clause_lower)
+    
+    # Additional heuristics
+    has_penalty_language = any(phrase in clause_lower for phrase in [
+        'penalty of', 'fine of', 'charge of', 'cost of', 'fee of', 'amount of'
+    ])
+    
+    has_legal_action = any(phrase in clause_lower for phrase in [
+        'legal action', 'court action', 'sue', 'sued', 'lawsuit', 'litigation'
+    ])
+    
+    has_time_pressure = any(phrase in clause_lower for phrase in [
+        'immediately', 'urgent', 'asap', 'within 24 hours', 'within 48 hours',
+        'without delay', 'promptly', 'expeditiously'
+    ])
+    
+    # Scoring system
+    risk_score = 0
+    
+    # Base keyword scoring
+    risk_score += high_count * 3
+    risk_score += medium_count * 2
+    risk_score += low_count * 1
+    
+    # Additional risk factors
+    if has_penalty_language:
+        risk_score += 5
+    if has_legal_action:
+        risk_score += 8
+    if has_time_pressure:
+        risk_score += 3
+    
+    # Length and complexity factors
+    if len(clause.split()) > 50:  # Very long clauses are often complex
+        risk_score += 2
+    
+    if any(char in clause for char in [';', ':', '(', ')', '[', ']']):  # Complex punctuation
+        risk_score += 1
+    
+    # Determine risk level
+    if risk_score >= 8:
         return "High"
-    elif any(word in clause_lower for word in ['notice', 'payment', 'maintenance']):
+    elif risk_score >= 4:
         return "Medium"
     else:
         return "Low"
@@ -132,10 +216,10 @@ def load_results(file_id: str) -> Optional[Dict[str, Any]]:
     
     return None
 
-def delete_file_later(file_path: str, file_id: str, delay: int = 86400):
+async def delete_file_later(file_path: str, file_id: str, delay: int = 86400):
     """Background task to delete file after specified delay (24 hours default)."""
     print(f"🗑️ Scheduling deletion of {file_path} and file_id {file_id} in {delay} seconds.")
-    time.sleep(delay)
+    await asyncio.sleep(delay)
     
     # Delete file
     if os.path.exists(file_path):
@@ -156,6 +240,38 @@ def delete_file_later(file_path: str, file_id: str, delay: int = 86400):
     if file_id in file_metadata:
         del file_metadata[file_id]
         print(f"✅ Removed metadata for {file_id}")
+
+async def cleanup_expired_files():
+    """Background task to clean up expired files periodically."""
+    while True:
+        try:
+            now = datetime.utcnow()
+            expired_files = []
+            
+            # Check file metadata for expired files
+            for file_id, metadata in list(file_metadata.items()):
+                upload_time = datetime.fromisoformat(metadata.get("upload_time", now.isoformat()))
+                if now - upload_time > timedelta(hours=AUTO_DELETE_HOURS):
+                    expired_files.append(file_id)
+            
+            # Clean up expired files
+            for file_id in expired_files:
+                await delete_file_later("", file_id, 0)  # Immediate deletion
+            
+            if expired_files:
+                print(f"🧹 Cleaned up {len(expired_files)} expired files")
+            
+        except Exception as e:
+            print(f"❌ Error in cleanup task: {e}")
+        
+        # Run cleanup every hour
+        await asyncio.sleep(3600)
+
+@app.on_event("startup")
+async def startup_event():
+    """Start background cleanup task on startup."""
+    asyncio.create_task(cleanup_expired_files())
+    print("🚀 Auto-delete cleanup task started")
 
 @app.get("/")
 async def root():
@@ -332,7 +448,7 @@ async def get_results(file_id: str):
 @app.post("/api/chat/{file_id}")
 async def chat_with_doc(file_id: str, query: ChatQuery):
     """
-    Answer a question about a specific document using its analyzed clauses.
+    Answer a question about a specific document using semantic search and AI.
     """
     results = load_results(file_id)
     if not results:
@@ -342,39 +458,107 @@ async def chat_with_doc(file_id: str, query: ChatQuery):
     if not question or len(question.strip()) < 3:
         raise HTTPException(status_code=400, detail="Question is too short or empty")
     
-    # Get all clauses and their embeddings
-    clauses = results["clauses"]
-    embeddings = [clause.get("embedding") for clause in clauses]
-    
-    # Filter out clauses without embeddings if any
-    valid_clauses_with_embeddings = [(c, e) for c, e in zip(clauses, embeddings) if e is not None]
-    if not valid_clauses_with_embeddings:
-        raise HTTPException(status_code=500, detail="No valid embeddings found for clauses.")
-
-    valid_clauses = [item[0] for item in valid_clauses_with_embeddings]
-    valid_embeddings = [item[1] for item in valid_clauses_with_embeddings]
-
-    # Find relevant clauses using semantic search
     try:
-        relevant_indices = semantic_search(question, valid_embeddings)
-        relevant_clauses = [valid_clauses[i] for i in relevant_indices if i < len(valid_clauses)]
-        
-        if not relevant_clauses:
+        clauses = results["clauses"]
+        if not clauses:
             return {
-                "answer": "I couldn't find relevant clauses to answer your question. Please try rephrasing your question.",
+                "answer": "⚠️ No clauses found in this document.",
                 "relevant_clauses": []
             }
         
-        # Generate answer using LLM
-        answer = generate_answer(question, relevant_clauses)
+        # Prepare clause data for semantic search
+        clause_texts = [clause["original_text"] for clause in clauses]
+        clause_ids = [clause["clause_id"] for clause in clauses]
+        
+        if embedder is not None:
+            # Use semantic search with embeddings
+            try:
+                # Encode question and clauses
+                question_embedding = embedder.encode([question], convert_to_tensor=True)
+                clause_embeddings = embedder.encode(clause_texts, convert_to_tensor=True)
+                
+                # Calculate similarities
+                similarities = util.cos_sim(question_embedding, clause_embeddings)[0]
+                
+                # Get top 3 most similar clauses
+                top_k = min(3, len(clauses))
+                top_indices = similarities.topk(k=top_k).indices
+                top_scores = similarities.topk(k=top_k).values
+                
+                # Filter by similarity threshold (0.3)
+                relevant_clauses = []
+                relevant_ids = []
+                
+                for idx, score in zip(top_indices, top_scores):
+                    if score.item() > 0.3:  # Similarity threshold
+                        relevant_clauses.append(clause_texts[idx])
+                        relevant_ids.append(clause_ids[idx])
+                
+                if not relevant_clauses:
+                    return {
+                        "answer": "⚠️ Sorry, I couldn't find any clauses relevant to your question. Please try rephrasing or asking about different aspects of the document.",
+                        "relevant_clauses": []
+                    }
+                
+                # Generate answer from relevant clauses
+                answer_parts = []
+                for i, clause_text in enumerate(relevant_clauses):
+                    # Create a brief summary of the clause
+                    summary = clause_text[:200] + "..." if len(clause_text) > 200 else clause_text
+                    answer_parts.append(f"• {summary}")
+                
+                answer = f"Based on the document analysis:\n\n" + "\n\n".join(answer_parts)
+                
+                return {
+                    "answer": answer,
+                    "relevant_clauses": relevant_ids
+                }
+                
+            except Exception as e:
+                print(f"Semantic search error: {e}")
+                # Fall back to keyword search
+                pass
+        
+        # Fallback: Simple keyword-based search
+        question_lower = question.lower()
+        relevant_clauses = []
+        relevant_ids = []
+        
+        for i, clause_text in enumerate(clause_texts):
+            clause_lower = clause_text.lower()
+            
+            # Check for keyword matches
+            question_words = set(question_lower.split())
+            clause_words = set(clause_lower.split())
+            
+            # Calculate word overlap
+            common_words = question_words.intersection(clause_words)
+            if len(common_words) >= 2:  # At least 2 common words
+                relevant_clauses.append(clause_text)
+                relevant_ids.append(clause_ids[i])
+        
+        if not relevant_clauses:
+            return {
+                "answer": "⚠️ Sorry, I couldn't find any clauses relevant to your question. Please try rephrasing or asking about different aspects of the document.",
+                "relevant_clauses": []
+            }
+        
+        # Generate answer from relevant clauses
+        answer_parts = []
+        for i, clause_text in enumerate(relevant_clauses[:3]):  # Limit to top 3
+            summary = clause_text[:200] + "..." if len(clause_text) > 200 else clause_text
+            answer_parts.append(f"• {summary}")
+        
+        answer = f"Based on the document analysis:\n\n" + "\n\n".join(answer_parts)
         
         return {
             "answer": answer,
-            "relevant_clauses": [clause["clause_id"] for clause in relevant_clauses]
+            "relevant_clauses": relevant_ids[:3]
         }
+        
     except Exception as e:
         print(f"Error in chat endpoint: {e}")
-        raise HTTPException(status_code=500, detail="Error processing your question")
+        raise HTTPException(status_code=500, detail="Error processing your question. Please try again.")
 
 # Legacy endpoints for backward compatibility
 @app.get("/clauses/{doc_id}")

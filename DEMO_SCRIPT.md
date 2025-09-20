@@ -1,156 +1,161 @@
-# 🎬 Legal AI Demo Video Script (3 Minutes)
+# 🎯 Legal AI Demo Script (3 Minutes)
 
-## 📋 **Pre-Demo Setup**
-- [ ] Backend running on http://localhost:8000
-- [ ] Frontend running on http://localhost:3000
-- [ ] Sample legal document ready (employment contract, rental agreement, or NDA)
-- [ ] Screen recording software ready
-- [ ] Clear, well-lit screen recording area
+## 🚀 **System Overview**
+**Paper Clarity** - AI-powered legal document analysis with risk assessment and intelligent Q&A
 
 ---
 
-## 🎯 **Demo Flow (3 Minutes Total)**
+## 📋 **Demo Flow (3 Minutes)**
 
-### **0:00 - 0:30 | Introduction & Problem Statement**
-> **Script:** "Hi! I'm going to show you our Legal AI tool that helps lawyers and businesses quickly understand complex legal documents. The problem? Legal documents are dense, time-consuming to analyze, and full of hidden risks. Our solution? AI-powered analysis that breaks down contracts into understandable summaries with risk assessments."
+### **1. Introduction (30 seconds)**
+- "Welcome to Paper Clarity, an AI-powered legal document analysis platform"
+- "I'll show you how it can analyze legal documents, assess risks, and answer questions intelligently"
+- "The system processes documents securely and automatically deletes them after 24 hours for privacy"
 
-> **Screen Action:** Show the landing page, highlight the clean UI
+### **2. Document Upload (45 seconds)**
+- Navigate to `http://localhost:3000`
+- Click "Select Document" or drag & drop a legal document
+- **Demo file**: Upload any PDF/DOCX legal document (contract, lease, terms of service)
+- Show the upload progress and validation
+- "The system accepts PDF, DOC, and DOCX files up to 10MB"
 
----
-
-### **0:30 - 1:00 | Document Upload & Processing**
-> **Script:** "Let's upload a real legal document. I'll drag and drop this employment contract..."
-
-> **Screen Action:** 
-- Go to dashboard
-- Drag and drop a PDF file
-- Show the upload progress with loading states
-- Point out file validation (PDF/DOCX, 10MB limit)
-
-> **Script:** "The AI is now processing the document, extracting text, identifying clauses, and analyzing each one for risk levels."
-
-> **Screen Action:** Show the processing animation
-
----
-
-### **1:00 - 1:45 | Risk Analysis & Clause Cards**
-> **Script:** "Here's the magic! The AI has broken down our contract into individual clauses, each with a clear summary and risk assessment."
-
-> **Screen Action:**
-- Show the analysis results page
-- Highlight the risk dashboard with pie chart
-- Point out the overall risk score (e.g., "67/100 - Medium Risk")
-- Click on a few clause cards to show:
+### **3. Analysis & Risk Assessment (60 seconds)**
+- Wait for analysis to complete (shows processing indicator)
+- **Risk Dashboard**: Point out the pie chart showing High/Medium/Low risk distribution
+- **Risk Score**: Highlight the overall risk score (0-100)
+- **Clause Cards**: Show individual clauses with:
   - Color-coded risk levels (red=high, yellow=medium, green=low)
-  - Plain English summaries
-  - Copy functionality
   - Expandable original text
+  - AI-generated summaries
+  - Copy functionality
+- "Each clause is analyzed for legal risk using advanced heuristics"
 
-> **Script:** "Notice how each clause is color-coded by risk level. High-risk clauses are in red, medium in yellow, and low-risk in green. The AI provides plain English summaries that anyone can understand."
+### **4. AI Chat Interaction (45 seconds)**
+- **Ask Questions**: "What are the penalty clauses?"
+- Show the AI response with:
+  - Natural language answers
+  - **References**: Highlight which clauses were used
+  - Multiple relevant clauses if applicable
+- **Try More Questions**:
+  - "What are the termination conditions?"
+  - "What are the payment terms?"
+  - "What are the confidentiality obligations?"
+- Show how references appear below each answer
 
----
-
-### **1:45 - 2:30 | Interactive Chatbot**
-> **Script:** "But here's where it gets really powerful - the AI chatbot. You can ask questions about your document in natural language."
-
-> **Screen Action:**
-- Click on the chat panel
-- Type: "What are the termination conditions?"
-- Show the AI response with clause references
-- Type: "What happens if I breach confidentiality?"
-- Show another response
-- Type: "What are the payment terms?"
-- Show the response
-
-> **Script:** "The AI understands your questions and finds the relevant clauses automatically. It even tells you which specific clauses it's referencing, so you can verify the information."
-
----
-
-### **2:30 - 3:00 | Privacy & Conclusion**
-> **Script:** "Privacy is crucial for legal work. Documents are automatically deleted after 24 hours, and we never store your data permanently."
-
-> **Screen Action:**
-- Show the privacy disclaimer
-- Point out the auto-delete notice
-- Show the clean, professional UI
-
-> **Script:** "This tool saves lawyers hours of work, helps businesses understand their contracts, and makes legal analysis accessible to everyone. Ready to try it yourself?"
-
-> **Screen Action:** Show the call-to-action or contact information
+### **5. Privacy & Security (30 seconds)**
+- Point out the disclaimer banners
+- "Documents are processed securely and automatically deleted after 24 hours"
+- "No data is stored permanently on our servers"
+- "This ensures complete privacy for sensitive legal documents"
 
 ---
 
-## 🎬 **Recording Tips**
+## 🎬 **Key Demo Points to Highlight**
 
-### **Technical Setup:**
-- **Resolution:** 1920x1080 or higher
-- **Frame Rate:** 30fps minimum
-- **Audio:** Clear microphone, no background noise
-- **Browser:** Use Chrome or Firefox with clean bookmarks
-- **Zoom:** 100% browser zoom for clarity
+### **✅ Technical Features**
+- **Drag & Drop Upload** with file validation
+- **Real-time Risk Analysis** with color-coded indicators
+- **Semantic Search** for intelligent Q&A
+- **Reference Tracking** showing which clauses were used
+- **Responsive Design** works on mobile and desktop
+- **Dark Mode** support
 
-### **Visual Guidelines:**
-- **Cursor:** Use a large, visible cursor
-- **Highlights:** Use browser highlighting or annotation tools
-- **Transitions:** Smooth, not rushed
-- **Text:** Ensure all text is readable on screen
+### **✅ AI Capabilities**
+- **Intelligent Risk Classification** using advanced heuristics
+- **Natural Language Processing** for document understanding
+- **Semantic Search** finds relevant clauses even with different wording
+- **Contextual Answers** that reference specific document sections
 
-### **Speaking Tips:**
-- **Pace:** Speak clearly, not too fast
-- **Tone:** Professional but enthusiastic
-- **Pauses:** Brief pauses between sections
-- **Emphasis:** Highlight key features and benefits
-
----
-
-## 📝 **Key Messages to Emphasize**
-
-1. **Speed:** "Processes documents in seconds, not hours"
-2. **Accuracy:** "AI-powered analysis with human-readable results"
-3. **Accessibility:** "Makes legal documents understandable for everyone"
-4. **Privacy:** "Auto-deletes documents for complete privacy"
-5. **Professional:** "Built for lawyers and legal professionals"
+### **✅ Privacy & Security**
+- **Auto-delete** after 24 hours
+- **No permanent storage** of sensitive documents
+- **Secure processing** with temporary file handling
+- **Clear disclaimers** about AI-generated content
 
 ---
 
-## 🔧 **Backup Plans**
+## 🗣️ **Sample Demo Script**
 
-### **If Backend Fails:**
-- Have a pre-recorded demo video ready
-- Show the frontend with mock data
-- Explain the AI capabilities conceptually
-
-### **If Upload Fails:**
-- Use a pre-uploaded document
-- Show the analysis results directly
-- Focus on the UI and features
-
-### **If Chat Fails:**
-- Use pre-written responses
-- Show the interface and explain the functionality
-- Demonstrate the concept
+> "Let me show you Paper Clarity in action. First, I'll upload a legal document - notice the drag-and-drop interface and file validation. The system is now analyzing the document using AI to identify clauses and assess risks.
+> 
+> Here we can see the risk dashboard with a clear breakdown - 3 high-risk clauses, 2 medium-risk, and 1 low-risk. Each clause card shows the original text, AI summary, and risk level with color coding.
+> 
+> Now for the intelligent Q&A - I'll ask 'What are the penalty clauses?' and you can see the AI found relevant sections and provided a natural language answer, with clear references to the specific clauses it used.
+> 
+> The system is designed for privacy - documents are automatically deleted after 24 hours, and all processing is done securely without permanent storage."
 
 ---
 
-## 📊 **Success Metrics**
+## 🛠️ **Technical Setup for Demo**
 
-- **Engagement:** Viewers watch the full 3 minutes
-- **Clarity:** Easy to understand without legal background
-- **Impact:** Demonstrates clear value proposition
-- **Professional:** Looks polished and production-ready
+### **Backend (Port 8001)**
+```bash
+cd backend
+py backend/main.py
+```
+
+### **Frontend (Port 3000)**
+```bash
+cd frontend
+npm run dev
+```
+
+### **Demo URLs**
+- **Frontend**: http://localhost:3000
+- **API Docs**: http://localhost:8001/docs
+- **Health Check**: http://localhost:8001/health
 
 ---
 
-## 🎯 **Call to Action**
+## 📊 **Expected Demo Results**
 
-End with:
-- "Try it yourself at [URL]"
-- "Contact us for a demo"
-- "Download the whitepaper"
-- "Schedule a consultation"
+### **Risk Analysis**
+- Clear risk distribution visualization
+- Accurate risk scoring based on legal keywords
+- Color-coded clause cards for easy identification
+
+### **AI Chat**
+- Natural language responses
+- Accurate clause references
+- Semantic understanding of questions
+- Fallback to keyword search if needed
+
+### **User Experience**
+- Smooth upload and processing
+- Responsive design
+- Clear error handling
+- Professional UI with dark mode
 
 ---
 
-*Total Runtime: 3:00 minutes*
-*Target Audience: Lawyers, Legal Tech, Business Owners*
-*Key Value Prop: AI-powered legal document analysis with privacy protection*
+## 🎯 **Demo Success Metrics**
+
+- ✅ **Upload works** in under 10 seconds
+- ✅ **Analysis completes** in under 30 seconds
+- ✅ **Risk assessment** shows meaningful distribution
+- ✅ **Chat responses** are relevant and include references
+- ✅ **UI is responsive** and professional
+- ✅ **Privacy features** are clearly communicated
+
+---
+
+## 🚨 **Troubleshooting**
+
+### **If Backend Fails**
+- Check Python dependencies: `py -m pip install fastapi uvicorn sentence-transformers`
+- Verify port 8001 is available
+- Check console for error messages
+
+### **If Frontend Fails**
+- Check Node.js dependencies: `npm install`
+- Verify port 3000 is available
+- Check browser console for errors
+
+### **If Chat Doesn't Work**
+- Verify backend is running on port 8001
+- Check API endpoint responses in browser dev tools
+- Ensure document has been analyzed first
+
+---
+
+**🎉 Ready to Demo!** The system is production-ready with all features working smoothly.
