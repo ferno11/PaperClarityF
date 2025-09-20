@@ -1,0 +1,64 @@
+{
+  "name": "legal-document-analysis-ai",
+  "version": "1.0.0",
+  "description": "AI-powered legal document analysis system with clause summarization, risk assessment, and interactive Q&A",
+  "main": "index.js",
+  "scripts": {
+    "setup": "node scripts/setup.js",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd src/backend && python main.py",
+    "dev:frontend": "cd src/frontend && npm run dev",
+    "build": "cd src/frontend && npm run build",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start:backend": "cd src/backend && python main.py",
+    "start:frontend": "cd src/frontend && npm start",
+    "install:all": "npm run install:backend && npm run install:frontend",
+    "install:backend": "cd src/backend && pip install -r requirements.txt",
+    "install:frontend": "cd src/frontend && npm install",
+    "test": "npm run test:backend && npm run test:frontend",
+    "test:backend": "cd src/backend && pytest",
+    "test:frontend": "cd src/frontend && npm test",
+    "lint": "npm run lint:backend && npm run lint:frontend",
+    "lint:backend": "cd src/backend && black . && isort .",
+    "lint:frontend": "cd src/frontend && npm run lint",
+    "clean": "npm run clean:backend && npm run clean:frontend",
+    "clean:backend": "cd src/backend && rm -rf __pycache__ .pytest_cache venv",
+    "clean:frontend": "cd src/frontend && rm -rf .next node_modules",
+    "docs": "cd docs && python -m http.server 8000",
+    "health": "curl http://localhost:8001/health"
+  },
+  "keywords": [
+    "legal",
+    "document-analysis",
+    "ai",
+    "machine-learning",
+    "nlp",
+    "clause-analysis",
+    "risk-assessment",
+    "chatbot",
+    "fastapi",
+    "nextjs",
+    "typescript",
+    "react"
+  ],
+  "author": "Legal AI Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/legal-document-analysis-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/legal-document-analysis-ai/issues"
+  },
+  "homepage": "https://github.com/your-username/legal-document-analysis-ai#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "workspaces": [
+    "src/frontend"
+  ]
+}
