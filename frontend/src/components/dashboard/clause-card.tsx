@@ -114,18 +114,25 @@ export function ClauseCard({ clause }: ClauseCardProps) {
               </div>
             </div>
             <div className="flex items-center gap-2 shrink-0">
-              <Button
-                variant="ghost"
-                size="sm"
+              <div
                 onClick={(e) => {
                   e.stopPropagation();
                   handleCopy();
                 }}
-                className="h-8 w-8 p-0"
+                className="h-8 w-8 p-0 inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 hover:bg-accent hover:text-accent-foreground cursor-pointer"
                 aria-label={`Copy original text of clause ${clause.clause_id}`}
+                role="button"
+                tabIndex={0}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    handleCopy();
+                  }
+                }}
               >
                 <Copy className="h-4 w-4" />
-              </Button>
+              </div>
               {isExpanded ? (
                 <ChevronDown className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
               ) : (
