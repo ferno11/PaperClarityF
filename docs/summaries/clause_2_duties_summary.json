@@ -1,0 +1,31 @@
+{
+  "original_text": "CLAUSE 2: I\nRisk Level: medium Word Count: 507\nn connection with said Confidential Information, Company, on behalf of itself and all of its\nofficers, directors, employees, shareholders, agents and representatives, covenants and agrees as\na) Company agrees to keep confidential the Confidential Information and shall disclose the\nConfidential Information to only those personnel and agents of Company who have a\nprofessional need to know such information and shall use the Confidential Information\nsolely for the purpose of performing its engagement for the Nation. Company will show this\nAgreement to all of its personnel and agents having access to the Confidential Information\nand will be responsible for any breach of this Agreement by its personnel and agents.\nb) That it shall not, directly or indirectly, communicate, divulge, disseminate, use or\ndisclose or permit to be disclosed to or by any individual, partnership, joint venture,\ncorporation, association, syndicate, or any other group our combination (collectively\n\"Entity\"), in any manner or by any method at any time during or after the date hereof, any\nc) That it shall not, jointly or severally, directly or indirectly, pursue, use, utilize, take\nadvantage of, explore, develop or otherwise become involved with, in any manner or by\nany method, any product, concept or idea which in any way uses, utilizes, or has as its\nbasis or foundation any Confidential Information;\nd) That it shall not permit at any time during or after the date of this Agreement, except as\nnecessary to fulfill its obligation to the Nation pursuant to any agreement between them\nfor the sale of purchase of products or services, any Entity to examine or make copies of\nany data, reports, papers, memoranda, correspondence, files, notebooks, compilations, drafts, prototypes, records or other documents (collectively \"Documents\") that contains\nConfidential Information belonging to the Nation;\ne) That it shall promptly return, delete, or destroy any or all Confidential Information, and\nany copies thereof, as requested by Nation;\nf) That it shall use commercially reasonable practices to protect confidential information,\nand that those practices shall meet or exceed the same degree of care Company employs\nwith respect to avoid inadvertent disclosure or unpermitted use of the its own\nConfidential Information; and g) That if Company is requested or becomes legally compelled (by oral questions,\ninterrogatories, requests for information or documents, subpoena, civil investigative demands, court order, or similar process) to disclose any of the Confidential Information\nor take any other action prohibited by this Agreement, Company shall provide the Nation\nwith prompt written notice thereof (in reasonable detail) so that the Nation may elect to\nseek a protective order or other appropriate remedy and/or waive compliance with the\nprovisions of this Agreement. In the event that such protective order or other remedy is\nnot obtained, or that the Nation waives compliance with provisions of this Agreement,\nCompany shall furnish only that portion of the Confidential Information or take only such\naction as is required by law or binding order and shall exercise its best efforts to obtain\nreliable assurance that confidential treatment shall be accorded any Confidential\nInformation so furnished.",
+  "plain_english": "This confidentiality requires compliance with specific requirements.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 35. Factors: breach(7), sue(9), notice(4), compliance(5), confidential(4)",
+  "clause_heading": "CLAUSE 2: I",
+  "word_count": 513,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "confidentiality",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.1364522417153996,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may",
+    "In the event",
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_2_duties.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 520,
+    "word_count_cleaned": 513,
+    "cleaning_ratio": 0.9865384615384616,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

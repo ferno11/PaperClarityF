@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 11: T\nRisk Level: standard Word Count: 58\nhat in consideration of use of the said premises the Lessee agrees that he shall pay\nto the Lessor during the period of this agreement, a monthly rent at the rate of\n[Monthly Rental in Number & Words]. The amount will be paid in advance on or\nbefore the date of [1st day] of every English calendar month.",
+  "plain_english": "This duration requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 11: T",
+  "word_count": 67,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "duration",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_11_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 71,
+    "word_count_cleaned": 67,
+    "cleaning_ratio": 0.9436619718309859,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

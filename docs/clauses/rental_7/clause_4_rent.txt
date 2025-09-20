@@ -1,0 +1,10 @@
+CLAUSE 4: R
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 42
+------------------------------------------------------------
+
+ent. The Tenant will pay the Property Management Company/Landlord a monthly rent of
+[Rent amount]. The rent can be paid in advance and/or is due on the [Date of month] of each
+month as obligated by the designated and agreed upon Term.

@@ -1,0 +1,196 @@
+{
+  "document_name": "rental_2",
+  "document_type": "rental",
+  "total_clauses": 15,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 0,
+    "low": 3,
+    "standard": 12
+  },
+  "clauses": [
+    {
+      "clause_id": "rental_2_clause_1",
+      "clause_number": "1",
+      "clause_title": "T",
+      "clause_type": "general",
+      "original_text": "hat the Lessor hereby grant to the Lessee, the right to enter into and use and\nremain in the said premises along with the existing fixtures and fittings listed in\nAnnexure 1 to this Agreement and that the Lessee shall be entitled to peacefully\npossess, and enjoy possession of the said premises, and the other rights herein.",
+      "word_count": 57,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_2_clause_2",
+      "clause_number": "2",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "hat the lease hereby granted shall, unless cancelled earlier under any provision of\nthis Agreement, remain in force for a period of [Lease Term].",
+      "word_count": 24,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_2_clause_3",
+      "clause_number": "3",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "hat the Lessee will have the option to terminate this lease by giving [one month`s\nnotice] in writing to the Lessor.",
+      "word_count": 21,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_2_clause_4",
+      "clause_number": "4",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "hat the Lessee shall have no right to create any sub-lease or assign or transfer in\nany manner the lease or give to any one the possession of the said premises or any\npart thereof.",
+      "word_count": 35,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_2_clause_5",
+      "clause_number": "5",
+      "clause_title": "T",
+      "clause_type": "general",
+      "original_text": "hat the Lessee shall use the said premises only for residential purposes.",
+      "word_count": 12,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_2_clause_6",
+      "clause_number": "6",
+      "clause_title": "T",
+      "clause_type": "maintenance",
+      "original_text": "hat the Lessor shall, before handing over the said premises, ensure the working of\nsanitary, electrical and water supply connections and other fittings pertaining to the\nsaid premises. It is agreed that it shall be the responsibility of the Lessor for their\nreturn in the working condition at the time of re-possession of the said premises\n(reasonable wear and tear and loss or damage by fire, flood, rains, accident,\nirresistible force or act of God excepted).",
+      "word_count": 76,
+      "risk_level": "low",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_2_clause_7",
+      "clause_number": "7",
+      "clause_title": "T",
+      "clause_type": "maintenance",
+      "original_text": "hat the Lessee is not authorized to make any alteration in the construction of the\nsaid premises. The Lessee may however install and remove his own fittings and\nfixtures, provided this is done without causing any excessive damage or loss to the\nsaid premises.",
+      "word_count": 44,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_2_clause_8",
+      "clause_number": "8",
+      "clause_title": "T",
+      "clause_type": "maintenance",
+      "original_text": "hat the day to day repair jobs such as fuse blow out, replacement of light\nbulbs/tubes, leakage of water taps, maintenance of the water pump and other minor\nrepairs, etc., shall be effected by the Lessee at its own cost, and any major repairs,\neither structural or to the electrical or water connection, plumbing leaks, water\nseepage shall be attended to by the Lessor. In the event of the Lessor failing to carry\nout the repairs on receiving notice from the Lessee, the Lessee shall undertake the\nnecessary repairs and the Lessor will be liable to immediately reimburse costs\nincurred by the Lessee.",
+      "word_count": 103,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_2_clause_9",
+      "clause_number": "9",
+      "clause_title": "T",
+      "clause_type": "general",
+      "original_text": "hat the Lessor or its duly authorized agent shall have the right to enter into or upon\nthe said premises or any part thereof at a mutually arranged convenient time for the\npurpose of inspection.",
+      "word_count": 35,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_2_clause_10",
+      "clause_number": "10",
+      "clause_title": "T",
+      "clause_type": "maintenance",
+      "original_text": "hat the Lessee shall use the said premises along with its fixtures and fitting in\ncareful and responsible manner and shall handover the premises to the Lessor in\nworking condition (reasonable wear and tear and loss or damage by fire, flood,\nrains, accidents, irresistible force or act of God excepted).",
+      "word_count": 50,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_2_clause_11",
+      "clause_number": "11",
+      "clause_title": "T",
+      "clause_type": "rent",
+      "original_text": "hat in consideration of use of the said premises the Lessee agrees that he shall pay\nto the Lessor during the period of this agreement, a monthly rent at the rate of\n[Monthly Rental in Number & Words]. The amount will be paid in advance on or\nbefore the date of [1st day] of every English calendar month.",
+      "word_count": 58,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_2_clause_12",
+      "clause_number": "12",
+      "clause_title": "I",
+      "clause_type": "duration",
+      "original_text": "t is hereby agreed that if default is made by the lessee in payment of the rent for a\nperiod of three months, or in observance and performance of any of the covenants\nand stipulations hereby contained and on the part to be observed and performed by\nthe lessee, then on such default, the lessor shall be entitled in addition to or in the\nalternative to any other remedy that may be available to him at this discretion, to\nterminate the lease and eject the lessee from the said premises; and to take\npossession thereof as full and absolute owner thereof, provided that a notice in\nwriting shall be given by the lessor to the lessee of his intention to terminate the\nlease and to take possession of the said premises. If the arrears of rent are paid or\nthe lessee comply with or carry out the covenants and conditions or stipulations,\nwithin fifteen days from the service of such notice, then the lessor shall not be\nentitled to take possession of the said premises.",
+      "word_count": 175,
+      "risk_level": "low",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_2_clause_13",
+      "clause_number": "13",
+      "clause_title": "T",
+      "clause_type": "utilities",
+      "original_text": "hat in addition to the compensation mentioned above, the Lessee shall pay the\nactual electricity, shared maintenance, water bills for the period of the agreement\ndirectly to the authorities concerned. The relevant `start date` meter readings are\n[Starting Meter Reading].",
+      "word_count": 40,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_2_clause_14",
+      "clause_number": "14",
+      "clause_title": "T",
+      "clause_type": "deposit",
+      "original_text": "hat the Lessee has paid to the Lessor a sum of [Rental Deposit in Number and\nWords] as deposit, free of interest, which the Lessor does accept and acknowledge.\nThis deposit is for the due performance and observance of the terms and conditions\nof this Agreement. The deposit shall be returned to the Lessee simultaneously with\nthe Lessee vacating the said premises. In the event of failure on the part of the\nLessor to refund the said deposit amount to the Lessee as aforesaid, the Lessee shall\nbe entitled to continue to use and occupy the said premises without payment of any\nrent until the Lessor refunds the said amount (without prejudice to the Lessee`s\nrights and remedies in law to recover the deposit).",
+      "word_count": 124,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_2_clause_15",
+      "clause_number": "15",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "hat the Lessor shall be responsible for the payment of all taxes and levies\npertaining to the said premises including but not limited to House Tax, Property Tax,\nother cesses, if any, and any other statutory taxes, levied by the Government or\nGovernmental Departments. During the term of this Agreement, the Lessor shall\ncomply with all rules, regulations and requirements of any statutory authority, local,\nstate and central government and governmental departments in relation to the said\npremises.\nhereinabove mentioned.\nLessor, Lessee,\n[Name] [Name]\n[Address Line 1] [Address Line 1]\n[Address Line 2] [Address Line 2]\n[City, State, Pin Code] [City, State, Pin Code]\nWITNESS ONE WITNESS TWO\n[Name & Address] [Name & Address]\nANNEXURE I\nList of fixtures and fittings provided in [Lease Property Address Line 1, Address Line 2,\nCity, State, Pin Code]:\n1. Item 1\n2. Item 2\n3. Item 3",
+      "word_count": 144,
+      "risk_level": "low",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    }
+  ]
+}

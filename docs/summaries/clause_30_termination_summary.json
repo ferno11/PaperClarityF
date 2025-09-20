@@ -1,0 +1,40 @@
+{
+  "original_text": "CLAUSE 30: F\nRisk Level: standard Word Count: 290\nIRE OR CASUALTY DAMAGE. If Premises is damaged or destroyed by fire or casualty to an\nextent that Tenant’s enjoyment of Premises is substantially impaired or that required repairs can only be\naccomplished if Tenant vacates Premises, either Tenant or Landlord may terminate this Rental\nAgreement. Tenant may terminate this Rental Agreement by vacating Premises and within 14 days\nthereafter, serving Landlord a written notice of his intention to terminate, in which case this Rental\nAgreement will terminate as of the date of vacating. If continued occupancy is lawful there shall be a\nreasonable rent reduction for such time until Premises is restored to the condition prior to fire or casualty;\nand, in case of such deprivation of possession, Tenant shall be allowed a like reduction until possession\nof Premises is restored to Tenant. Landlord may terminate this Rental Agreement by giving Tenant 30\ndays’ notice of intention to terminate based upon Landlord’s determination that such damage requires the\nremoval of Tenant and use of Premises is substantially impaired, in which case this Rental Agreement\nwill terminate as of the expiration of the notice period. If this Rental Agreement is terminated, Landlord\nshall return all security deposits in accordance with paragraph 4 and 5 of this Rental Agreement and\nprepaid rent, plus accrued interest recoverable by law, unless Landlord reasonably believes that Tenant,\nor Tenant’s guests were the cause of the damage or casualty, in addition to paying for repair of all\ndamages and related costs, in which case Landlord shall account to Tenant for the security deposit and\nprepaid rent, plus accrued interest based upon the damage or casualty. Accounting for rent in the event\nof termination or apportionment shall be made as of the date of the casualty.",
+  "plain_english": "This property requires compliance with  14 days,  30\ndays.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 54. Factors: termination(9), damages(8), notice(4), interest(5), deposit(3)",
+  "clause_heading": "CLAUSE 30: F",
+  "word_count": 299,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "property",
+  "key_entities": [
+    "timeframe: 14 days",
+    "timeframe: 30\ndays"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "days: 14 days",
+    "days: 30\ndays"
+  ],
+  "conditional_language": [
+    "If",
+    "condition",
+    "in the event",
+    "may",
+    "if",
+    "unless"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_30_termination.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 303,
+    "word_count_cleaned": 299,
+    "cleaning_ratio": 0.9867986798679867,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

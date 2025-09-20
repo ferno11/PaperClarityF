@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 37: A\nRisk Level: standard Word Count: 134\nTTORNMENT. Tenant hereby agrees that Tenant will recognize as its landlord under this Rental\nAgreement and shall attorn to any person succeeding to the interest of Landlord in respect of the land\nand the buildings on or in which Premises is situated, upon any foreclosure of any deed of trust upon\nsuch land or building, or upon the execution of any deed in lieu of such foreclosure in respect of such\ndeed of trust. If requested, Tenant shall execute and deliver an instrument or instruments confirming its\nattornment as provided for herein; provided, however, that no such mortgagee or successor-in-interest\nshall be bound by any payment of rent for more than one (1) month in advance, or any amendment or\nmodification of the Rental Agreement made without the express written consent of such mortgagee.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 21. Factors: foreclosure(10), interest(5), amendment(4), conditionals:1(2)",
+  "clause_heading": "CLAUSE 37: A",
+  "word_count": 143,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.4895104895104895,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "If"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_37_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 147,
+    "word_count_cleaned": 143,
+    "cleaning_ratio": 0.9727891156462585,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

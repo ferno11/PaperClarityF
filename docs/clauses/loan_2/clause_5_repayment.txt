@@ -1,0 +1,11 @@
+CLAUSE 5: P
+============================================================
+Type: repayment
+Risk Level: medium
+Word Count: 35
+------------------------------------------------------------
+
+repayment: The Borrower has the right to prepay all or any part of the Loan, together with
+​ ​
+accrued and unpaid interest thereon, at any time without prepayment penalty or premium of any
+kind.

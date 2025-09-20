@@ -1,0 +1,42 @@
+{
+  "original_text": "CLAUSE 9: L\nRisk Level: medium Word Count: 739\noss or damage to own/in-house developed software.\nof accident happening through or in connection with the Excess television set or to breakdown or defect in the Television\nApparatus or breaking or collapse of the internal fittings or\nCoverage under this Section is subject to an excess in respect of\nmast forming part of the Television Apparatus and the liability\neach and every claim for loss or damage admitted under the\nof the Company in respect of such.\npolicy as specified below:\nCompensation and litigation expenses in any one period of a) In case of personal computers, 5% of the claim amount\ninsurance is limited to Rs. 25,000/- (Rupees twenty five thousand\nsubject to a minimum of Rs. 2,500/-.\nb) In case of equipments (other than personal computers) with\nvalues upto Rs. 1 lath, 5% of the claim amount subject to a\nminimum of Rs. 1,000/-. The Company shall not be liable in respect of loss or damage:\nc) In case of equipments (other than personal computers) with 1. To external antenna or fittings by theft unless the Television\nvalues more than Rs. 1 lath, 5% of the claim amount subject Apparatus itself is stolen at the same time\nto a minimum of Es. 2,500/-.\n2. Caused by or arising out of or traceable to erection, repairing\nSection Vi- Television Set or dismantling of the Television Apparatus\nDefinition 3. For which the manufacturer or supplier of the Television\nApparatus is responsible \"Television Apparatus\" shall mean and include a Television Set,\naccessories forming part of the set and antenna both external and 4. Liability assumed by the Insured by agreement unless such\ninternal. liability could have attached to the Insured notwithstanding The Company will indemnify the Insured in respect of:\nSection VII- Fixed Plate Glass 1. Loss of or damage to the television apparatus described in\nthe Schedule hereto whilst contained or fixed in the insured This Section covers loss or damage due to accidental breakage\npremises by: of a) Fire, lightning, explosion of gas in domestic appliances. a) Fixed plate glass,\nb) Bursting and overflowing of water tanks, apparatus or b) Frames or framework,\nc) Lettering consequent upon the breakage of glass.\nc) Aircraft or articles dropped there from.\nd) Earthquake (fire and/or shock)\nSum insured shall be on reinstatement value.\ne) Flood, inundation, typhoon, storm, tempest hurricane, Basis of indemnity\ntornado and cyclone.\nBasis of indemnity shall be on reinstatement value. If the sum\nf) Riot, strike, terrorism or malicious act.\ninsured is less than the replacement value of property then the\ng) Burglary and/or house breaking or theft. Insured shall be considered his own insurer for the difference\nbetween sum insured and cost of replacement and accordingly h) Accidental external means.\nshall bear a ratable proportion of the damage. Every item, if more\nthan one, shall be separately subject to this clause.\ni) Mechanical or electrical breakdowns.\nThe liability of the Company in respect of any one loss or all\nProvided that the liability of the Company in respect of such loss\nlosses in any one period of insurance is limited to the sum insured\nset against each item of property in the Schedule hereto. tape recorders) arising from overrunning, excessive\npressure, short circuiting, arcing, self-heating or leakage of electricity from whatever cause (lightning included).\nThe Company shall not be liable in respect of:\n6. Theft from car except from car of fully enclosed saloon type\nhaving all the doors, windows and other openings securely 1. Breakage or damage during removal, alterations and/or\nlocked and properly fastened.\nrepairs on or about the insured premises.\n7. Damage whilst being conveyed by any carrier under contract\n2. Breakage of lettering unaccompanied by breakage or\ndamage of glass.\n8. Loss or damage of money, securities, manuscripts, deeds,\n3. Breakage of or damage to frames or framework of any\nbonds, bills of exchange, promissory notes, stock or share description unless specifically declared.\ncertificates, stamps, business books or documents, jewellery, watches, furs, precious metals, precious stones,\n4. Disfiguration or scratching or damage of glass other than\ngold and silver ornaments, travel tickets, cheques and bank fracture extending through the entire thickness of glass.\n5. Embossed, silvered, lettered, ornamental, curved or any\n9. Damage or destruction of articles of consumable nature.\nglass whatsoever other than glass which is plain and or\nordinary glazing quality, unless the same be separately",
+  "plain_english": "This insurance requires compliance with  5%,  5%.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 34. Factors: liability(8), indemnify(8), numeric:percentage:5.0(6), conditionals:6(12)",
+  "clause_heading": "CLAUSE 9: L",
+  "word_count": 733,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "insurance",
+  "key_entities": [
+    "percentage: 5%",
+    "percentage: 5%",
+    "percentage: 5%"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "percentage: 5%",
+    "percentage: 5%",
+    "percentage: 5%"
+  ],
+  "conditional_language": [
+    "If",
+    "then",
+    "subject to",
+    "Provided that",
+    "if",
+    "unless"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_9_utilities.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 752,
+    "word_count_cleaned": 733,
+    "cleaning_ratio": 0.9747340425531915,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

@@ -1,0 +1,11 @@
+CLAUSE 3: T
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 45
+------------------------------------------------------------
+
+he County desires to provide permanent financial assistance in the form
+of a loan to Borrower subject to the Borrower’s agreement, amongst other things, to
+encumber the Property with certain rental restrictions, all as more particularly set forth in
+this Agreement and the Regulatory Agreement.

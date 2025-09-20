@@ -1,0 +1,37 @@
+{
+  "original_text": "CLAUSE 6: I\nRisk Level: medium Word Count: 1039\nf Landlord retakes possession of the Premises for Tenant’s account, Landlord must make a good faith effort to re-\nlease the Premises. Any rent received by Landlord as a result of the new lease shall be deducted from the rent due\nfrom Tenant. For purposes of this section, “good faith” in trying to re-lease the Premises means that Landlord\nshall use at least the same efforts to re-lease the Premises as were used in the initial rental or at least the same\nefforts as Landlord uses in attempting to lease other similar property. It does not require Landlord to give a\npreference in leasing the Premises over other vacant properties that Landlord owns or has the responsibility to\nC. Other Remedies Each party also may have other remedies available at law or in equity.\nD. Defenses. In a lawsuit by Landlord for possession of the Premises based upon nonpayment of rent or in a lawsuit by\nLandlord seeking to obtain unpaid rent, Tenant may assert as a defense Landlord’s failure to perform required\nmaintenance, as set forth in Section IX(A) above. Landlord’s failure to provide elective maintenance, as set forth in\nSection IX(B) above, shall not be a defense to any lawsuit by Landlord for possession of the Premises unless otherwise\nprovided by the Lease or applicable law. Tenant also may raise any other defense, whether legal or equitable, that\nTenant may have, including the defense or retaliatory conduct.\nE. Payment of Rent to Court. In any lawsuit by Landlord for possession of the Premises, if Tenant raises any defense\nother than payment, Tenant must pay into the registry of the court the past due rent set forth in Landlord’s complaint,\nor an amount determined by the court, and the rent which comes due during the lawsuit, as it comes due. Failure of\nTenant to pay the rent into the registry of the court will be a waiver of Tenant’s defenses other than payment.\nF. Attorney’s Fees. In any lawsuit brought to enforce the Lease or under applicable law, the party who wins may recover\nits reasonable court costs and attorneys’ fees from the party who loses.\nXVII. RISK OF LOSS. Landlord shall not be liable for any loss by reason of damage, theft, or otherwise to the contents,\nbelongings, and personal effect of the Tenant, or Tenant’s family, agents, employees, guests, or visitors located in or\nabout the Premises, or for damage or injury to Tenant or Tenant’s family, agents, employees, guests, or visitors.\nLandlord shall not be liable if such damage, theft or loss is caused by Tenant, Tenant’s family, agents, employees, guest\nor visitors. Nothing contained in this provision shall relieve Landlord or Tenant from responsibility for loss, damage or\ninjury caused by its own negligence or willful conduct.\nXVIII. SUBORDINATION. The Lease is subordinate to the lien of any mortgage encumbering the fee title to the Premises\nfrom time to time.\nXIX. LIENS. Tenant shall not have the right or authority to encumber the Premises or to permit any person to claim or assert\nany lien for the improvement or repair of the Premises made by Tenant. Tenant shall notify all parties performing work\non the Premises at Tenant’s request that the Lease does not allow any liens to attach to Landlord’s interest.\nXXI. RENEWAL/EXTENSION. The Lease can be renewed only by a written agreement signed by both Landlord and\nTenant, but no renewal may extend the term to a date more than 1 year after the lease begins. A new lease is\nrequired each year.\nA. Time is of the essence of the Lease.\nB. The Lease and the HUD-approved Tenancy Addendum (form HUD-52641A), which is attached hereto and\nincorporated by reference, shall be binding upon and for the benefit of the heirs, personal representatives,\nsuccessors, and permitted assigns of Landlord and Tenant, subject to the requirements specifically mentioned in\nthe Lease. Whenever used, the singular number shall include the plural or singular and the use of any gender\nshall include all appropriate genders.\nC. In case of any conflict between the provisions of the Tenancy Addendum as required by HUD, and any other\nprovisions of the Lease or any other agreement between the owner and the tenant, the requirements of the HUD-\nrequired Tenancy Addendum shall control.\nD. The agreements contained in the Lease and the HUD-approved Tenancy Addendum set forth the complete\nunderstanding of the parties and may not be changed or terminated orally.\nE. No agreement to accept surrender of the Premises from Tenant will be valid unless in writing and signed by\nF. All questions concerning the meaning, execution, construction, effect, validity, and enforcement of the Lease\nshall be determined pursuant to the laws of Florida.\nG. The place for filing any suits or other proceedings with respect to the Lease shall be the county in which the\nPremises is located.\nH. Landlord and Tenant will use good faith in performing their obligations under the Lease.\nI. As required by law, Landlord makes the following disclosure: “RADON GAS.” Radon is a naturally occurring\nradioactive gas that, when it has accumulated in a building in sufficient quantities, may present health risks to\npersons who are exposed to it over time. Levels of radon that exceed federal and state guidelines have been found\nin buildings in Florida. Additional information regarding radon and radon testing may be obtained from your\ncounty public health unit.\nJ. The Landlord hereto agrees to abide by terms and conditions of the Housing Assistance Payments Contract\n(“HAP”) between Landlord and MDPHA and with all rules and regulations of the MDPHA Housing Choice\nVoucher and/or Moderate Rehabilitation Program (“Program”). The provision of the HAP and Program are\nincorporated herein by reference.\nThe Lease has been executed by the parties on the dates indicated below:\nExecuted by Landlord in the presence of:\nPrint Landlord Name Print Name: By:\nPrint Name: As:\n2 witnesses needed for Landlord Date:\nExecuted by Tenant in the presence of:\nPrint Name: Tenant’s signature Print Tenant Name\nPrint Name: Date:\nPrint Name: Tenant’s signature Print Tenant Name\nPrint Name: Date:\n2 witnesses needed for each Tenant This form was completed\nWith the assistance of",
+  "plain_english": "This property requires compliance with  1 year.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 33. Factors: lawsuit(10), maintenance(3), interest(5), renewal(4), signature(1)",
+  "clause_heading": "CLAUSE 6: I",
+  "word_count": 1036,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "property",
+  "key_entities": [
+    "timeframe: 1 year"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "years: 1 year"
+  ],
+  "conditional_language": [
+    "when",
+    "subject to",
+    "may",
+    "if",
+    "unless"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_6_maintenance.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 1052,
+    "word_count_cleaned": 1036,
+    "cleaning_ratio": 0.9847908745247148,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

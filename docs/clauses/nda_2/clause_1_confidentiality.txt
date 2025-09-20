@@ -1,0 +1,42 @@
+CLAUSE 1: C
+============================================================
+Type: confidentiality
+Risk Level: standard
+Word Count: 391
+------------------------------------------------------------
+
+onfidential and Proprietary Information. (a) Company acknowledges and agrees that in
+connection with the proposal or the provision of goods or services, Nation shall divulge to
+Company and its employees, agents, and/or representatives certain proprietary and confidential
+information which, for purposes of this Agreement, shall mean and include any and all
+information about Nation and Nation’s business, Nation’s non-public information, Nation’s
+patrons or customers, technical data or know-how including, but not limited to, salaries, pricing,
+expenses, margins, revenues and other financial information; technical data, production data,
+technical designs, detail designs, network configurations and topologies, test data and results,
+flowcharts, drawings, designs, graphs, diagrams, notes, outlines and the like created in connection
+with any services or with any of Nation’s activities, and all formulas, processes, algorithms,
+ideas, inventions, know-how, techniques and other information of a general and technical nature,
+whether in tangible or intangible form; marketing, distribution, promotion, sales or advertising
+processes, programs, projections or proposals; consulting or other business projects or proposals;
+all customer lists, requirements, product usage and other customer data; sales procedures, volume
+figures and strategies; supplier lists; personnel information including compensation, incentive
+compensation and bonus structures, employment agreements, performance standards, performance
+evaluations and all information in any way concerning the products, projects, activities, business
+or affairs of Nation or its affiliates or customers; business or marketing plans; security processes
+or precautions; customer or vendor lists; and any other information not listed but that is
+designated as confidential by Nation, or which by its nature should reasonably be expected to
+remain confidential.
+a) Confidential Information shall not include:
+i. Information that is disclosed to Company by any third party which is not under a
+confidentiality obligation to Nation;
+ii. Information that the Nation itself discloses to the public;
+iii. Information that is already legally in the possession of Company at the time of
+disclosure by Nation as shown by the Company’s files and records immediately
+prior to the time of disclosure;
+iv. Information that was publicly known and made generally available prior to the
+time of disclosure;
+v. Information that becomes publicly known and made generally available after
+disclosure by Nation to Company through no action or inaction of Company; or
+vi. Information that is independently developed by Company without use of or
+reference to Nation’s Confidential Information, as shown by documents and
+other competent evidence in Company’s possession.

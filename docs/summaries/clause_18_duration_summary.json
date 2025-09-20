@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 18: T\nRisk Level: standard Word Count: 15\nhat both the parties shall observe and adhere to the terms and conditions contained",
+  "plain_english": "This duration requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 18: T",
+  "word_count": 23,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "duration",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_18_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 28,
+    "word_count_cleaned": 23,
+    "cleaning_ratio": 0.8214285714285714,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

@@ -1,0 +1,12 @@
+CLAUSE 2: T
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 81
+------------------------------------------------------------
+
+enant fails to perform its obligations under the Lease, and the failure is such that Tenant should not be given an
+opportunity to correct it or the failure occurs within 12 months of a written warning by Landlord of a similar
+failure. Examples of such failures which do not require an opportunity to correct include, but are not limited to,
+destruction, damage, or misuse of Landlord’s or other Tenant’s property by an intentional act or a subsequent or
+continued unreasonable disturbance.

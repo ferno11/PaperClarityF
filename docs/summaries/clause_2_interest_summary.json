@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 2: I\nRisk Level: standard Word Count: 49\nnterest: The Principal Balance shall bear interest at the rate of ______% per annum, accruing\ndaily. Not withstanding, the total interest charged shall not exceed the maximum amount allowed\nby law and the Borrower shall not be obligated to pay any interest in excess of such amount.",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 5. Factors: interest(5)",
+  "clause_heading": "CLAUSE 2: I",
+  "word_count": 56,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_2_interest.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 62,
+    "word_count_cleaned": 56,
+    "cleaning_ratio": 0.9032258064516129,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

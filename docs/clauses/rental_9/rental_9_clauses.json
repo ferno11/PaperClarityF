@@ -1,0 +1,387 @@
+{
+  "document_name": "rental_9",
+  "document_type": "rental",
+  "total_clauses": 28,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 7,
+    "low": 0,
+    "standard": 21
+  },
+  "clauses": [
+    {
+      "clause_id": "rental_9_clause_1",
+      "clause_number": "1",
+      "clause_title": "M",
+      "clause_type": "general",
+      "original_text": "aintaining the roofs, windows, screens, doors, floors, steps, porches, exterior and interior walls,\nfoundations and all other structural components.",
+      "word_count": 19,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_2",
+      "clause_number": "2",
+      "clause_title": "M",
+      "clause_type": "general",
+      "original_text": "aintain all plumbing in reasonable and working order.",
+      "word_count": 8,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_3",
+      "clause_number": "3",
+      "clause_title": "M",
+      "clause_type": "utilities",
+      "original_text": "aintain all electrical systems in reasonable and working order.",
+      "word_count": 9,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_4",
+      "clause_number": "4",
+      "clause_title": "P",
+      "clause_type": "utilities",
+      "original_text": "rovide hot and cold running water 24-hours a day.",
+      "word_count": 9,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_5",
+      "clause_number": "5",
+      "clause_title": "P",
+      "clause_type": "duration",
+      "original_text": "rovide for regular extermination of rats, mice, roaches, ants, wood-destroying organisms and\nbedbugs.",
+      "word_count": 13,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_6",
+      "clause_number": "6",
+      "clause_title": "P",
+      "clause_type": "duration",
+      "original_text": "rovide for the clean and safe condition of all inside and outside common areas including garbage\npickup, lawn maintenance and maintenance of exterior lighting.\n{219312.0001/M1805246_3}\nii. Breach of Warranty of Habitability: Unless the apartment or building becomes unfit to live in due to the\nmisconduct of the tenant or the tenant\u2019s family or guests, the Owner will be held responsible for any breach\nof warranty of habitability. Conditions which would constitute breach of the warranty of habitability include,\nbut are not limited to:\n1. Insect or Rodent Infestation\n2. Insufficient plumbing facilities\n3. Dangerous electrical outlets or wiring\n4. Inadequate sanitation facilities\n5. Holes in walls or ceilings\nB. Tenant\u2019s Responsibilities: At all times during the Lease Term, Tenant shall:\n1. comply with all obligations imposed upon tenants by applicable provisions of building, housing, and\nhealth codes;\n2. keep the Premises clean and sanitary;\n3. remove all garbage from the dwelling unit clean, and sanitary, and in repair; and\n4. keep all plumbing fixtures in the dwelling unit clean, sanitary and in repair; and\n5. use and operate in a reasonable manner all electrical, plumbing, sanitary, heating, ventilating, air\nconditioning, and other facilities and appliances, including elevators.\nC. Repairs: Prior to the Commencement date of this agreement, Owner shall (at Owner\u2019s own cost and expense, and\nto the satisfaction of Tenant) put the premises in a condition that meets the Warrant of Habitability standard\nreferenced above and all other applicable standards from housing, building codes, health codes and Section 83.51\nof the Florida Statues. The Owner shall be responsible for all subsequent repairs as to keep and maintain the\npremises to the standards required by applicable housing, building codes, health codes and Section 83.51 of the\nFlorida Statues.\na. Time for Repairs:\ni. Non-emergency repairs will be made within 15 days of receipt of Repair Request Form.\nii. In the event that repairs are not completed within 15 days, Tenants may elect to EITHER:\n1. Pay for repairs and deduct the cost of repairs from the monthly rent rate. Deductions should be\nbased either on actual receipts or at rates equivalent to current standard; OR\n2. Exercise their legal right to abate rent payments until all repairs are completed.\nD. Right of Inspection: During the term of this lease and any renewal thereof, Owner and his agents shall only enter\ndescribed premises to conduct repairs or inspection upon 3-days written notice to Tenant AND after Tenant and\nOwner (or his agents) have agreed upon a date and time for the inspection or repair to occur. Owner shall not enter\nthe described premises without Tenant\u2019s permission, the only exception being in the case of emergency or when\nabsolutely necessary for the protection or preservation of the premises. Tenant agrees to not unreasonably\nwithhold consent to the Owner to enter the described premises.\nX. UTILITIES AND AMENITIES (Please check all that apply to the unit)\nUtilities\nElectricity bills will be paid by ___ Landlord ___ Tenant.\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nHeating bills will be paid by ___ Landlord ___Tenant.\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nRefrigerator will be provided by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nRange /Microwave will be provided by___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nAC bills will be paid by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nAC/Heating bills will be paid by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nOther Electric bills will be paid by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\n{219312.0001/M1805246_3}\nUtilities (continued)\nWater bills will be paid by ___ Landlord ___ Tenant.\nSewer bills will be paid by ___ Landlord ___ Tenant.\nTrash services will be paid by ___ Landlord ___ Tenant.\nAmenities\nGarbage Disposal ___ Cable ___\nDishwasher ___ Pool ___\nPest Control ___ Security System ___\nLawn Care ___ W/D Hookups ___\nWasher/Dryer in Unit ___ Ceiling Fans ___\nWasher/Dryer in Complex ___ Microwave (In addition ___\nto range)\nXI. LANDLORD\u2019S ACCESES TO PREMISES. Landlord or Landlord\u2019s Agent may enter the Premises in the following\ncircumstances:\nA. At any time for the protection or preservation of the Premises.\nB. After reasonable notice to Tenant at reasonable times for the purpose of repairing the Premises.\nC. To inspect the Premises; make necessary or agreed-upon repairs, decorations, alterations, or improvements; supply\nagreed services; or exhibit the Premises to prospective or actual purchasers, mortgagees, tenants, workers, or\ncontractors under any of the following circumstances:\n1. with Tenant\u2019s consent;\n2. in case of emergency;\n3. when Tenant unreasonably withholds consent; or\n4. if Tenant is absent from the Premises for a period of at least one-half a Rental Installment Period. (If the rent is\ncurrent and Tenant notifies the Landlord of an intended absence, then Landlord may enter only with Tenant\u2019s\nconsent for the protection or preservation of the Premises.\nXII. PROHIBITED ACTS BY LANDLORD.\nLandlord cannot cause, directly or indirectly, the termination or unreasonable interruption of any utility service\nfurnished to Tenant, including, but not limited to, water, heat, light, electricity, gas, elevator, garbage collection, or\nrefrigeration (whether or not the utility service is under the control of, or payment is made by, Landlord).\nLandlord cannot prevent Tenant\u2019s access to the Premises by any means, including, but not limited to, changing the\nlocks or using any bootlock or similar device.\nLandlord cannot remove the outside doors, locks, roof, walls, or windows of the Premises except for purposes of\nmaintenance, repair, or replacement. Landlord cannot remove Tenant\u2019s personal property from the Premises unless the\naction is taken after surrender, abandonment, or a lawful eviction. If provided in a written agreement separate from the\nLease, upon surrender or abandonment by Tenant, Landlord shall not be liable or responsible for storage or disposition\nof Tenant\u2019s personal property. (For the purpose of this section, abandonment means Tenant is absent from the\nPremises for at least one-half a Rental Installment Period without paying rent or giving Landlord reasonable notice of\nTenant\u2019s absence).\nXIII. CASUALTY DAMAGE. If the Premises are damaged or destroyed other than by wrongful or negligent acts of\nTenant or persons on the Premises with Tenant\u2019s consent, so that the use of the Premises is substantially impaired. Tenant\nmay terminate the Lease within 30 days after the damage or destruction and Tenant will immediately vacate the premises. If\nTenant vacates, Tenant is not liable for rent that would have been due after the date of termination. Tenant may vacate the\npart of the Premises rendered unusable by the damage or destruction, in which case Tenant\u2019s liability for rent shall be\nreduced by the fair rental value of the part of the Premises that was damaged or destroyed.\nXIV. DEFAULT.\nA. Landlord\u2019s Default. Except as noted below, Landlord will be in default if Landlord fails to comply with Landlord\u2019s\nrequired maintenance obligations under Section IX(A) or fails to comply with other material provisions of the Lease\nand such failure continues for more than 7 days after Tenant delivers a written notice to Landlord that tells Landlord\nhow Landlord has violated the Lease.\nIf Landlord\u2019s failure to comply is due to causes beyond the Landlord\u2019s control and if Landlord has made, and continues\nto make, every reasonable effort to correct the problem, the Lease may be altered by the parties, as follows:\n1. If Landlord\u2019s failure to comply makes the Premises uninhabitable and Tenant vacates, Tenant shall not be liable\n{219312.0001/M1805246_3}\nfor rent during the period the Premises remains uninhabitable.\n2. If Landlord\u2019s failure to comply does not make the Premises uninhabitable and Tenant continues to occupy the\nPremises, the rent for the period of noncompliance will be reduced by an amount in proportion to the loss of rental\nvalue caused by the noncompliance.\nB. Tenant\u2019s Default. Tenant will be in default if any of the following occur:\n1. Tenant fails to pay rent when due and the default continues for 3 days, excluding Saturday, Sunday and legal\nholidays, after delivery of written demand by Landlord for payment of the rent or possession of the Premises.\n2. Tenant fails to perform its obligations under the Lease, and the failure is such that Tenant should not be given an\nopportunity to correct it or the failure occurs within 12 months of a written warning by Landlord of a similar\nfailure. Examples of such failures which do not require an opportunity to correct include, but are not limited to,\ndestruction, damage, or misuse of Landlord\u2019s or other Tenant\u2019s property by an intentional act or a subsequent or\ncontinued unreasonable disturbance.\n3. Except as provided above, Tenant fails to perform any other obligation under the Lease and the default continues\nfor more than 7 days after deliver of written notice to Tenant from Landlord specifying the default.\nC. Waiver of Default. If Landlord accepts rent knowing of Tenant\u2019s default or accepts performance by Tenant of any\nprovision of the Lease different from the performance required by the Lease, if Tenant pays rent knowing of\nLandlord\u2019s default or accepts performance by Landlord of any provision of the Lease different from the performance\nrequired by the Lease, the party accepting the rent or performance or making the payment shall not have the right to\nterminate the Lease or to bring a lawsuit for that default, but may enforce any later default.\nXV. REMEDIES AND DEFENSES.\nA. Tenant\u2019s Remedies.\n1. If Landlord has defaulted under the Lease and if Tenant has given Landlord a written notice describing the default\nand Tenant\u2019s intention to withhold rent if the default is not corrected within 7 days, Tenant may withhold an\namount of rent equal to the loss in rental value caused by the default. If Tenant\u2019s notice advises Landlord that\nTenant intends to terminate the Lease if the default is not cured within 7 days and the default is not cured within\nthe 7 days, Tenant may terminate the Lease.\n2. If Tenant has given the notice referred to in subparagraph (1) above, and if Landlord has not corrected the default\nwithin 7 days, Tenant may, in addition to withholding the applicable amount of rent, file a lawsuit in county court\nto require Landlord to correct the default and for damages.\n3. If Landlord\u2019s default makes the Premises uninhabitable, and if Tenant has given Landlord a notice describing the\ndefault and informing Landlord that Tenant intends to terminate the Lease, then if Landlord does not cure the\ndefault within the 7-day period, Tenant may terminate the Lease at the end of the 7 days.\n4. If Landlord violates the provisions of Section XII, Landlord shall be liable to Tenant for actual and consequential\ndamages or 3 months\u2019 rent, whichever is greater, for each violation.\nB. Landlord\u2019s Remedies.\n1. If Tenant remains on the Premises after expiration or termination of the Lease without Landlord\u2019s permission,\nLandlord may recover possession of the Premises in the manner provided for by law. Landlord may also recover\ndouble rent for the period during which Tenant refuses to vacate the Premises.\n2. If Tenant defaults under the Lease by failing to pay rent, as set forth in section XIV(B)(1), Landlord may\nterminate Tenant\u2019s rights under the Lease and Tenant shall vacate the Premises immediately. If Tenant defaults\nunder the Lease for any other reason, as set forth in sections XIC(B)(2) or (3) above, Landlord may terminate\nTenant\u2019s rights under the Lease and Tenant shall vacate the Premises within 7 days of delivery of the notice of\ntermination.\n3. If Tenant fails to cure a default within the time specified in the notice to Tenant, Landlord may recover possession\nof the Premise as provided by law.\n4. Landlord shall not recover possession of the Premises except:\na. in a lawsuit for possession;\nb. when Tenant has surrendered possession of the Premises to Landlord; or\nc. when Tenant has abandoned the Premises. Absent actual knowledge of abandonment, the Premises shall be\nconsidered abandoned if Tenant is absent from them for at least one-half a Rental Installment Period, the rent\nis not current, and Tenant has not notified Landlord, in writing, of an intended absence.\n5. If Tenant has defaulted under the Lease and Landlord has obtained a writ of possession. If Tenant has surrendered\npossession of the Premises to Landlord or if Tenant has abandoned the Premises, Landlord may:\na. treat the Lease as terminated, retake possession for Landlord\u2019s own account, and any further liability of\nTenant will be ended;\nb. retake possession of the Premises for Tenant\u2019s account. Tenant will remain liable for the difference between\nrent agreed to be paid under the Lease and rent Landlord is able to recover in good faith from a new tenant; or\n{219312.0001/M1805246_3}\nc. do nothing, and Tenant will be liable for the rent as it comes due.\n6. If Landlord retakes possession of the Premises for Tenant\u2019s account, Landlord must make a good faith effort to re-\nlease the Premises. Any rent received by Landlord as a result of the new lease shall be deducted from the rent due\nfrom Tenant. For purposes of this section, \u201cgood faith\u201d in trying to re-lease the Premises means that Landlord\nshall use at least the same efforts to re-lease the Premises as were used in the initial rental or at least the same\nefforts as Landlord uses in attempting to lease other similar property. It does not require Landlord to give a\npreference in leasing the Premises over other vacant properties that Landlord owns or has the responsibility to\nrent.\nC. Other Remedies Each party also may have other remedies available at law or in equity.\nD. Defenses. In a lawsuit by Landlord for possession of the Premises based upon nonpayment of rent or in a lawsuit by\nLandlord seeking to obtain unpaid rent, Tenant may assert as a defense Landlord\u2019s failure to perform required\nmaintenance, as set forth in Section IX(A) above. Landlord\u2019s failure to provide elective maintenance, as set forth in\nSection IX(B) above, shall not be a defense to any lawsuit by Landlord for possession of the Premises unless otherwise\nprovided by the Lease or applicable law. Tenant also may raise any other defense, whether legal or equitable, that\nTenant may have, including the defense or retaliatory conduct.\nE. Payment of Rent to Court. In any lawsuit by Landlord for possession of the Premises, if Tenant raises any defense\nother than payment, Tenant must pay into the registry of the court the past due rent set forth in Landlord\u2019s complaint,\nor an amount determined by the court, and the rent which comes due during the lawsuit, as it comes due. Failure of\nTenant to pay the rent into the registry of the court will be a waiver of Tenant\u2019s defenses other than payment.\nF. Attorney\u2019s Fees. In any lawsuit brought to enforce the Lease or under applicable law, the party who wins may recover\nits reasonable court costs and attorneys\u2019 fees from the party who loses.\nXVII. RISK OF LOSS. Landlord shall not be liable for any loss by reason of damage, theft, or otherwise to the contents,\nbelongings, and personal effect of the Tenant, or Tenant\u2019s family, agents, employees, guests, or visitors located in or\nabout the Premises, or for damage or injury to Tenant or Tenant\u2019s family, agents, employees, guests, or visitors.\nLandlord shall not be liable if such damage, theft or loss is caused by Tenant, Tenant\u2019s family, agents, employees, guest\nor visitors. Nothing contained in this provision shall relieve Landlord or Tenant from responsibility for loss, damage or\ninjury caused by its own negligence or willful conduct.\nXVIII. SUBORDINATION. The Lease is subordinate to the lien of any mortgage encumbering the fee title to the Premises\nfrom time to time.\nXIX. LIENS. Tenant shall not have the right or authority to encumber the Premises or to permit any person to claim or assert\nany lien for the improvement or repair of the Premises made by Tenant. Tenant shall notify all parties performing work\non the Premises at Tenant\u2019s request that the Lease does not allow any liens to attach to Landlord\u2019s interest.\nXXI. RENEWAL/EXTENSION. The Lease can be renewed only by a written agreement signed by both Landlord and\nTenant, but no renewal may extend the term to a date more than 1 year after the lease begins. A new lease is\nrequired each year.\nXXII. MISCELLANEOUS:\nA. Time is of the essence of the Lease.\nB. The Lease and the HUD-approved Tenancy Addendum (form HUD-52641A), which is attached hereto and\nincorporated by reference, shall be binding upon and for the benefit of the heirs, personal representatives,\nsuccessors, and permitted assigns of Landlord and Tenant, subject to the requirements specifically mentioned in\nthe Lease. Whenever used, the singular number shall include the plural or singular and the use of any gender\nshall include all appropriate genders.\nC. In case of any conflict between the provisions of the Tenancy Addendum as required by HUD, and any other\nprovisions of the Lease or any other agreement between the owner and the tenant, the requirements of the HUD-\nrequired Tenancy Addendum shall control.\nD. The agreements contained in the Lease and the HUD-approved Tenancy Addendum set forth the complete\nunderstanding of the parties and may not be changed or terminated orally.\nE. No agreement to accept surrender of the Premises from Tenant will be valid unless in writing and signed by\nLandlord.\nF. All questions concerning the meaning, execution, construction, effect, validity, and enforcement of the Lease\nshall be determined pursuant to the laws of Florida.\n{219312.0001/M1805246_3}\nG. The place for filing any suits or other proceedings with respect to the Lease shall be the county in which the\nPremises is located.\nH. Landlord and Tenant will use good faith in performing their obligations under the Lease.\nI. As required by law, Landlord makes the following disclosure: \u201cRADON GAS.\u201d Radon is a naturally occurring\nradioactive gas that, when it has accumulated in a building in sufficient quantities, may present health risks to\npersons who are exposed to it over time. Levels of radon that exceed federal and state guidelines have been found\nin buildings in Florida. Additional information regarding radon and radon testing may be obtained from your\ncounty public health unit.\nJ. The Landlord hereto agrees to abide by terms and conditions of the Housing Assistance Payments Contract\n(\u201cHAP\u201d) between Landlord and MDPHA and with all rules and regulations of the MDPHA Housing Choice\nVoucher and/or Moderate Rehabilitation Program (\u201cProgram\u201d). The provision of the HAP and Program are\nincorporated herein by reference.\nThe Lease has been executed by the parties on the dates indicated below:\nExecuted by Landlord in the presence of:\nPrint Landlord Name\nPrint Name: By:\nLandlord\u2019s Signature\nPrint Name: As:\n2 witnesses needed for Landlord Date:\nExecuted by Tenant in the presence of:\nPrint Name: Tenant\u2019s signature\nPrint Tenant Name\nPrint Name: Date:\nPrint Name: Tenant\u2019s signature\nPrint Tenant Name\nPrint Name: Date:\n2 witnesses needed for each Tenant\nThis form was completed\nWith the assistance of\nName:\nAddress:\nTelephone No.\n{219312.0001/M1805246_3}",
+      "word_count": 3225,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_1",
+      "clause_number": "1",
+      "clause_title": "I",
+      "clause_type": "general",
+      "original_text": "nsect or Rodent Infestation",
+      "word_count": 4,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_2",
+      "clause_number": "2",
+      "clause_title": "I",
+      "clause_type": "general",
+      "original_text": "nsufficient plumbing facilities",
+      "word_count": 3,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_3",
+      "clause_number": "3",
+      "clause_title": "D",
+      "clause_type": "utilities",
+      "original_text": "angerous electrical outlets or wiring",
+      "word_count": 5,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_4",
+      "clause_number": "4",
+      "clause_title": "I",
+      "clause_type": "general",
+      "original_text": "nadequate sanitation facilities",
+      "word_count": 3,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_5",
+      "clause_number": "5",
+      "clause_title": "H",
+      "clause_type": "duration",
+      "original_text": "oles in walls or ceilings\nB. Tenant\u2019s Responsibilities: At all times during the Lease Term, Tenant shall:\n1. comply with all obligations imposed upon tenants by applicable provisions of building, housing, and\nhealth codes;\n2. keep the Premises clean and sanitary;\n3. remove all garbage from the dwelling unit clean, and sanitary, and in repair; and\n4. keep all plumbing fixtures in the dwelling unit clean, sanitary and in repair; and\n5. use and operate in a reasonable manner all electrical, plumbing, sanitary, heating, ventilating, air\nconditioning, and other facilities and appliances, including elevators.\nC. Repairs: Prior to the Commencement date of this agreement, Owner shall (at Owner\u2019s own cost and expense, and\nto the satisfaction of Tenant) put the premises in a condition that meets the Warrant of Habitability standard\nreferenced above and all other applicable standards from housing, building codes, health codes and Section 83.51\nof the Florida Statues. The Owner shall be responsible for all subsequent repairs as to keep and maintain the\npremises to the standards required by applicable housing, building codes, health codes and Section 83.51 of the\nFlorida Statues.\na. Time for Repairs:\ni. Non-emergency repairs will be made within 15 days of receipt of Repair Request Form.\nii. In the event that repairs are not completed within 15 days, Tenants may elect to EITHER:\n1. Pay for repairs and deduct the cost of repairs from the monthly rent rate. Deductions should be\nbased either on actual receipts or at rates equivalent to current standard; OR\n2. Exercise their legal right to abate rent payments until all repairs are completed.\nD. Right of Inspection: During the term of this lease and any renewal thereof, Owner and his agents shall only enter\ndescribed premises to conduct repairs or inspection upon 3-days written notice to Tenant AND after Tenant and\nOwner (or his agents) have agreed upon a date and time for the inspection or repair to occur. Owner shall not enter\nthe described premises without Tenant\u2019s permission, the only exception being in the case of emergency or when\nabsolutely necessary for the protection or preservation of the premises. Tenant agrees to not unreasonably\nwithhold consent to the Owner to enter the described premises.\nX. UTILITIES AND AMENITIES (Please check all that apply to the unit)\nUtilities\nElectricity bills will be paid by ___ Landlord ___ Tenant.\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nHeating bills will be paid by ___ Landlord ___Tenant.\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nRefrigerator will be provided by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nRange /Microwave will be provided by___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nAC bills will be paid by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nAC/Heating bills will be paid by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nOther Electric bills will be paid by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\n{219312.0001/M1805246_3}\nUtilities (continued)\nWater bills will be paid by ___ Landlord ___ Tenant.\nSewer bills will be paid by ___ Landlord ___ Tenant.\nTrash services will be paid by ___ Landlord ___ Tenant.\nAmenities\nGarbage Disposal ___ Cable ___\nDishwasher ___ Pool ___\nPest Control ___ Security System ___\nLawn Care ___ W/D Hookups ___\nWasher/Dryer in Unit ___ Ceiling Fans ___\nWasher/Dryer in Complex ___ Microwave (In addition ___\nto range)\nXI. LANDLORD\u2019S ACCESES TO PREMISES. Landlord or Landlord\u2019s Agent may enter the Premises in the following\ncircumstances:\nA. At any time for the protection or preservation of the Premises.\nB. After reasonable notice to Tenant at reasonable times for the purpose of repairing the Premises.\nC. To inspect the Premises; make necessary or agreed-upon repairs, decorations, alterations, or improvements; supply\nagreed services; or exhibit the Premises to prospective or actual purchasers, mortgagees, tenants, workers, or\ncontractors under any of the following circumstances:\n1. with Tenant\u2019s consent;\n2. in case of emergency;\n3. when Tenant unreasonably withholds consent; or\n4. if Tenant is absent from the Premises for a period of at least one-half a Rental Installment Period. (If the rent is\ncurrent and Tenant notifies the Landlord of an intended absence, then Landlord may enter only with Tenant\u2019s\nconsent for the protection or preservation of the Premises.\nXII. PROHIBITED ACTS BY LANDLORD.\nLandlord cannot cause, directly or indirectly, the termination or unreasonable interruption of any utility service\nfurnished to Tenant, including, but not limited to, water, heat, light, electricity, gas, elevator, garbage collection, or\nrefrigeration (whether or not the utility service is under the control of, or payment is made by, Landlord).\nLandlord cannot prevent Tenant\u2019s access to the Premises by any means, including, but not limited to, changing the\nlocks or using any bootlock or similar device.\nLandlord cannot remove the outside doors, locks, roof, walls, or windows of the Premises except for purposes of\nmaintenance, repair, or replacement. Landlord cannot remove Tenant\u2019s personal property from the Premises unless the\naction is taken after surrender, abandonment, or a lawful eviction. If provided in a written agreement separate from the\nLease, upon surrender or abandonment by Tenant, Landlord shall not be liable or responsible for storage or disposition\nof Tenant\u2019s personal property. (For the purpose of this section, abandonment means Tenant is absent from the\nPremises for at least one-half a Rental Installment Period without paying rent or giving Landlord reasonable notice of\nTenant\u2019s absence).\nXIII. CASUALTY DAMAGE. If the Premises are damaged or destroyed other than by wrongful or negligent acts of\nTenant or persons on the Premises with Tenant\u2019s consent, so that the use of the Premises is substantially impaired. Tenant\nmay terminate the Lease within 30 days after the damage or destruction and Tenant will immediately vacate the premises. If\nTenant vacates, Tenant is not liable for rent that would have been due after the date of termination. Tenant may vacate the\npart of the Premises rendered unusable by the damage or destruction, in which case Tenant\u2019s liability for rent shall be\nreduced by the fair rental value of the part of the Premises that was damaged or destroyed.\nXIV. DEFAULT.\nA. Landlord\u2019s Default. Except as noted below, Landlord will be in default if Landlord fails to comply with Landlord\u2019s\nrequired maintenance obligations under Section IX(A) or fails to comply with other material provisions of the Lease\nand such failure continues for more than 7 days after Tenant delivers a written notice to Landlord that tells Landlord\nhow Landlord has violated the Lease.\nIf Landlord\u2019s failure to comply is due to causes beyond the Landlord\u2019s control and if Landlord has made, and continues\nto make, every reasonable effort to correct the problem, the Lease may be altered by the parties, as follows:\n1. If Landlord\u2019s failure to comply makes the Premises uninhabitable and Tenant vacates, Tenant shall not be liable\n{219312.0001/M1805246_3}\nfor rent during the period the Premises remains uninhabitable.\n2. If Landlord\u2019s failure to comply does not make the Premises uninhabitable and Tenant continues to occupy the\nPremises, the rent for the period of noncompliance will be reduced by an amount in proportion to the loss of rental\nvalue caused by the noncompliance.\nB. Tenant\u2019s Default. Tenant will be in default if any of the following occur:\n1. Tenant fails to pay rent when due and the default continues for 3 days, excluding Saturday, Sunday and legal\nholidays, after delivery of written demand by Landlord for payment of the rent or possession of the Premises.\n2. Tenant fails to perform its obligations under the Lease, and the failure is such that Tenant should not be given an\nopportunity to correct it or the failure occurs within 12 months of a written warning by Landlord of a similar\nfailure. Examples of such failures which do not require an opportunity to correct include, but are not limited to,\ndestruction, damage, or misuse of Landlord\u2019s or other Tenant\u2019s property by an intentional act or a subsequent or\ncontinued unreasonable disturbance.\n3. Except as provided above, Tenant fails to perform any other obligation under the Lease and the default continues\nfor more than 7 days after deliver of written notice to Tenant from Landlord specifying the default.\nC. Waiver of Default. If Landlord accepts rent knowing of Tenant\u2019s default or accepts performance by Tenant of any\nprovision of the Lease different from the performance required by the Lease, if Tenant pays rent knowing of\nLandlord\u2019s default or accepts performance by Landlord of any provision of the Lease different from the performance\nrequired by the Lease, the party accepting the rent or performance or making the payment shall not have the right to\nterminate the Lease or to bring a lawsuit for that default, but may enforce any later default.\nXV. REMEDIES AND DEFENSES.\nA. Tenant\u2019s Remedies.\n1. If Landlord has defaulted under the Lease and if Tenant has given Landlord a written notice describing the default\nand Tenant\u2019s intention to withhold rent if the default is not corrected within 7 days, Tenant may withhold an\namount of rent equal to the loss in rental value caused by the default. If Tenant\u2019s notice advises Landlord that\nTenant intends to terminate the Lease if the default is not cured within 7 days and the default is not cured within\nthe 7 days, Tenant may terminate the Lease.\n2. If Tenant has given the notice referred to in subparagraph (1) above, and if Landlord has not corrected the default\nwithin 7 days, Tenant may, in addition to withholding the applicable amount of rent, file a lawsuit in county court\nto require Landlord to correct the default and for damages.\n3. If Landlord\u2019s default makes the Premises uninhabitable, and if Tenant has given Landlord a notice describing the\ndefault and informing Landlord that Tenant intends to terminate the Lease, then if Landlord does not cure the\ndefault within the 7-day period, Tenant may terminate the Lease at the end of the 7 days.\n4. If Landlord violates the provisions of Section XII, Landlord shall be liable to Tenant for actual and consequential\ndamages or 3 months\u2019 rent, whichever is greater, for each violation.\nB. Landlord\u2019s Remedies.\n1. If Tenant remains on the Premises after expiration or termination of the Lease without Landlord\u2019s permission,\nLandlord may recover possession of the Premises in the manner provided for by law. Landlord may also recover\ndouble rent for the period during which Tenant refuses to vacate the Premises.\n2. If Tenant defaults under the Lease by failing to pay rent, as set forth in section XIV(B)(1), Landlord may\nterminate Tenant\u2019s rights under the Lease and Tenant shall vacate the Premises immediately. If Tenant defaults\nunder the Lease for any other reason, as set forth in sections XIC(B)(2) or (3) above, Landlord may terminate\nTenant\u2019s rights under the Lease and Tenant shall vacate the Premises within 7 days of delivery of the notice of\ntermination.\n3. If Tenant fails to cure a default within the time specified in the notice to Tenant, Landlord may recover possession\nof the Premise as provided by law.\n4. Landlord shall not recover possession of the Premises except:\na. in a lawsuit for possession;\nb. when Tenant has surrendered possession of the Premises to Landlord; or\nc. when Tenant has abandoned the Premises. Absent actual knowledge of abandonment, the Premises shall be\nconsidered abandoned if Tenant is absent from them for at least one-half a Rental Installment Period, the rent\nis not current, and Tenant has not notified Landlord, in writing, of an intended absence.\n5. If Tenant has defaulted under the Lease and Landlord has obtained a writ of possession. If Tenant has surrendered\npossession of the Premises to Landlord or if Tenant has abandoned the Premises, Landlord may:\na. treat the Lease as terminated, retake possession for Landlord\u2019s own account, and any further liability of\nTenant will be ended;\nb. retake possession of the Premises for Tenant\u2019s account. Tenant will remain liable for the difference between\nrent agreed to be paid under the Lease and rent Landlord is able to recover in good faith from a new tenant; or\n{219312.0001/M1805246_3}\nc. do nothing, and Tenant will be liable for the rent as it comes due.",
+      "word_count": 2082,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_1",
+      "clause_number": "1",
+      "clause_title": "P",
+      "clause_type": "rent",
+      "original_text": "ay for repairs and deduct the cost of repairs from the monthly rent rate. Deductions should be\nbased either on actual receipts or at rates equivalent to current standard; OR",
+      "word_count": 30,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_2",
+      "clause_number": "2",
+      "clause_title": "E",
+      "clause_type": "duration",
+      "original_text": "xercise their legal right to abate rent payments until all repairs are completed.\nD. Right of Inspection: During the term of this lease and any renewal thereof, Owner and his agents shall only enter\ndescribed premises to conduct repairs or inspection upon 3-days written notice to Tenant AND after Tenant and\nOwner (or his agents) have agreed upon a date and time for the inspection or repair to occur. Owner shall not enter\nthe described premises without Tenant\u2019s permission, the only exception being in the case of emergency or when\nabsolutely necessary for the protection or preservation of the premises. Tenant agrees to not unreasonably\nwithhold consent to the Owner to enter the described premises.\nX. UTILITIES AND AMENITIES (Please check all that apply to the unit)\nUtilities\nElectricity bills will be paid by ___ Landlord ___ Tenant.\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nHeating bills will be paid by ___ Landlord ___Tenant.\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nRefrigerator will be provided by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nRange /Microwave will be provided by___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nAC bills will be paid by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nAC/Heating bills will be paid by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\nOther Electric bills will be paid by ___ Landlord ___ Tenant\nSelect a power source ___Natural Gas ___ Electric___ Heat Pump ___ Bottle Gas (Propane)\n{219312.0001/M1805246_3}\nUtilities (continued)\nWater bills will be paid by ___ Landlord ___ Tenant.\nSewer bills will be paid by ___ Landlord ___ Tenant.\nTrash services will be paid by ___ Landlord ___ Tenant.\nAmenities\nGarbage Disposal ___ Cable ___\nDishwasher ___ Pool ___\nPest Control ___ Security System ___\nLawn Care ___ W/D Hookups ___\nWasher/Dryer in Unit ___ Ceiling Fans ___\nWasher/Dryer in Complex ___ Microwave (In addition ___\nto range)\nXI. LANDLORD\u2019S ACCESES TO PREMISES. Landlord or Landlord\u2019s Agent may enter the Premises in the following\ncircumstances:\nA. At any time for the protection or preservation of the Premises.\nB. After reasonable notice to Tenant at reasonable times for the purpose of repairing the Premises.\nC. To inspect the Premises; make necessary or agreed-upon repairs, decorations, alterations, or improvements; supply\nagreed services; or exhibit the Premises to prospective or actual purchasers, mortgagees, tenants, workers, or\ncontractors under any of the following circumstances:\n1. with Tenant\u2019s consent;\n2. in case of emergency;\n3. when Tenant unreasonably withholds consent; or\n4. if Tenant is absent from the Premises for a period of at least one-half a Rental Installment Period. (If the rent is\ncurrent and Tenant notifies the Landlord of an intended absence, then Landlord may enter only with Tenant\u2019s\nconsent for the protection or preservation of the Premises.\nXII. PROHIBITED ACTS BY LANDLORD.\nLandlord cannot cause, directly or indirectly, the termination or unreasonable interruption of any utility service\nfurnished to Tenant, including, but not limited to, water, heat, light, electricity, gas, elevator, garbage collection, or\nrefrigeration (whether or not the utility service is under the control of, or payment is made by, Landlord).\nLandlord cannot prevent Tenant\u2019s access to the Premises by any means, including, but not limited to, changing the\nlocks or using any bootlock or similar device.\nLandlord cannot remove the outside doors, locks, roof, walls, or windows of the Premises except for purposes of\nmaintenance, repair, or replacement. Landlord cannot remove Tenant\u2019s personal property from the Premises unless the\naction is taken after surrender, abandonment, or a lawful eviction. If provided in a written agreement separate from the\nLease, upon surrender or abandonment by Tenant, Landlord shall not be liable or responsible for storage or disposition\nof Tenant\u2019s personal property. (For the purpose of this section, abandonment means Tenant is absent from the\nPremises for at least one-half a Rental Installment Period without paying rent or giving Landlord reasonable notice of\nTenant\u2019s absence).\nXIII. CASUALTY DAMAGE. If the Premises are damaged or destroyed other than by wrongful or negligent acts of\nTenant or persons on the Premises with Tenant\u2019s consent, so that the use of the Premises is substantially impaired. Tenant\nmay terminate the Lease within 30 days after the damage or destruction and Tenant will immediately vacate the premises. If\nTenant vacates, Tenant is not liable for rent that would have been due after the date of termination. Tenant may vacate the\npart of the Premises rendered unusable by the damage or destruction, in which case Tenant\u2019s liability for rent shall be\nreduced by the fair rental value of the part of the Premises that was damaged or destroyed.\nXIV. DEFAULT.\nA. Landlord\u2019s Default. Except as noted below, Landlord will be in default if Landlord fails to comply with Landlord\u2019s\nrequired maintenance obligations under Section IX(A) or fails to comply with other material provisions of the Lease\nand such failure continues for more than 7 days after Tenant delivers a written notice to Landlord that tells Landlord\nhow Landlord has violated the Lease.\nIf Landlord\u2019s failure to comply is due to causes beyond the Landlord\u2019s control and if Landlord has made, and continues\nto make, every reasonable effort to correct the problem, the Lease may be altered by the parties, as follows:\n1. If Landlord\u2019s failure to comply makes the Premises uninhabitable and Tenant vacates, Tenant shall not be liable\n{219312.0001/M1805246_3}\nfor rent during the period the Premises remains uninhabitable.\n2. If Landlord\u2019s failure to comply does not make the Premises uninhabitable and Tenant continues to occupy the\nPremises, the rent for the period of noncompliance will be reduced by an amount in proportion to the loss of rental\nvalue caused by the noncompliance.\nB. Tenant\u2019s Default. Tenant will be in default if any of the following occur:\n1. Tenant fails to pay rent when due and the default continues for 3 days, excluding Saturday, Sunday and legal\nholidays, after delivery of written demand by Landlord for payment of the rent or possession of the Premises.\n2. Tenant fails to perform its obligations under the Lease, and the failure is such that Tenant should not be given an\nopportunity to correct it or the failure occurs within 12 months of a written warning by Landlord of a similar\nfailure. Examples of such failures which do not require an opportunity to correct include, but are not limited to,\ndestruction, damage, or misuse of Landlord\u2019s or other Tenant\u2019s property by an intentional act or a subsequent or\ncontinued unreasonable disturbance.",
+      "word_count": 1127,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_1",
+      "clause_number": "1",
+      "clause_title": "I",
+      "clause_type": "duration",
+      "original_text": "f Landlord\u2019s failure to comply makes the Premises uninhabitable and Tenant vacates, Tenant shall not be liable\n{219312.0001/M1805246_3}\nfor rent during the period the Premises remains uninhabitable.",
+      "word_count": 27,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_2",
+      "clause_number": "2",
+      "clause_title": "I",
+      "clause_type": "duration",
+      "original_text": "f Landlord\u2019s failure to comply does not make the Premises uninhabitable and Tenant continues to occupy the\nPremises, the rent for the period of noncompliance will be reduced by an amount in proportion to the loss of rental\nvalue caused by the noncompliance.\nB. Tenant\u2019s Default. Tenant will be in default if any of the following occur:\n1. Tenant fails to pay rent when due and the default continues for 3 days, excluding Saturday, Sunday and legal\nholidays, after delivery of written demand by Landlord for payment of the rent or possession of the Premises.\n2. Tenant fails to perform its obligations under the Lease, and the failure is such that Tenant should not be given an\nopportunity to correct it or the failure occurs within 12 months of a written warning by Landlord of a similar\nfailure. Examples of such failures which do not require an opportunity to correct include, but are not limited to,\ndestruction, damage, or misuse of Landlord\u2019s or other Tenant\u2019s property by an intentional act or a subsequent or\ncontinued unreasonable disturbance.",
+      "word_count": 177,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_1",
+      "clause_number": "1",
+      "clause_title": "T",
+      "clause_type": "rent",
+      "original_text": "enant fails to pay rent when due and the default continues for 3 days, excluding Saturday, Sunday and legal\nholidays, after delivery of written demand by Landlord for payment of the rent or possession of the Premises.",
+      "word_count": 37,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_2",
+      "clause_number": "2",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "enant fails to perform its obligations under the Lease, and the failure is such that Tenant should not be given an\nopportunity to correct it or the failure occurs within 12 months of a written warning by Landlord of a similar\nfailure. Examples of such failures which do not require an opportunity to correct include, but are not limited to,\ndestruction, damage, or misuse of Landlord\u2019s or other Tenant\u2019s property by an intentional act or a subsequent or\ncontinued unreasonable disturbance.",
+      "word_count": 81,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "deadline"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_3",
+      "clause_number": "3",
+      "clause_title": "E",
+      "clause_type": "duration",
+      "original_text": "xcept as provided above, Tenant fails to perform any other obligation under the Lease and the default continues\nfor more than 7 days after deliver of written notice to Tenant from Landlord specifying the default.\nC. Waiver of Default. If Landlord accepts rent knowing of Tenant\u2019s default or accepts performance by Tenant of any\nprovision of the Lease different from the performance required by the Lease, if Tenant pays rent knowing of\nLandlord\u2019s default or accepts performance by Landlord of any provision of the Lease different from the performance\nrequired by the Lease, the party accepting the rent or performance or making the payment shall not have the right to\nterminate the Lease or to bring a lawsuit for that default, but may enforce any later default.\nXV. REMEDIES AND DEFENSES.\nA. Tenant\u2019s Remedies.\n1. If Landlord has defaulted under the Lease and if Tenant has given Landlord a written notice describing the default\nand Tenant\u2019s intention to withhold rent if the default is not corrected within 7 days, Tenant may withhold an\namount of rent equal to the loss in rental value caused by the default. If Tenant\u2019s notice advises Landlord that\nTenant intends to terminate the Lease if the default is not cured within 7 days and the default is not cured within\nthe 7 days, Tenant may terminate the Lease.\n2. If Tenant has given the notice referred to in subparagraph (1) above, and if Landlord has not corrected the default\nwithin 7 days, Tenant may, in addition to withholding the applicable amount of rent, file a lawsuit in county court\nto require Landlord to correct the default and for damages.\n3. If Landlord\u2019s default makes the Premises uninhabitable, and if Tenant has given Landlord a notice describing the\ndefault and informing Landlord that Tenant intends to terminate the Lease, then if Landlord does not cure the\ndefault within the 7-day period, Tenant may terminate the Lease at the end of the 7 days.",
+      "word_count": 327,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_1",
+      "clause_number": "1",
+      "clause_title": "I",
+      "clause_type": "duration",
+      "original_text": "f Landlord has defaulted under the Lease and if Tenant has given Landlord a written notice describing the default\nand Tenant\u2019s intention to withhold rent if the default is not corrected within 7 days, Tenant may withhold an\namount of rent equal to the loss in rental value caused by the default. If Tenant\u2019s notice advises Landlord that\nTenant intends to terminate the Lease if the default is not cured within 7 days and the default is not cured within\nthe 7 days, Tenant may terminate the Lease.",
+      "word_count": 88,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_2",
+      "clause_number": "2",
+      "clause_title": "I",
+      "clause_type": "rent",
+      "original_text": "f Tenant has given the notice referred to in subparagraph (1) above, and if Landlord has not corrected the default\nwithin 7 days, Tenant may, in addition to withholding the applicable amount of rent, file a lawsuit in county court\nto require Landlord to correct the default and for damages.",
+      "word_count": 50,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_3",
+      "clause_number": "3",
+      "clause_title": "I",
+      "clause_type": "duration",
+      "original_text": "f Landlord\u2019s default makes the Premises uninhabitable, and if Tenant has given Landlord a notice describing the\ndefault and informing Landlord that Tenant intends to terminate the Lease, then if Landlord does not cure the\ndefault within the 7-day period, Tenant may terminate the Lease at the end of the 7 days.",
+      "word_count": 52,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "deadline",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_4",
+      "clause_number": "4",
+      "clause_title": "I",
+      "clause_type": "duration",
+      "original_text": "f Landlord violates the provisions of Section XII, Landlord shall be liable to Tenant for actual and consequential\ndamages or 3 months\u2019 rent, whichever is greater, for each violation.\nB. Landlord\u2019s Remedies.\n1. If Tenant remains on the Premises after expiration or termination of the Lease without Landlord\u2019s permission,\nLandlord may recover possession of the Premises in the manner provided for by law. Landlord may also recover\ndouble rent for the period during which Tenant refuses to vacate the Premises.\n2. If Tenant defaults under the Lease by failing to pay rent, as set forth in section XIV(B)(1), Landlord may\nterminate Tenant\u2019s rights under the Lease and Tenant shall vacate the Premises immediately. If Tenant defaults\nunder the Lease for any other reason, as set forth in sections XIC(B)(2) or (3) above, Landlord may terminate\nTenant\u2019s rights under the Lease and Tenant shall vacate the Premises within 7 days of delivery of the notice of\ntermination.\n3. If Tenant fails to cure a default within the time specified in the notice to Tenant, Landlord may recover possession\nof the Premise as provided by law.\n4. Landlord shall not recover possession of the Premises except:\na. in a lawsuit for possession;\nb. when Tenant has surrendered possession of the Premises to Landlord; or\nc. when Tenant has abandoned the Premises. Absent actual knowledge of abandonment, the Premises shall be\nconsidered abandoned if Tenant is absent from them for at least one-half a Rental Installment Period, the rent\nis not current, and Tenant has not notified Landlord, in writing, of an intended absence.",
+      "word_count": 261,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_1",
+      "clause_number": "1",
+      "clause_title": "I",
+      "clause_type": "duration",
+      "original_text": "f Tenant remains on the Premises after expiration or termination of the Lease without Landlord\u2019s permission,\nLandlord may recover possession of the Premises in the manner provided for by law. Landlord may also recover\ndouble rent for the period during which Tenant refuses to vacate the Premises.",
+      "word_count": 47,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_2",
+      "clause_number": "2",
+      "clause_title": "I",
+      "clause_type": "termination",
+      "original_text": "f Tenant defaults under the Lease by failing to pay rent, as set forth in section XIV(B)(1), Landlord may\nterminate Tenant\u2019s rights under the Lease and Tenant shall vacate the Premises immediately. If Tenant defaults\nunder the Lease for any other reason, as set forth in sections XIC(B)(2) or (3) above, Landlord may terminate\nTenant\u2019s rights under the Lease and Tenant shall vacate the Premises within 7 days of delivery of the notice of\ntermination.",
+      "word_count": 75,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_3",
+      "clause_number": "3",
+      "clause_title": "I",
+      "clause_type": "termination",
+      "original_text": "f Tenant fails to cure a default within the time specified in the notice to Tenant, Landlord may recover possession\nof the Premise as provided by law.",
+      "word_count": 27,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "deadline",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_4",
+      "clause_number": "4",
+      "clause_title": "L",
+      "clause_type": "duration",
+      "original_text": "andlord shall not recover possession of the Premises except:\na. in a lawsuit for possession;\nb. when Tenant has surrendered possession of the Premises to Landlord; or\nc. when Tenant has abandoned the Premises. Absent actual knowledge of abandonment, the Premises shall be\nconsidered abandoned if Tenant is absent from them for at least one-half a Rental Installment Period, the rent\nis not current, and Tenant has not notified Landlord, in writing, of an intended absence.",
+      "word_count": 76,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_9_clause_5",
+      "clause_number": "5",
+      "clause_title": "I",
+      "clause_type": "duration",
+      "original_text": "f Tenant has defaulted under the Lease and Landlord has obtained a writ of possession. If Tenant has surrendered\npossession of the Premises to Landlord or if Tenant has abandoned the Premises, Landlord may:\na. treat the Lease as terminated, retake possession for Landlord\u2019s own account, and any further liability of\nTenant will be ended;\nb. retake possession of the Premises for Tenant\u2019s account. Tenant will remain liable for the difference between\nrent agreed to be paid under the Lease and rent Landlord is able to recover in good faith from a new tenant; or\n{219312.0001/M1805246_3}\nc. do nothing, and Tenant will be liable for the rent as it comes due.",
+      "word_count": 111,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_9_clause_6",
+      "clause_number": "6",
+      "clause_title": "I",
+      "clause_type": "maintenance",
+      "original_text": "f Landlord retakes possession of the Premises for Tenant\u2019s account, Landlord must make a good faith effort to re-\nlease the Premises. Any rent received by Landlord as a result of the new lease shall be deducted from the rent due\nfrom Tenant. For purposes of this section, \u201cgood faith\u201d in trying to re-lease the Premises means that Landlord\nshall use at least the same efforts to re-lease the Premises as were used in the initial rental or at least the same\nefforts as Landlord uses in attempting to lease other similar property. It does not require Landlord to give a\npreference in leasing the Premises over other vacant properties that Landlord owns or has the responsibility to\nrent.\nC. Other Remedies Each party also may have other remedies available at law or in equity.\nD. Defenses. In a lawsuit by Landlord for possession of the Premises based upon nonpayment of rent or in a lawsuit by\nLandlord seeking to obtain unpaid rent, Tenant may assert as a defense Landlord\u2019s failure to perform required\nmaintenance, as set forth in Section IX(A) above. Landlord\u2019s failure to provide elective maintenance, as set forth in\nSection IX(B) above, shall not be a defense to any lawsuit by Landlord for possession of the Premises unless otherwise\nprovided by the Lease or applicable law. Tenant also may raise any other defense, whether legal or equitable, that\nTenant may have, including the defense or retaliatory conduct.\nE. Payment of Rent to Court. In any lawsuit by Landlord for possession of the Premises, if Tenant raises any defense\nother than payment, Tenant must pay into the registry of the court the past due rent set forth in Landlord\u2019s complaint,\nor an amount determined by the court, and the rent which comes due during the lawsuit, as it comes due. Failure of\nTenant to pay the rent into the registry of the court will be a waiver of Tenant\u2019s defenses other than payment.\nF. Attorney\u2019s Fees. In any lawsuit brought to enforce the Lease or under applicable law, the party who wins may recover\nits reasonable court costs and attorneys\u2019 fees from the party who loses.\nXVII. RISK OF LOSS. Landlord shall not be liable for any loss by reason of damage, theft, or otherwise to the contents,\nbelongings, and personal effect of the Tenant, or Tenant\u2019s family, agents, employees, guests, or visitors located in or\nabout the Premises, or for damage or injury to Tenant or Tenant\u2019s family, agents, employees, guests, or visitors.\nLandlord shall not be liable if such damage, theft or loss is caused by Tenant, Tenant\u2019s family, agents, employees, guest\nor visitors. Nothing contained in this provision shall relieve Landlord or Tenant from responsibility for loss, damage or\ninjury caused by its own negligence or willful conduct.\nXVIII. SUBORDINATION. The Lease is subordinate to the lien of any mortgage encumbering the fee title to the Premises\nfrom time to time.\nXIX. LIENS. Tenant shall not have the right or authority to encumber the Premises or to permit any person to claim or assert\nany lien for the improvement or repair of the Premises made by Tenant. Tenant shall notify all parties performing work\non the Premises at Tenant\u2019s request that the Lease does not allow any liens to attach to Landlord\u2019s interest.\nXXI. RENEWAL/EXTENSION. The Lease can be renewed only by a written agreement signed by both Landlord and\nTenant, but no renewal may extend the term to a date more than 1 year after the lease begins. A new lease is\nrequired each year.\nXXII. MISCELLANEOUS:\nA. Time is of the essence of the Lease.\nB. The Lease and the HUD-approved Tenancy Addendum (form HUD-52641A), which is attached hereto and\nincorporated by reference, shall be binding upon and for the benefit of the heirs, personal representatives,\nsuccessors, and permitted assigns of Landlord and Tenant, subject to the requirements specifically mentioned in\nthe Lease. Whenever used, the singular number shall include the plural or singular and the use of any gender\nshall include all appropriate genders.\nC. In case of any conflict between the provisions of the Tenancy Addendum as required by HUD, and any other\nprovisions of the Lease or any other agreement between the owner and the tenant, the requirements of the HUD-\nrequired Tenancy Addendum shall control.\nD. The agreements contained in the Lease and the HUD-approved Tenancy Addendum set forth the complete\nunderstanding of the parties and may not be changed or terminated orally.\nE. No agreement to accept surrender of the Premises from Tenant will be valid unless in writing and signed by\nLandlord.\nF. All questions concerning the meaning, execution, construction, effect, validity, and enforcement of the Lease\nshall be determined pursuant to the laws of Florida.\n{219312.0001/M1805246_3}\nG. The place for filing any suits or other proceedings with respect to the Lease shall be the county in which the\nPremises is located.\nH. Landlord and Tenant will use good faith in performing their obligations under the Lease.\nI. As required by law, Landlord makes the following disclosure: \u201cRADON GAS.\u201d Radon is a naturally occurring\nradioactive gas that, when it has accumulated in a building in sufficient quantities, may present health risks to\npersons who are exposed to it over time. Levels of radon that exceed federal and state guidelines have been found\nin buildings in Florida. Additional information regarding radon and radon testing may be obtained from your\ncounty public health unit.\nJ. The Landlord hereto agrees to abide by terms and conditions of the Housing Assistance Payments Contract\n(\u201cHAP\u201d) between Landlord and MDPHA and with all rules and regulations of the MDPHA Housing Choice\nVoucher and/or Moderate Rehabilitation Program (\u201cProgram\u201d). The provision of the HAP and Program are\nincorporated herein by reference.\nThe Lease has been executed by the parties on the dates indicated below:\nExecuted by Landlord in the presence of:\nPrint Landlord Name\nPrint Name: By:\nLandlord\u2019s Signature\nPrint Name: As:\n2 witnesses needed for Landlord Date:\nExecuted by Tenant in the presence of:\nPrint Name: Tenant\u2019s signature\nPrint Tenant Name\nPrint Name: Date:\nPrint Name: Tenant\u2019s signature\nPrint Tenant Name\nPrint Name: Date:\n2 witnesses needed for each Tenant\nThis form was completed\nWith the assistance of\nName:\nAddress:\nTelephone No.\n{219312.0001/M1805246_3}",
+      "word_count": 1039,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "notice",
+        "restriction"
+      ]
+    }
+  ]
+}

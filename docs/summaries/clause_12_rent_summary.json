@@ -1,0 +1,41 @@
+{
+  "original_text": "CLAUSE 12: L\nRisk Level: standard Word Count: 185\nATE RENT PAYMENTS. In the event Tenant’s full rental payment is not received in the office of\nLandlord by 5:00 PM on the 5 day of each month, Tenant agrees to pay a late fee of 10% of the\nmonthly rental. Tenant agrees to pay an additional $5.00 each day of delay beyond the 6 of each\nmonth until the day the amount is paid in full. Tenant agrees not to submit post-dated checks for\npayments due. Without prior agreement with Landlord, any check received by Landlord will be promptly\ndeposited. Any penalties imposed by Tenant’s bank will be Tenant’s responsibility. For any check\nreturned by Landlord’s bank for any reason Tenant also agrees to pay any associated late fees, a\nhandling fee of $50.00 or the maximum allowed by law, in addition to interest, as allowed by law. Tenant\nunderstands and expressly authorizes Landlord to electronically debit their account for the amount of\nfees in addition to amount of returned payment. Landlord reserves the right to require a cashier’s check\nor money order in payment of rent. Cash is not accepted for any payment.",
+  "plain_english": "This payment requires compliance with  $5.00,  $50.00.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 25. Factors: interest(5), late fee(6), deposit(3), numeric:percentage:10.0(9), conditionals:1(2)",
+  "clause_heading": "CLAUSE 12: L",
+  "word_count": 194,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [
+    "money: $5.00",
+    "money: $50.00",
+    "percentage: 10%",
+    "timeframe: 5 day",
+    "late_fees: late fee of 10%"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 0.6,
+  "numeric_obligations": [
+    "percentage: 10%",
+    "money: $5.00",
+    "money: $50.00",
+    "days: 5 day",
+    "late_fee: late fee of 10%"
+  ],
+  "conditional_language": [
+    "In the event"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_12_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 198,
+    "word_count_cleaned": 194,
+    "cleaning_ratio": 0.9797979797979798,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

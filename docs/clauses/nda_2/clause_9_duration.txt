@@ -1,0 +1,45 @@
+CLAUSE 9: N
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 200
+------------------------------------------------------------
+
+otices. Any notice or communication required or permitted by this Agreement shall be given in
+writing and addressed as follows:
+If to Nation:
+Name:
+Title:
+Address:
+City: _______________, State: ______, ZIP_________
+Phone:
+Fax:
+With a copy to:
+Tribe
+Legal Department
+If to Company:
+Name:
+Title:
+Address:
+City:
+Phone:
+Fax:
+Notices shall be served personally, by telecopy, facsimile, overnight express mail service, or first-class,
+certified mail, return receipt requested, postage pre-paid. If served personally, by telecopy, or facsimile,
+notice shall be deemed delivered upon receipt. If mailed by overnight express mail service, notice shall be
+deemed delivered 24 hours after mailing. If mailed by first-class, certified mail with return receipt
+verification, then notice shall be deemed delivered the earlier of seventy-two (72) hours after mailing, or
+the date set forth on the signed receipt, if any. Either party may give notification to the other party in any
+manner described above for changes of address for the sending of notices.
+The person who signs below on behalf of Company warrants that he/she is authorized to bind Company to
+the terms contained herein.
+COMPANY
+Signed: _________________________________
+Print Name: _____________________________
+Title: _________________________________
+Date: _________________________________
+Tribe
+Signed: _________________________________
+Print Name: _____________________________
+Title: ___________________________________
+Date: ___________________________________

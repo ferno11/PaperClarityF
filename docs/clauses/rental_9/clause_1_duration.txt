@@ -1,0 +1,10 @@
+CLAUSE 1: I
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 47
+------------------------------------------------------------
+
+f Tenant remains on the Premises after expiration or termination of the Lease without Landlord’s permission,
+Landlord may recover possession of the Premises in the manner provided for by law. Landlord may also recover
+double rent for the period during which Tenant refuses to vacate the Premises.

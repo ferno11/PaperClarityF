@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 15: T\nRisk Level: standard Word Count: 25\nhat this Rent Agreement can be terminated before the expiry of this tenancy period by\nserving One month prior notice in writing by either party.",
+  "plain_english": "This duration requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 4. Factors: notice(4)",
+  "clause_heading": "CLAUSE 15: T",
+  "word_count": 34,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "duration",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_15_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 38,
+    "word_count_cleaned": 34,
+    "cleaning_ratio": 0.8947368421052632,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

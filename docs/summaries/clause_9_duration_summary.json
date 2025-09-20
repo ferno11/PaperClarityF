@@ -1,0 +1,36 @@
+{
+  "original_text": "CLAUSE 9: N\nRisk Level: standard Word Count: 200\notices. Any notice or communication required or permitted by this Agreement shall be given in\nwriting and addressed as follows:\nIf to Nation:\nCity: _______________, State: ______, ZIP_________ With a copy to:\nIf to Company:\nNotices shall be served personally, by telecopy, facsimile, overnight express mail service, or first-class,\ncertified mail, return receipt requested, postage pre-paid. If served personally, by telecopy, or facsimile,\nnotice shall be deemed delivered upon receipt. If mailed by overnight express mail service, notice shall be\ndeemed delivered 24 hours after mailing. If mailed by first-class, certified mail with return receipt\nverification, then notice shall be deemed delivered the earlier of seventy-two (72) hours after mailing, or\nthe date set forth on the signed receipt, if any. Either party may give notification to the other party in any\nmanner described above for changes of address for the sending of notices.\nThe person who signs below on behalf of Company warrants that he/she is authorized to bind Company to\nthe terms contained herein.\nPrint Name: _____________________________ Print Name: _____________________________",
+  "plain_english": "This restrictions requires compliance with  24 hours.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 13. Factors: notice(4), address(1), conditionals:4(8)",
+  "clause_heading": "CLAUSE 9: N",
+  "word_count": 181,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "restrictions",
+  "key_entities": [
+    "timeframe: 24 hours"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "hours: 24 hours"
+  ],
+  "conditional_language": [
+    "if",
+    "may",
+    "If",
+    "then"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_9_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 213,
+    "word_count_cleaned": 181,
+    "cleaning_ratio": 0.8497652582159625,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

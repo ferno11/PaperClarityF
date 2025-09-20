@@ -1,0 +1,30 @@
+{
+  "original_text": "CLAUSE 6: A\nRisk Level: medium Word Count: 72\nUTHORIZED OCCUPANTS. In addition to the Tenant, only the following authorized occupants\napproved by Landlord, and no others may occupy the Premises:\nherein referred to as “Occupant”, whether singular or plural. Tenant shall be responsible for Occupant’s\nor Occupant’s guest(s)’ actions on and damages to Premises. Tenant shall notify Landlord, in writing,\nwhen an Occupant has vacated Premises. Occupants do not have rights and obligations as a Tenant\nunder this Rental Agreement.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 12. Factors: damages(8), conditionals:2(4)",
+  "clause_heading": "CLAUSE 6: A",
+  "word_count": 81,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.8641975308641976,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may",
+    "when"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_6_liability.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 85,
+    "word_count_cleaned": 81,
+    "cleaning_ratio": 0.9529411764705882,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

@@ -1,0 +1,9 @@
+CLAUSE 1: T
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 23
+------------------------------------------------------------
+
+erm. This Agreement shall commence on [DATE] and shall terminate, unless
+earlier terminated as authorized by Section 6, below, on [DATE] (the “Term”).

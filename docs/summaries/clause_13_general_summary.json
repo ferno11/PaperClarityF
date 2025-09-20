@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 13: S\nRisk Level: standard Word Count: 49\neverability. Inthe event any one or more of the provisions.of this\nAgreement shall for any reason he held invalid, illegal or unenforceable, the remaining\nprovisions of this Agreement shall be unimpaired, and the invalid, illegal or\nunenforceable provision shall be replaced by a mutually acceptable valid and",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 13: S",
+  "word_count": 56,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_13_general.txt",
+    "processed_timestamp": "2025-09-20 05:34:23",
+    "word_count_original": 62,
+    "word_count_cleaned": 56,
+    "cleaning_ratio": 0.9032258064516129,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

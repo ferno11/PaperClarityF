@@ -1,0 +1,30 @@
+{
+  "original_text": "CLAUSE 6: L\nRisk Level: medium Word Count: 255\nIABLE FOR DAMAGES: It is agreed that any damages caused by the lessee in\nthe schedule property shall be made good by the lessee promptly.\n7, ADDITIONS AND ALTERATIONS: The lessee shall not make any additions or\nalteration in the premises, without written consent of lessor.\n8. USER: The schedule property shall be used by the lessee for Residential Purpose\nOnly. And shall not use for any unlawful/illegal or business purpose. The lessee\nwill not store hazardous and inflammable articles like explosives and petroleum\n9. TAXES AND CESSES: The lessor shall bear and pay taxes, rates and cesses in\nregard to the schedule property.\n10. SUB LEASE: The lessee shall not be entitled or permitted to assign, underlet or\nsublet the schedule premises or any part thereof or part with possession of the\ndemised property or any part thereof to anybody whatsoever.\n11. PAINTING CHARGES: the tenant should pay painting at the time of vacating\nthe premises. Or get the painted by his own or deducted one month rent from the\n12. TERMINATION OF THE RENT: In the event of Tenant/Owner wanting the\nScheduled Premises to be vacated, they shall give a notice of 3(Three) months\n13. In case tenant fails to pay the stipulated rent continuously for more than two\nmonths and commits breach of any of the terms, the owners hereby reserves the\nright to terminate the agreement and shall have every right to evict the tenant and\ntake possession of the said schedule premises without any notice.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 32. Factors: termination(9), damages(8), breach(7), notice(4), conditionals:2(4)",
+  "clause_heading": "CLAUSE 6: L",
+  "word_count": 259,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.27027027027027023,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "In the event",
+    "should"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_6_termination.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 268,
+    "word_count_cleaned": 259,
+    "cleaning_ratio": 0.9664179104477612,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

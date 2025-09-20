@@ -1,0 +1,30 @@
+{
+  "original_text": "CLAUSE 16: T\nRisk Level: standard Word Count: 82\nhe Tenant shall maintain the Demised Premises in good and tenable condition and all the\nminor repairs such as leakage in the sanitary fittings, water taps and electrical usage etc. shall be\ncarried out by the Tenant. That it shall be the responsibility of the Tenant to hand over the vacant\nand peaceful possession of the demised premises on expiry of the Rent period, or on its early\ntermination, as stated hereinabove in the same condition subject to natural wear and tear.",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 13. Factors: termination(9), conditionals:2(4)",
+  "clause_heading": "CLAUSE 16: T",
+  "word_count": 91,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.7692307692307693,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "condition",
+    "subject to"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_16_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 95,
+    "word_count_cleaned": 91,
+    "cleaning_ratio": 0.9578947368421052,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

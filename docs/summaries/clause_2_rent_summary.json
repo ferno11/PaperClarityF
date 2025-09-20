@@ -1,0 +1,34 @@
+{
+  "original_text": "CLAUSE 2: I\nRisk Level: medium Word Count: 50\nf Tenant has given the notice referred to in subparagraph (1) above, and if Landlord has not corrected the default\nwithin 7 days, Tenant may, in addition to withholding the applicable amount of rent, file a lawsuit in county court\nto require Landlord to correct the default and for damages.",
+  "plain_english": "This payment requires compliance with  7 days.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 39. Factors: damages(8), default(7), lawsuit(10), notice(4), numeric:days:7.0(6)",
+  "clause_heading": "CLAUSE 2: I",
+  "word_count": 59,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "payment",
+  "key_entities": [
+    "timeframe: 7 days"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "days: 7 days"
+  ],
+  "conditional_language": [
+    "may",
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_2_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 63,
+    "word_count_cleaned": 59,
+    "cleaning_ratio": 0.9365079365079365,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

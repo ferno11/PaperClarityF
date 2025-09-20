@@ -1,0 +1,30 @@
+{
+  "original_text": "CLAUSE 31: N\nRisk Level: medium Word Count: 304\nON-LIABILITY OF LANDLORD. Landlord shall not be liable for any injury or damage to persons\nor property either caused by or resulting from falling plaster or drywall, dampness, overflow or leakage\nupon or into the Premises of water, rain, snow, ice, sewage, steam, gas, or electricity, or by any\nbreakage in or malfunction of electronically locking doors, video cameras, pipes, plumbing fixtures, sump\npumps, air conditioners, or appliances, or leakage, breakage, or obstruction of soil pipes, nor for any\ninjury or damage from any other cause unless any such injury or damage is the result of willful\nmisconduct or gross negligence of Landlord. Tenant acknowledges that basement rooms are not\nconsidered watertight and may, on occasion, take on water. Tenant shall give prompt notice to Landlord\nof any of the foregoing occurrences, however caused. In addition, Landlord is not responsible for theft of\nTenant’s personal property or any other criminal acts by known or unknown third parties on or near\nPremises. It shall be the responsibility of Tenant to obtain insurance to cover loss or damage to personal\nproperty. A breach by any other tenant of any term of that tenant’s rental agreement shall not constitute a\nbreach by Landlord of any obligation to Tenant hereunder. Tenant hereby releases Landlord from any\nliability resulting from the acts of third persons who are not agents of Woodard Properties, or from other\ntenants. There shall be no rent reductions, compensation to Tenant, or cause for termination of this\nRental Agreement because of interruptions of any utilities or services or the failure of any appliance to\nfunction properly or because of any inconvenience arising from such interruption or failure to function\nproperly where Landlord has been notified of any such interruption, malfunction, or failure of the above\nservices by Tenant and has made reasonable efforts to repair.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 32. Factors: termination(9), liability(8), breach(7), notice(4), conditionals:2(4)",
+  "clause_heading": "CLAUSE 31: N",
+  "word_count": 313,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.22364217252396165,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may",
+    "unless"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_31_maintenance.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 317,
+    "word_count_cleaned": 313,
+    "cleaning_ratio": 0.9873817034700315,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

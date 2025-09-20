@@ -1,0 +1,14 @@
+CLAUSE 2: E
+============================================================
+Type: confidentiality
+Risk Level: standard
+Word Count: 82
+------------------------------------------------------------
+
+xclusions from Confidential Information. Receiving Party's obligations under this
+Agreement do not extend to information that is: (a) publicly known at the time of disclosure or
+subsequently becomes publicly known through no fault of the Receiving Party; (b) discovered or
+created by the Receiving Party before disclosure by Disclosing Party; (c) learned by the
+Receiving Party through legitimate means other than from the Disclosing Party or Disclosing
+Party's representatives; or (d) is disclosed by Receiving Party with Disclosing Party's prior
+written approval.

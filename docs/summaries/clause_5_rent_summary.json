@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 5: P\nRisk Level: standard Word Count: 90\nayment will be made directly to the Property Management Company/Landlord at the address\nstated above (or at a designated online website portal that has been directed by the Property\nManagement Company for residents of said property). Payment can be made using a debit card\nor credit card for an additional fee of [Additional fee amount]. It can also be paid by mail or in\nperson by check in the Property Management Office of the Landlord.\nNote that the first rent payment is required upon the Tenant signing this Contract Agreement.",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 1. Factors: address(1)",
+  "clause_heading": "CLAUSE 5: P",
+  "word_count": 99,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.7070707070707071,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_5_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 103,
+    "word_count_cleaned": 99,
+    "cleaning_ratio": 0.9611650485436893,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

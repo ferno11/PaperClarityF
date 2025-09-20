@@ -1,0 +1,13 @@
+CLAUSE 4: T
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 65
+------------------------------------------------------------
+
+ime Periods. The nondisclosure provisions of this Agreement shall survive the termination
+of this Agreement and Receiving Party's duty to hold Confidential Information in confidence
+shall remain in effect until the Confidential Information no longer qualifies as a trade secret or
+until Disclosing Party sends Receiving Party written notice releasing Receiving Party from this
+Agreement, whichever occurs first.
+Copyright © 2020 NonDisclosureAgreement.com. All Rights Reserved.

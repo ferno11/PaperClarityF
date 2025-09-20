@@ -1,0 +1,13 @@
+CLAUSE 5: T
+============================================================
+Type: termination
+Risk Level: standard
+Word Count: 74
+------------------------------------------------------------
+
+ermination. Either party may terminate this Agreement with thirty (30) days
+prior written notice to the other party. Vendor hereby acknowledges and agrees that,
+notwithstanding anything to the contrary contained in this Agreement, in the event of
+such termination, Pace shall only be liable for, and Vendor agrees only to retain,
+payment of the portion of the fee earned as a result of Work actually and satisfactorily
+performed through the effective date of termination.

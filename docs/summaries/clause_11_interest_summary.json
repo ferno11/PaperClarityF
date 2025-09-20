@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 11: C\nRisk Level: standard Word Count: 175\nompliance With Laws. Vendor warrants that the Work shall be accomplished\nin compliance with all applicable Federal, State and local laws, ordinances, rules,\nregulations and codes, including, but not limited to, U.S. Occupational Safety and\nHealth Administration (“OSHA”) requirements; applicable provisions of paragraphs (1) through (7) of section 202 of Executive Order 11246 relating to Equal\nEmployment Opportunity; section 402 of the Vietnam Era Veterans Readjustment\nAct of 1974, as amended; and section 503 of the Rehabilitation Act of 1973. Vendor\nand its subcontractors, employees, and agents shall obtain and maintain in full force\nand effect, all necessary permits, licenses, and authorizations required by\ngovernmental and quasi-governmental agencies. Vendor shall advise Pace of all\npermits and licenses required to be obtained in Pace’s own name for the Work to be\nprovided hereunder, and shall cooperate with Pace in obtaining the same. Vendor\nshall not solicit, possess, or use in any manner tools and equipment, including but not\nlimited to ladders, hand tools, lifts or power tools, that are the property of Pace or its",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 5. Factors: compliance(5)",
+  "clause_heading": "CLAUSE 11: C",
+  "word_count": 183,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.3825136612021858,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_11_interest.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 188,
+    "word_count_cleaned": 183,
+    "cleaning_ratio": 0.973404255319149,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 20: A\nRisk Level: standard Word Count: 55\nBANDONMENT. Abandonment of Premises (whether or not the keys are returned and accepted\nby Landlord) will entitle Landlord to immediate possession and the option to terminate this Rental\nAgreement, and/or authorization to find a new tenant, and remove any remaining personal effects therein\nand dispose of the same in a manner consistent with Virginia law.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 20: A",
+  "word_count": 64,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_20_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 68,
+    "word_count_cleaned": 64,
+    "cleaning_ratio": 0.9411764705882353,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

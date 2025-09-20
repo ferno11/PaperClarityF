@@ -1,0 +1,40 @@
+{
+  "original_text": "CLAUSE 23: R\nRisk Level: standard Word Count: 174\nEPAIRS. Tenant agrees to pay the reasonable costs of repairs or maintenance tasks necessitated\nby the deliberate or negligent acts or omissions of Tenant, Occupants, or guests of Tenant, unknown\nparties, or vandals. Said repairs or maintenance tasks shall be arranged by Landlord unless Landlord\ngives written permission for Tenant to accomplish the repairs or tasks. If employees of Landlord make\nrepairs (including but not limited to extermination, cleaning, removing trash, replacement of smoke\ndetectors, batteries, light bulbs and painting) to Premises during the term of this Rental Agreement or\nupon termination of this Rental Agreement, the rate shall be $55 per hour for labor, plus the cost of\nmaterials, plus overhead of 20% of labor and materials. After normal business hours or on weekends\nand holidays labor shall be charged at a rate of $82.50 per hour. A minimum charge of one hour for\nlabor shall be assessed on all repair charges. If a subcontractor of Landlord makes such repairs to the\nPremises, the charge will be the amount invoiced, plus 20% overhead.",
+  "plain_english": "This payment requires compliance with  $55,  $82.50.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 26. Factors: termination(9), maintenance(3), business hours(1), numeric:percentage:20.0(9), conditionals:2(4)",
+  "clause_heading": "CLAUSE 23: R",
+  "word_count": 183,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [
+    "money: $55",
+    "money: $82.50",
+    "percentage: 20%",
+    "percentage: 20%"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 0.5,
+  "numeric_obligations": [
+    "percentage: 20%",
+    "percentage: 20%",
+    "money: $55",
+    "money: $82.50"
+  ],
+  "conditional_language": [
+    "If",
+    "unless"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_23_maintenance.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 187,
+    "word_count_cleaned": 183,
+    "cleaning_ratio": 0.9786096256684492,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

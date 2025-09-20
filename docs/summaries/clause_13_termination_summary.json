@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 13: A\nRisk Level: standard Word Count: 35\nssignment: Borrower shall not assign this Agreement, in whole or in part, without the\nwritten consent of Lender. Lender may assign all or any portion of this Agreement with written\nnotice to Borrower.",
+  "plain_english": "This termination requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 6. Factors: notice(4), conditionals:1(2)",
+  "clause_heading": "CLAUSE 13: A",
+  "word_count": 42,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "termination",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_13_termination.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 48,
+    "word_count_cleaned": 42,
+    "cleaning_ratio": 0.875,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "original_text": "CLAUSE 5: I\nRisk Level: standard Word Count: 111\nf Tenant has defaulted under the Lease and Landlord has obtained a writ of possession. If Tenant has surrendered\npossession of the Premises to Landlord or if Tenant has abandoned the Premises, Landlord may:\na. treat the Lease as terminated, retake possession for Landlord’s own account, and any further liability of\nTenant will be ended;\nb. retake possession of the Premises for Tenant’s account. Tenant will remain liable for the difference between\nrent agreed to be paid under the Lease and rent Landlord is able to recover in good faith from a new tenant; or\nc. do nothing, and Tenant will be liable for the rent as it comes due.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 21. Factors: liability(8), default(7), conditionals:3(6)",
+  "clause_heading": "CLAUSE 5: I",
+  "word_count": 119,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.5882352941176471,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "if",
+    "may",
+    "If"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_5_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 124,
+    "word_count_cleaned": 119,
+    "cleaning_ratio": 0.9596774193548387,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

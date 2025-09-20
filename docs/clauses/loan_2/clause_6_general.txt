@@ -1,0 +1,10 @@
+CLAUSE 6: C
+============================================================
+Type: general
+Risk Level: standard
+Word Count: 26
+------------------------------------------------------------
+
+osts and Expenses: Borrower shall pay to the Lender all costs of collection, including
+​ ​
+reasonable attorney's fees, the Lender incurs in enforcing this Agreement.

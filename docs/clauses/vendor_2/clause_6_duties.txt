@@ -1,0 +1,20 @@
+CLAUSE 6: N
+============================================================
+Type: duties
+Risk Level: standard
+Word Count: 172
+------------------------------------------------------------
+
+o Employment Relationship Created. It is understood and agreed between the
+parties that the Agreement is not intended to nor does it create an employment
+contract between Pace, on the one hand, and Vendor and any of its employees, on the
+other, nor does it create a joint relationship or partnership between the parties hereto.
+Neither Vendor nor its employees are entitled to benefits that Pace provides for Pace
+employees. Vendor’s relationship to Pace is solely and exclusively that of an
+independent contractor. Pace is interested only in the results to be achieved and the
+conduct and control of the Work shall be solely with Vendor. Vendor shall be
+permitted to engage in any business and perform services for its own accounts,
+provided that the Work is not compromised. Except as specifically permitted in this
+Agreement, neither party shall use the name or trademarks of the other party or incur
+any obligation or expense for or on behalf of the other party without the other party’s
+prior written consent in each instance.

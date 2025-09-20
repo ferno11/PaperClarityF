@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 4: G\nRisk Level: standard Word Count: 64\nuarantee: Guarantor’s Full Name, located at Guarantor’s Complete Address (the\n​ ​ ​ ​ ​ ​ “Guarantor”) promises to unconditionally guarantee to the Lender, the full payment and\nperformance by Borrower of all duties and obligations arising under this Agreement. The\nGuarantor agrees that this guarantee shall remain in full force and effect and be binding on the\nGuarantor until this Agreement is satisfied.",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 1. Factors: address(1)",
+  "clause_heading": "CLAUSE 4: G",
+  "word_count": 73,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.958904109589041,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_4_duties.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 77,
+    "word_count_cleaned": 73,
+    "cleaning_ratio": 0.948051948051948,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

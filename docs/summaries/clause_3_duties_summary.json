@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 3: E\nRisk Level: standard Word Count: 69\nxpertise. Vendor warrants to Pace that it has sufficient staff available to\nperform the Work and that all individuals providing Work have the background,\ntraining and experience to perform properly the Work to be delivered under this\nAgreement and/or, as appropriate, for adequately supervising such individuals at the\nworksite(s), and/or, as appropriate, that the good(s) it provides hereunder shall\nperform as the Vendor has advertised or represented to Pace.",
+  "plain_english": "This termination requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 3: E",
+  "word_count": 78,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "termination",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.8974358974358974,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_3_duties.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 82,
+    "word_count_cleaned": 78,
+    "cleaning_ratio": 0.9512195121951219,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

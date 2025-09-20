@@ -1,0 +1,31 @@
+{
+  "original_text": "CLAUSE 3: E\nRisk Level: standard Word Count: 42\nxpense payments Actual direct and indirect operating costs associated with expense payment plus a\nmark-up determined by the service provider at its absolute discretion.\nHowever, the mark-up must not exceed 10% of actual direct and indirect operating\ncosts to the service provider.",
+  "plain_english": "This payment requires compliance with  10%.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 9. Factors: numeric:percentage:10.0(9)",
+  "clause_heading": "CLAUSE 3: E",
+  "word_count": 51,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [
+    "percentage: 10%"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "percentage: 10%"
+  ],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_3_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 55,
+    "word_count_cleaned": 51,
+    "cleaning_ratio": 0.9272727272727272,
+    "has_numeric_obligations": true,
+    "has_conditional_language": false
+  }
+}

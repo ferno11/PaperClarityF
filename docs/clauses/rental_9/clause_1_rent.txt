@@ -1,0 +1,9 @@
+CLAUSE 1: T
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 37
+------------------------------------------------------------
+
+enant fails to pay rent when due and the default continues for 3 days, excluding Saturday, Sunday and legal
+holidays, after delivery of written demand by Landlord for payment of the rent or possession of the Premises.

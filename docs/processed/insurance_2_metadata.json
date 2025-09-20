@@ -1,0 +1,10 @@
+{
+  "original_file": "insurance_2.pdf",
+  "doc_type": "insurance",
+  "method_used": "PDFPlumber",
+  "quality_score": 47296,
+  "word_count": 7537,
+  "encoding_issues": 0,
+  "has_structure": true,
+  "extraction_timestamp": "2025-09-16T14:57:42.574155"
+}

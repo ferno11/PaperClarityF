@@ -1,0 +1,23 @@
+CLAUSE 14: I
+============================================================
+Type: duration
+Risk Level: medium
+Word Count: 182
+------------------------------------------------------------
+
+ndemnification. Vendor agrees to defend, indemnify, and hold harmless Pace
+University, its successors and assigns, and their respective trustees, officers,
+employees, and agents (the “Indemnified Parties”) to the fullest extent permitted by
+law from and against any and all claims or demands whatsoever, including, but not
+limited to, associated costs, expenses, and reasonable attorneys’ fees incurred on
+account thereof (“Claims”) asserted against Pace as a result of Vendor’s work or
+performance or non-performance of this Agreement, including, but not limited to,
+Claims that may be asserted by any person(s), including, but not limited to,
+Consultant’s employees and employees of Vendor’s subcontractors or agents
+(“Claimants”), for loss, damage, death, injury, sexual harassment, or molestation to or
+of persons or property; or, where applicable, infringement of any third-party
+intellectual property rights, including, but not limited to, those of copyright; or, where
+applicable, unauthorized release of or failure to protect confidential information of all
+types, including, but not limited to, personally identifiable information (PII) or
+electronic protected health information (ePHI) (“Losses”) arising in any manner out
+of or incident to Vendor’s performance or nonperformance hereunder.

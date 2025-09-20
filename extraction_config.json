@@ -1,0 +1,173 @@
+{
+  "quality_threshold": 100,
+  "min_text_length": 50,
+  "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "encoding_fixes": {
+    "\u00e2\u20ac\u0153": "\"",
+    "\u00e2\u20ac": "\u00a5",
+    "\u00e2\u20ac\u02dc": "'",
+    "\u00e2\u20ac\u2122": "'",
+    "\u00e2\u20ac\"": "-",
+    "\u00e2\u20ac\u00a2": "\u2022",
+    "\u00e2\u20ac\u00a6": "...",
+    "BEngaluru": "Bengaluru",
+    "Kamataka": "Karnataka",
+    "\u00e2\u20ac\u0153LESSOR/OWNER\u00e2\u20ac": "\"LESSOR/OWNER\"",
+    "\u00e2\u20ac\u0153LESSEES/TENANTS\u00e2\u20ac": "\"LESSEES/TENANTS\""
+  },
+  "document_patterns": {
+    "rental": {
+      "filename_keywords": [
+        "rental",
+        "lease"
+      ],
+      "content_patterns": [
+        "RENTAL AGREEMENT",
+        "LEASE AGREEMENT",
+        "LESSOR",
+        "LESSEE"
+      ],
+      "structure_indicators": [
+        "LESSOR",
+        "LESSEE",
+        "RENT",
+        "DEPOSIT",
+        "TENANT",
+        "LANDLORD"
+      ],
+      "cleaning_patterns": [
+        "WOODARD PROPERTIES.*?Phone:.*?Fax:.*?(?=WOODARD|SAMPLE)",
+        "Group Initials Page \\d+",
+        "THIS RENTAL AGREEMENT IS NOT VALID UNLESS EXECUTED BY.*"
+      ]
+    },
+    "loan": {
+      "filename_keywords": [
+        "loan",
+        "credit"
+      ],
+      "content_patterns": [
+        "LOAN AGREEMENT",
+        "BORROWER",
+        "LENDER"
+      ],
+      "structure_indicators": [
+        "BORROWER",
+        "LENDER",
+        "INTEREST",
+        "REPAYMENT",
+        "PRINCIPAL"
+      ],
+      "cleaning_patterns": [
+        "IN WITNESS WHEREOF.*?SIGNATURES.*?$"
+      ]
+    },
+    "tos": {
+      "filename_keywords": [
+        "tos",
+        "terms"
+      ],
+      "content_patterns": [
+        "TERMS OF SERVICE",
+        "TERMS AND CONDITIONS"
+      ],
+      "structure_indicators": [
+        "USER",
+        "SERVICE",
+        "PRIVACY",
+        "TERMS",
+        "CONDITIONS"
+      ],
+      "cleaning_patterns": [
+        "\\[.*?\\]",
+        "This document was generated with.*?template\\."
+      ]
+    },
+    "nda": {
+      "filename_keywords": [
+        "nda",
+        "confidential"
+      ],
+      "content_patterns": [
+        "NON-DISCLOSURE",
+        "CONFIDENTIAL"
+      ],
+      "structure_indicators": [
+        "CONFIDENTIAL",
+        "DISCLOSURE",
+        "RECEIVING PARTY",
+        "DISCLOSING PARTY"
+      ],
+      "cleaning_patterns": []
+    },
+    "employment": {
+      "filename_keywords": [
+        "employment",
+        "job"
+      ],
+      "content_patterns": [
+        "EMPLOYMENT AGREEMENT",
+        "EMPLOYEE",
+        "EMPLOYER"
+      ],
+      "structure_indicators": [
+        "EMPLOYEE",
+        "EMPLOYER",
+        "COMPENSATION",
+        "TERMINATION"
+      ],
+      "cleaning_patterns": []
+    },
+    "vendor": {
+      "filename_keywords": [
+        "vendor",
+        "supplier"
+      ],
+      "content_patterns": [
+        "VENDOR AGREEMENT",
+        "SUPPLIER"
+      ],
+      "structure_indicators": [
+        "VENDOR",
+        "SUPPLIER",
+        "SERVICES",
+        "PAYMENT"
+      ],
+      "cleaning_patterns": []
+    },
+    "insurance": {
+      "filename_keywords": [
+        "insurance",
+        "policy"
+      ],
+      "content_patterns": [
+        "INSURANCE POLICY",
+        "COVERAGE"
+      ],
+      "structure_indicators": [
+        "POLICY",
+        "COVERAGE",
+        "PREMIUM",
+        "CLAIM"
+      ],
+      "cleaning_patterns": []
+    },
+    "consent": {
+      "filename_keywords": [
+        "consent",
+        "medical"
+      ],
+      "content_patterns": [
+        "CONSENT TO TREAT",
+        "MEDICAL CARE"
+      ],
+      "structure_indicators": [
+        "CONSENT",
+        "GUARDIAN",
+        "MEDICAL",
+        "TREATMENT"
+      ],
+      "cleaning_patterns": []
+    }
+  }
+}

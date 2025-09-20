@@ -1,0 +1,31 @@
+{
+  "original_text": "CLAUSE 6: L\nRisk Level: standard Word Count: 268\nIf we have paid a claim to you and then are made aware that it was done fraudulently, you will need to pay all claims money back to us from the\ndate the fraud occurred. The amount you would need to pay back would also include any eligible claims made after the date the fraud occurred.\nWe are also responsible for informing other organisations and relevant authorities of any fraudulent claims that you make. It is your responsibility to\ntell other insurers that we have cancelled your policy due to fraud.\nUnderwriters and Bought By Many This scheme is underwritten by Great Lakes Insurance SE. Great Lakes Insurance SE is a German insurance company with its headquarters at\nKöniginstraße 107, 80802 Munich. It is registered with the commercial register of the local court of Munich under number HRB 230378. The UK\nBranch office is located at: Plantation Place, 30 Fenchurch Street, London, EC3M 3AJ. Great Lakes Insurance SE UK Branch is authorised by the\nBundesanstalt für Finanzdienstleistungsaufsicht and subject to limited regulation by the Financial Conduct Authority and Prudential Regulation\nAuthority. Details about the extent of our regulation by the Financial Conduct Authority and Prudential Regulation Authority are available from us on\nrequest. Bought By Many is authorised and regulated by the Financial Conduct Authority with reference number 652623. You can check this by\nvisiting https://register.fca.org.uk. Bought By Many sells policies on a non-advised basis.\nPet Insurance Policy ( SAMPLE POLICY DOCUMENT- COMPLETE)",
+  "plain_english": "This insurance requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 6. Factors: conditionals:3(6)",
+  "clause_heading": "CLAUSE 6: L",
+  "word_count": 252,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "insurance",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.27777777777777773,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "then",
+    "If",
+    "subject to"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_6_benefits.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 281,
+    "word_count_cleaned": 252,
+    "cleaning_ratio": 0.896797153024911,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

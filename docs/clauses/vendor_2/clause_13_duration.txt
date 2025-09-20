@@ -1,0 +1,36 @@
+CLAUSE 13: P
+============================================================
+Type: duration
+Risk Level: medium
+Word Count: 366
+------------------------------------------------------------
+
+roprietary Rights. Vendor hereby acknowledges and agrees that Pace has
+specially commissioned the Work as a “work made for hire” under Section 101 of the
+United States Copyright Act of 1976, as amended (the “Copyright Act”).
+Accordingly, all intellectual property developed by Vendor for Pace in connection
+with this Agreement, including but not limited to all monitoring, testing and other
+data, reports, materials, schematic drawings, illustrations, trademarks, trade names,
+slogans, logos or other designs in any form, whether electronic, print or any other
+format, shall be owned solely and exclusively by Pace. All copyrights and patents
+with respect to such intellectual property created for Pace in accordance with this
+Agreement shall be registered in the name of Pace University. If the Work is
+determined not to be a work made for hire under the Copyright Act, then, as of the
+date of this Agreement or the creation of any of the intellectual property, whichever is
+earlier, Vendor irrevocably transfers and assigns to Pace the entire right, title, and
+interest, including, but not limited to, copyright, in and to the intellectual property, in
+whole or in part, together with all extensions of such copyrights, that may be secured
+under the Copyright Act or under any other copyright law or similar law in effect in
+the United States or in any other countries or under any treaties, conventions, or
+proclamations. Vendor agrees to execute and deliver to Pace any documents that may
+be necessary to effectuate the transfer and assignment of the intellectual property
+rights in the Work contemplated by this Agreement and to do such other acts and
+things as may be reasonably requested by Pace to perfect or evidence such transfer.
+Vendor shall have no ownership or copyright in Pace materials, nor in the intellectual
+property contained therein, nor in the delivery formats, whether electronic, print or
+any other form. [USE THE FOLLOWING SENTENCE ONLY FOR CONTRACTS
+WITH PROVIDERS OF INTELLECTUAL PROPERTY WHO ARE BASED
+OUTSIDE THE U.S.: Vendor hereby waives any moral rights of any kind in the
+Work and the intellectual property.] Pace shall have no rights in any of Vendor’s
+intellectual property that is not developed specially for Pace pursuant to this
+Agreement.

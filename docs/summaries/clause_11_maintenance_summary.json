@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 11: T\nRisk Level: standard Word Count: 44\nhat the Owner shall hold the right to visit in person or through his authorized agent(s),\nservants, workmen etc., to enter upon the demised premises for inspection (not exceeding once in\na month) or to carry out repairs / construction, as and when required.",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 6. Factors: inspection(4), conditionals:1(2)",
+  "clause_heading": "CLAUSE 11: T",
+  "word_count": 53,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "when"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_11_maintenance.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 57,
+    "word_count_cleaned": 53,
+    "cleaning_ratio": 0.9298245614035088,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 34: W\nRisk Level: medium Word Count: 58\nAIVER OF RIGHT TO JURY TRIAL. Both Landlord and Tenant hereby waive the right to trial by\njury in any action, proceeding or counter-claim brought by either party against the other arising out of this\nRental Agreement, the relationship of Landlord and Tenant, Tenant’s use or occupancy of Premises,\nand/or any injury or damage on or about Premises.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 34: W",
+  "word_count": 67,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_34_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 71,
+    "word_count_cleaned": 67,
+    "cleaning_ratio": 0.9436619718309859,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

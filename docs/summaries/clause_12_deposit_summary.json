@@ -1,0 +1,34 @@
+{
+  "original_text": "CLAUSE 12: C\nRisk Level: medium Word Count: 152\nompliance With Pace Policies. Vendor and its subcontractors, employees, and\nagents shall comply with all Pace policies and procedures with respect to Vendor’s\nactivities under or in connection with this Agreement, including, but not limited to,\nPace’s Guiding Principles of Conduct,; Pace’s Information Technology Appropriate Use Policy; Pace’s Ebola Response Policy\n(http://www.pace.edu/sites/default/files/files/Message%20from%20the%20President %20on%20Ebola%20Preparedness.pdf); and security policies.\n[ADD THE FOLLOWING TWO PARAGRAPHS TO CONTRACTS WHERE THE\nVENDOR IS A RESTAURANT OR CATERER:\nAlcoholic Beverages. In the event that alcoholic beverages are to be served, Vendor\nshall be solely responsible for checking identifications and assuring that no persons\nunder age 21 years are served alcoholic beverages during the function, and further\nassuring that all state and local regulations and laws with respect to the dispensing of\nalcoholic beverages will be strictly adhered to.\nPace Approval. Any price increases or material substitution of goods, services, or\nfacilities shall be subject to prior Pace written approval.]",
+  "plain_english": "This termination requires compliance with  21 years.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 11. Factors: default(7), conditionals:2(4)",
+  "clause_heading": "CLAUSE 12: C",
+  "word_count": 161,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "termination",
+  "key_entities": [
+    "timeframe: 21 years"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "years: 21 years"
+  ],
+  "conditional_language": [
+    "In the event",
+    "subject to"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_12_deposit.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 165,
+    "word_count_cleaned": 161,
+    "cleaning_ratio": 0.9757575757575757,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

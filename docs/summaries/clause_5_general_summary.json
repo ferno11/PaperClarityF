@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 5: T\nRisk Level: standard Word Count: 12\nhat the Lessee shall use the said premises only for residential purposes.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 5: T",
+  "word_count": 21,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_5_general.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 25,
+    "word_count_cleaned": 21,
+    "cleaning_ratio": 0.84,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

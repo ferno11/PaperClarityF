@@ -1,0 +1,10 @@
+CLAUSE 2: I
+============================================================
+Type: rent
+Risk Level: medium
+Word Count: 50
+------------------------------------------------------------
+
+f Tenant has given the notice referred to in subparagraph (1) above, and if Landlord has not corrected the default
+within 7 days, Tenant may, in addition to withholding the applicable amount of rent, file a lawsuit in county court
+to require Landlord to correct the default and for damages.

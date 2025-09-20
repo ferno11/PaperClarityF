@@ -1,0 +1,18 @@
+CLAUSE 10: C
+============================================================
+Type: deposit
+Risk Level: standard
+Word Count: 141
+------------------------------------------------------------
+
+ONTACT PERSON. To simplify communication between Landlord and Tenant when more than
+one person is listed as Tenant, Tenant hereby appoints
+(Email: ) as a primary contact person, herein
+referred to as “Contact Person” for this rental term, and as Tenant’s attorney-in-fact for purposes of
+receiving notices from Landlord and the Tenant’s security deposit statement and refund, if applicable.
+Tenant acknowledges that verbal, written, electronic, telephone and/or any other form of communications
+with Contact Person shall be considered adequate notice to Tenant. The Contact Person shall be
+responsible for communicating with all person(s) listed as Tenant as well as distributing any additional
+copies of the Rental Agreement. Although a Contact Person has been appointed, Landlord may at any
+time communicate with any or all person(s) listed as Tenant and each person is responsible for
+communicating with all others listed as Tenant.

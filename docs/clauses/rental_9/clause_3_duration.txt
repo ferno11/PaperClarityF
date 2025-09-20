@@ -1,0 +1,10 @@
+CLAUSE 3: I
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 52
+------------------------------------------------------------
+
+f Landlord’s default makes the Premises uninhabitable, and if Tenant has given Landlord a notice describing the
+default and informing Landlord that Tenant intends to terminate the Lease, then if Landlord does not cure the
+default within the 7-day period, Tenant may terminate the Lease at the end of the 7 days.

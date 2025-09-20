@@ -1,0 +1,10 @@
+{
+  "original_file": "employment_2.pdf",
+  "doc_type": "employment",
+  "method_used": "PDFPlumber",
+  "quality_score": 24377,
+  "word_count": 3692,
+  "encoding_issues": 0,
+  "has_structure": true,
+  "extraction_timestamp": "2025-09-16T14:57:26.058007"
+}

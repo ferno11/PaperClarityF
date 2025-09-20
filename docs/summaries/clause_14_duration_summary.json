@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 14: I\nRisk Level: medium Word Count: 182\nndemnification. Vendor agrees to defend, indemnify, and hold harmless Pace\nUniversity, its successors and assigns, and their respective trustees, officers,\nemployees, and agents (the “Indemnified Parties”) to the fullest extent permitted by\nlaw from and against any and all claims or demands whatsoever, including, but not\nlimited to, associated costs, expenses, and reasonable attorneys’ fees incurred on\naccount thereof (“Claims”) asserted against Pace as a result of Vendor’s work or\nperformance or non-performance of this Agreement, including, but not limited to,\nClaims that may be asserted by any person(s), including, but not limited to,\nConsultant’s employees and employees of Vendor’s subcontractors or agents (“Claimants”), for loss, damage, death, injury, sexual harassment, or molestation to or\nof persons or property; or, where applicable, infringement of any third-party\nintellectual property rights, including, but not limited to, those of copyright; or, where\napplicable, unauthorized release of or failure to protect confidential information of all\ntypes, including, but not limited to, personally identifiable information (PII) or\nelectronic protected health information (ePHI) (“Losses”) arising in any manner out\nof or incident to Vendor’s performance or nonperformance hereunder.",
+  "plain_english": "This termination requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 14. Factors: indemnify(8), confidential(4), conditionals:1(2)",
+  "clause_heading": "CLAUSE 14: I",
+  "word_count": 191,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "termination",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.36649214659685864,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_14_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 195,
+    "word_count_cleaned": 191,
+    "cleaning_ratio": 0.9794871794871794,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

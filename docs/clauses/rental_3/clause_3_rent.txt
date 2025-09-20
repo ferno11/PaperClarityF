@@ -1,0 +1,11 @@
+CLAUSE 3: T
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 44
+------------------------------------------------------------
+
+hat the Tenant shall pay to the Owner a monthly maintenance charge of Rs.(Amount in
+Numbers) towards the maintenance of Generator & Elevator, Salaries towards guards, Charges
+for Electricity Maintenance for Common Areas, Charges towards cleaning of Common Areas
+and towards maintaining the lawn.

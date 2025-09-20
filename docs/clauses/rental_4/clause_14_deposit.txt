@@ -1,0 +1,16 @@
+CLAUSE 14: T
+============================================================
+Type: deposit
+Risk Level: standard
+Word Count: 124
+------------------------------------------------------------
+
+hat the Lessee has paid to the Lessor a sum of [Rental Deposit in Number and
+Words] as deposit, free of interest, which the Lessor does accept and acknowledge.
+This deposit is for the due performance and observance of the terms and conditions
+of this Agreement. The deposit shall be returned to the Lessee simultaneously with
+the Lessee vacating the said premises. In the event of failure on the part of the
+Lessor to refund the said deposit amount to the Lessee as aforesaid, the Lessee shall
+be entitled to continue to use and occupy the said premises without payment of any
+rent until the Lessor refunds the said amount (without prejudice to the Lessee`s
+rights and remedies in law to recover the deposit).

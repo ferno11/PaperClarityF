@@ -1,0 +1,10 @@
+CLAUSE 2: I
+============================================================
+Type: deposit
+Risk Level: standard
+Word Count: 38
+------------------------------------------------------------
+
+n the case of an Borrower doing business in a form other than as
+an individual, the name, date of birth, Social Security number, and residence address of
+each individual who owns 10% or more of the Project;

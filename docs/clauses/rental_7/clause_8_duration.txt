@@ -1,0 +1,11 @@
+CLAUSE 8: A
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 53
+------------------------------------------------------------
+
+partment Possession. If the Property Management Company does not give possession of
+the dwelling to the Tenant on the start date of the Term, the Tenant is not liable for the rent
+starting on the start date, but only after possession of the Apartment is given to the Tenant. Rent
+will be pro-rated.

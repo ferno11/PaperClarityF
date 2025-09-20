@@ -1,0 +1,31 @@
+{
+  "original_text": "CLAUSE 3: P\nRisk Level: high Word Count: 179\nayment of Interest i) Allow the Medical Practitioner or any of the\nIn the event of delay in settlement of claim beyond the period\nCompany's representatives to inspect the any as specified by the Insurance Regulatory Development\nrelevant document pertaining to the injury/ Authority of India (IRDA)the Company shall be liable to pay\naccident/incident, medical and hospitalization interest as per the rate as defined by IRDA's Protection of\nrecords, investigate the facts and examine the Policy Holder Interest Regulation.\nSection XI (a & B) - Legal Liability ii) Assist and not hinder or prevent the Company's\nrepresentatives in pursuance of their duties for The Company will indemnify the Insured in respect of sums which\nascertaining the admissibility of the Claim under the the Insured shall become legally liable to pay (subject to the sum\nPolicy. If the Policyholder / Insured Person / legal set in the Schedule).\nheir does not comply with the provisions of these conditions all benefits under this Policy shall be Sub-section XI A - Towards Employees\nforfeited at the Company's option. (domestic Servants):",
+  "plain_english": "This insurance requires compliance with specific requirements.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 36. Factors: liability(8), indemnify(8), forfeit(9), interest(5), conditionals:3(6)",
+  "clause_heading": "CLAUSE 3: P",
+  "word_count": 186,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "insurance",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.3763440860215054,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "In the event",
+    "If",
+    "subject to"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_3_benefits.txt",
+    "processed_timestamp": "2025-09-20 05:34:24",
+    "word_count_original": 192,
+    "word_count_cleaned": 186,
+    "cleaning_ratio": 0.96875,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

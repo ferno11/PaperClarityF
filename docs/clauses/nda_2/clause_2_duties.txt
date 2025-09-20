@@ -1,0 +1,49 @@
+CLAUSE 2: I
+============================================================
+Type: duties
+Risk Level: medium
+Word Count: 507
+------------------------------------------------------------
+
+n connection with said Confidential Information, Company, on behalf of itself and all of its
+officers, directors, employees, shareholders, agents and representatives, covenants and agrees as
+follows:
+a) Company agrees to keep confidential the Confidential Information and shall disclose the
+Confidential Information to only those personnel and agents of Company who have a
+professional need to know such information and shall use the Confidential Information
+solely for the purpose of performing its engagement for the Nation. Company will show this
+Agreement to all of its personnel and agents having access to the Confidential Information
+and will be responsible for any breach of this Agreement by its personnel and agents.
+b) That it shall not, directly or indirectly, communicate, divulge, disseminate, use or
+disclose or permit to be disclosed to or by any individual, partnership, joint venture,
+corporation, association, syndicate, or any other group our combination (collectively
+"Entity"), in any manner or by any method at any time during or after the date hereof, any
+Confidential Information;
+c) That it shall not, jointly or severally, directly or indirectly, pursue, use, utilize, take
+advantage of, explore, develop or otherwise become involved with, in any manner or by
+any method, any product, concept or idea which in any way uses, utilizes, or has as its
+basis or foundation any Confidential Information;
+d) That it shall not permit at any time during or after the date of this Agreement, except as
+necessary to fulfill its obligation to the Nation pursuant to any agreement between them
+for the sale of purchase of products or services, any Entity to examine or make copies of
+any data, reports, papers, memoranda, correspondence, files, notebooks, compilations,
+drafts, prototypes, records or other documents (collectively "Documents") that contains
+Confidential Information belonging to the Nation;
+e) That it shall promptly return, delete, or destroy any or all Confidential Information, and
+any copies thereof, as requested by Nation;
+f) That it shall use commercially reasonable practices to protect confidential information,
+and that those practices shall meet or exceed the same degree of care Company employs
+with respect to avoid inadvertent disclosure or unpermitted use of the its own
+Confidential Information; and
+g) That if Company is requested or becomes legally compelled (by oral questions,
+interrogatories, requests for information or documents, subpoena, civil investigative
+demands, court order, or similar process) to disclose any of the Confidential Information
+or take any other action prohibited by this Agreement, Company shall provide the Nation
+with prompt written notice thereof (in reasonable detail) so that the Nation may elect to
+seek a protective order or other appropriate remedy and/or waive compliance with the
+provisions of this Agreement. In the event that such protective order or other remedy is
+not obtained, or that the Nation waives compliance with provisions of this Agreement,
+Company shall furnish only that portion of the Confidential Information or take only such
+action as is required by law or binding order and shall exercise its best efforts to obtain
+reliable assurance that confidential treatment shall be accorded any Confidential
+Information so furnished.

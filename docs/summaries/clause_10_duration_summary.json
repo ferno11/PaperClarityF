@@ -1,0 +1,30 @@
+{
+  "original_text": "CLAUSE 10: T\nRisk Level: standard Word Count: 79\nhat no structural additions or alterations shall be made by the Tenant in the premises\nwithout the prior written consent of the Owner but the Tenant can install air-conditioners in the\nspace provided and other electrical gadgets and make such changes for the purposes as may be\nnecessary, at his own cost. On termination of the tenancy or earlier, the Tenant will be entitled to\nremove such equipment and restore the changes made, if any, to the original state.",
+  "plain_english": "This rights requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 13. Factors: termination(9), conditionals:2(4)",
+  "clause_heading": "CLAUSE 10: T",
+  "word_count": 88,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "rights",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.7954545454545454,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may",
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_10_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 92,
+    "word_count_cleaned": 88,
+    "cleaning_ratio": 0.9565217391304348,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

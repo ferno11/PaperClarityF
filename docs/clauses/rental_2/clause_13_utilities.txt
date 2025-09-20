@@ -1,0 +1,11 @@
+CLAUSE 13: T
+============================================================
+Type: utilities
+Risk Level: standard
+Word Count: 40
+------------------------------------------------------------
+
+hat in addition to the compensation mentioned above, the Lessee shall pay the
+actual electricity, shared maintenance, water bills for the period of the agreement
+directly to the authorities concerned. The relevant `start date` meter readings are
+[Starting Meter Reading].

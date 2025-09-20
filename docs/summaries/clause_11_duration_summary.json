@@ -1,0 +1,31 @@
+{
+  "original_text": "CLAUSE 11: R\nRisk Level: standard Word Count: 110\nENEWAL. This Rental Agreement will not automatically renew. However, a new rental agreement\nfor an additional term may be executed subject to the availability of Premises, Landlord’s approval, and\nrevised terms and conditions. In the event a new rental agreement is executed and one or more persons\nlisted as Tenant signs a new rental agreement for Premises, a Renewal Rental Addendum is to be\nagreed upon and signed by all current persons listed as Tenant and all future tenants. The entire security\ndeposit will transfer to the new agreement and Landlord will not inspect or prepare the Premises\nbetween the current Tenant and future tenants’ occupancy.\nGroup Initials Page 4",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 13. Factors: renewal(4), deposit(3), conditionals:3(6)",
+  "clause_heading": "CLAUSE 11: R",
+  "word_count": 119,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.5882352941176471,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may",
+    "In the event",
+    "subject to"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_11_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 123,
+    "word_count_cleaned": 119,
+    "cleaning_ratio": 0.967479674796748,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

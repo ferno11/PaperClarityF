@@ -1,0 +1,45 @@
+CLAUSE 29: I
+============================================================
+Type: liability
+Risk Level: medium
+Word Count: 582
+------------------------------------------------------------
+
+NTERNET SERVICE. At locations where Landlord provides Internet Service, whether it is wired or
+wireless, the service provider is to be selected by Landlord and the monthly costs are as follows: $32.00
+per month for a 1 bedroom unit, $48.00 per month for a 1 bedroom with study or 2 bedroom unit, $56.00
+per month for a 3, 4, 5, 6 or 7 bedroom unit, and $64.00 per month for units with 8 or more bedrooms. In
+properties where wireless internet is provided, landlord does not guarantee functionality of wired jacks,
+and in properties where wired internet is provided, landlord does not guarantee wireless functionality.
+Tenant acknowledges that no warranty is made by Landlord or any internet provider contracted by
+Landlord (hereafter referred to as “Provider”) regarding any information, service, or product provided
+through, in connection with, or located on the computers of Provider. Landlord hereby expressly
+disclaims any and all warranties. Tenant is bound by the Provider’s acceptable use policy. Landlord
+reserves the rights to determine at its sole discretion what uses of the Internet Service are and are not
+permissible and any use of the Internet Service that inordinately drains bandwidth is prohibited. The
+entire risk as to the results and the performance is assumed by the Tenant, and in no event will Landlord
+or Provider be liable for any consequential, incidental, direct or indirect damages suffered in the course of
+using this connection. Neither Landlord or Provider will be liable or responsible for, including without
+limitation, any loss, damage, or expense incurred by Tenant caused or allegedly caused by failure of
+performance, error, omission, interruption, electrical surge/damage/interference, deletion, defect, delay in
+operation or transmission, communications line failure, theft or destruction of or unauthorized access to,
+alteration of or use of records, whether for breach of contract, negligence, or if the quantity or quality of
+the Internet Service is no longer suitable for Tenant’s requirements, or under any other cause of action.
+Tenant is responsible for updating the virus protection programs and personal firewalls on his/her
+personal computer with the most current definitions, as well as performing regular virus scans. Tenant is
+also responsible for installing the most current critical updates for his/her operating system. If Tenant
+does not comply with the terms of this paragraph, Landlord may terminate Tenant’s access to this
+connection, without notice, for the remainder of the rental term and no compensation will be awarded to
+Tenant for this disruption of service. Tenant, and any guest of Tenant, shall not remove or tamper with
+Wireless Access Points, networking equipment, wiring, or wall jacks provided by Landlord. Tenant is not
+permitted to use the Internet Service connection for any purposes that violate U.S. or state laws. It is
+also not acceptable to use this connection to interfere with or disrupt network users, service or
+equipment. Such interference includes, but is not limited to: distribution of unsolicited advertising,
+propagation of computer worms or viruses, and using the network to make unauthorized entry to other
+computational, information or communications devices or resources. Any Tenant discovered using this
+connection for such unacceptable purposes will have his/her access to the connection terminated without
+notice, and Tenant will be responsible for all costs incurred by Landlord or Provider because of such
+unacceptable uses. Landlord shall have the absolute right to lease or sell any internet cable and/or
+television cable and/or telephone cable, where it has been or is installed by Landlord, to any service
+provider of Landlord’s choice.
+Group Initials Page 11

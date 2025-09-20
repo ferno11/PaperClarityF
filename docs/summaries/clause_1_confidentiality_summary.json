@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 1: C\nRisk Level: standard Word Count: 391\nonfidential and Proprietary Information. (a) Company acknowledges and agrees that in\nconnection with the proposal or the provision of goods or services, Nation shall divulge to\nCompany and its employees, agents, and/or representatives certain proprietary and confidential\ninformation which, for purposes of this Agreement, shall mean and include any and all\ninformation about Nation and Nation’s business, Nation’s non-public information, Nation’s\npatrons or customers, technical data or know-how including, but not limited to, salaries, pricing,\nexpenses, margins, revenues and other financial information; technical data, production data,\ntechnical designs, detail designs, network configurations and topologies, test data and results,\nflowcharts, drawings, designs, graphs, diagrams, notes, outlines and the like created in connection\nwith any services or with any of Nation’s activities, and all formulas, processes, algorithms,\nideas, inventions, know-how, techniques and other information of a general and technical nature,\nwhether in tangible or intangible form; marketing, distribution, promotion, sales or advertising\nprocesses, programs, projections or proposals; consulting or other business projects or proposals;\nall customer lists, requirements, product usage and other customer data; sales procedures, volume\nfigures and strategies; supplier lists; personnel information including compensation, incentive\ncompensation and bonus structures, employment agreements, performance standards, performance evaluations and all information in any way concerning the products, projects, activities, business\nor affairs of Nation or its affiliates or customers; business or marketing plans; security processes\nor precautions; customer or vendor lists; and any other information not listed but that is\ndesignated as confidential by Nation, or which by its nature should reasonably be expected to\na) Confidential Information shall not include:\ni. Information that is disclosed to Company by any third party which is not under a\nconfidentiality obligation to Nation;\nii. Information that the Nation itself discloses to the public;\niii. Information that is already legally in the possession of Company at the time of\ndisclosure by Nation as shown by the Company’s files and records immediately\nprior to the time of disclosure;\niv. Information that was publicly known and made generally available prior to the\ntime of disclosure;\nv. Information that becomes publicly known and made generally available after\ndisclosure by Nation to Company through no action or inaction of Company; or\nvi. Information that is independently developed by Company without use of or\nreference to Nation’s Confidential Information, as shown by documents and\nother competent evidence in Company’s possession.",
+  "plain_english": "This confidentiality requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 6. Factors: confidential(4), conditionals:1(2)",
+  "clause_heading": "CLAUSE 1: C",
+  "word_count": 398,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "confidentiality",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.1758793969849246,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "should"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_1_confidentiality.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 404,
+    "word_count_cleaned": 398,
+    "cleaning_ratio": 0.9851485148514851,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 17: F\nRisk Level: standard Word Count: 130\norce Majeure. Notwithstanding anything to the contrary contained in the\nAgreement, Pace shall not be liable, nor shall any credit or other remedy be extended,\nfor Pace’s failure, in whole or in part, to fulfill its obligations under the Agreement\nwhere such failure arises from or in connection with causes beyond Pace’s control,\nincluding, but not limited to, acts of God, flood, extreme weather, fire or other natural\ncalamity, terrorist attack, any law, order, or regulation or action of any governmental\nentity or civil or military authority, power or utility failure, cable cuts, unavailability\nof rights-of-way, national emergencies, riots, wars, strikes, lock-outs, work stoppages,\nor other labor difficulties (each a “Force Majeure Event”). If a Force Majeure Event\noccurs during the term hereof, Pace shall be excused from performance hereunder.",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 2. Factors: conditionals:1(2)",
+  "clause_heading": "CLAUSE 17: F",
+  "word_count": 139,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.5035971223021583,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "If"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_17_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 143,
+    "word_count_cleaned": 139,
+    "cleaning_ratio": 0.972027972027972,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

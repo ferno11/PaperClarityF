@@ -1,0 +1,9 @@
+CLAUSE 2: T
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 24
+------------------------------------------------------------
+
+hat the lease hereby granted shall, unless cancelled earlier under any provision of
+this Agreement, remain in force for a period of [Lease Term].

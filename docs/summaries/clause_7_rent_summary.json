@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 7: N\nRisk Level: standard Word Count: 37\no Withholding. Vendor is solely and exclusively responsible for the\nsatisfaction of Vendor’s own local, state, and federal income tax and Social Security\nwithholding that may be applicable to the amounts payable by Pace under this",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 2. Factors: conditionals:1(2)",
+  "clause_heading": "CLAUSE 7: N",
+  "word_count": 45,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_7_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 50,
+    "word_count_cleaned": 45,
+    "cleaning_ratio": 0.9,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

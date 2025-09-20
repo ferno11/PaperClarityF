@@ -1,0 +1,13 @@
+CLAUSE 3: A
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 83
+------------------------------------------------------------
+
+dditional Documents. Company understands that the Nation may be subject to certain laws and
+regulations, including without limitation, data protection laws designed to protect personal employee
+information and “HIPAA”. While it is not currently expected that Company will have access to any
+such protected or confidential information, if in the course of rendering services, such access is
+deemed necessary, then Company agrees to execute such documents as may be necessary to enable
+the Nation to remain compliant with any such laws and regulations.

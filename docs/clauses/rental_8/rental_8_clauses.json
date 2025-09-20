@@ -1,0 +1,542 @@
+{
+  "document_name": "rental_8",
+  "document_type": "rental",
+  "total_clauses": 39,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 14,
+    "low": 0,
+    "standard": 25
+  },
+  "clauses": [
+    {
+      "clause_id": "rental_8_clause_1",
+      "clause_number": "1",
+      "clause_title": "P",
+      "clause_type": "duration",
+      "original_text": "ROPERTY AND TERM. That in and for consideration of the rents and covenants herein, Landlord\nhereby leases Tenant the property described as , located at\nCharlottesville, VA , hereinafter referred to\nas \u201cPremises.\u201d Prior to Tenant\u2019s taking possession of Premises, Landlord may substitute similar\npremises of equal or greater rental value. The substitute premises must be in the same building or\ncomplex and the rent and all other terms of this Rental Agreement shall not be affected by the\nsubstitution. The term shall commence at 3PM on , and shall end at\n10AM on . Keys and move-in information may be obtained from\nLandlord during regular office hours after the Rental Agreement commences.\nLandlord shall provide as part of the Premises a stove/oven, refrigerator/freezer, lighting fixtures,\nand the following appliances:\nOther",
+      "word_count": 131,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_2",
+      "clause_number": "2",
+      "clause_title": "R",
+      "clause_type": "rent",
+      "original_text": "ENTAL PAYMENTS. All prorations will be based on a 360 day year and amounts shall be rounded\nto the next dollar. Tenant agrees to pay rent for Premises the total amount of $ payable as\nfollows:\n$ due on or before ,\n$ in monthly installments of $ each, beginning on and\n$ due on or before , for the remaining portion due.\n$ TOTAL\nAll monthly installments due hereunder shall be paid in their entirety at Landlord\u2019s office by tender of\na single check, money order, credit card payment, or by electronic payment. Tenant understands and\nexpressly authorizes Landlord to electronically debit their account for the amount of any check presented\nfor payment as well as any payment that is dishonored or returned for any reason. There is a $20 fee for\neach additional physical payment or partial payment submitted to Landlord. Additional electronic\npayments will not be subject to this fee. Fees may apply for credit card transactions. Cash will not be\naccepted. Any amounts due under the terms of this Rental Agreement shall be considered rent, and\namounts paid may be applied to the earliest charge incurred.\nGroup Initials Page 1",
+      "word_count": 194,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_3",
+      "clause_number": "3",
+      "clause_title": "U",
+      "clause_type": "rent",
+      "original_text": "TILITIES AND SERVICES.\nA. Tenant agrees to pay all costs, including all turn-on charges, directly to the utility company or\nauthority providing such service for the following utilities:\nB. Landlord shall provide the following utilities and/or services, at Tenant\u2019s expense:\nFor those utilities and/or services described in this subparagraph B, Tenant agrees to pay, in addition to\neach rental payment, the total sum of $ , payable as follows:\n$ due on or before ,\n$ in monthly installments of $ each, beginning on and\n$ due on or before , for the remaining portion due.\n$ TOTAL\nTrash removal is $9.00 per month per bedroom or per Tenant/Occupant, whichever is greater, and may\ninclude recycling and composting. Internet costs are detailed in paragraph 29. If the actual utility or\nservice (electric, gas, water, sewer, trash removal, internet, or grounds maintenance) costs paid by\nLandlord, for the entire rental term for Premises, exceeds the utility and service payments due from\nTenant by more than five percent (5%), Tenant agrees to pay Landlord the full difference. This shall be\ndetermined by adding all utility & service costs and a $12.00 per month third-party provider administrative\nand billing expense and then subtracting the utility payments made by Tenant as described above. If\nwater/sewer is on a central meter, the Tenant is charged a proportionate share of the costs based\non the number of persons sharing said meter. If electric or gas is on a central meter, the Tenant is\ncharged a proportionate share of the costs based on the number of bedrooms sharing said meter. Tenant\nagrees that Landlord may elect to install a separate meter to measure Tenant\u2019s usage of any shared\nutility. By reasonable (not less than 30 days) notice, Landlord may adjust the monthly utility installments\npaid by Tenant if Landlord\u2019s costs exceed Tenant\u2019s payments by more than ten percent (10%). Should\nthe utility and service payments received by Landlord exceed the actual utility costs, Tenant shall not be\nentitled to any refund or rebate, so long as Landlord has established charges set forth above in good\nfaith.\nC. For any utilities or services in either subparagraph A or B for which Tenant is responsible for\nconnecting, Tenant agrees to initiate service(s) on or before the commencement date of this Rental\nAgreement and acknowledges that they may need to connect multiple meters for each service. Tenant is\nresponsible for contacting local utility companies to initiate services and authorizes Landlord to request\nand obtain, on behalf of Tenant, Tenant\u2019s consumption data from the applicable utility provider. Tenant\nagrees to maintain those services throughout the term of this Rental Agreement to avoid damage to the\nPremises and through 5 business days beyond the termination date of this Rental Agreement. In the\nevent Tenant fails to maintain utility services as described herein, Tenant agrees to pay Landlord any\ncosts associated with having any or all utilities connected plus an administrative fee of $40 for each utility\ninvoice received and paid by Landlord. If any utility (electric, gas, and/or water, sewer) is on a central\nmeter and/or if trash is collected at a central location, Landlord will pay for these utilities and services and\nprorate the costs from the commencement date of this Rental Agreement to 5 business days beyond the\ntermination date of this Rental Agreement. Tenant will reimburse Landlord for the prorated amounts due\nupon receipt of a statement from Landlord. Tenant acknowledges that some utility charges may be for\nexterior or common areas adjacent to Premises.\nD. Should Landlord pay Tenant\u2019s delinquent water or sewer charges such amount paid shall become\nadditional rent due to Landlord. Tenant further agrees to pay Landlord a $100.00 administrative fee in\naddition to any such charges paid by Landlord, also as additional rent.\nGroup Initials Page 2",
+      "word_count": 633,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_4",
+      "clause_number": "4",
+      "clause_title": "S",
+      "clause_type": "rent",
+      "original_text": "ECURITY DEPOSIT. Tenant agrees to pay Landlord the following:\n$ Security Deposit payment upon execution of this Rental Agreement.\n$ Balance of Security Deposit due prior to the commencement of this rental term.\nThe Security Deposit, hereinafter \u201cDeposit\u201d, may be applied solely by Landlord to the payment of\naccrued rent, to charges for late payments of rent as specified herein, to the payment of any damages\nwhich Landlord suffers by reason of Tenant\u2019s non-compliance with his duty to maintain Premises, and to\nany other damages as provided herein. Nothing in this section, however, entitles Tenant to an immediate\ncredit against any delinquent rent. Acceptance of the Deposit by Landlord does not constitute any waiver\nof damages that may exceed the amount of the Deposit or any waiver of any other rights Landlord may\nhave against Tenant by reason of Tenant\u2019s default. In the event damages suffered by Landlord by\nreason of Tenant\u2019s default exceed the amount of the Deposit, Landlord shall be entitled to recover such\ndamages from Tenant, along with the costs of exercising these rights. If Tenant complies with all\nprovisions of this Rental Agreement, the Deposit, or the balance thereof, shall be returned within 45 days\nafter termination of the tenancy and delivery of possession or within such longer period as permitted by\nVirginia Law. Landlord will issue one check made payable to the Contact Person named in paragraph 10\nof this Rental Agreement, and will mail the Deposit statement and refund, if applicable, to one address\nsupplied by Tenant at termination of this Rental Agreement. In the event it becomes necessary for\nLandlord to replace the Deposit refund check, any stop payment cost incurred by Landlord and/or a $50\nadministrative fee will be deducted from the refund.",
+      "word_count": 291,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_5",
+      "clause_number": "5",
+      "clause_title": "V",
+      "clause_type": "maintenance",
+      "original_text": "ACATING; CLEANING CONVENIENCE FEE. Upon termination of the Rental Agreement, Tenant\nshall vacuum carpets, sweep floors, wipe all surfaces clean, remove all trash and items of personal\nproperty and promptly vacate, leaving the Premises in good order and repair.\nFor a fee of $ ,* Tenant hereby employs Landlord to perform the following services at the\ntermination of the lease term, to bring the Premises to move-in condition, normal wear and tear\nexcepted: Steam cleaning of carpeting; mopping of floors; touch-up painting; cleaning behind\nappliances; cleaning of light fixtures and vents; final cleaning of all surfaces, including countertops,\nshelving, appliances, restroom and kitchen fixtures, ceilings, doors, windows, blinds, walls, baseboards\nand flooring; and cleaning of balconies and/or porches. Tenant authorizes the Cleaning Convenience\nFee to be deducted from the Deposit, and agrees to immediately pay such Fee to Landlord, should the\nDeposit be insufficient to cover all sums owed to Landlord. In such event, any deficiency in the Cleaning\nConvenience Fee shall be considered additional rent. The Cleaning Convenience Fee covers basic\ncleaning, but not repairs, replacements of damaged items or painting beyond touch-ups. Should the\ncondition of the Premises be such that deeper or more intensive or extensive cleaning is required, in\nLandlord\u2019s sole discretion, Tenant agrees to pay such reasonable additional charges as may be required\nto bring the Premises to move-in condition, normal wear and tear excepted. If repairs, replacements,\nextra painting or additional cleaning beyond that covered by the Cleaning Convenience Fee is needed, in\nLandlord\u2019s sole discretion, and employees of Landlord perform such work, charges therefore shall be\n$55 per hour for labor, plus the cost of materials, and overhead of 20% of labor and materials. A\nminimum charge of one hour for labor shall be assessed on all repairs. If Landlord employs a\nsubcontractor to do such work, the work will be charged at the amount invoiced, plus 20% overhead. No\nright of storage beyond the end of the lease term is given by this Rental Agreement. In the event\nTenant\u2019s personal property is not removed from the Premises at the termination of this Rental\nAgreement, Landlord may consider such property abandoned and may dispose of it without liability for\ndamage or loss, in accordance with applicable Virginia law. In such event, Tenant shall pay Landlord\u2019s\nreasonable costs of removal and/or disposal of such property. In the event Landlord elects to store\nTenant\u2019s property, Tenant shall pay for all costs of removal and storage. Tenant agrees to leave all\nutilities that are in Tenant\u2019s name connected from the commencement day of this Rental Agreement until\nGroup Initials Page 3\n5 business days beyond the termination date, or to pay Landlord any costs associated with having any or\nall utilities reconnected plus an administrative fee of $40 per utility invoice received and paid by Landlord.\nTenant may request, with at least five days written notice, to be present during the move-out inspection.\n*If the amount is not noted, the Cleaning Convenience Fee will be charged as follows: $225.00 per\nbedroom.",
+      "word_count": 505,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_6",
+      "clause_number": "6",
+      "clause_title": "A",
+      "clause_type": "liability",
+      "original_text": "UTHORIZED OCCUPANTS. In addition to the Tenant, only the following authorized occupants\napproved by Landlord, and no others may occupy the Premises:\nherein referred to as \u201cOccupant\u201d, whether singular or plural. Tenant shall be responsible for Occupant\u2019s\nor Occupant\u2019s guest(s)\u2019 actions on and damages to Premises. Tenant shall notify Landlord, in writing,\nwhen an Occupant has vacated Premises. Occupants do not have rights and obligations as a Tenant\nunder this Rental Agreement.",
+      "word_count": 72,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_7",
+      "clause_number": "7",
+      "clause_title": "A",
+      "clause_type": "duration",
+      "original_text": "DDING OR REMOVING NAMES ON THE RENTAL AGREEMENT: Tenant may add or remove\nnames on the Rental Agreement subject to Landlord\u2019s written approval and payment of an administrative\nfee for each separately prepared and/or completed addendum. Additions shall be subject to Landlord's\napproval of their rental application and may be required by Landlord to be a student or a graduate\nstudent. A minimum of one original tenant must remain on the lease for the duration of the lease term,\notherwise re-rental policies and procedures set by landlord will apply.",
+      "word_count": 89,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_8",
+      "clause_number": "8",
+      "clause_title": "F",
+      "clause_type": "duration",
+      "original_text": "AILURE OF TENANT TO VIEW PREMISES. Tenant acknowledges that Tenant may view Premises\nprior to execution of this Rental Agreement (except for new construction). This Rental Agreement will not\nbe terminated or voided as a result of Tenant\u2019s failure to view the Premises prior to lease signing.",
+      "word_count": 47,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_8_clause_9",
+      "clause_number": "9",
+      "clause_title": "A",
+      "clause_type": "general",
+      "original_text": "GENT. Woodard Properties is the Agent for Landlord. Woodard Properties shall notify Tenant of\nthe name and address of the resident manager, if any.",
+      "word_count": 24,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_10",
+      "clause_number": "10",
+      "clause_title": "C",
+      "clause_type": "deposit",
+      "original_text": "ONTACT PERSON. To simplify communication between Landlord and Tenant when more than\none person is listed as Tenant, Tenant hereby appoints\n(Email: ) as a primary contact person, herein\nreferred to as \u201cContact Person\u201d for this rental term, and as Tenant\u2019s attorney-in-fact for purposes of\nreceiving notices from Landlord and the Tenant\u2019s security deposit statement and refund, if applicable.\nTenant acknowledges that verbal, written, electronic, telephone and/or any other form of communications\nwith Contact Person shall be considered adequate notice to Tenant. The Contact Person shall be\nresponsible for communicating with all person(s) listed as Tenant as well as distributing any additional\ncopies of the Rental Agreement. Although a Contact Person has been appointed, Landlord may at any\ntime communicate with any or all person(s) listed as Tenant and each person is responsible for\ncommunicating with all others listed as Tenant.",
+      "word_count": 141,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_11",
+      "clause_number": "11",
+      "clause_title": "R",
+      "clause_type": "duration",
+      "original_text": "ENEWAL. This Rental Agreement will not automatically renew. However, a new rental agreement\nfor an additional term may be executed subject to the availability of Premises, Landlord\u2019s approval, and\nrevised terms and conditions. In the event a new rental agreement is executed and one or more persons\nlisted as Tenant signs a new rental agreement for Premises, a Renewal Rental Addendum is to be\nagreed upon and signed by all current persons listed as Tenant and all future tenants. The entire security\ndeposit will transfer to the new agreement and Landlord will not inspect or prepare the Premises\nbetween the current Tenant and future tenants\u2019 occupancy.\nGroup Initials Page 4",
+      "word_count": 110,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_12",
+      "clause_number": "12",
+      "clause_title": "L",
+      "clause_type": "rent",
+      "original_text": "ATE RENT PAYMENTS. In the event Tenant\u2019s full rental payment is not received in the office of\nLandlord by 5:00 PM on the 5 day of each month, Tenant agrees to pay a late fee of 10% of the\nmonthly rental. Tenant agrees to pay an additional $5.00 each day of delay beyond the 6 of each\nmonth until the day the amount is paid in full. Tenant agrees not to submit post-dated checks for\npayments due. Without prior agreement with Landlord, any check received by Landlord will be promptly\ndeposited. Any penalties imposed by Tenant\u2019s bank will be Tenant\u2019s responsibility. For any check\nreturned by Landlord\u2019s bank for any reason Tenant also agrees to pay any associated late fees, a\nhandling fee of $50.00 or the maximum allowed by law, in addition to interest, as allowed by law. Tenant\nunderstands and expressly authorizes Landlord to electronically debit their account for the amount of\nfees in addition to amount of returned payment. Landlord reserves the right to require a cashier\u2019s check\nor money order in payment of rent. Cash is not accepted for any payment.",
+      "word_count": 185,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_13",
+      "clause_number": "13",
+      "clause_title": "U",
+      "clause_type": "maintenance",
+      "original_text": "SE AND RESTRICTIONS. Tenant, and any guest of Tenant, shall not:\n(a) Smoke on Premises, common areas such as stairways, balconies, sidewalks, parking lot, laundry\nroom, or other property of Landlord (see also paragraphs 24 & 27 of this Rental Agreement). Although\nsmoking is prohibited on Premises, there is no warranty or guaranty that your dwelling community is\nsmoke free;\n(b) Keep or harbor any pet on Premises or bring any animal or pet upon Premises, except that service\nanimals are permitted (see also paragraphs 24 & 27 of this Rental Agreement). At Arlington Park\nTownhomes LLC pets are permitted with an executed Pet Addendum and payment of associated fees;\n(c) Permit any unlawful activity to be conducted on Premises;\n(d) Use or permit any apparatus or instruments for musical or other sound reproduction or transmission\nin such manner that the sounds are audible beyond the interior of Premises;\n(e) Engage in any practice that encourages or results in the infestation of Premises by insects, rats,\nroaches, ants, flies, bedbugs, lice, fleas or other vermin or pests;\n(f) Store or place belongings, furniture, trash, or any personal articles including indoor or upholstered\nfurniture on porches, balconies, or walkways, on or outside of Premises unless the Landlord approves of\nsuch placement in writing. Landlord may remove any such belongings without notice and at Tenant\u2019s\nexpense;\n(g) Store or place belongings within three feet of furnaces or hot water heaters;\n(h) Use Premises for any purpose other than as a residential dwelling or allow any other person not\nherein authorized to establish residence on Premises or have overnight guests for more than two (2)\nnights in any thirty (30) day period without prior written consent from landlord;\n(i) Deliberately or negligently destroy or deface, damage, impair or remove any part of Premises; or\ndisplay any signs or other displays of any type on Premises;\n(j) Park on Landlord\u2019s property without a valid parking permit issued by Landlord except in houses with\nprivate driveways. Landlord will issue no more than ( ) parking permit(s) to Tenant.\nNOTE: Parking availability is NOT GUARANTEED and there may be additional fees for a covered\nand/or reserved parking space. Parking spaces reserved by Tenant may be used only by Tenant\npersonally. Tenant must complete an application for a parking permit and/or execute a parking rental\nagreement to obtain a permit for parking. The vehicle must not exceed Landlord\u2019s size and height\nrestrictions, be properly positioned in a marked parking space (parking on lawns is not allowed), be\noperational, properly licensed, operated regularly by Tenant, and registered in Tenant\u2019s or Tenant\u2019s\nparent\u2019s name. The vehicle must display a valid Woodard Properties\u2019 parking permit clearly visible from\nthe parking aisle on the rear view glass (driver\u2019s side) or a hang tag attached to the rear view mirror in\norder to park on the property where Tenant resides and shall not be parked on any other property owned\nby Landlord. Vehicles may not be covered with a tarp or other coverings. A $25 administrative fee may\nbe charged for improper parking (even with a valid permit) and/or the vehicle may be towed, without\nadditional warning, at vehicle owner\u2019s risk and expense. Parking privileges and permit may be revoked\nat any time for improper parking, exceeding 6 miles per hour when driving in any parking lot, or driving\ndangerously (in Landlord\u2019s opinion), or non-payment of any amount due;\nGroup Initials Page 5\n(k) Store mopeds or motorcycles upon Premises.\n(l) Store bikes on apartment landings or attach them to any railing of any part of the building. Unsightly or\nimproperly stored bikes may be removed without notice, at Tenant\u2019s expense;\n(m) Park on Landlord\u2019s property any vehicle including, but not limited to, bicycles, mopeds, motorcycles,\nand automobiles without displaying a valid Woodard Properties\u2019 permit;\n(n) Make any noise within the Premises, in common areas adjacent to Premises, parking lots and when\nascending or descending interior or exterior stairs, which noise is disruptive to other residents\u2019 peaceful\nenjoyment or to management;\n(o) Skateboard, skate, or ride scooters on Landlord\u2019s property;\n(p) Have a waterbed or any contained water source such as an aquarium, hot tub, pool or fountain on\nPremises, except with written permission from Landlord;\n(q) Allow more than four (4) persons on any balcony area of Premises, or adjacent to Premises (at\nCamden Plaza, no more than 2 persons may occupy any extended balcony);\n(r) Behave in a manner that is abusive or offensive to neighbors, Landlord, and/or employees or\ncontractors of Landlord;\n(s) Store or possess fireworks, pyrotechnics, or any flammable substance on Premises;\n(t) Remove, hang items from, or tamper with any smoke detector, carbon monoxide detector, and/or\nsprinkler head or any part of sprinkler system. Tenant shall not activate/engage any fire alarm or fire\nextinguisher, except in the event of an emergency. Breach of this provision may result in criminal\ncharges and/or an administrative fee of $250.00. In addition, Tenant shall be liable for any damage\ncaused by misuse of alarm, sprinkler and/or fire extinguisher, and shall immediately report any misuse of\nsuch device to Landlord;\n(u) Occupy or use any sprinkler room for storage;\n(v) Turn on the air conditioning unit if outside temperature is less than seventy (70) degrees. If\nTenant does so, he/she will be charged for any damages resulting from said use;\n(w) Access the roof of any part of Premises. Roof access is for repair and maintenance personnel only;\n(x) Use or store any type of grill on Premises other than those provided by Landlord at some locations;\n(y) Use fireplace(s) unless Landlord has given written permission and Landlord and Tenant have signed\na Fireplace Addendum;\n(z) Remove any furniture or other property belonging to Landlord without prior written consent of\nLandlord; and\n(aa) Permit use of laundry facilities by any person not listed as Tenant or Occupant on this Rental\nAgreement.",
+      "word_count": 980,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_14",
+      "clause_number": "14",
+      "clause_title": "T",
+      "clause_type": "maintenance",
+      "original_text": "ENANT'S DUTIES. Tenant shall:\n(a) Comply with all obligations primarily imposed upon Tenant by applicable provisions of building and\nhousing codes materially affecting health and safety;\n(b) Immediately notify Landlord of any violation or suspected violation of the housing code;\n(c) Notify Landlord of any smoke or carbon monoxide (if applicable) detector malfunctions including, but\nnot limited to, needed battery replacement or power failure;\n(d) Notify Landlord in the event a fire extinguisher was engaged and needs to be replaced;\n(e) Keep Premises in a clean and safe condition and immediately report any unsafe condition to\nLandlord;\n(f) Remove from Premises all ashes, garbage, rubbish and other waste in a clean, safe, and timely\nmanner and in compliance with applicable recycling requirements of Landlord or the City of\nCharlottesville;\n(g) Keep drains that are in or adjacent to Premises clean and unobstructed;\n(h) Keep all plumbing fixtures clean and provide and use a plunger for clearing toilet drains; Tenant\nagrees that should Landlord have to clear a toilet drain the charge will be $55.00 during office hours and\n$82.50 after office hours and on holidays and weekends, and should Landlord have to remove a toilet in\norder to unstop it, additional charges will result;\nGroup Initials Page 6\n(i) Provide and install shower curtains and bath mats for all tubs and showers to prevent water damage.\nAny damages resulting from the improper installation or use of mats and shower curtains will be charged\nto Tenant;\n(j) Use in a reasonable manner all electrical, plumbing, sanitary, heating, ventilating, air conditioning and\nother facilities and appliances. Tenant shall be responsible for notifying Landlord of any maintenance\nconcerns in a timely manner. Failure to do so could result in Tenant being responsible for any additional\nutility costs and/or damages resulting from the unreported problem;\n(k) Promptly vacate Premises at the termination of the Rental Agreement, whether by expiration of the\nrental term or resulting from default of Tenant;\n(l) Conduct oneself in a manner that will not disturb Tenant's neighbors\u2019 peaceful enjoyment, and require\nany person on Premises to conduct himself in a manner that will not disturb Tenant's neighbors\u2019 peaceful\nenjoyment;\n(m) Be responsible for the actions and damages caused by any invited or uninvited guests who may\nenter Landlord\u2019s property as a result of Tenant\u2019s hosting a party or gathering at the Premises;\n(n) Abide by all reasonable rules and regulations issued by Landlord and ensure that Tenant's guests\nand Occupants also abide by said Rules and Regulations and the provisions of paragraph 12 above;\n(o) Replace all reasonably accessible burned out light bulbs, including exterior light fixtures adjacent to\nPremises;\n(p) Keep thermostat set above 55 degrees to prevent freezing of pipes. Tenant agrees to allow\nLandlord to turn heat up to 55 degrees if pipes are in danger of freezing. Tenant will pay to repair all\npipes that burst due to Tenant\u2019s negligence, and any resulting damages;\n(q) Use the provided ladder and/or loft or mezzanine area, if any, in a safe manner and assume all risks\nfor using them;\n(r) Provide Landlord with keys and/or instructions on how to operate any new burglary prevention or fire\ndetection devices that have been installed by Tenant. Upon termination of tenancy, if required by\nLandlord, Tenant shall remove all such devices and repair all damages;\n(s) Remove snow and/or ice, as needed, in order to move vehicle from parking space. Tenant shall also\nbe responsible for snow and/or ice removal from pathways, sidewalks, and driveways unless Premises is\nlocated in an apartment or condominium complex where these services may be provided by Landlord;\n(t) Sweep, dust, and appropriately protect and maintain any hardwood floors throughout the term of this\nRental Agreement to protect them against scratches; and\n(u) Keep the Premises free from insects and pests, as those are defined in Virginia Code \u00a73.2-3900, and\npromptly notify Landlord of the existence of any insects or pests.\n(v) Cover a minimum 75 percent of wood floors, including hallways and corridors, with area rugs.\n(w) Secure at all times any firearm(s) in the Premises with either a trigger lock or similar device or store\nthe firearm(s) in a locked gun safe.",
+      "word_count": 698,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "penalty",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_15",
+      "clause_number": "15",
+      "clause_title": "M",
+      "clause_type": "maintenance",
+      "original_text": "OLD AND MILDEW. Tenant acknowledges that it is necessary for Tenant to provide appropriate\nclimate control, to keep Premises clean, to always use bathroom exhaust fans, and to take other\nmeasures to retard and prevent mold and mildew from accumulating in Premises. Tenant agrees to (1)\nclean and dust Premises on a regular basis and to remove visible moisture accumulation on windows,\nwalls and other surfaces as soon as reasonably possible; (2) not block or cover any of the heating,\nventilation or air-conditioning ducts in Premises; (3) immediately report to Landlord: (a) any evidence of\na water leak or excessive moisture in Premises, as well as in any storage room, garage or other common\narea; (b) any evidence of mold- like or mildew-like growth that cannot be removed by applying a common\nhousehold cleaner and wiping the area; (c) any failure or malfunction in the heating, ventilation,\nplumbing, air conditioning systems or laundry systems in Premises; and (d) any inoperable doors or\nwindows. Tenant further agrees that Tenant shall be responsible for damage to Premises and/or\nTenant\u2019s property as well as injury to Tenant, or other persons, resulting from Tenant\u2019s failure to comply\nwith the terms of this paragraph.\nGroup Initials Page 7",
+      "word_count": 203,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_8_clause_16",
+      "clause_number": "16",
+      "clause_title": "B",
+      "clause_type": "interest",
+      "original_text": "EDBUGS. Resident agrees to maintain the Premises in a manner that prevents the occurrence of\nan infestation of bedbugs, and to immediately notify Landlord of any signs of infestation. Tenant\nrepresents and warrants that all furnishings and other personal property items to be moved into the\nPremises at any time have been inspected by Tenant and are free of bedbugs. Tenant may be required\nto pay all reasonable costs of cleaning and pest control treatments incurred by Landlord to treat\nPremises, and possibly units adjacent to Premises, for bedbugs and shall cooperate with pest control\nefforts to treat infestation.",
+      "word_count": 99,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_17",
+      "clause_number": "17",
+      "clause_title": "S",
+      "clause_type": "duration",
+      "original_text": "UBLEASE. Tenant shall have the right to find a subtenant and to sublease Premises upon written\napproval by Landlord and prepayment of a sublet fee. This fee shall be applicable to each sublease\nagreement prepared. Subtenant shall be subject to Landlord's reasonable approval and may be required\nby Landlord to be a student or a graduate student. All other persons listed as \u201cTenant\u201d must also\napprove any subtenant in writing. Tenant shall not utilize \u201cAirBNB\u201d or other type of short term rental\nagency. In the event that Tenant subleases Premises, Tenant and subtenant shall be jointly and\nseverally responsible for all terms and conditions of this Rental Agreement. Any subleasing without\nLandlord's prior written approval shall be considered a material breach of this Rental Agreement and the\nsublet fee, in the event subtenant is approved, will be $200.00 per person. In the event of a sublease,\nLandlord will not be responsible for inspecting, cleaning or painting the Premises prior to occupancy by a\nsubtenant.",
+      "word_count": 164,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_18",
+      "clause_number": "18",
+      "clause_title": "R",
+      "clause_type": "rent",
+      "original_text": "E-RENTING PREMISES BY LANDLORD. In the event that Landlord secures a new tenant to\ncomplete the term of this Rental Agreement or any part thereof, either because Tenant has so requested\nor because Tenant is in default, Tenant agrees to pay Landlord a re-renting fee equal to one month's rent\nfor expenses incurred by Landlord for re-renting Premises. New tenant shall be subject to Landlord's\nreasonable approval and may be required by Landlord to be a student or a graduate student. Such\npayments shall be in addition to other payments due or past due. If Tenant requests Landlord to secure\na new tenant for Premises, or if Tenant defaults on this Rental Agreement, Tenant understands that\nTenant remains liable for all responsibilities hereunder until such time said new tenancy commences. In\nthe event Tenant elects to request Landlord to find a new tenant to complete the term of this Rental\nAgreement, the procedure, dates and details must be agreed upon by Landlord and by Tenant in writing\nbefore Landlord will advertise or show Premises. In any circumstance, Landlord does not guarantee that\nit can secure a new tenant and does not agree to give the Premises priority over other existing vacant\nproperties. In the event a new tenant is not secured to complete the term of this Rental Agreement,\nTenant will be entirely responsible for the Rental Agreement, including, but not limited to, all rent, utility,\nreserved parking, furniture, and/or storage space fees, as well as expenses incurred by Landlord for\nattempting to re-rent Premises, including, but not limited to advertising costs and time spent presenting\nPremises to prospective new tenants.",
+      "word_count": 271,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_19",
+      "clause_number": "19",
+      "clause_title": "E",
+      "clause_type": "duration",
+      "original_text": "XTENDED ABSENCE. Tenant shall notify Landlord in writing of any absences of seven days or\nmore from Premises and Tenant agrees to leave all utilities connected continuously through the term of\nthis Rental Agreement plus 5 additional days as provided in paragraph 5.",
+      "word_count": 43,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "deadline",
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_20",
+      "clause_number": "20",
+      "clause_title": "A",
+      "clause_type": "duration",
+      "original_text": "BANDONMENT. Abandonment of Premises (whether or not the keys are returned and accepted\nby Landlord) will entitle Landlord to immediate possession and the option to terminate this Rental\nAgreement, and/or authorization to find a new tenant, and remove any remaining personal effects therein\nand dispose of the same in a manner consistent with Virginia law.",
+      "word_count": 55,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_8_clause_21",
+      "clause_number": "21",
+      "clause_title": "L",
+      "clause_type": "duration",
+      "original_text": "OCKS/KEYS. If Tenant loses any key to any lock on Premises, or fails to return all keys, with each\nkey labeled, to Landlord at the termination of this Rental Agreement, Tenant agrees to pay a minimum of\n$100.00 per lock to re-key any existing lock and $150.00 per lock for replacing or installing any additional\nlocks on Premises and for cutting new keys, or for re-programming combination locks. Tenant agrees to\nGroup Initials Page 8\npay a minimum of $150.00 per lock for installing additional locks per Tenant\u2019s request. Tenant may not\nduplicate and/or distribute keys to any other person not listed as Tenant or Occupant on this Rental\nAgreement. Landlord makes no guarantee that he will be available to unlock Premises at any time, and\nthere will be a $5.00 fee for borrowing a key in the event of a lock out. Tenant shall keep keys for all\nlocks for Premises with him/her at all times to ensure re-entry into Premises in the event Landlord\naccesses Premises as permitted in paragraph 26 of this Rental Agreement as Landlord will lock doors\nupon leaving. If Tenant is locked out and Landlord is not available, Tenant may call a locksmith to\nunlock Premises at Tenant\u2019s expense.",
+      "word_count": 205,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_22",
+      "clause_number": "22",
+      "clause_title": "A",
+      "clause_type": "maintenance",
+      "original_text": "LTERATIONS. Tenant agrees to make no alterations, installations, repairs or redecorations of any\nkind to Premises without the prior written consent of Landlord. Any alterations, redecorations, repairs,\nadditions or improvements shall inure to the benefit of, and become the property of Landlord. Landlord\nshall not be responsible for installing, maintaining, or repairing telephone lines. Landlord or others may\nfrom time to time make improvements, changes, or additions, (including the construction of new living\nunits) to Premises or on the property of the Premises, or on property adjoining Premises. Such work shall\nnot modify the terms or conditions of this Rental Agreement nor be considered a breach of Tenant\u2019s quiet\nenjoyment.",
+      "word_count": 110,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_23",
+      "clause_number": "23",
+      "clause_title": "R",
+      "clause_type": "maintenance",
+      "original_text": "EPAIRS. Tenant agrees to pay the reasonable costs of repairs or maintenance tasks necessitated\nby the deliberate or negligent acts or omissions of Tenant, Occupants, or guests of Tenant, unknown\nparties, or vandals. Said repairs or maintenance tasks shall be arranged by Landlord unless Landlord\ngives written permission for Tenant to accomplish the repairs or tasks. If employees of Landlord make\nrepairs (including but not limited to extermination, cleaning, removing trash, replacement of smoke\ndetectors, batteries, light bulbs and painting) to Premises during the term of this Rental Agreement or\nupon termination of this Rental Agreement, the rate shall be $55 per hour for labor, plus the cost of\nmaterials, plus overhead of 20% of labor and materials. After normal business hours or on weekends\nand holidays labor shall be charged at a rate of $82.50 per hour. A minimum charge of one hour for\nlabor shall be assessed on all repair charges. If a subcontractor of Landlord makes such repairs to the\nPremises, the charge will be the amount invoiced, plus 20% overhead.",
+      "word_count": 174,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_24",
+      "clause_number": "24",
+      "clause_title": "D",
+      "clause_type": "termination",
+      "original_text": "EFAULT.\n(a) NON-PAYMENT. If rent or any payment required to be made under this Rental Agreement is unpaid\nwhen due, and Tenant fails to make such payment or to pay such rent within five days after written notice\nis served on Tenant notifying Tenant of the non-payment and of Landlord's intention to terminate this\nRental Agreement if the rent or other payment is not paid within the five day period, Landlord may\nterminate this Rental Agreement and proceed to obtain possession of Premises as provided by law. In\nthe event the rental payment is not received by the 11 day of the month and Landlord files a warrant or\nsummons for collection, Tenant agrees to pay Landlord a processing fee of $75.00, in addition to any\nother amounts owed under this Rental Agreement.\n(b) MATERIAL NON-COMPLIANCE. Except as otherwise provided by law, if there is a material non-\ncompliance by Tenant with any term of this Rental Agreement, Landlord may serve a written notice\non Tenant specifying the acts and omissions constituting the breach and stating that if after receipt of\nthe notice the breach is not remedied within twenty-one days, this Rental Agreement shall terminate as\nprovided in the notice. If the breach is remediable by repairs or the payment of damages or otherwise\nand Tenant adequately remedies the breach prior to the date specified in the notice, this Rental\nAgreement shall not terminate. If the breach is one by its nature not remediable, for example, a breach\nof Tenant\u2019s duty to refrain from disturbing his neighbors, sub-leasing without written permission from\nLandlord or Tenant\u2019s smoking in Premises, this Rental Agreement shall terminate upon the date\nspecified in the notice. Tenant agrees they are in default of this Rental Agreement if Tenant or any\nOccupant violates fire, safety, health, or criminal laws, regardless of whether or where arrest or\nconviction occurs. Tenant agrees that any violation of paragraphs 13 or 14 shall be considered a material\nviolation of this agreement.\nGroup Initials Page 9\n(c) REPRESENTATIONS IN RENTAL APPLICATION. This Rental Agreement was entered into based\nupon the representations of Tenant contained in the Rental Application(s). If any of those\nrepresentations are found to be misleading, incorrect or untrue, or change (including but not limited to\nscholastic, employment, or criminal history), Landlord may immediately terminate this Rental Agreement\nand notify Tenant to vacate the Premises.\n(d) VIOLATION OF PARAGRAPH 13 OR 14 AFFECTING HEALTH AND SAFETY. If Tenant violates\nparagraph 13 or 14 of this Rental Agreement or any other provision of this Rental Agreement materially\naffecting health and safety and the violation can be remedied by repair, replacement of a damaged item\nor cleaning, and Tenant fails to comply as promptly as conditions require in case of emergency or within\ntwenty-one days of written notice by Landlord specifying the breach and requesting that Tenant remedy it\nwithin that period of time, Landlord may enter Premises and cause the work to be done in a workman-\nlike manner and submit an itemized bill for actual and reasonable cost or the fair and reasonable value\nthereof as rent due on the next date when periodic rent is due, or if this Rental Agreement has\nterminated, due immediately.\n(e) NON-WAIVER. Acceptance of periodic or partial rent payments with knowledge of a default by\nTenant or acceptance of performance by Tenant that varies from the terms of this Rental Agreement or\nrules or regulations subsequently adopted by Landlord shall not constitute waiver of Landlord\u2019s rights\nafter the breach has occurred.\n(f) LANDLORD\u2019S REMEDIES AFTER TERMINATION. If this Rental Agreement is terminated by\nLandlord, Landlord shall have a claim for possession and for rent and a separate claim for actual\ndamages for breach of this Rental Agreement and reasonable attorney\u2019s fees as provided by law. Actual\ndamages for breach of the Rental Agreement shall include a claim for such rent as would have accrued\nuntil the expiration of the term of this Rental Agreement or until a tenancy pursuant to a new rental\nagreement commences; whichever first occurs. Actual damages also include collection costs of any kind\nincurred by Landlord to collect amounts owed by Tenant, and interest at 18% on the unpaid balance until\npaid in full.\n(g) FAILURE TO VACATE AT END OF RENTAL AGREEMENT. If Tenant fails to vacate Premises, or\ndeliver possession of entire Premises, on or before the termination date and time of this Rental\nAgreement, Tenant agrees to pay Landlord 150% of the daily prorated rent, as liquidated damages, for\neach day or portion of day.\n(h) LANDLORD\u2019S REMEDIES IN GENERAL. The Landlord may recover damages and obtain\ninjunctive relief for any non-compliance by the Tenant with this Rental Agreement. The Landlord shall\nbe entitled to recover reasonable attorney\u2019s fees as provided in the Virginia Residential Landlord and\nTenant Act.\n(i) E-MAIL NOTICE. A notice given to Tenant by Landlord through a Tenant-provided E-mail address\nshall constitute proper notice.",
+      "word_count": 822,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_25",
+      "clause_number": "25",
+      "clause_title": "V",
+      "clause_type": "rent",
+      "original_text": "ENUE. Landlord and Tenant agree that the exclusive venue for resolution of any and all disputes\narising under this Rental Agreement shall be in the courts of the City of Charlottesville, Virginia or\nAlbemarle County, Virginia.",
+      "word_count": 36,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_8_clause_26",
+      "clause_number": "26",
+      "clause_title": "A",
+      "clause_type": "maintenance",
+      "original_text": "CCESS. Landlord shall have the right to enter Premises in order to inspect Premises, to make\nnecessary or requested repairs, decorations, alterations or improvements to Premises or to adjacent\npremises, supply necessary or agreed services, exhibit Premises to prospective or actual purchasers,\nmortgagees, tenants, workmen, or contractors, or in case of emergency. Except in case of emergency or\nif it is impractical to do so, Landlord shall enter only at reasonable times and shall give Tenant\nreasonable notice of intent to enter.",
+      "word_count": 82,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_27",
+      "clause_number": "27",
+      "clause_title": "R",
+      "clause_type": "rent",
+      "original_text": "ULES AND REGULATIONS. Tenant agrees that Woodard Properties\u2019 Rules and Regulations\n(including no smoking and no pets by Tenant or guests) are incorporated herein by reference, and any\nadditional reasonable rules and regulations subsequently adopted by Landlord of which Tenant receives\nreasonable notice, shall be a part of this Rental Agreement. Tenant further agrees that any failure by\nGroup Initials Page 10\nTenant, or failure by others on Premises with the consent or knowledge of Tenant, to fully abide by Rules\nand Regulations may be deemed by Landlord as a default by Tenant and breach of this Rental\nAgreement. Tenant agrees to pay Landlord liquidated damages in the amount of $200.00 per\noccurrence, and, in addition, any actual damages suffered by Landlord, if Tenant or guest of Tenant is in\nviolation of paragraph 13 or 14 of this Rental Agreement.",
+      "word_count": 140,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "notice",
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_28",
+      "clause_number": "28",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "ELEVISION SERVICE. Landlord shall have the absolute right to lease the interior television cable\nwiring, where Landlord has installed wiring, to any television service provider that Landlord selects. If\nLandlord installs a central television satellite dish or antenna system, Tenant agrees to use it rather than\nany other service that may be available. Any Tenant who desires to install a satellite dish must first sign\na Satellite Addendum and a Hold Harmless Addendum and pay for the installation as well as any\nadditional costs and fees to Landlord. Landlord must approve any installation prior to the\ncommencement of the work. Tenant shall pay for cable service if Tenant chooses to subscribe.",
+      "word_count": 111,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_29",
+      "clause_number": "29",
+      "clause_title": "I",
+      "clause_type": "liability",
+      "original_text": "NTERNET SERVICE. At locations where Landlord provides Internet Service, whether it is wired or\nwireless, the service provider is to be selected by Landlord and the monthly costs are as follows: $32.00\nper month for a 1 bedroom unit, $48.00 per month for a 1 bedroom with study or 2 bedroom unit, $56.00\nper month for a 3, 4, 5, 6 or 7 bedroom unit, and $64.00 per month for units with 8 or more bedrooms. In\nproperties where wireless internet is provided, landlord does not guarantee functionality of wired jacks,\nand in properties where wired internet is provided, landlord does not guarantee wireless functionality.\nTenant acknowledges that no warranty is made by Landlord or any internet provider contracted by\nLandlord (hereafter referred to as \u201cProvider\u201d) regarding any information, service, or product provided\nthrough, in connection with, or located on the computers of Provider. Landlord hereby expressly\ndisclaims any and all warranties. Tenant is bound by the Provider\u2019s acceptable use policy. Landlord\nreserves the rights to determine at its sole discretion what uses of the Internet Service are and are not\npermissible and any use of the Internet Service that inordinately drains bandwidth is prohibited. The\nentire risk as to the results and the performance is assumed by the Tenant, and in no event will Landlord\nor Provider be liable for any consequential, incidental, direct or indirect damages suffered in the course of\nusing this connection. Neither Landlord or Provider will be liable or responsible for, including without\nlimitation, any loss, damage, or expense incurred by Tenant caused or allegedly caused by failure of\nperformance, error, omission, interruption, electrical surge/damage/interference, deletion, defect, delay in\noperation or transmission, communications line failure, theft or destruction of or unauthorized access to,\nalteration of or use of records, whether for breach of contract, negligence, or if the quantity or quality of\nthe Internet Service is no longer suitable for Tenant\u2019s requirements, or under any other cause of action.\nTenant is responsible for updating the virus protection programs and personal firewalls on his/her\npersonal computer with the most current definitions, as well as performing regular virus scans. Tenant is\nalso responsible for installing the most current critical updates for his/her operating system. If Tenant\ndoes not comply with the terms of this paragraph, Landlord may terminate Tenant\u2019s access to this\nconnection, without notice, for the remainder of the rental term and no compensation will be awarded to\nTenant for this disruption of service. Tenant, and any guest of Tenant, shall not remove or tamper with\nWireless Access Points, networking equipment, wiring, or wall jacks provided by Landlord. Tenant is not\npermitted to use the Internet Service connection for any purposes that violate U.S. or state laws. It is\nalso not acceptable to use this connection to interfere with or disrupt network users, service or\nequipment. Such interference includes, but is not limited to: distribution of unsolicited advertising,\npropagation of computer worms or viruses, and using the network to make unauthorized entry to other\ncomputational, information or communications devices or resources. Any Tenant discovered using this\nconnection for such unacceptable purposes will have his/her access to the connection terminated without\nnotice, and Tenant will be responsible for all costs incurred by Landlord or Provider because of such\nunacceptable uses. Landlord shall have the absolute right to lease or sell any internet cable and/or\ntelevision cable and/or telephone cable, where it has been or is installed by Landlord, to any service\nprovider of Landlord\u2019s choice.\nGroup Initials Page 11",
+      "word_count": 582,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_30",
+      "clause_number": "30",
+      "clause_title": "F",
+      "clause_type": "termination",
+      "original_text": "IRE OR CASUALTY DAMAGE. If Premises is damaged or destroyed by fire or casualty to an\nextent that Tenant\u2019s enjoyment of Premises is substantially impaired or that required repairs can only be\naccomplished if Tenant vacates Premises, either Tenant or Landlord may terminate this Rental\nAgreement. Tenant may terminate this Rental Agreement by vacating Premises and within 14 days\nthereafter, serving Landlord a written notice of his intention to terminate, in which case this Rental\nAgreement will terminate as of the date of vacating. If continued occupancy is lawful there shall be a\nreasonable rent reduction for such time until Premises is restored to the condition prior to fire or casualty;\nand, in case of such deprivation of possession, Tenant shall be allowed a like reduction until possession\nof Premises is restored to Tenant. Landlord may terminate this Rental Agreement by giving Tenant 30\ndays\u2019 notice of intention to terminate based upon Landlord\u2019s determination that such damage requires the\nremoval of Tenant and use of Premises is substantially impaired, in which case this Rental Agreement\nwill terminate as of the expiration of the notice period. If this Rental Agreement is terminated, Landlord\nshall return all security deposits in accordance with paragraph 4 and 5 of this Rental Agreement and\nprepaid rent, plus accrued interest recoverable by law, unless Landlord reasonably believes that Tenant,\nor Tenant\u2019s guests were the cause of the damage or casualty, in addition to paying for repair of all\ndamages and related costs, in which case Landlord shall account to Tenant for the security deposit and\nprepaid rent, plus accrued interest based upon the damage or casualty. Accounting for rent in the event\nof termination or apportionment shall be made as of the date of the casualty.",
+      "word_count": 290,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_31",
+      "clause_number": "31",
+      "clause_title": "N",
+      "clause_type": "maintenance",
+      "original_text": "ON-LIABILITY OF LANDLORD. Landlord shall not be liable for any injury or damage to persons\nor property either caused by or resulting from falling plaster or drywall, dampness, overflow or leakage\nupon or into the Premises of water, rain, snow, ice, sewage, steam, gas, or electricity, or by any\nbreakage in or malfunction of electronically locking doors, video cameras, pipes, plumbing fixtures, sump\npumps, air conditioners, or appliances, or leakage, breakage, or obstruction of soil pipes, nor for any\ninjury or damage from any other cause unless any such injury or damage is the result of willful\nmisconduct or gross negligence of Landlord. Tenant acknowledges that basement rooms are not\nconsidered watertight and may, on occasion, take on water. Tenant shall give prompt notice to Landlord\nof any of the foregoing occurrences, however caused. In addition, Landlord is not responsible for theft of\nTenant\u2019s personal property or any other criminal acts by known or unknown third parties on or near\nPremises. It shall be the responsibility of Tenant to obtain insurance to cover loss or damage to personal\nproperty. A breach by any other tenant of any term of that tenant\u2019s rental agreement shall not constitute a\nbreach by Landlord of any obligation to Tenant hereunder. Tenant hereby releases Landlord from any\nliability resulting from the acts of third persons who are not agents of Woodard Properties, or from other\ntenants. There shall be no rent reductions, compensation to Tenant, or cause for termination of this\nRental Agreement because of interruptions of any utilities or services or the failure of any appliance to\nfunction properly or because of any inconvenience arising from such interruption or failure to function\nproperly where Landlord has been notified of any such interruption, malfunction, or failure of the above\nservices by Tenant and has made reasonable efforts to repair.",
+      "word_count": 304,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_32",
+      "clause_number": "32",
+      "clause_title": "S",
+      "clause_type": "deposit",
+      "original_text": "ECURITY AWARENESS: Tenant and Occupant acknowledge that security systems are subject to\nfailure from malfunction, tampering, power outages, human error or other causes, and agree that they\nshall not rely on such systems as protection against crime, injury or damage. Landlord specifically\ndisclaims any express or implied warranty of any security systems provided by Landlord. Tenant and\nOccupant acknowledge that he or she is responsible for his or her own personal safety and agrees to\ntake appropriate safety measures to protect him or herself.",
+      "word_count": 84,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_33",
+      "clause_number": "33",
+      "clause_title": "P",
+      "clause_type": "duration",
+      "original_text": "HOTOGRAPHY & VIDEO RELEASE: Tenant acknowledges that Landlord may take photographs\nor videos of apartments or events, and that these may be used in web or print media. Tenant agrees to\nrelease, hold harmless and indemnify Landlord and Landlord's representatives from and against all\nclaims, demands, costs, expenses (including attorney's fees), and cause of action arising out of or in any\nmanner relating to any personal damage from use of photography or video.\nGroup Initials Page 12",
+      "word_count": 77,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_8_clause_34",
+      "clause_number": "34",
+      "clause_title": "W",
+      "clause_type": "rent",
+      "original_text": "AIVER OF RIGHT TO JURY TRIAL. Both Landlord and Tenant hereby waive the right to trial by\njury in any action, proceeding or counter-claim brought by either party against the other arising out of this\nRental Agreement, the relationship of Landlord and Tenant, Tenant\u2019s use or occupancy of Premises,\nand/or any injury or damage on or about Premises.",
+      "word_count": 58,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_8_clause_35",
+      "clause_number": "35",
+      "clause_title": "E",
+      "clause_type": "duration",
+      "original_text": "NTIRE AGREEMENT. This Rental Agreement constitutes the final and entire agreement among\nthe parties and they shall not be bound by any terms, conditions, oral statements, warranties, or\nrepresentations not herein contained. Except as provided herein, this Rental Agreement cannot be\nmodified except by written agreement signed by both Landlord and Tenant.",
+      "word_count": 52,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_36",
+      "clause_number": "36",
+      "clause_title": "A",
+      "clause_type": "governing_law",
+      "original_text": "PPLICABLE LAW. This instrument shall be construed, interpreted and applied in accordance with\nthe laws of the Commonwealth of Virginia.",
+      "word_count": 20,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_8_clause_37",
+      "clause_number": "37",
+      "clause_title": "A",
+      "clause_type": "rent",
+      "original_text": "TTORNMENT. Tenant hereby agrees that Tenant will recognize as its landlord under this Rental\nAgreement and shall attorn to any person succeeding to the interest of Landlord in respect of the land\nand the buildings on or in which Premises is situated, upon any foreclosure of any deed of trust upon\nsuch land or building, or upon the execution of any deed in lieu of such foreclosure in respect of such\ndeed of trust. If requested, Tenant shall execute and deliver an instrument or instruments confirming its\nattornment as provided for herein; provided, however, that no such mortgagee or successor-in-interest\nshall be bound by any payment of rent for more than one (1) month in advance, or any amendment or\nmodification of the Rental Agreement made without the express written consent of such mortgagee.",
+      "word_count": 134,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_38",
+      "clause_number": "38",
+      "clause_title": "S",
+      "clause_type": "rent",
+      "original_text": "EVERABILITY. If a court of competent jurisdiction shall, at any time, hold that a portion of this\nRental Agreement is invalid, the remainder shall not be affected thereby and shall continue in full force\nand effect.",
+      "word_count": 36,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_8_clause_39",
+      "clause_number": "39",
+      "clause_title": "E",
+      "clause_type": "rent",
+      "original_text": "XECUTION OF THIS RENTAL AGREEMENT. In lieu of an original signature to this Rental\nAgreement, Landlord will accept a valid and legitimate electronic and/or facsimile signature of the Tenant.\nIn doing so, Tenant hereby acknowledges his/her endorsement and acceptance of this agreement, and\nhe/she waives any challenge to validity of this Rental Agreement based on Tenant\u2019s endorsement by\nelectronic and/or facsimile signature.\nWITNESS the following signatures and seals:\nBY TENANT:\nBY AUTHORIZED OCCUPANT (of legal age):\nOccupant has read this Rental Agreement and acknowledges his or her responsibilities as occupant.\nGroup Initials Page 13\nBY LANDLORD:\nAuthorized Agent for Landlord/Effective Date of Rental Agreement",
+      "word_count": 104,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": []
+    }
+  ]
+}

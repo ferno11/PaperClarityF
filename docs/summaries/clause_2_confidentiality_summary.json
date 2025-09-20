@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 2: E\nRisk Level: standard Word Count: 82\nxclusions from Confidential Information. Receiving Party's obligations under this Agreement do not extend to information that is: (a) publicly known at the time of disclosure or\nsubsequently becomes publicly known through no fault of the Receiving Party; (b) discovered or\ncreated by the Receiving Party before disclosure by Disclosing Party; (c) learned by the\nReceiving Party through legitimate means other than from the Disclosing Party or Disclosing\nParty's representatives; or (d) is disclosed by Receiving Party with Disclosing Party's prior",
+  "plain_english": "This termination requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 4. Factors: confidential(4)",
+  "clause_heading": "CLAUSE 2: E",
+  "word_count": 89,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "termination",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.7865168539325842,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_2_confidentiality.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 95,
+    "word_count_cleaned": 89,
+    "cleaning_ratio": 0.9368421052631579,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

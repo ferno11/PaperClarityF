@@ -1,0 +1,9 @@
+CLAUSE 3: T
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 21
+------------------------------------------------------------
+
+hat the Lessee will have the option to terminate this lease by giving [one month`s
+notice] in writing to the Lessor.

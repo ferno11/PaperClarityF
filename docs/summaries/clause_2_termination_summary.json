@@ -1,0 +1,34 @@
+{
+  "original_text": "CLAUSE 2: I\nRisk Level: standard Word Count: 75\nf Tenant defaults under the Lease by failing to pay rent, as set forth in section XIV(B)(1), Landlord may\nterminate Tenant’s rights under the Lease and Tenant shall vacate the Premises immediately. If Tenant defaults\nunder the Lease for any other reason, as set forth in sections XIC(B)(2) or (3) above, Landlord may terminate\nTenant’s rights under the Lease and Tenant shall vacate the Premises within 7 days of delivery of the notice of",
+  "plain_english": "This property requires compliance with  7 days.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 21. Factors: default(7), notice(4), numeric:days:7.0(6), conditionals:2(4)",
+  "clause_heading": "CLAUSE 2: I",
+  "word_count": 83,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "property",
+  "key_entities": [
+    "timeframe: 7 days"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "days: 7 days"
+  ],
+  "conditional_language": [
+    "may",
+    "If"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_2_termination.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 88,
+    "word_count_cleaned": 83,
+    "cleaning_ratio": 0.9431818181818182,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

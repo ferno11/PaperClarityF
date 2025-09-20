@@ -1,0 +1,33 @@
+{
+  "original_text": "CLAUSE 12: I\nRisk Level: low Word Count: 175\nt is hereby agreed that if default is made by the lessee in payment of the rent for a\nperiod of three months, or in observance and performance of any of the covenants\nand stipulations hereby contained and on the part to be observed and performed by\nthe lessee, then on such default, the lessor shall be entitled in addition to or in the\nalternative to any other remedy that may be available to him at this discretion, to\nterminate the lease and eject the lessee from the said premises; and to take\npossession thereof as full and absolute owner thereof, provided that a notice in\nwriting shall be given by the lessor to the lessee of his intention to terminate the\nlease and to take possession of the said premises. If the arrears of rent are paid or\nthe lessee comply with or carry out the covenants and conditions or stipulations,\nwithin fifteen days from the service of such notice, then the lessor shall not be\nentitled to take possession of the said premises.",
+  "plain_english": "This duration requires compliance with specific requirements.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 21. Factors: default(7), notice(4), conditionals:5(10)",
+  "clause_heading": "CLAUSE 12: I",
+  "word_count": 184,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "duration",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.3804347826086956,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "If",
+    "provided that",
+    "then",
+    "may",
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_12_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 188,
+    "word_count_cleaned": 184,
+    "cleaning_ratio": 0.9787234042553191,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

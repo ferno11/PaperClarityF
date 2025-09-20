@@ -1,0 +1,9 @@
+CLAUSE 8: W
+============================================================
+Type: general
+Risk Level: medium
+Word Count: 21
+------------------------------------------------------------
+
+aiver. The failure to exercise any right provided in this Agreement shall not be a waiver of
+prior or subsequent rights.

@@ -1,0 +1,10 @@
+CLAUSE 38: S
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 36
+------------------------------------------------------------
+
+EVERABILITY. If a court of competent jurisdiction shall, at any time, hold that a portion of this
+Rental Agreement is invalid, the remainder shall not be affected thereby and shall continue in full force
+and effect.

@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 13: T\nRisk Level: standard Word Count: 40\nhat in addition to the compensation mentioned above, the Lessee shall pay the\nactual electricity, shared maintenance, water bills for the period of the agreement\ndirectly to the authorities concerned. The relevant `start date` meter readings are\n[Starting Meter Reading].",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 3. Factors: maintenance(3)",
+  "clause_heading": "CLAUSE 13: T",
+  "word_count": 49,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_13_utilities.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 53,
+    "word_count_cleaned": 49,
+    "cleaning_ratio": 0.9245283018867925,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

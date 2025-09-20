@@ -1,0 +1,30 @@
+{
+  "original_text": "CLAUSE 21: E\nRisk Level: standard Word Count: 83\nntire Agreement. This Agreement, together with any exhibits or addenda\nannexed hereto, is the sole, complete, and exclusive expression of the parties’ intent\nwith respect to the subject matter hereof. Notwithstanding the foregoing, in the event\nof any conflict or discrepancy between the terms and conditions of this Agreement\nand those of any exhibit, rider, or addendum hereto, the terms of this Agreement shall\ncontrol. This Agreement may be amended or modified only by a writing\ncountersigned by authorized representatives of each party.",
+  "plain_english": "This termination requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 4. Factors: conditionals:2(4)",
+  "clause_heading": "CLAUSE 21: E",
+  "word_count": 92,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "termination",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.7608695652173912,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may",
+    "in the event"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_21_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 96,
+    "word_count_cleaned": 92,
+    "cleaning_ratio": 0.9583333333333334,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

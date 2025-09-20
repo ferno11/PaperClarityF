@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 14: R\nRisk Level: standard Word Count: 69\necitals. The above Recitals are true and accurate, and they are incorporated\ninto this Agreement and made a part thereof.\nTHEREFORE, intending to be legally bound hereby, each of the parties has\nexecuted and delivered this Employment Agreement on the dates specified below.\nBOARD OF GOVERNORS, STATE UNIVERSITY\nSYSTEM OF FLORIDA\nBy: LE / —— ee Brigh L&mb, Chair\nEMPLOYEE - RAYMOND RODRIGUES\nBy: — Bay < Fadigyen",
+  "plain_english": "This termination requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 14: R",
+  "word_count": 77,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "termination",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.9090909090909091,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_14_interest.txt",
+    "processed_timestamp": "2025-09-20 05:34:23",
+    "word_count_original": 82,
+    "word_count_cleaned": 77,
+    "cleaning_ratio": 0.9390243902439024,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

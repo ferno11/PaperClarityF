@@ -1,0 +1,627 @@
+CLAUSE 5: B
+============================================================
+Type: duration
+Risk Level: high
+Word Count: 6493
+------------------------------------------------------------
+
+orrower is financing the construction of the improvements and related
+costs and expenses through, among others, during the Qualified Project Period, as defined
+below, the following sources (collectively, the “Permitted Financing”)::
+[FINANCING SOURCES TO BE OUTLINED FORTHWITH]
+NOW, THEREFORE, the parties agree as follows:
+[ ] – County Loan Agreement 1
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+ARTICLE I
+DEFINITIONS
+The following terms used in this Agreement shall have the respective meanings
+assigned to them in this Article I unless the context in which they are used clearly
+requires otherwise:
+1.1. "Adjusted Income" shall mean the adjusted income of all persons who
+intend to reside in one residential unit, calculated in the manner which complies
+with determinations of income for low income families under the Department of
+Housing and Urban Development’s Section 8 Program of the United States
+Housing Act of 1937, as amended.
+1.2. "Agreement" shall mean this Loan Agreement.
+1.3. “Area" shall mean Orange County.
+1.4. “Assignment of Leases” shall mean that certain Assignment of Lessor’s
+Interest in Leases, Rents and Profits executed by Borrower of even date herewith.
+1.5. “Borrower” shall mean [XXXX]
+1.6. “Close of Escrow" shall mean the date on which through the Escrow
+Holder and the Deed of Trust together with the other Loan Documents set up for
+recording are in fact recorded.
+1.7. "Code" shall mean the Internal Revenue Code of 1986, as amended from
+time to time hereafter, or any successor statute thereto.
+1.8. “Conversion Date” the date that a construction loan converts from the
+construction phase, as defined in the senior construction loan document, to the
+permanent phase and the County Loan is funded.
+1.9. "County" shall mean the [County of Orange, a political subdivision of the
+state of California] or [Orange County Housing Authority, a public corporation
+created pursuant to California Health and Safety Code section 34200 et. seq.,
+acting solely as the Housing Successor Agency to the Orange County
+Development Agency].
+1.10. "Deed of Trust" shall mean that certain Deed of Trust, Assignment of
+Rents and Security Agreement executed by the Borrower in favor of the County
+of even date herewith.
+[ ] – County Loan Agreement 2
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+1.11. "Director" shall mean the [Orange County Housing Authority Executive
+Director] OR [OC Community Resources Director] or her or his designee.
+1.12. "Due Date" shall mean the date which is fifty-five (55) years following the
+Conversion Date, on which all principal and interest due on the Loan shall be
+fully paid.
+1.13. "Escrow Holder" shall mean the escrowholder approved by the County for
+the escrow established to facilitate the Close of Escrow.
+1.14. "Financing Plan" shall mean the financing plan described in Section 4.1
+below.
+1.15. “Financing Statement" shall mean the UCC-1 form to be prepared and
+executed by Borrower, in a form satisfactory to the County, and delivered to the
+County, the filing of which shall give the County a perfected security interest in
+Borrower's tangible personal property and fixtures located on or about the Project.
+1.16. “Hazardous Materials” or “hazardous materials” shall mean:
+(a) any oil, flammable substance, explosive, radioactive material,
+hazardous waste or substance, toxic waste or substance or any other waste,
+material, or pollutant that
+(i) poses a hazard to the Project or to persons on the Project or
+(ii) causes the Project to be in violation of any Hazardous
+Substance Law;
+(b) asbestos in any form;
+(c) urea formaldehyde foam insulation;
+(d) transformers or other equipment that contain dielectric fluid
+containing levels of polychlorinated biphenyls;
+(e) radon gas;
+(f) any chemical, material, or substance defined as or included in the
+definition of “hazardous substance,” “hazardous substances,” “hazardous wastes,”
+“hazardous materials,” “extremely hazardous waste,” “restricted hazardous
+waste,” or “toxic substances” or words of similar import under any applicable
+local, state, or federal law or under the regulations adopted or publications
+promulgated pursuant to those laws, including, but not limited to, any Hazardous
+Substance Law, Code of Civil Procedure § 564, as amended from time to time,
+Code of Civil Procedure § 726.5, as amended from time to time, Code of Civil
+Procedure §736, as amended from time to time, and Civil Code § 2929.5, as
+amended from time to time;
+(g) any other chemical, material, or substance, exposure to which is
+prohibited, limited, or regulated by any governmental authority or which may
+pose a hazard to the health and safety of the occupants of the Project or the
+owners or occupants of property adjacent to or surrounding the Project, or any
+other person coming on the Project or any adjacent property; and
+[ ] – County Loan Agreement 3
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+(h) any other chemical, material, or substance that may pose a hazard
+to the environment flammable materials, explosives, radioactive materials,
+hazardous wastes, toxic substances and similar substances and materials,
+including all substances and materials defined as hazardous or toxic wastes,
+substances or materials under any applicable law, including, without limitation the
+Resource Conservation and Recovery Act, 42 U.S.C. Section 6901 et. seq., as
+amended.
+1.17. “Hazardous Substance Law” means any federal, state, or local law,
+ordinance, regulation, or policy relating to the environment, health, and safety,
+any Hazardous Substance (including, without limitation, the use, handling,
+transportation, production, disposal, discharge, or storage of the substance),
+industrial hygiene, soil, groundwater, and indoor and ambient air conditions or the
+environmental conditions on the Project, including, without limitation, the
+Comprehensive Environmental Response, Compensation, and Liability Act of
+1980 [42 USCS §§ 9601 et seq.], as amended from time to time; the Hazardous
+Substances Transportation Act [49 USCS §§ 1801 et seq.], as amended from time
+to time; the Resource Conservation and Recovery Act [42 USCS §§ 6901 et seq.],
+as amended from time to time; the Federal Water Pollution Control Act [33 USCS
+§§ 1251 et seq.], as amended from time to time; the Hazardous Substance
+Account Act [Health and Safety Code §§ 25300 et seq.], as amended from time to
+time; the Hazardous Waste Control Law [Health and Safety Code §§ 25100 et
+seq.], as amended from time to time; the Medical Waste Management Act [Health
+and Safety Code §§ 25015 et seq.], as amended from time to time; and the Porter-
+Cologne Water Quality Control Act [Water Code §§ 13000 et seq.], as amended
+from time to time.
+1.18. "Loan" shall mean the Loan in the amount of --------------- ($---------------)
+by the County to the Borrower, which Loan is the subject of this Agreement.
+1.19. "Loan Documents" shall mean the following documents evidencing the
+Loan: (a) the Note; (b) the Deed of Trust; (c) the Financing Statement; (d) the
+Regulatory Agreement; (e) Request for Notice of Default; (f) the Assignment of
+Leases; and (g) this Loan Agreement.
+1.20. "Management Plan" shall mean that management plan submitted to and
+approved by the County pursuant to Section 4.1 below.
+1.21. “Marketing Plan” shall mean that certain Marketing Plan submitted to and
+approved by the County pursuant to Section 7.8 hereof.
+1.22. "Median Income for the Area" shall mean the median income for the Area
+as most recently determined by the United States Department of Housing and
+Urban Development (“HUD”) and published by the State of California. In the
+event that such income determinations are no longer published, or are not updated
+for a period of at least eighteen (18) months, the County shall provide the
+[ ] – County Loan Agreement 4
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+Borrower with other income determinations which are reasonably similar with
+respect to methods of calculation to those previously published by HUD and the
+State.
+1.23. "Mortgage Loan" shall mean any of the following loans secured by a
+mortgage or deed of trust on the Project:
+(a) The Loan evidenced by the Note and the balance of the Loan Documents.
+(b) Any other loan secured by a mortgage or deed of trust on the Project, either
+senior or junior to the Loan.
+1.24. "Mortgage Loan Documents" shall mean all documents executed by the
+Borrower endorsing or securing a Mortgage Loan.
+1.25. “Mortgagee" shall mean the mortgagee or beneficiary under a mortgage or
+a deed of trust executed in connection with a Mortgage Loan.
+1.26. "Note" shall mean the promissory note in the principal amount of Loan
+evidencing the monies borrowed by Borrower from the County.
+1.27. "Operating Reserves" shall mean reserves maintained during the Qualified
+Project period and funded out of Residual Receipts, loan advances, equity, or
+other sources and set aside for taxes and assessments, insurance premiums,
+operating expenses, and debt service. Operating Reserves shall not exceed the
+amount required to pay three (3) months of operating expenses and three (3)
+months of mandatory debt service.
+1.28. "Parties" shall mean the County and the Borrower.
+1.29. Partnership" shall mean [NAME OF PARTNERSHIP].
+1.30. “Permanent Lender” shall mean the permanent lender designated by
+Borrower and approved in advance by the County as the Permanent Lender for
+the Project.
+1.31. “Permitted Financing” shall have the meaning given in Recital 5.
+1.32. “Plans and Specification” shall mean the final set of architectural,
+structural, mechanical, electrical, grading, sewer, water, street and utility plans
+and specifications for the Project, including all supplemental, amendments and
+modifications.
+[ ] – County Loan Agreement 5
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+1.33. "Project" means collectively the Property and the structures and related
+buildings and other improvements now or hereafter located on the Property from
+time to time together with all fixtures and other property owned by the Borrower
+and located on, or used in connection with, such buildings, structures and other
+improvements.
+1.34. "Property" means the real property legally described on Exhibit "A",
+which is attached hereto and by this reference incorporated herein, and all rights
+and appurtenances thereunto appertaining.
+1.35. "Qualified Project Period" shall mean the period beginning upon the
+Conversion Date and ending on the date which is fifty-five (55) years after the
+beginning of the Qualified Project Period.
+1.36. “Qualified Tenant” or “Qualified Tenants” shall collectively mean the
+individuals occupying the Restricted Units with the Adjusted Incomes more
+particularly described in Exhibit “B” attached hereto and incorporated herein.
+The income of individuals shall be determined in a manner consistent with deter-
+minations of lower income households under Section 8 of the United States
+Housing Act of 1937, as amended (or, if such program is terminated, in a manner
+consistent with such determinations under such program as is in effect
+immediately before such termination). In no event, however, will the occupant of
+a Restricted Unit be considered to be a Qualified Tenant if the occupant is a
+student, and is not entitled to file a federal income tax return.
+1.37. "Regulations" shall mean the Income Tax Regulations promulgated by the
+United States Department of the Treasury pursuant to the Code from time to time.
+1.38. "Regulatory Agreement" shall mean that certain Regulatory Agreement
+and Declaration of Restrictive Covenants between the County and the Borrower
+of even date herewith.
+1.39. “Replacement Reserves” shall mean reserves maintained during the
+Qualified Project period and funded out of Residual Receipts, loan advances,
+equity, or other sources and set aside for replacement of roofing, furniture,
+fixtures, equipment and other capital expenditures. The annual amount set aside
+for Replacement Reserves shall not be more than four hundred dollars ($400) per
+unit. Exceptions may be considered where required for continued feasibility of
+projects with short-term rent subsidy commitments, or when required by other
+funding agencies when approved in writing by the County.
+1.40. "Request for Notice of Default" shall mean a request for notice of default
+to be recorded against the Property in a form approved by the County.
+1.41. “Residual Receipts” means, during the Qualified Project Period, the
+Annual Project Revenue less (A) Annual Operating Expenses (as defined in the
+Note), (B) obligated debt service on permanent loan(s) for the Project senior to
+the County’s Loan approved in writing by the County at the closing of the Loan,
+(C) payment obligations (e.g. partnership management fees, and deferred
+developer fees) approved in writing by the County at the closing of the Loan, and
+(D) scheduled deposits to reserves approved in writing by the County.
+1.42. “Restricted Unit” or “Restricted Units” means the dwelling units in the
+Project identified on Exhibit “B” attached hereto and incorporated herein required
+to be rented to, or held available for occupancy by, Qualified Tenants pursuant to
+[ ] – County Loan Agreement 6
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+the terms, covenants and conditions of the Regulatory Agreement, this
+Agreement, including, but not limited to, the rental restrictions and other matters
+set forth in said Exhibit "B" and the other Loan Documents.
+1.43. “Tax Credit Investor” shall mean the tax credit investor designated by
+Borrower and approved in advance by the County as the Tax Credit Investor for
+the Project.
+1.44. “Term” shall mean the period of time commencing on the date of this
+Agreement and ending with the last date of the Qualified Project Period, for a
+total possible term of up to fifty-eight (58) years..
+ARTICLE II
+LOAN
+2.1 Amount. Subject to the terms of this Agreement, the County hereby
+agrees to lend and the Borrower hereby agrees to borrow, the Loan, evidenced by the
+Note, the proceeds of which shall be used to acquire the Property and upon fulfillment of
+certain conditions, as set forth herein, to permanently finance the Project and for the other
+purposes set forth herein.
+2.2 Repayment of Loan. Borrower shall repay the Loan, with interest, in
+accordance with the provisions of the Note and this Agreement. Except as otherwise
+provided, all payments shall be applied first to interest and then to principal.
+2.3 Prepayment. Borrower may pay the principal and any interest due the
+County under the Note prior to or in advance of the time for payment thereof as provided
+in the Note, without penalty; provided, however, that Borrower acknowledges that in the
+event the Conversion Date occurs the provisions of this Agreement and the Regulatory
+Agreement will be applicable to the Project throughout the Qualified Project Period
+even though Borrower may have prepaid the Note.
+2.4 Assumption. Subject to the provisions of Section 7.7 hereof, the Note
+shall not be assumable by successors and assigns of Borrower, either voluntarily or by
+operation of law, without the prior written discretionary consent of the County and any
+such assignment or assumption without said prior consent of the County shall be void.
+2.5 Loan Disbursement. Upon satisfaction of the conditions to disbursement
+set forth in Section 4.1 below and pursuant to the disbursement procedures set forth in
+Section 4.2 below, the County, through the approved Escrowholder, will cause the
+disbursement of the Loan as provided for in Section 4.2.
+2.6 Security for Loan. The Loan shall be secured by the Deed of Trust,
+Regulatory Agreement, the Financing Statement, Assignment of Leases and the Request
+for Notice of Default.
+[ ] – County Loan Agreement 7
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+2.7 Approval of Additional Financing. Except as to the Permitted Financing
+and as otherwise described herein, the Borrower shall not place or permit (either
+voluntarily or involuntarily) to be placed any encumbrances, including, but not limited to
+any additional liens or financing of any kind on the Project without the prior written
+discretionary consent of the County.
+2.8 Subordination of Deed of Trust.
+The County agrees that the Deed of Trust may be subordinate to the lien of
+a permanent loan secured by a Senior Construction/Permanent Deed of Trust (and any
+refinancing of said permanent loan secured by the Senior Construction/Permanent Deed
+of Trust) securing financing in an amount not to exceed $[XXX,XXX] so long as (i) the
+documentation for said loan is approved by the County and (ii) said loan is otherwise
+provided for and approved by the County in the Financing Plan. Any other financing,
+refinancing or encumbrance of the Project is prohibited without the County’s prior
+written consent which consent the County may arbitrarily withhold in the exercise of its
+discretion
+In order to affect the subordinations described above and elsewhere in this
+Agreement, the County and Borrower agree to execute and acknowledge for recordation
+a subordination agreement (in a form acceptable to the County) in favor of the senior
+lender, as requested by such senior lender.
+ARTICLE III
+RENTAL RESTRICTIONS DURING THE
+QUALIFIED PROJECT PERIOD
+3.1 Use and Rent Restrictions.
+(a) During the Qualified Project Period, the Project shall be “Affordable” as
+defined in 24 CFR Part 92.252 and in compliance with County policies associated with
+the 2023 NOFA for a period of not less than fifty-five (55) years.
+(b) In accordance with the provisions of the Regulatory Agreement, this Loan
+Agreement and Exhibit “B” attached hereto and incorporated herein, the Borrower has
+agreed to rent the Restricted Units of the Project to Qualified Tenants for the Qualified
+Project Period at the rents described in said Exhibit “B.”
+(c) Borrower agrees to provide to Qualified Tenants notice of all rent
+increases pursuant to applicable California law.
+(d) Borrower agrees to limit rent increases to (i) the Department of Housing
+and Urban Development’s (HUD) annually published Rent Adjustment factor for the
+Section 8 program, or (ii) no more than the rent established as affordable based on the
+[ ] – County Loan Agreement 8
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+Median Income for the Area and the affordability restrictions set forth in Exhibit “B”,
+which is adjusted annually by HUD and published by the State of California.
+3.2 Income Determination. For the purposes of this section, the income of
+individuals and families and the area median gross income shall be determined in a
+manner consistent with determinations of lower income families and the Median Income
+for the Area under Section 8 of the United States Housing Act of 1937, as amended (or, if
+such program is terminated, in a manner consistent with such determinations under such
+program as is in effect immediately before such termination). Determinations under the
+preceding sentence shall include adjustments for household size.
+3.3 Certifications. With respect to those Restricted Units subject to the rental
+restrictions described above, during the Qualified Project Period the Borrower will
+comply with the Qualified Tenant certifications and recertifications in the same manner
+as prescribed under the Regulatory Agreement. Said certifications and recertifications
+shall include, but not be limited to, client name, address, and verifiable income level (as
+documented by income tax returns, employee payroll records, retirement statements, etc.
+or other third party documentation approved by the County for determining eligibility).
+Such information shall be made available to County monitors, or their designees, for
+review upon request.
+3.4 Records.
+(a) The Borrower will maintain complete and accurate records as required by
+Federal Regulations specified in 24 CFR 92.508, which shall contain a description of
+each activity undertaken, records pertaining to the Restricted Units, records documenting
+compliance with fair housing and equal opportunity components, financial records as
+required by 24 CFR 92.508 (a)(5), other records to document compliance with Subpart K
+of 24 CFR 92, and records documenting the continued affordability and income
+restrictions outlined in Exhibit “B”.
+(b) The Borrower will permit any duly authorized representatives of the
+County to inspect and copy the books and records of the Borrower pertaining to the
+Project, including those books and records pertaining to the occupancy of the Restricted
+Units provided that the County will make a reasonable effort to provide notice of at least
+forty-eight (48) hours to inspect, examine, or make copies of such information.
+(c) Borrower will retain such records for a period of five (5) years after the
+termination of all activities funded under this Agreement.
+3.5 Leases. Each lease pertaining to a Restricted Unit shall contain provisions
+to the effect that the Borrower has relied on the income certification and supporting
+information supplied by the Qualified Tenant in determining qualification for occupancy
+of the Restricted Unit, and that any material misstatement in such certification (whether
+or not intentional) will be cause for immediate termination of such lease. County reserve
+the right to require additional non-financial terms or clauses that are reasonably related to
+[ ] – County Loan Agreement 9
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+such qualifications (including, but not limited to additional disclosure clauses) that the
+County may from time to time deem appropriate or necessary to be included in said
+leases.
+ARTICLE IV
+DISBURSEMENT OF LOAN
+4.1 Conditions Precedent to Disbursement of Loan Proceeds. The County
+shall cause Loan proceeds to be disbursed through escrow to the Borrower as set forth in
+this Article IV. No disbursement shall be made until all of the following conditions
+precedent are satisfied:
+(a) Execution and Delivery of Documents. Borrower shall have executed and
+delivered to the County (i) this Agreement, the Note, the Deed of Trust, the Financing
+Statement, the Regulatory Agreement, and the Assignment of Leases, (ii) all resolutions
+and certificates necessary or appropriate in the opinion of the County to evidence the
+Borrower's authority to enter into the Loan and be bound by the Loan Documents, and
+(iii) all other documents and instruments required by the County to be executed and
+delivered, all in form and substance satisfactory to the County.
+(b) Insurance. Borrower shall have furnished the County with certificates of
+insurance for all policies required under this Agreement.
+(c) Phase One Environmental Assessment Report. Borrower shall have
+provided the County with a Phase One Environmental Assessment Report on the Property
+prepared by a licensed and registered environmental engineer or other qualified party
+satisfactory to County, along with any other information the County may require, in each
+case stating that no hazardous substances are present in, on, under or around the Property
+and that no condition or circumstances warranting further investigation now exists.
+(d) Notice of Completion; Compliance with Applicable Requirements; Senior
+Permanent Loan Conversion Conditions Precedent The Borrower shall have submitted to
+the County and the County shall have approved the recorded Notice of Completion, the
+final certificate of occupancy and evidence that the Property and its intended use are in
+compliance with all applicable building, zoning and other requirements of applicable
+public authorities.
+(e) Financing Plan. The Borrower shall have submitted and the County shall
+have approved the Borrower's plan for the permanent financing of the Project ("Financ-
+ing Plan").
+(f) Management Plan. The Borrower shall have submitted and the County
+shall have approved a Management Plan ("Management Plan"). The Management Plan
+shall include a management contract with a manager approved in writing by the County
+[ ] – County Loan Agreement 10
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+for management of the Project and a plan for long-term marketing, operation,
+maintenance, repair and security of the Project, method of selection of tenants, and for
+rental policies in compliance with any applicable requirements, policies and procedures
+and with the Regulatory Agreement, along with any other policies or procedures required
+by the County. The Management Plan shall also include an initial budget for the Project.
+(g) Mechanic’s Liens. The Borrower shall have submitted to County for
+County approval evidence that all construction costs have been paid in full and that the
+period for filing of mechanic’s liens has expired without the filing of any lien.
+(h) As-Built Survey. Borrower shall have delivered and the County shall have
+approved a final, as-built ALTA survey for the Project showing the location of all
+improvements in and to the Project as well as (i) all “setbacks” and other restrictions
+applicable to the Project pursuant to requirements of applicable public authorities (ii) all
+easements, licenses and other rights of way, (iii) shows no encroachments onto the
+Project or from the Project onto adjoining property and (iv) certifies the legal description
+of the Project as insured in the title policy.
+(i) Title Policy. Borrower shall, at its sole expense, have delivered to County
+an ALTA loan policy-2006, with ALTA endorsement Form 1 coverage, amended 6/1/87,
+without further revision or amendment, issued by an insurer satisfactory to County,
+together with an unconditional CLTA 100 endorsement, a CLTA 103.7 endorsement, a
+CLTA 116.1 endorsement, an ALTA Form 8.1 endorsement and all other endorsements
+and binders required by County, naming County as the insured, in a policy amount of not
+less than the Loan, showing Borrower as the owner of the Project and insuring the Deed
+of Trust to be a valid [LIEN PRIORITY] lien on the Project, subject only to those
+exceptions approved by the County in Section 2.8 above.
+(j) Recordation. The Regulatory Agreement, Deed of Trust, Assignment of
+Leases and Financing Statement shall have been recorded, in that order, in the Official
+Records of Orange County.
+(k) Senior Acquisition Deed of Trust. The Mortgage Loan Documents for the
+first trust deed permanent Mortgage Loan shall have been recorded in such order as
+directed by the said senior first trust deed lender.
+(l) No Default. There shall exist no condition, event or act which would
+constitute an Event of Default (as hereinafter defined) hereunder or which, upon the
+giving of notice or the passage of time, or both, would constitute an Event of Default.
+(m) Representations and Warranties. All representations and warranties of
+Borrower herein contained shall be true and correct.
+(n) Availability of Funds. The Borrower has submitted to the County and the
+County has approved in the exercise of its discretion evidence that the funds identified as
+committed to the acquisition of the Property in the approved Financing Plan to be
+[ ] – County Loan Agreement 11
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+available on the Conversion Date are in fact unconditionally and readily available to
+Borrower for the Property as of the Close of Escrow.
+(o) Priority of Regulatory Agreement. The Regulatory Agreement has been
+executed and recorded as a lien senior to the Deed of Trust.
+4.2 Procedure for Disbursement of Loan Proceeds. When all the conditions to
+disbursement have been satisfied, the County shall deposit the Loan with the
+Escrowholder for disbursement upon the Close of Escrow with the Permanent Lender in
+accordance with the terms of separate written escrow instructions between the County
+and Borrower. Said agreement shall be deposited into escrow.
+4.3 Waiver; Termination. No waiver of any of the conditions to the Close of
+Escrow and disbursement of the Loan shall be permitted unless agreed to in writing by
+the Director. If any of the conditions to disbursement of the Loan are not satisfied within
+[X] (X) months following the date of this Agreement, County may terminate this Agree-
+ment by the Director giving written notice to Borrower. Upon such termination, the
+parties shall have no further rights or obligations under this Agreement.
+ARTICLE V
+LEASES
+5.1 Standard Form Leases. On or before the commencement of the Qualified
+Project Period, Borrower shall submit to County for its written approval a standard form
+of residential lease to be used for leasing of the Project (the “Standard Lease”). The
+Standard Lease shall be in compliance with all applicable laws and Borrower shall be
+obligated to revise said Standard Lease from time to time to comply with any changes in
+said applicable laws.
+5.2 Leasing Program. Borrower shall market and lease the Project consistent
+with the Marketing Plan described in Section 7.8 hereof.
+5.3 Pro-Forma Schedules. Attached hereto and incorporated herein as Exhibit
+“B” is the rental rate schedule for the Units at the Project approved by County.
+5.4 No Changes. Borrower shall not materially modify the approved Standard
+Lease or materially deviate from the approved rental rate schedule for the Units without
+the County’s prior written consent in each instance, which consent shall not be
+unreasonably withheld or delayed.
+5.5 Landlord’s Obligations. Borrower shall timely and in good faith, perform
+all obligations required to be performed by it as landlord under any lease affecting any
+part of the Project or any space within the Project. If any tenant at any time claims any
+breach of landlord’s obligations and the amount of such claim (in excess of available
+[ ] – County Loan Agreement 12
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+insurance coverage) is $10,000 or more, Borrower shall promptly notify County of such
+claim.
+ARTICLE VI
+REPRESENTATIONS AND WARRANTIES OF BORROWER
+6.1 Representations and Warranties. Borrower hereby makes the following
+representations and warranties to the County, each of which shall also be deemed a
+covenant and all of the following, Borrower agrees, shall continue to be true and accurate
+in all material respects so long as the Loan or any portion thereof remains outstanding:
+(a) Organization. Borrower is duly organized, validly existing and in good
+standing under the laws of the State of California and has the power and authority to own
+its property and carry on its business as now being conducted. The copies of the
+documents evidencing the organization of Borrower delivered to the County are true and
+correct copies of the originals, as amended to the date of this Agreement, and Borrower
+will promptly provide the County with copies of any modifications thereto.
+(b) Authority of Borrower. Borrower has full power and authority to execute
+and deliver this Agreement and to make and accept the borrowings contemplated
+hereunder, to execute and deliver the Loan Documents and all other documents or
+instruments executed and delivered, or to be executed and delivered, pursuant to this
+Agreement, and to perform and observe the terms and provisions of all of the above.
+(c) Authority of Persons Executing Documents. This Agreement and the
+Loan Documents and all other documents or instruments executed and delivered, or to be
+executed and delivered, pursuant to this Agreement have been executed and delivered by
+persons who are duly authorized to execute and deliver the same for and on behalf of
+Borrower, and all actions required under Borrower's organizational documents and
+applicable governing law for the authorization, execution, delivery and performance of
+this Agreement and the Loan Documents and all other documents or instruments exe-
+cuted and delivered, or to be executed and delivered, pursuant to this Agreement, have
+been duly taken.
+(d) Valid Binding Agreements. This Agreement and the Loan Documents and
+all other documents or instruments which have been executed and delivered pursuant to
+or in connection with this Agreement constitute or, if not yet executed or delivered, will
+when so executed and delivered constitute, legal, valid and binding obligations of
+Borrower enforceable against the Borrower in accordance with their respective terms.
+(e) No Breach of Law or Agreement. Neither the execution nor delivery of
+this Agreement and the Loan Documents or of any other documents or instruments
+executed and delivered, or to be executed or delivered, pursuant to this Agreement, nor
+the performance of any provision, condition, covenant or other term hereof or thereof,
+will conflict with or result in a breach of any statute, rule or regulation, or any judgment,
+[ ] – County Loan Agreement 13
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+decree or order of any court, board, commission or agency whatsoever binding on
+Borrower and in effect at the time of execution of this Agreement, or any provision of the
+organizational documents of Borrower or, if applicable, of its constituent partners, or will
+conflict with or constitute a breach of or a default under any agreement to which
+Borrower, or, if applicable, its constituent partners, is a party, or will result in the creation
+or imposition of any lien upon any assets or property of Borrower, other than liens estab-
+lished pursuant hereto.
+(f) Pending Proceedings. Borrower is not in default under any law or
+regulation or under any order of any court, board, commission or agency whatsoever, and
+there are no claims, actions, suits or proceedings pending or, to the knowledge of
+Borrower, threatened against Borrower or the Property or Project, at law or in equity,
+before or by any court, board, commission or agency whatsoever which might, if
+determined adversely to Borrower, materially affect Borrower's ability to repay the Loan
+or impair the security to be given to the County pursuant hereto.
+(g) Compliance with Laws; Consents and Approvals. The Project shall
+comply at all times with all applicable laws (including but not limited to all Hazardous
+Substances Laws), ordinances, rules and regulations of federal, state, and local govern-
+ments and agencies, and with all applicable directions, rules and regulations of the fire
+marshal, health officer, building inspector, and other officers of any such government or
+agency. All consents, permissions and licenses required by any federal, state, or local
+government or agency to which the Borrower, the Property or the Project is subject,
+which may be necessary in relation to this Agreement or the ownership or operation of
+the Project, have been or will be obtained.
+(h) Financial Statements. The financial statements of the Borrower and its
+constituent partners, if any, and other financial data and information furnished by the
+Borrower for review by the County relating to the financial condition of Borrower or any
+of Borrower’s constituent partners or the Project, fairly present the information contained
+therein. As of the date of Loan disbursement, there will not have been any adverse
+material change in the financial condition of the Borrower or its constituent partners from
+that shown by such financial statements and other data and information.
+(i) Adequacy of Loan. The amount of the Loan, together with any funds to
+be provided by the Borrower or to the Borrower from any other sources, is adequate to
+pay all costs incurred in connection with the acquisition of the Property and to enable the
+Borrower to satisfy the covenants contained in this Agreement.
+(j) Payment of Taxes. All federal, state, county, and municipal taxes required
+to be paid by the Borrower or on account of the Property have been paid in full as of the
+date of this Agreement or will be paid in full by the Close of Escrow. Borrower knows of
+no basis for any additional assessment of taxes as of this date.
+(k) Regulatory Agreement. The Project is, and will at all times remain, in
+compliance with all requirements of this Agreement and the Regulatory Agreement. The
+[ ] – County Loan Agreement 14
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+units in the Project shall be rented or available for rental on a basis which satisfies the
+requirements of the Regulatory Agreement. All leases will comply with all applicable
+laws and the Regulatory Agreement.
+ARTICLE VII
+CONTINUING OBLIGATIONS OF BORROWER
+7.1 Applicability. For the longer of the entire Term, or so long as the Note
+remains outstanding, the Borrower shall comply with the provisions of this Article VII.
+7.2 Compliance with Loan Documents. Borrower shall promptly comply with
+all the terms, covenants and provisions of the Loan Documents.
+7.3 Taxes and Assessments. So long as Borrower owns the Property and the
+Project, Borrower shall pay all real and personal property taxes, assessments and charges,
+and all franchise, income, unemployment, old age benefit, withholding, sales, and other
+taxes assessed against it, or payable by it, at such times and in such manner as to prevent
+any delinquency or penalty from accruing, or any lien or charge from attaching to the
+Project; provided, however, that Borrower shall have the right to contest in good faith any
+such taxes, assessments, or charges. In the event Borrower exercises its right to contest
+any tax, assessment, or charge against it, Borrower, on final determination of the
+proceeding or contest, shall immediately pay or discharge any decision or judgment
+rendered against it, together with all costs, charges, and interest.
+7.4 Indemnity.
+(a) To the fullest extent permitted by law, the Borrower agrees to indemnify,
+hold harmless and defend the County and its elected officials, officers, governing
+members, employees, attorneys and agents (collectively, the "Indemnified Parties"), from
+and against any and all losses, damages, claims, actions, liabilities, reasonable costs and
+expenses of any and every conceivable nature, kind or character (including, without
+limitation, reasonable attorneys’ fees, litigation and court costs, amounts paid in
+settlement and amounts paid to discharge judgments) to which the Indemnified Parties, or
+any of them, may become subject to under any statutory law (including federal or state
+securities laws) or at common law or otherwise, arising out of or based upon or in any
+way relating to:
+1. the Loan Documents or the execution or amendment thereof or in
+connection with the transactions contemplated thereby;
+2. Borrower’s ownership or operation of the Project or any act or
+omission of the Borrower or any of its agents, contractors, servants, employees or
+licensees in connection with the Loan or the Project, the operation of the Project, or the
+condition, environmental or otherwise, occupancy, use, possession, conduct or
+[ ] – County Loan Agreement 15
+2023 Supportive Housing NOFA Amendment
+OC Housing and Community Development
+March 2024
+ATTACHMENT N 1
+management of work done in or about, or from the planning, design, acquisition,
+installation, operation or rehabilitation of, the Project or any part thereof;
+3. any lien or charge upon payments by the Borrower to the
+County, or any taxes (including, without limitation, all ad valorem taxes and sales taxes),
+assessments, impositions and other charges imposed on the County in respect
+of any portion of the Project;
+4. any violation of any environmental law, rule or regulation with
+respect to, or the release of any toxic substance from, the Project or any part thereof;
+5. any untrue statement or misleading statement or alleged untrue
+statement or alleged misleading statement of a material fact by the Borrower contained in
+any Loan Document or any of the documents or instruments relating to said Loan
+Documents that the County relied upon in making the Loan except to the extent such
+damages are caused by the gross negligence or willful misconduct of such Indemnified
+Party. In the event that any action or proceeding is brought against any Indemnified Party
+with respect to which indemnity may be sought hereunder, the Borrower, upon written
+notice from the Indemnified Party, shall assume the investigation and defense thereof,
+including the employment and payment for counsel selected by the Indemnified Party,
+and shall assume the payment of all reasonable expenses related thereto, with full power
+to litigate, compromise or settle the same; provided that the Indemnified Party shall have
+the right to review and approve or disapprove any such compromise or settlement.

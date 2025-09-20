@@ -1,0 +1,129 @@
+{
+  "document_name": "nda_1",
+  "document_type": "nda",
+  "total_clauses": 9,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 1,
+    "low": 0,
+    "standard": 8
+  },
+  "clauses": [
+    {
+      "clause_id": "nda_1_clause_1",
+      "clause_number": "1",
+      "clause_title": "D",
+      "clause_type": "confidentiality",
+      "original_text": "efinition of Confidential Information. For purposes of this Agreement, \"Confidential\nInformation\" shall include all information or material that has or could have commercial value or\nother utility in the business in which Disclosing Party is engaged. If Confidential Information is in\nwritten form, the Disclosing Party shall label or stamp the materials with the word \"Confidential\"\nor some similar warning. If Confidential Information is transmitted orally, the Disclosing Party\nshall promptly provide writing indicating that such oral communication constituted Confidential\nInformation.",
+      "word_count": 81,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "nda_1_clause_2",
+      "clause_number": "2",
+      "clause_title": "E",
+      "clause_type": "confidentiality",
+      "original_text": "xclusions from Confidential Information. Receiving Party's obligations under this\nAgreement do not extend to information that is: (a) publicly known at the time of disclosure or\nsubsequently becomes publicly known through no fault of the Receiving Party; (b) discovered or\ncreated by the Receiving Party before disclosure by Disclosing Party; (c) learned by the\nReceiving Party through legitimate means other than from the Disclosing Party or Disclosing\nParty's representatives; or (d) is disclosed by Receiving Party with Disclosing Party's prior\nwritten approval.",
+      "word_count": 82,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "nda_1_clause_3",
+      "clause_number": "3",
+      "clause_title": "O",
+      "clause_type": "confidentiality",
+      "original_text": "bligations of Receiving Party. Receiving Party shall hold and maintain the Confidential\nInformation in strictest confidence for the sole and exclusive benefit of the Disclosing Party.\nReceiving Party shall carefully restrict access to Confidential Information to employees,\ncontractors and third parties as is reasonably required and shall require those persons to sign\nnondisclosure restrictions at least as protective as those in this Agreement. Receiving Party\nshall not, without the prior written approval of Disclosing Party, use for Receiving Party's benefit,\npublish, copy, or otherwise disclose to others, or permit the use by others for their benefit or to\nthe detriment of Disclosing Party, any Confidential Information. Receiving Party shall return to\nDisclosing Party any and all records, notes, and other written, printed, or tangible materials in its\npossession pertaining to Confidential Information immediately if Disclosing Party requests it in\nwriting.",
+      "word_count": 140,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "nda_1_clause_4",
+      "clause_number": "4",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "ime Periods. The nondisclosure provisions of this Agreement shall survive the termination\nof this Agreement and Receiving Party's duty to hold Confidential Information in confidence\nshall remain in effect until the Confidential Information no longer qualifies as a trade secret or\nuntil Disclosing Party sends Receiving Party written notice releasing Receiving Party from this\nAgreement, whichever occurs first.\nCopyright \u00a9 2020 NonDisclosureAgreement.com. All Rights Reserved.",
+      "word_count": 65,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "nda_1_clause_5",
+      "clause_number": "5",
+      "clause_title": "R",
+      "clause_type": "general",
+      "original_text": "elationships. Nothing contained in this Agreement shall be deemed to constitute either\nparty a partner, joint venture or employee of the other party for any purpose.",
+      "word_count": 26,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "nda_1_clause_6",
+      "clause_number": "6",
+      "clause_title": "S",
+      "clause_type": "general",
+      "original_text": "everability. If a court finds any provision of this Agreement invalid or unenforceable, the\nremainder of this Agreement shall be interpreted so as best to affect the intent of the parties.",
+      "word_count": 31,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "nda_1_clause_7",
+      "clause_number": "7",
+      "clause_title": "I",
+      "clause_type": "general",
+      "original_text": "ntegration. This Agreement expresses the complete understanding of the parties with\nrespect to the subject matter and supersedes all prior proposals, agreements, representations,\nand understandings. This Agreement may not be amended except in writing signed by both\nparties.",
+      "word_count": 38,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "nda_1_clause_8",
+      "clause_number": "8",
+      "clause_title": "W",
+      "clause_type": "general",
+      "original_text": "aiver. The failure to exercise any right provided in this Agreement shall not be a waiver of\nprior or subsequent rights.",
+      "word_count": 21,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "nda_1_clause_9",
+      "clause_number": "9",
+      "clause_title": "N",
+      "clause_type": "termination",
+      "original_text": "otice of Immunity. Employee is provided notice that an individual shall not be held\ncriminally or civilly liable under any federal or state trade secret law for the disclosure of a trade\nsecret that is made (i) in confidence to a federal, state, or local government official, either\ndirectly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating\na suspected violation of law; or is made in a complaint or other document filed in a lawsuit or\nother proceeding, if such filing is made under seal. An individual who files a lawsuit for\nretaliation by an employer for reporting a suspected violation of law may disclose the trade\nsecret to the attorney of the individual and use the trade secret information in the court\nproceeding, if the individual (i) files any document containing the trade secret under seal; and (ii)\ndoes not disclose the trade secret, except pursuant to court order.\nThis Agreement and each party's obligations shall be binding on the representatives, assigns\nand successors of such party. Each party has signed this Agreement through its authorized\nrepresentative.\nDISCLOSING PARTY\nSignature: _____________________________________________________\nTyped or Printed Name: ___________________________ Date: _______________\nRECEIVING PARTY\nSignature: _____________________________________________________\nTyped or Printed Name: ___________________________ Date: _______________\nCopyright \u00a9 2020 NonDisclosureAgreement.com. All Rights Reserved.",
+      "word_count": 215,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "restriction"
+      ]
+    }
+  ]
+}

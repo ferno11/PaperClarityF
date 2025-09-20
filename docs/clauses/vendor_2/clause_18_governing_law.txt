@@ -1,0 +1,12 @@
+CLAUSE 18: G
+============================================================
+Type: governing_law
+Risk Level: standard
+Word Count: 68
+------------------------------------------------------------
+
+overning Law and Jurisdiction. Except as may be preempted by federal law,
+this Agreement shall be governed by the laws of the State of New York, without
+regard to its choice of law principles. Litigation of all disputes between the parties
+arising from or in connection with this Agreement shall be conducted in a court of
+appropriate jurisdiction in the State of New York, County of New York.

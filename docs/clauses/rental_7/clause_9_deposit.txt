@@ -1,0 +1,34 @@
+CLAUSE 9: S
+============================================================
+Type: deposit
+Risk Level: standard
+Word Count: 262
+------------------------------------------------------------
+
+ecurity Deposit. When the Tenant signs this Contract Agreement, the Tenant will pay a
+security deposit in the amount of [Security deposit amount] to the [Landlord/Apartment
+Community/Property Management Company Name]. The security deposit will be retained by the
+Property Management Company/Landlord as security for the Tenant's fulfillment of obligations
+under this Contract Agreement.
+If the Tenant does not abide with the Terms of this Contract Agreement, the Property
+Management Company/Landlord may apply the security deposit in payment of any amount owed
+for damages incurred and costs incurred by the Property Management Company/Landlord due to
+the Tenant's inability to comply to signed obligations of this Contract Agreement.
+The Property Management Company/Landlord will provide a written notice to the Tenant that
+references use of any or all of the security deposit. The Tenant will, within [Number of days]
+days following receipt of the notice, make a payment directly to the Landlord in an amount equal
+to that used by the Property Management Company/Landlord in order to reinstate the security
+deposit to its full monetary value for the remainder of the Tenant's occupancy of the Apartment.
+Addendums, Provisions and Disclosures and Amendments
+This Contract Agreement may only be amended or modified by way of a written agreement
+signed by both the Tenant and the Property Management Company/ Landlord.
+Signatures
+Landlord or Property Management Company Name: [Printed name]
+Company Representative Signature: [Landlord or Property Manager's signature]
+Date: [XX/XX/XX]
+Tenant No. 1 Name: [Printed name]
+Tenant No. 1 Signature: [Tenant signature]
+Date: [XX/XX/XX]
+Tenant No. 2 Name: [Printed name]
+Tenant No. 2 Signature: [Tenant signature]
+Date: [XX/XX/XX]

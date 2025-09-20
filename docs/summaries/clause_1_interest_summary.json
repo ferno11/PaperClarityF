@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 1: B\nRisk Level: standard Word Count: 66\norrower intends to construct a housing project on that certain real\nproperty located within the [LOCATION], County of Orange, State of California, and\nmore particularly described in Exhibit \"A\" attached hereto and incorporated herein (the\n\"Property\"). The Borrower further intends to [construct] operate a [number of units]\n(__) residential development consisting of [PROEJCT INFORMATION]] which shall be\nconstructed by Borrower on the Property (collectively, the “Project”).",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 1: B",
+  "word_count": 75,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.9333333333333333,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_1_interest.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 79,
+    "word_count_cleaned": 75,
+    "cleaning_ratio": 0.9493670886075949,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

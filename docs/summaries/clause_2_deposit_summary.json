@@ -1,0 +1,31 @@
+{
+  "original_text": "CLAUSE 2: I\nRisk Level: standard Word Count: 38\nn the case of an Borrower doing business in a form other than as\nan individual, the name, date of birth, Social Security number, and residence address of\neach individual who owns 10% or more of the Project;",
+  "plain_english": "This clause requires compliance with  10%.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 10. Factors: address(1), numeric:percentage:10.0(9)",
+  "clause_heading": "CLAUSE 2: I",
+  "word_count": 47,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": null,
+  "key_entities": [
+    "percentage: 10%"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "percentage: 10%"
+  ],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_2_deposit.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 51,
+    "word_count_cleaned": 47,
+    "cleaning_ratio": 0.9215686274509803,
+    "has_numeric_obligations": true,
+    "has_conditional_language": false
+  }
+}

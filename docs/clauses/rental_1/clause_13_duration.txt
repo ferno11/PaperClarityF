@@ -1,0 +1,11 @@
+CLAUSE 13: I
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 53
+------------------------------------------------------------
+
+n case tenant fails to pay the stipulated rent continuously for more than two
+months and commits breach of any of the terms, the owners hereby reserves the
+right to terminate the agreement and shall have every right to evict the tenant and
+take possession of the said schedule premises without any notice.

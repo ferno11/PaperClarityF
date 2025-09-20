@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 2: W\nRisk Level: standard Word Count: 35\nithdrawal / Revision / Modification of the Product liability would have attached to the Insured notwithstanding\nThe Company reserves the right to withdraw, revise or modify this product /policy in the future. The",
+  "plain_english": "This insurance requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 12. Factors: liability(8), modify(4)",
+  "clause_heading": "CLAUSE 2: W",
+  "word_count": 42,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "insurance",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_2_liability.txt",
+    "processed_timestamp": "2025-09-20 05:34:24",
+    "word_count_original": 48,
+    "word_count_cleaned": 42,
+    "cleaning_ratio": 0.875,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

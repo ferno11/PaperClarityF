@@ -1,0 +1,9 @@
+CLAUSE 1: I
+============================================================
+Type: deposit
+Risk Level: standard
+Word Count: 18
+------------------------------------------------------------
+
+n the case of an individual Borrower, his/her name, date of birth,
+Social Security number, and residence address;

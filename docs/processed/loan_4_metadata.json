@@ -1,0 +1,10 @@
+{
+  "original_file": "loan_4.pdf",
+  "doc_type": "loan",
+  "method_used": "PDFPlumber",
+  "quality_score": 38120,
+  "word_count": 5722,
+  "encoding_issues": 0,
+  "has_structure": true,
+  "extraction_timestamp": "2025-09-16T14:57:52.944664"
+}

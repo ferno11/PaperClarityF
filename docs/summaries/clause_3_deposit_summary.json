@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 3: D\nRisk Level: standard Word Count: 55\nEPOSIT: The lessee has paid sum of Rs. 1,00,000/- (Rupees One Lakh Only)\nby the way online transfer to the Owner towards the security deposit. The said\n. amount shall not bear any interest and the owner will refund the same to the\ntenant at the time of vacating and handing over the schedule premises.",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 12. Factors: interest(5), deposit(3), security deposit(4)",
+  "clause_heading": "CLAUSE 3: D",
+  "word_count": 64,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_3_deposit.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 68,
+    "word_count_cleaned": 64,
+    "cleaning_ratio": 0.9411764705882353,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

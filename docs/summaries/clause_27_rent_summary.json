@@ -1,0 +1,34 @@
+{
+  "original_text": "CLAUSE 27: R\nRisk Level: medium Word Count: 140\nULES AND REGULATIONS. Tenant agrees that Woodard Properties’ Rules and Regulations\n(including no smoking and no pets by Tenant or guests) are incorporated herein by reference, and any\nadditional reasonable rules and regulations subsequently adopted by Landlord of which Tenant receives\nreasonable notice, shall be a part of this Rental Agreement. Tenant further agrees that any failure by\nGroup Initials Page 10 Tenant, or failure by others on Premises with the consent or knowledge of Tenant, to fully abide by Rules\nand Regulations may be deemed by Landlord as a default by Tenant and breach of this Rental\nAgreement. Tenant agrees to pay Landlord liquidated damages in the amount of $200.00 per\noccurrence, and, in addition, any actual damages suffered by Landlord, if Tenant or guest of Tenant is in\nviolation of paragraph 13 or 14 of this Rental Agreement.",
+  "plain_english": "This payment requires compliance with  $200.00.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 45. Factors: damages(8), default(7), breach(7), liquidated damages(9), notice(4)",
+  "clause_heading": "CLAUSE 27: R",
+  "word_count": 149,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [
+    "money: $200.00"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "money: $200.00"
+  ],
+  "conditional_language": [
+    "may",
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_27_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 153,
+    "word_count_cleaned": 149,
+    "cleaning_ratio": 0.9738562091503268,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

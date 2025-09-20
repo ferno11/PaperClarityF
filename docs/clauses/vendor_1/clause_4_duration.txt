@@ -1,0 +1,14 @@
+CLAUSE 4: E
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 41
+------------------------------------------------------------
+
+quipment hire Actual operating costs to the service
+provider relating to the hire of equipment
+plus a mark-up determined by the service
+provider at its absolute discretion.
+However, the mark-up must not exceed
+10% of actual costs to the service
+provider.

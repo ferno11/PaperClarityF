@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 14: T\nRisk Level: standard Word Count: 124\nhat the Lessee has paid to the Lessor a sum of [Rental Deposit in Number and\nWords] as deposit, free of interest, which the Lessor does accept and acknowledge.\nThis deposit is for the due performance and observance of the terms and conditions\nof this Agreement. The deposit shall be returned to the Lessee simultaneously with\nthe Lessee vacating the said premises. In the event of failure on the part of the\nLessor to refund the said deposit amount to the Lessee as aforesaid, the Lessee shall\nbe entitled to continue to use and occupy the said premises without payment of any\nrent until the Lessor refunds the said amount (without prejudice to the Lessee`s\nrights and remedies in law to recover the deposit).",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 10. Factors: interest(5), deposit(3), conditionals:1(2)",
+  "clause_heading": "CLAUSE 14: T",
+  "word_count": 133,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.5263157894736842,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "In the event"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_14_deposit.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 137,
+    "word_count_cleaned": 133,
+    "cleaning_ratio": 0.9708029197080292,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

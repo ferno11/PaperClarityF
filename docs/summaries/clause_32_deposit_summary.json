@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 32: S\nRisk Level: standard Word Count: 84\nECURITY AWARENESS: Tenant and Occupant acknowledge that security systems are subject to\nfailure from malfunction, tampering, power outages, human error or other causes, and agree that they\nshall not rely on such systems as protection against crime, injury or damage. Landlord specifically\ndisclaims any express or implied warranty of any security systems provided by Landlord. Tenant and\nOccupant acknowledge that he or she is responsible for his or her own personal safety and agrees to\ntake appropriate safety measures to protect him or herself.",
+  "plain_english": "This liability requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 2. Factors: conditionals:1(2)",
+  "clause_heading": "CLAUSE 32: S",
+  "word_count": 93,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "liability",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.7526881720430108,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "subject to"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_32_deposit.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 97,
+    "word_count_cleaned": 93,
+    "cleaning_ratio": 0.9587628865979382,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

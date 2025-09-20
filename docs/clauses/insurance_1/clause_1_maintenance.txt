@@ -1,0 +1,13 @@
+CLAUSE 1: L
+============================================================
+Type: maintenance
+Risk Level: standard
+Word Count: 51
+------------------------------------------------------------
+
+oss, damage, liability or expenses, whether direct or
+indirect occasioned by happening through or arising from
+any consequences of war, invasion, act of foreign enemy,
+hostilities (whether war be declared or not) civil war,
+rebellion, revolution, insurrection military or usurped power
+or civil commotion or loot or pillage in connection therewith.

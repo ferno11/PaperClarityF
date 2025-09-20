@@ -1,0 +1,11 @@
+CLAUSE 11: T
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 58
+------------------------------------------------------------
+
+hat in consideration of use of the said premises the Lessee agrees that he shall pay
+to the Lessor during the period of this agreement, a monthly rent at the rate of
+[Monthly Rental in Number & Words]. The amount will be paid in advance on or
+before the date of [1st day] of every English calendar month.

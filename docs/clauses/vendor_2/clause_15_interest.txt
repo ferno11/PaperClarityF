@@ -1,0 +1,14 @@
+CLAUSE 15: C
+============================================================
+Type: interest
+Risk Level: standard
+Word Count: 75
+------------------------------------------------------------
+
+ooperation. The parties agree to cooperate with each other in connection with
+any internal investigations by Pace or Vendor of possible violation of their respective
+policies and procedures and any third party litigation, except that Pace shall not be
+required to have any contact with any Union or Union representatives of Vendor’s
+employees or subcontractors or participate in any Union grievance or other
+proceedings relative to Vendor’s employees or subcontractors except as a fact
+witness.

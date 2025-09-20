@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 16: E\nRisk Level: standard Word Count: 33\nntire Agreement: This Agreement contains the entire understanding between the parties\nand supersedes and cancels all prior agreements of the parties, whether oral or written, with\nrespect to such subject matter.",
+  "plain_english": "This termination requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 16: E",
+  "word_count": 40,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "termination",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_16_general.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 46,
+    "word_count_cleaned": 40,
+    "cleaning_ratio": 0.8695652173913043,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

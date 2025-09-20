@@ -1,0 +1,11 @@
+CLAUSE 3: T
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 48
+------------------------------------------------------------
+
+erm. This Lease will be for a term of [number] months beginning on [Lease start date] and
+ending on [Lease end date] (the “Long Term").
+Alternatively, this Lease will be for a shorter Term duration beginning on [Start date] and ending
+on [End date] (the “ Short Term").

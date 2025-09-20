@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 6: S\nRisk Level: standard Word Count: 161\nubsidence of the land caused by and of Your insurance cover, as described\non which Your Home a. normal cracking, settlement in Clause A (3) of this Policy.\nBuilding stands, or bedding down of new Premium The premium is the amount You pay Us for\nLandslide, Rockslide structures, this insurance. The Policy Schedule shows\nb. the settlement or movement the amount of premium for the Policy\nof made up ground, Period and all other taxes and levies.\nc. coastal or river erosion, Pucca Construction other than Kutcha\nd. defective design or workmanship or use of\nSpouse Your wife or husband.\ndefective materials, or e. demolition, construction,\nSum Insured The amount shown as Sum Insured in the\nPolicy Schedule and as described in Clause structural alterations or\nC (4) and Clause D (2) of this Policy. It repair of any property, or\nrepresents Our maximum liability for each groundworks or excavations.\ncover or part of cover and for each loss.",
+  "plain_english": "This insurance requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 8. Factors: liability(8)",
+  "clause_heading": "CLAUSE 6: S",
+  "word_count": 168,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "insurance",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.41666666666666663,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_6_principal.txt",
+    "processed_timestamp": "2025-09-20 05:34:24",
+    "word_count_original": 174,
+    "word_count_cleaned": 168,
+    "cleaning_ratio": 0.9655172413793104,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

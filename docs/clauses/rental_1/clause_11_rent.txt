@@ -1,0 +1,10 @@
+CLAUSE 11: P
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 30
+------------------------------------------------------------
+
+AINTING CHARGES: the tenant should pay painting at the time of vacating
+the premises. Or get the painted by his own or deducted one month rent from the
+deposit amount.

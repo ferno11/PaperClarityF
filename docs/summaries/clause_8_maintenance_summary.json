@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 8: T\nRisk Level: standard Word Count: 103\nhat the day to day repair jobs such as fuse blow out, replacement of light\nbulbs/tubes, leakage of water taps, maintenance of the water pump and other minor\nrepairs, etc., shall be effected by the Lessee at its own cost, and any major repairs,\neither structural or to the electrical or water connection, plumbing leaks, water\nseepage shall be attended to by the Lessor. In the event of the Lessor failing to carry\nout the repairs on receiving notice from the Lessee, the Lessee shall undertake the\nnecessary repairs and the Lessor will be liable to immediately reimburse costs\nincurred by the Lessee.",
+  "plain_english": "This maintenance requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 9. Factors: notice(4), maintenance(3), conditionals:1(2)",
+  "clause_heading": "CLAUSE 8: T",
+  "word_count": 112,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "maintenance",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.6249999999999999,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "In the event"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_8_maintenance.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 116,
+    "word_count_cleaned": 112,
+    "cleaning_ratio": 0.9655172413793104,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

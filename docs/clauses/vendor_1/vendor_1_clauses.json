@@ -1,0 +1,62 @@
+{
+  "document_name": "vendor_1",
+  "document_type": "tos",
+  "total_clauses": 4,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 0,
+    "low": 0,
+    "standard": 4
+  },
+  "clauses": [
+    {
+      "clause_id": "vendor_1_clause_1",
+      "clause_number": "1",
+      "clause_title": "L",
+      "clause_type": "duration",
+      "original_text": "abour hire Actual direct and indirect costs to the\nservice provider of salary and benefits of\nsupport staff, plus a mark-up as\ndetermined by the service provider at its\nabsolute discretion. However, the mark-\nup must not exceed 30% of the actual\nsalary and benefits the service provider\npays to support staff.\nAll direct and indirect and indirect costs of\nsalary and benefits of support staff must\nbe absorbed by the mark-up.",
+      "word_count": 72,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "vendor_1_clause_2",
+      "clause_number": "2",
+      "clause_title": "R",
+      "clause_type": "duration",
+      "original_text": "ecruitment Actual direct and indirect operating costs\nto the service provider associated with\nrecruitment activities plus a net mark-up at\ndetermined by the service provider at its\nabsolute discretion. However, the mark-\nup must not exceed 10% of actual direct\nand indirect operating costs to the service\nprovider.",
+      "word_count": 48,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "vendor_1_clause_3",
+      "clause_number": "3",
+      "clause_title": "E",
+      "clause_type": "duration",
+      "original_text": "xpense payments Actual direct and indirect operating costs\nassociated with expense payment plus a\nmark-up determined by the service\nprovider at its absolute discretion.\nHowever, the mark-up must not exceed\n10% of actual direct and indirect operating\ncosts to the service provider.",
+      "word_count": 42,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "vendor_1_clause_4",
+      "clause_number": "4",
+      "clause_title": "E",
+      "clause_type": "duration",
+      "original_text": "quipment hire Actual operating costs to the service\nprovider relating to the hire of equipment\nplus a mark-up determined by the service\nprovider at its absolute discretion.\nHowever, the mark-up must not exceed\n10% of actual costs to the service\nprovider.",
+      "word_count": 41,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    }
+  ]
+}

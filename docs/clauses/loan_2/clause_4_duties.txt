@@ -1,0 +1,13 @@
+CLAUSE 4: G
+============================================================
+Type: duties
+Risk Level: standard
+Word Count: 64
+------------------------------------------------------------
+
+uarantee: Guarantor’s Full Name, located at Guarantor’s Complete Address (the
+​ ​ ​ ​ ​ ​
+“Guarantor”) promises to unconditionally guarantee to the Lender, the full payment and
+performance by Borrower of all duties and obligations arising under this Agreement. The
+Guarantor agrees that this guarantee shall remain in full force and effect and be binding on the
+Guarantor until this Agreement is satisfied.

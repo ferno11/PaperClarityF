@@ -1,0 +1,10 @@
+CLAUSE 10: S
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 37
+------------------------------------------------------------
+
+UB LEASE: The lessee shall not be entitled or permitted to assign, underlet or
+sublet the schedule premises or any part thereof or part with possession of the
+demised property or any part thereof to anybody whatsoever.

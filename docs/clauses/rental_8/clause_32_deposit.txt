@@ -1,0 +1,13 @@
+CLAUSE 32: S
+============================================================
+Type: deposit
+Risk Level: standard
+Word Count: 84
+------------------------------------------------------------
+
+ECURITY AWARENESS: Tenant and Occupant acknowledge that security systems are subject to
+failure from malfunction, tampering, power outages, human error or other causes, and agree that they
+shall not rely on such systems as protection against crime, injury or damage. Landlord specifically
+disclaims any express or implied warranty of any security systems provided by Landlord. Tenant and
+Occupant acknowledge that he or she is responsible for his or her own personal safety and agrees to
+take appropriate safety measures to protect him or herself.

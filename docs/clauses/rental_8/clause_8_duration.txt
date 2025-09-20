@@ -1,0 +1,10 @@
+CLAUSE 8: F
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 47
+------------------------------------------------------------
+
+AILURE OF TENANT TO VIEW PREMISES. Tenant acknowledges that Tenant may view Premises
+prior to execution of this Rental Agreement (except for new construction). This Rental Agreement will not
+be terminated or voided as a result of Tenant’s failure to view the Premises prior to lease signing.

@@ -1,0 +1,11 @@
+CLAUSE 8: U
+============================================================
+Type: governing_law
+Risk Level: standard
+Word Count: 38
+------------------------------------------------------------
+
+SER: The schedule property shall be used by the lessee for Residential Purpose
+Only. And shall not use for any unlawful/illegal or business purpose. The lessee
+will not store hazardous and inflammable articles like explosives and petroleum
+products.

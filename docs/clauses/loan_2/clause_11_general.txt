@@ -1,0 +1,12 @@
+CLAUSE 11: N
+============================================================
+Type: general
+Risk Level: medium
+Word Count: 62
+------------------------------------------------------------
+
+o Waiver: Lender shall not be deemed to have waived any provision of this Agreement or
+​ ​
+the exercise of any rights held under this Agreement unless such waiver is made expressly and in
+writing. Waiver by Lender of a breach or violation of any provision of this Agreement shall not
+constitute a waiver of any other subsequent breach or violation.

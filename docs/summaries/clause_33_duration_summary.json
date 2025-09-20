@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 33: P\nRisk Level: medium Word Count: 77\nHOTOGRAPHY & VIDEO RELEASE: Tenant acknowledges that Landlord may take photographs\nor videos of apartments or events, and that these may be used in web or print media. Tenant agrees to\nrelease, hold harmless and indemnify Landlord and Landlord's representatives from and against all\nclaims, demands, costs, expenses (including attorney's fees), and cause of action arising out of or in any\nmanner relating to any personal damage from use of photography or video.\nGroup Initials Page 12",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 10. Factors: indemnify(8), conditionals:1(2)",
+  "clause_heading": "CLAUSE 33: P",
+  "word_count": 86,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.813953488372093,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_33_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 90,
+    "word_count_cleaned": 86,
+    "cleaning_ratio": 0.9555555555555556,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 22: N\nRisk Level: medium Word Count: 79\no Waiver. Failure of either party to enforce any of its rights hereunder shall not\nconstitute a waiver of such right(s) or of any other rights and shall not be construed as\na waiver or relinquishment of any such provisions, rights, or remedies; rather, the\nsame shall remain in full force and effect.\nand year first above written.\nPACE UNIVERSITY FULL LEGAL NAME OF VENDOR\nJoseph A. Capparelli Associate Vice President for Finance Name:_____________________________",
+  "plain_english": "This rights requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 22: N",
+  "word_count": 83,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "rights",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.8433734939759036,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_22_general.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 92,
+    "word_count_cleaned": 83,
+    "cleaning_ratio": 0.9021739130434783,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

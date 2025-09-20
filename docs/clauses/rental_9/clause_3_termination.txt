@@ -1,0 +1,9 @@
+CLAUSE 3: I
+============================================================
+Type: termination
+Risk Level: standard
+Word Count: 27
+------------------------------------------------------------
+
+f Tenant fails to cure a default within the time specified in the notice to Tenant, Landlord may recover possession
+of the Premise as provided by law.

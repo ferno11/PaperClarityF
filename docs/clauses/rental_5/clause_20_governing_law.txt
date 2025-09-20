@@ -1,0 +1,9 @@
+CLAUSE 20: I
+============================================================
+Type: governing_law
+Risk Level: standard
+Word Count: 25
+------------------------------------------------------------
+
+n case of any dispute to this agreement and the clauses herein, the same will be settled in the
+jurisdiction of the (city) civil courts.

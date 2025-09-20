@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 1: L\nRisk Level: standard Word Count: 51\noss, damage, liability or expenses, whether direct or indirect occasioned by happening through or arising from\nany consequences of war, invasion, act of foreign enemy, hostilities (whether war be declared or not) civil war,\nrebellion, revolution, insurrection military or usurped power or civil commotion or loot or pillage in connection therewith.",
+  "plain_english": "This liability requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 8. Factors: liability(8)",
+  "clause_heading": "CLAUSE 1: L",
+  "word_count": 60,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "liability",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_1_maintenance.txt",
+    "processed_timestamp": "2025-09-20 05:34:24",
+    "word_count_original": 64,
+    "word_count_cleaned": 60,
+    "cleaning_ratio": 0.9375,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

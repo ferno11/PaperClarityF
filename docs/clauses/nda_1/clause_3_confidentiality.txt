@@ -1,0 +1,18 @@
+CLAUSE 3: O
+============================================================
+Type: confidentiality
+Risk Level: standard
+Word Count: 140
+------------------------------------------------------------
+
+bligations of Receiving Party. Receiving Party shall hold and maintain the Confidential
+Information in strictest confidence for the sole and exclusive benefit of the Disclosing Party.
+Receiving Party shall carefully restrict access to Confidential Information to employees,
+contractors and third parties as is reasonably required and shall require those persons to sign
+nondisclosure restrictions at least as protective as those in this Agreement. Receiving Party
+shall not, without the prior written approval of Disclosing Party, use for Receiving Party's benefit,
+publish, copy, or otherwise disclose to others, or permit the use by others for their benefit or to
+the detriment of Disclosing Party, any Confidential Information. Receiving Party shall return to
+Disclosing Party any and all records, notes, and other written, printed, or tangible materials in its
+possession pertaining to Confidential Information immediately if Disclosing Party requests it in
+writing.

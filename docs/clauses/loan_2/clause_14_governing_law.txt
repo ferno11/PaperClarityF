@@ -1,0 +1,10 @@
+CLAUSE 14: G
+============================================================
+Type: governing_law
+Risk Level: standard
+Word Count: 29
+------------------------------------------------------------
+
+overning Law: This Agreement shall be governed by and construed in accordance with the
+​ ​
+laws of the State of ____________________, not including its conflicts of law provisions.

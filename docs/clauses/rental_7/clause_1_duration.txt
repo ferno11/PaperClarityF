@@ -1,0 +1,9 @@
+CLAUSE 1: P
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 17
+------------------------------------------------------------
+
+roperty. The leased dwelling is located at [City], [State] (and will be otherwise known as the
+“Apartment").

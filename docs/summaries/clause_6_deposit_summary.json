@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 6: T\nRisk Level: medium Word Count: 184\nhe Tenant will pay to the Owner an interest-free refundable security deposit of Rs.(Amount\nin Numbers) vide cheque no (Cheque Number) dated (date of the cheque) at the time of signing\nthe Rent Agreement. The said amount of the Security deposit shall be refunded by the Owner to\nthe Tenant at the time of handing over possession of the demised premises by the Tenant upon\nexpiry or sooner termination of this Rent after adjusting any dues (if any) or cost towards\ndamages caused by the negligence of the Tenant or the person he is responsible for, normal wear\n& tear and damages due to act of god exempted. In case the Owner fails to refund the security\ndeposit to the Tenant on early termination or expiry of the Rent agreement, the Tenant is entitled\nto hold possession of the Rented premises, without payment of rent and/or any other charges\nwhatsoever, till such time the Owner refunds the security deposit to the Tenant. This is without\nprejudice and in addition to the other remedies available to the Tenant to recover the amount\nfrom the Owner.",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 31. Factors: termination(9), damages(8), interest(5), deposit(3), security deposit(4)",
+  "clause_heading": "CLAUSE 6: T",
+  "word_count": 193,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.3626943005181347,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_6_deposit.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 197,
+    "word_count_cleaned": 193,
+    "cleaning_ratio": 0.9796954314720813,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

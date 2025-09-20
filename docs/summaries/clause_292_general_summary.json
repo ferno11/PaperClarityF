@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 292: A OF THE COMPANIES ACT WHERE ITS PAID UP\nRisk Level: standard Word Count: 14\ncapital exceeds Rs 5.00 Crores and above and shall submit a certificate from the",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": null,
+  "word_count": 31,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_292_general.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 35,
+    "word_count_cleaned": 31,
+    "cleaning_ratio": 0.8857142857142857,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

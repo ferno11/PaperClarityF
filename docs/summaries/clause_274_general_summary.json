@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 274: ON NON-\nRisk Level: standard Word Count: 7\ncompliance of the requirements of Companies Act.",
+  "plain_english": "This clause requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 5. Factors: compliance(5)",
+  "clause_heading": "CLAUSE 274: ON NON-",
+  "word_count": 17,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": null,
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_274_general.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 21,
+    "word_count_cleaned": 17,
+    "cleaning_ratio": 0.8095238095238095,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

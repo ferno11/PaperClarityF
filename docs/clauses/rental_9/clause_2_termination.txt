@@ -1,0 +1,12 @@
+CLAUSE 2: I
+============================================================
+Type: termination
+Risk Level: standard
+Word Count: 75
+------------------------------------------------------------
+
+f Tenant defaults under the Lease by failing to pay rent, as set forth in section XIV(B)(1), Landlord may
+terminate Tenant’s rights under the Lease and Tenant shall vacate the Premises immediately. If Tenant defaults
+under the Lease for any other reason, as set forth in sections XIC(B)(2) or (3) above, Landlord may terminate
+Tenant’s rights under the Lease and Tenant shall vacate the Premises within 7 days of delivery of the notice of
+termination.

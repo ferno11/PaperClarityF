@@ -1,0 +1,46 @@
+{
+  "original_text": "CLAUSE 5: V\nRisk Level: standard Word Count: 505\nACATING; CLEANING CONVENIENCE FEE. Upon termination of the Rental Agreement, Tenant\nshall vacuum carpets, sweep floors, wipe all surfaces clean, remove all trash and items of personal\nproperty and promptly vacate, leaving the Premises in good order and repair.\nFor a fee of $ ,* Tenant hereby employs Landlord to perform the following services at the\ntermination of the lease term, to bring the Premises to move-in condition, normal wear and tear\nexcepted: Steam cleaning of carpeting; mopping of floors; touch-up painting; cleaning behind\nappliances; cleaning of light fixtures and vents; final cleaning of all surfaces, including countertops,\nshelving, appliances, restroom and kitchen fixtures, ceilings, doors, windows, blinds, walls, baseboards\nand flooring; and cleaning of balconies and/or porches. Tenant authorizes the Cleaning Convenience\nFee to be deducted from the Deposit, and agrees to immediately pay such Fee to Landlord, should the\nDeposit be insufficient to cover all sums owed to Landlord. In such event, any deficiency in the Cleaning\nConvenience Fee shall be considered additional rent. The Cleaning Convenience Fee covers basic\ncleaning, but not repairs, replacements of damaged items or painting beyond touch-ups. Should the\ncondition of the Premises be such that deeper or more intensive or extensive cleaning is required, in\nLandlord’s sole discretion, Tenant agrees to pay such reasonable additional charges as may be required\nto bring the Premises to move-in condition, normal wear and tear excepted. If repairs, replacements,\nextra painting or additional cleaning beyond that covered by the Cleaning Convenience Fee is needed, in\nLandlord’s sole discretion, and employees of Landlord perform such work, charges therefore shall be\n$55 per hour for labor, plus the cost of materials, and overhead of 20% of labor and materials. A\nminimum charge of one hour for labor shall be assessed on all repairs. If Landlord employs a\nsubcontractor to do such work, the work will be charged at the amount invoiced, plus 20% overhead. No\nright of storage beyond the end of the lease term is given by this Rental Agreement. In the event\nTenant’s personal property is not removed from the Premises at the termination of this Rental\nAgreement, Landlord may consider such property abandoned and may dispose of it without liability for\ndamage or loss, in accordance with applicable Virginia law. In such event, Tenant shall pay Landlord’s\nreasonable costs of removal and/or disposal of such property. In the event Landlord elects to store\nTenant’s property, Tenant shall pay for all costs of removal and storage. Tenant agrees to leave all\nutilities that are in Tenant’s name connected from the commencement day of this Rental Agreement until\nGroup Initials Page 3 5 business days beyond the termination date, or to pay Landlord any costs associated with having any or\nall utilities reconnected plus an administrative fee of $40 per utility invoice received and paid by Landlord.\nTenant may request, with at least five days written notice, to be present during the move-out inspection.\n*If the amount is not noted, the Cleaning Convenience Fee will be charged as follows: $225.00 per",
+  "plain_english": "This payment requires compliance with  $55,  $40.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 49. Factors: termination(9), liability(8), notice(4), inspection(4), deposit(3)",
+  "clause_heading": "CLAUSE 5: V",
+  "word_count": 513,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [
+    "money: $55",
+    "money: $40",
+    "money: $225.00",
+    "percentage: 20%",
+    "percentage: 20%"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 0.4,
+  "numeric_obligations": [
+    "percentage: 20%",
+    "percentage: 20%",
+    "money: $55",
+    "money: $40",
+    "money: $225.00"
+  ],
+  "conditional_language": [
+    "Should",
+    "If",
+    "condition",
+    "should",
+    "may",
+    "In the event"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_5_maintenance.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 518,
+    "word_count_cleaned": 513,
+    "cleaning_ratio": 0.9903474903474904,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

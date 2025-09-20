@@ -1,0 +1,30 @@
+{
+  "original_text": "CLAUSE 7: A\nRisk Level: standard Word Count: 89\nDDING OR REMOVING NAMES ON THE RENTAL AGREEMENT: Tenant may add or remove\nnames on the Rental Agreement subject to Landlord’s written approval and payment of an administrative\nfee for each separately prepared and/or completed addendum. Additions shall be subject to Landlord's\napproval of their rental application and may be required by Landlord to be a student or a graduate\nstudent. A minimum of one original tenant must remain on the lease for the duration of the lease term,\notherwise re-rental policies and procedures set by landlord will apply.",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 4. Factors: conditionals:2(4)",
+  "clause_heading": "CLAUSE 7: A",
+  "word_count": 98,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.7142857142857142,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may",
+    "subject to"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_7_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 102,
+    "word_count_cleaned": 98,
+    "cleaning_ratio": 0.9607843137254902,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

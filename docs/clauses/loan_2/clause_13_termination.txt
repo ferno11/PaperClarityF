@@ -1,0 +1,11 @@
+CLAUSE 13: A
+============================================================
+Type: termination
+Risk Level: standard
+Word Count: 35
+------------------------------------------------------------
+
+ssignment: Borrower shall not assign this Agreement, in whole or in part, without the
+​ ​
+written consent of Lender. Lender may assign all or any portion of this Agreement with written
+notice to Borrower.

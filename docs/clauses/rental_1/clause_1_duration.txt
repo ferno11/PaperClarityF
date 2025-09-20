@@ -1,0 +1,11 @@
+CLAUSE 1: D
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 51
+------------------------------------------------------------
+
+URATION: The duration of the rental agreement shall be for a period of
+Eleven (11) months, commencing from Date 01-08-2024 and is subject to
+renewal thereafter under mutual agreed terms and conditions by the lessor and
+the lessee with an enhancement of 5% in the monthly rent for every 11 months.

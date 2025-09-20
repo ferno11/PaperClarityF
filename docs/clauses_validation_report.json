@@ -1,0 +1,105 @@
+{
+  "summary": {
+    "total_files": 2449,
+    "empty_files": 0,
+    "short_files": 6,
+    "long_files": 82,
+    "encoding_issues": 0,
+    "docs_with_many_short_clauses": 0
+  },
+  "empty_files": [],
+  "short_files": [
+    {
+      "file": "docs\\clauses\\insurance_2_clause_016.txt",
+      "chars": 33,
+      "snippet": "6.\nLegal\ninformation\nBOUGHTBYMANY"
+    },
+    {
+      "file": "docs\\clauses\\insurance_2_clause_024.txt",
+      "chars": 33,
+      "snippet": "6.\nLegal\ninformation\nBOUGHTBYMANY"
+    },
+    {
+      "file": "docs\\clauses\\insurance_2_clause_029.txt",
+      "chars": 33,
+      "snippet": "6.\nLegal\ninformation\nBOUGHTBYMANY"
+    },
+    {
+      "file": "docs\\clauses\\insurance_2_clause_033.txt",
+      "chars": 33,
+      "snippet": "6.\nLegal\ninformation\nBOUGHTBYMANY"
+    },
+    {
+      "file": "docs\\clauses\\insurance_2_clause_053.txt",
+      "chars": 33,
+      "snippet": "6.\nLegal\ninformation\nBOUGHTBYMANY"
+    },
+    {
+      "file": "docs\\clauses\\loan_4_clause_002.txt",
+      "chars": 34,
+      "snippet": "2. Hypothecation of movable assets"
+    }
+  ],
+  "long_files": [
+    {
+      "file": "docs\\clauses\\employment_1\\clause_3_rent.txt",
+      "chars": 8804
+    },
+    {
+      "file": "docs\\clauses\\employment_1\\employment_1_clauses.json",
+      "chars": 19744
+    },
+    {
+      "file": "docs\\clauses\\employment_2\\clause_3_duration.txt",
+      "chars": 17013
+    },
+    {
+      "file": "docs\\clauses\\employment_2\\employment_2_clauses.json",
+      "chars": 24890
+    },
+    {
+      "file": "docs\\clauses\\employment_2_clause_004.txt",
+      "chars": 16831
+    },
+    {
+      "file": "docs\\clauses\\employment_2_merged\\employment_2_merged_clause_004.txt",
+      "chars": 16831
+    },
+    {
+      "file": "docs\\clauses\\insurance_1\\clause_11_duration.txt",
+      "chars": 8626
+    },
+    {
+      "file": "docs\\clauses\\insurance_1\\clause_12_duration.txt",
+      "chars": 83896
+    },
+    {
+      "file": "docs\\clauses\\insurance_1\\clause_14_duration.txt",
+      "chars": 93670
+    },
+    {
+      "file": "docs\\clauses\\insurance_1\\clause_2_rent.txt",
+      "chars": 9470
+    }
+  ],
+  "encoding_issues": [],
+  "high_short_docs": [],
+  "sample_files": [
+    {
+      "file": "docs\\clauses\\consent_1_clause_001.txt",
+      "sample": "CONSENT TO TREAT MINOR CHILDREN\nI, _______________________, parent or legal guardian of _______________________, born\nthe ___ day of _______________________, 20___ do hereby consent to any medical car"
+    },
+    {
+      "file": "docs\\clauses\\consent_1_clause_002.txt",
+      "sample": "This authorization is effective from the ___ day of _______________________, 20___ to\n___ day of _______________________, 20___\n_____________________________________ __________________\nSignature of Pa"
+    },
+    {
+      "file": "docs\\clauses\\consent_1_clause_003.txt",
+      "sample": "This additional information will assist in treatment if it can be\nfurnished with the consent but is not required."
+    },
+    {
+      "file": "docs\\clauses\\consent_1_clause_004.txt",
+      "sample": "Family Address _________________________________________________\nFather’s Telephone: ________________ Mother’s Telephone: ________________\nLast Tetanus: __________________\nAllergies to drugs or foods:"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 19: T\nRisk Level: standard Word Count: 47\nhat the Tenant and Owners represent and warrant that they are fully empowered and\ncompetent to make this Rent. That both the parties have read over and understood all the contents\nof this agreement and have signed the same without any force or pressure from any side.",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 19: T",
+  "word_count": 56,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_19_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 60,
+    "word_count_cleaned": 56,
+    "cleaning_ratio": 0.9333333333333333,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

@@ -1,0 +1,11 @@
+CLAUSE 20: A
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 55
+------------------------------------------------------------
+
+BANDONMENT. Abandonment of Premises (whether or not the keys are returned and accepted
+by Landlord) will entitle Landlord to immediate possession and the option to terminate this Rental
+Agreement, and/or authorization to find a new tenant, and remove any remaining personal effects therein
+and dispose of the same in a manner consistent with Virginia law.

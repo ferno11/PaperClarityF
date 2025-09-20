@@ -1,0 +1,285 @@
+{
+  "document_name": "vendor_2",
+  "document_type": "vendor",
+  "total_clauses": 21,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 6,
+    "low": 0,
+    "standard": 15
+  },
+  "clauses": [
+    {
+      "clause_id": "vendor_2_clause_1",
+      "clause_number": "1",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "erm. This Agreement shall commence on [DATE] and shall terminate, unless\nearlier terminated as authorized by Section 6, below, on [DATE] (the \u201cTerm\u201d).",
+      "word_count": 23,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "vendor_2_clause_2",
+      "clause_number": "2",
+      "clause_title": "D",
+      "clause_type": "maintenance",
+      "original_text": "uties. Pace hereby retains Vendor to perform the following services (the\n\u201cWork\u201d), which Work shall not include lobbying activities or services within the\nmeaning of state or federal law:\n[DESCRIBE IN APPROPRIATE DETAIL THE SERVICES TO BE PROVIDED\nBY VENDOR, i.e., INSTALL OR REPAIR A FIRE ALARM, ELEVATOR\nMAINTENANCE, PROVIDE A COPIER, etc.]:",
+      "word_count": 53,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "deadline",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_3",
+      "clause_number": "3",
+      "clause_title": "E",
+      "clause_type": "duties",
+      "original_text": "xpertise. Vendor warrants to Pace that it has sufficient staff available to\nperform the Work and that all individuals providing Work have the background,\ntraining and experience to perform properly the Work to be delivered under this\nAgreement and/or, as appropriate, for adequately supervising such individuals at the\nworksite(s), and/or, as appropriate, that the good(s) it provides hereunder shall\nperform as the Vendor has advertised or represented to Pace.",
+      "word_count": 69,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "vendor_2_clause_4",
+      "clause_number": "4",
+      "clause_title": "F",
+      "clause_type": "rent",
+      "original_text": "ees and Expenses. Fees shall be paid in accordance with the Scope of Work\nand Fee Schedule agreed to between the parties and attached hereto as Exhibit A.\nExcept as specifically provided in this Agreement, all expenses shall be borne by\nVendor. Final payment shall be subject to Vendor delivery to Pace of all deliverables\nin form and substance satisfactory to Pace.]",
+      "word_count": 62,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_5",
+      "clause_number": "5",
+      "clause_title": "T",
+      "clause_type": "termination",
+      "original_text": "ermination. Either party may terminate this Agreement with thirty (30) days\nprior written notice to the other party. Vendor hereby acknowledges and agrees that,\nnotwithstanding anything to the contrary contained in this Agreement, in the event of\nsuch termination, Pace shall only be liable for, and Vendor agrees only to retain,\npayment of the portion of the fee earned as a result of Work actually and satisfactorily\nperformed through the effective date of termination.",
+      "word_count": 74,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_6",
+      "clause_number": "6",
+      "clause_title": "N",
+      "clause_type": "duties",
+      "original_text": "o Employment Relationship Created. It is understood and agreed between the\nparties that the Agreement is not intended to nor does it create an employment\ncontract between Pace, on the one hand, and Vendor and any of its employees, on the\nother, nor does it create a joint relationship or partnership between the parties hereto.\nNeither Vendor nor its employees are entitled to benefits that Pace provides for Pace\nemployees. Vendor\u2019s relationship to Pace is solely and exclusively that of an\nindependent contractor. Pace is interested only in the results to be achieved and the\nconduct and control of the Work shall be solely with Vendor. Vendor shall be\npermitted to engage in any business and perform services for its own accounts,\nprovided that the Work is not compromised. Except as specifically permitted in this\nAgreement, neither party shall use the name or trademarks of the other party or incur\nany obligation or expense for or on behalf of the other party without the other party\u2019s\nprior written consent in each instance.",
+      "word_count": 172,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_7",
+      "clause_number": "7",
+      "clause_title": "N",
+      "clause_type": "rent",
+      "original_text": "o Withholding. Vendor is solely and exclusively responsible for the\nsatisfaction of Vendor\u2019s own local, state, and federal income tax and Social Security\nwithholding that may be applicable to the amounts payable by Pace under this\nAgreement.",
+      "word_count": 37,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_8",
+      "clause_number": "8",
+      "clause_title": "C",
+      "clause_type": "duties",
+      "original_text": "onfidentiality. During the course of performance of the Agreement, Vendor\nmay be given access to information that relates to Pace\u2019s past, present and future\nresearch, development, business activities, products, services, technical knowledge,\nand personally identifiable student and employee information, or protected health\ninformation (\u201cPHI\u201d)/electronic protected health information (\u201cePHI\u201d). All such\ninformation shall be deemed to be \u201cConfidential Information\u201d unless otherwise\nindicated by Pace in writing at or after the time of disclosure. Vendor may use the\nConfidential Information only in connection with the specific duties authorized\npursuant to this Agreement. Access to the Confidential Information shall be restricted\nto those of Vendor\u2019s personnel, representatives and consultants on a need-to-know\nbasis solely in connection with Vendor\u2019s internal business. Vendor further agrees that\nit shall (i) take all necessary steps to inform any of its personnel, representatives or\nconsultants to whom Confidential Information may be disclosed of Vendor\u2019s\nobligations hereunder and (ii) cause said personnel, representatives and consultants to\nagree to be bound by the terms of this Agreement by executing a confidentiality\nagreement containing the same restrictions contained herein or some other method\nacceptable to Pace. Vendor agrees to protect the confidentiality of the Confidential\nInformation in the same manner that it protects the confidentiality of its own\nproprietary and confidential information of like kind, but in no event less than\nreasonable means. Vendor agrees to notify Pace of any unauthorized use or\ndisclosure of Confidential Information and to take all actions reasonably necessary to\nprevent further unauthorized use or disclosure thereof. These requirements apply to\nany subcontractors or agents Vendor uses in the performance of the Work and it is\nVendor\u2019s responsibility to assure that all such subcontractors and agents comply with\nall such requirements. The terms of this Section 8 shall survive the expiration or\ntermination of this Agreement.",
+      "word_count": 300,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_9",
+      "clause_number": "9",
+      "clause_title": "A",
+      "clause_type": "duties",
+      "original_text": "ssignment. Vendor shall not assign its duties hereunder without the prior\nwritten consent of Pace.",
+      "word_count": 15,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": [
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_10",
+      "clause_number": "10",
+      "clause_title": "B",
+      "clause_type": "general",
+      "original_text": "inding Effect. This Agreement shall be binding upon the parties hereto and\nupon their respective successors and assigns.",
+      "word_count": 18,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "vendor_2_clause_11",
+      "clause_number": "11",
+      "clause_title": "C",
+      "clause_type": "interest",
+      "original_text": "ompliance With Laws. Vendor warrants that the Work shall be accomplished\nin compliance with all applicable Federal, State and local laws, ordinances, rules,\nregulations and codes, including, but not limited to, U.S. Occupational Safety and\nHealth Administration (\u201cOSHA\u201d) requirements; applicable provisions of paragraphs\n(1) through (7) of section 202 of Executive Order 11246 relating to Equal\nEmployment Opportunity; section 402 of the Vietnam Era Veterans Readjustment\nAct of 1974, as amended; and section 503 of the Rehabilitation Act of 1973. Vendor\nand its subcontractors, employees, and agents shall obtain and maintain in full force\nand effect, all necessary permits, licenses, and authorizations required by\ngovernmental and quasi-governmental agencies. Vendor shall advise Pace of all\npermits and licenses required to be obtained in Pace\u2019s own name for the Work to be\nprovided hereunder, and shall cooperate with Pace in obtaining the same. Vendor\nshall not solicit, possess, or use in any manner tools and equipment, including but not\nlimited to ladders, hand tools, lifts or power tools, that are the property of Pace or its\nemployees.",
+      "word_count": 175,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_12",
+      "clause_number": "12",
+      "clause_title": "C",
+      "clause_type": "deposit",
+      "original_text": "ompliance With Pace Policies. Vendor and its subcontractors, employees, and\nagents shall comply with all Pace policies and procedures with respect to Vendor\u2019s\nactivities under or in connection with this Agreement, including, but not limited to,\nPace\u2019s Guiding Principles of Conduct,; Pace\u2019s Information Technology Appropriate\nUse Policy; Pace\u2019s Ebola Response Policy\n(http://www.pace.edu/sites/default/files/files/Message%20from%20the%20President\n%20on%20Ebola%20Preparedness.pdf); and security policies.\n[ADD THE FOLLOWING TWO PARAGRAPHS TO CONTRACTS WHERE THE\nVENDOR IS A RESTAURANT OR CATERER:\nAlcoholic Beverages. In the event that alcoholic beverages are to be served, Vendor\nshall be solely responsible for checking identifications and assuring that no persons\nunder age 21 years are served alcoholic beverages during the function, and further\nassuring that all state and local regulations and laws with respect to the dispensing of\nalcoholic beverages will be strictly adhered to.\nPace Approval. Any price increases or material substitution of goods, services, or\nfacilities shall be subject to prior Pace written approval.]",
+      "word_count": 152,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_13",
+      "clause_number": "13",
+      "clause_title": "P",
+      "clause_type": "duration",
+      "original_text": "roprietary Rights. Vendor hereby acknowledges and agrees that Pace has\nspecially commissioned the Work as a \u201cwork made for hire\u201d under Section 101 of the\nUnited States Copyright Act of 1976, as amended (the \u201cCopyright Act\u201d).\nAccordingly, all intellectual property developed by Vendor for Pace in connection\nwith this Agreement, including but not limited to all monitoring, testing and other\ndata, reports, materials, schematic drawings, illustrations, trademarks, trade names,\nslogans, logos or other designs in any form, whether electronic, print or any other\nformat, shall be owned solely and exclusively by Pace. All copyrights and patents\nwith respect to such intellectual property created for Pace in accordance with this\nAgreement shall be registered in the name of Pace University. If the Work is\ndetermined not to be a work made for hire under the Copyright Act, then, as of the\ndate of this Agreement or the creation of any of the intellectual property, whichever is\nearlier, Vendor irrevocably transfers and assigns to Pace the entire right, title, and\ninterest, including, but not limited to, copyright, in and to the intellectual property, in\nwhole or in part, together with all extensions of such copyrights, that may be secured\nunder the Copyright Act or under any other copyright law or similar law in effect in\nthe United States or in any other countries or under any treaties, conventions, or\nproclamations. Vendor agrees to execute and deliver to Pace any documents that may\nbe necessary to effectuate the transfer and assignment of the intellectual property\nrights in the Work contemplated by this Agreement and to do such other acts and\nthings as may be reasonably requested by Pace to perfect or evidence such transfer.\nVendor shall have no ownership or copyright in Pace materials, nor in the intellectual\nproperty contained therein, nor in the delivery formats, whether electronic, print or\nany other form. [USE THE FOLLOWING SENTENCE ONLY FOR CONTRACTS\nWITH PROVIDERS OF INTELLECTUAL PROPERTY WHO ARE BASED\nOUTSIDE THE U.S.: Vendor hereby waives any moral rights of any kind in the\nWork and the intellectual property.] Pace shall have no rights in any of Vendor\u2019s\nintellectual property that is not developed specially for Pace pursuant to this\nAgreement.",
+      "word_count": 366,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "vendor_2_clause_14",
+      "clause_number": "14",
+      "clause_title": "I",
+      "clause_type": "duration",
+      "original_text": "ndemnification. Vendor agrees to defend, indemnify, and hold harmless Pace\nUniversity, its successors and assigns, and their respective trustees, officers,\nemployees, and agents (the \u201cIndemnified Parties\u201d) to the fullest extent permitted by\nlaw from and against any and all claims or demands whatsoever, including, but not\nlimited to, associated costs, expenses, and reasonable attorneys\u2019 fees incurred on\naccount thereof (\u201cClaims\u201d) asserted against Pace as a result of Vendor\u2019s work or\nperformance or non-performance of this Agreement, including, but not limited to,\nClaims that may be asserted by any person(s), including, but not limited to,\nConsultant\u2019s employees and employees of Vendor\u2019s subcontractors or agents\n(\u201cClaimants\u201d), for loss, damage, death, injury, sexual harassment, or molestation to or\nof persons or property; or, where applicable, infringement of any third-party\nintellectual property rights, including, but not limited to, those of copyright; or, where\napplicable, unauthorized release of or failure to protect confidential information of all\ntypes, including, but not limited to, personally identifiable information (PII) or\nelectronic protected health information (ePHI) (\u201cLosses\u201d) arising in any manner out\nof or incident to Vendor\u2019s performance or nonperformance hereunder.",
+      "word_count": 182,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_15",
+      "clause_number": "15",
+      "clause_title": "C",
+      "clause_type": "interest",
+      "original_text": "ooperation. The parties agree to cooperate with each other in connection with\nany internal investigations by Pace or Vendor of possible violation of their respective\npolicies and procedures and any third party litigation, except that Pace shall not be\nrequired to have any contact with any Union or Union representatives of Vendor\u2019s\nemployees or subcontractors or participate in any Union grievance or other\nproceedings relative to Vendor\u2019s employees or subcontractors except as a fact\nwitness.",
+      "word_count": 75,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_16",
+      "clause_number": "16",
+      "clause_title": "I",
+      "clause_type": "termination",
+      "original_text": "nsurance. Vendor shall at all times during the term of this agreement carry, and\nrequire its subcontractors to carry, at least the following types and amounts of\ninsurance:\n\uf0b7 Workers Compensation insurance on all employees, whether paid or\nvolunteer, as may be required by applicable state law. If Vendor is\nexempt under appropriate state law from the requirement to carry workers\ncompensation insurance, Vendor must submit a written statement to that\neffect in a form satisfactory to Pace;\n\uf0b7 Commercial General Liability with limits of not less than $1,000,000 each\noccurrence, $1 million products and completed operations aggregate, and\n$2 million general aggregate. Such insurance shall include coverage for\nclaims arising from all activities and work to be performed by Vendor;\n\uf0b7 If vehicles will be used in the performance of the work, Commercial\nAutomobile Liability insurance with limits of not less than $1,000,000\ncombined single limit each accident covering all owned and non-owned\nvehicles;\n\uf0b7 If professional services, or any other services, requiring a license are to be\nperformed by Vendor, Professional Liability (Malpractice) insurance with\nlimits of not less than $1 million each accident or occurrence covering\nclaims arising from the professional service being performed.\n\uf0b7 Pace shall be named as additional insured on all of camp\u2019s liability\ninsurance policies, and the camp\u2019s policies shall be primary coverage for\nPace, regardless of whatever other insurance Pace may have available.\nSuch policies of insurance shall be maintained with insurance companies authorized\nto do business in the State of New York and provide that they may not be canceled or\nmaterially changed except upon 30 days prior written notice to Pace. Vendor shall, at\nthe time of the execution of this Agreement, furnish Pace with a certificate of\ninsurance evidencing such coverage, and naming Pace as an additional insured with\nrespect to its liability coverages. It is the intent of the parties that Vendor\u2019s insurance\nbe primary and non-contributory coverage for Pace for claims arising from Vendor\u2019s\nperformance of this contract, regardless of whatever other insurance Pace may have\navailable. The insurance required pursuant to this Section 16 shall not be deemed to\nlimit Vendor\u2019s obligations to indemnify Pace under this Agreement.\n[ADD THE FOLLOWING TEXT TO INSURANCE PARAGRAPH FOR\nRESTAURANT AND CATERING CONTRACTS WHERE ALCOHOL MAY BE\nSERVED: Vendor\u2019s liability insurance shall include coverage for Dram Shop\nliability or similar liability imposed by law. Vendor shall furnish a certificate from its\ninsurance carrier showing that it has complied with the foregoing provisions, and\nproviding that the said insurance policies will not be changed or canceled during their\nterm until after at least thirty (30) days prior written notice by registered mail to Pace.\nIf the required certificate of insurance is not provided to Pace in advance of the event,\nPace shall have the right to terminate and receive a full refund of any amounts paid in\nadvance.]",
+      "word_count": 478,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_17",
+      "clause_number": "17",
+      "clause_title": "F",
+      "clause_type": "duration",
+      "original_text": "orce Majeure. Notwithstanding anything to the contrary contained in the\nAgreement, Pace shall not be liable, nor shall any credit or other remedy be extended,\nfor Pace\u2019s failure, in whole or in part, to fulfill its obligations under the Agreement\nwhere such failure arises from or in connection with causes beyond Pace\u2019s control,\nincluding, but not limited to, acts of God, flood, extreme weather, fire or other natural\ncalamity, terrorist attack, any law, order, or regulation or action of any governmental\nentity or civil or military authority, power or utility failure, cable cuts, unavailability\nof rights-of-way, national emergencies, riots, wars, strikes, lock-outs, work stoppages,\nor other labor difficulties (each a \u201cForce Majeure Event\u201d). If a Force Majeure Event\noccurs during the term hereof, Pace shall be excused from performance hereunder.",
+      "word_count": 130,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_18",
+      "clause_number": "18",
+      "clause_title": "G",
+      "clause_type": "governing_law",
+      "original_text": "overning Law and Jurisdiction. Except as may be preempted by federal law,\nthis Agreement shall be governed by the laws of the State of New York, without\nregard to its choice of law principles. Litigation of all disputes between the parties\narising from or in connection with this Agreement shall be conducted in a court of\nappropriate jurisdiction in the State of New York, County of New York.",
+      "word_count": 68,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "vendor_2_clause_19",
+      "clause_number": "19",
+      "clause_title": "N",
+      "clause_type": "duration",
+      "original_text": "otices. All notices to Pace University in connection with this Agreement shall\nbe sent to:\n[NAME, TITLE, AND ADDRESS OF PACE CONTACT]\nwith simultaneous copies to:\nPace University\nOne Pace Plaza\nNew York, NY 10038\nAttn: Associate Vice President for Finance\nand\nPace University\nOne Pace Plaza\nNew York, NY 10038\nAttn.: University Counsel\nAll notices to Vendor in connection with this Agreement shall be sent to:\n[NAME, TITLE, AND ADDRESS OF VENDOR CONTACT]\n21. Entire Agreement. This Agreement, together with any exhibits or addenda\nannexed hereto, is the sole, complete, and exclusive expression of the parties\u2019 intent\nwith respect to the subject matter hereof. Notwithstanding the foregoing, in the event\nof any conflict or discrepancy between the terms and conditions of this Agreement\nand those of any exhibit, rider, or addendum hereto, the terms of this Agreement shall\ncontrol. This Agreement may be amended or modified only by a writing\ncountersigned by authorized representatives of each party.\n22. No Waiver. Failure of either party to enforce any of its rights hereunder shall not\nconstitute a waiver of such right(s) or of any other rights and shall not be construed as\na waiver or relinquishment of any such provisions, rights, or remedies; rather, the\nsame shall remain in full force and effect.\nand year first above written.\nPACE UNIVERSITY FULL LEGAL NAME OF VENDOR\nBy:_________________________________ By:________________________________\nJoseph A. Capparelli\nAssociate Vice President for Finance Name:_____________________________\nand Controller\nTitle:__________________________",
+      "word_count": 238,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "vendor_2_clause_21",
+      "clause_number": "21",
+      "clause_title": "E",
+      "clause_type": "duration",
+      "original_text": "ntire Agreement. This Agreement, together with any exhibits or addenda\nannexed hereto, is the sole, complete, and exclusive expression of the parties\u2019 intent\nwith respect to the subject matter hereof. Notwithstanding the foregoing, in the event\nof any conflict or discrepancy between the terms and conditions of this Agreement\nand those of any exhibit, rider, or addendum hereto, the terms of this Agreement shall\ncontrol. This Agreement may be amended or modified only by a writing\ncountersigned by authorized representatives of each party.",
+      "word_count": 83,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "vendor_2_clause_22",
+      "clause_number": "22",
+      "clause_title": "N",
+      "clause_type": "general",
+      "original_text": "o Waiver. Failure of either party to enforce any of its rights hereunder shall not\nconstitute a waiver of such right(s) or of any other rights and shall not be construed as\na waiver or relinquishment of any such provisions, rights, or remedies; rather, the\nsame shall remain in full force and effect.\nand year first above written.\nPACE UNIVERSITY FULL LEGAL NAME OF VENDOR\nBy:_________________________________ By:________________________________\nJoseph A. Capparelli\nAssociate Vice President for Finance Name:_____________________________\nand Controller\nTitle:__________________________",
+      "word_count": 79,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    }
+  ]
+}

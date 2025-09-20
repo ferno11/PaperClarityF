@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 1: Y\nRisk Level: standard Word Count: 23\nour Complete pet insurance policy This section describes the pet(s) you have covered, lists your details and some important definitions of the policy.",
+  "plain_english": "This insurance requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 1. Factors: definitions(1)",
+  "clause_heading": "CLAUSE 1: Y",
+  "word_count": 32,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "insurance",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_1_benefits.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 36,
+    "word_count_cleaned": 32,
+    "cleaning_ratio": 0.8888888888888888,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

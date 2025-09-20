@@ -1,0 +1,41 @@
+{
+  "original_text": "CLAUSE 29: I\nRisk Level: medium Word Count: 582\nNTERNET SERVICE. At locations where Landlord provides Internet Service, whether it is wired or\nwireless, the service provider is to be selected by Landlord and the monthly costs are as follows: $32.00\nper month for a 1 bedroom unit, $48.00 per month for a 1 bedroom with study or 2 bedroom unit, $56.00\nper month for a 3, 4, 5, 6 or 7 bedroom unit, and $64.00 per month for units with 8 or more bedrooms. In\nproperties where wireless internet is provided, landlord does not guarantee functionality of wired jacks,\nand in properties where wired internet is provided, landlord does not guarantee wireless functionality.\nTenant acknowledges that no warranty is made by Landlord or any internet provider contracted by\nLandlord (hereafter referred to as “Provider”) regarding any information, service, or product provided\nthrough, in connection with, or located on the computers of Provider. Landlord hereby expressly\ndisclaims any and all warranties. Tenant is bound by the Provider’s acceptable use policy. Landlord\nreserves the rights to determine at its sole discretion what uses of the Internet Service are and are not\npermissible and any use of the Internet Service that inordinately drains bandwidth is prohibited. The\nentire risk as to the results and the performance is assumed by the Tenant, and in no event will Landlord\nor Provider be liable for any consequential, incidental, direct or indirect damages suffered in the course of\nusing this connection. Neither Landlord or Provider will be liable or responsible for, including without\nlimitation, any loss, damage, or expense incurred by Tenant caused or allegedly caused by failure of\nperformance, error, omission, interruption, electrical surge/damage/interference, deletion, defect, delay in\noperation or transmission, communications line failure, theft or destruction of or unauthorized access to,\nalteration of or use of records, whether for breach of contract, negligence, or if the quantity or quality of\nthe Internet Service is no longer suitable for Tenant’s requirements, or under any other cause of action.\nTenant is responsible for updating the virus protection programs and personal firewalls on his/her\npersonal computer with the most current definitions, as well as performing regular virus scans. Tenant is\nalso responsible for installing the most current critical updates for his/her operating system. If Tenant\ndoes not comply with the terms of this paragraph, Landlord may terminate Tenant’s access to this\nconnection, without notice, for the remainder of the rental term and no compensation will be awarded to\nTenant for this disruption of service. Tenant, and any guest of Tenant, shall not remove or tamper with\nWireless Access Points, networking equipment, wiring, or wall jacks provided by Landlord. Tenant is not\npermitted to use the Internet Service connection for any purposes that violate U.S. or state laws. It is\nalso not acceptable to use this connection to interfere with or disrupt network users, service or\nequipment. Such interference includes, but is not limited to: distribution of unsolicited advertising,\npropagation of computer worms or viruses, and using the network to make unauthorized entry to other\ncomputational, information or communications devices or resources. Any Tenant discovered using this\nconnection for such unacceptable purposes will have his/her access to the connection terminated without\nnotice, and Tenant will be responsible for all costs incurred by Landlord or Provider because of such\nunacceptable uses. Landlord shall have the absolute right to lease or sell any internet cable and/or\ntelevision cable and/or telephone cable, where it has been or is installed by Landlord, to any service\nprovider of Landlord’s choice.\nGroup Initials Page 11",
+  "plain_english": "This property requires compliance with  $32.00,  $48.00.",
+  "user_impact": "You must follow these high-risk requirements or face consequences.",
+  "risk_level": "High",
+  "risk_reason": "Score: 34. Factors: damages(8), breach(7), without notice(8), notice(4), definitions(1)",
+  "clause_heading": "CLAUSE 29: I",
+  "word_count": 591,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "property",
+  "key_entities": [
+    "money: $32.00",
+    "money: $48.00",
+    "money: $56.00",
+    "money: $64.00"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 0.5,
+  "numeric_obligations": [
+    "money: $32.00",
+    "money: $48.00",
+    "money: $56.00",
+    "money: $64.00"
+  ],
+  "conditional_language": [
+    "may",
+    "If",
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_29_liability.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 595,
+    "word_count_cleaned": 591,
+    "cleaning_ratio": 0.9932773109243698,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

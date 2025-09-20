@@ -1,0 +1,30 @@
+{
+  "original_text": "CLAUSE 4: H\nRisk Level: standard Word Count: 164\now your Complete policy works.\nYou have bought a multi-pet policy for Monty and Molly. All of the limits described below are limits that apply to each pet separately.\nHow this policy works for vet fees We will pay up to £15,000 for all vet’s fees in any one year. This means there is no limit according to the number of claims you make or\nthe number of illnesses your pet suffers. Instead, claims will be paid until the £15,000 limit is reached that year.\nWhen you renew your policy, the limit is reset so there is a new £15,000 to use again if it is needed. This is the case even if you made\nclaims the year before. This means that valid claims can continue across years, as long as the limit is not reached.\nPet Insurance Policy ( SAMPLE POLICY DOCUMENT- COMPLETE)",
+  "plain_english": "This insurance requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 4. Factors: conditionals:2(4)",
+  "clause_heading": "CLAUSE 4: H",
+  "word_count": 153,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "insurance",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.45751633986928103,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "When",
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_4_benefits.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 177,
+    "word_count_cleaned": 153,
+    "cleaning_ratio": 0.864406779661017,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

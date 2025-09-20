@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 21: T\nRisk Level: standard Word Count: 120\nhat the Rent Agreement will be registered in front of the Registrar and the charges towards\nstamp duty, court fee & lawyer/coordinator will be equally borne by the Owner and Tenant.\nThe (Complete Address) of the Property, consisting (Number of Bedrooms) bedrooms, living\nroom, family lounge, kitchen, servant room and inbuilt fittings & fixtures and inventory of\n(Number of Fans), (Number of CFL Lights), (Number of Geyser), (Number of Mirrors).\nON THIS DAY AND YEAR\n1. (Name of the Witness)\n(Signature of the Witness)\n(Address of the Witness)\n2. (Name of the Witness)\n(Signature of the Witness)\n(Address of the Witness)\n(Signature of the Owner) (Signature of the Tenant)\n(Name of the Owner) (Name of the Tenant)",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 2. Factors: signature(1), address(1)",
+  "clause_heading": "CLAUSE 21: T",
+  "word_count": 126,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.5555555555555555,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_21_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 133,
+    "word_count_cleaned": 126,
+    "cleaning_ratio": 0.9473684210526315,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 2: C\nRisk Level: standard Word Count: 41\nfor carriage of dead body.\nThe Policyholder/ Insured Person shall be required to submit 5. Payment of weekly compensation until the total amount shall\nthe documents as mentioned in Clause 4 of this section.\nhave been ascertained and agreed.",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 2: C",
+  "word_count": 48,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_2_compensation.txt",
+    "processed_timestamp": "2025-09-20 05:34:24",
+    "word_count_original": 54,
+    "word_count_cleaned": 48,
+    "cleaning_ratio": 0.8888888888888888,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

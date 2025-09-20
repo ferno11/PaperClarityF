@@ -1,0 +1,125 @@
+{
+  "document_name": "rental_7",
+  "document_type": "rental",
+  "total_clauses": 9,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 0,
+    "low": 0,
+    "standard": 9
+  },
+  "clauses": [
+    {
+      "clause_id": "rental_7_clause_1",
+      "clause_number": "1",
+      "clause_title": "P",
+      "clause_type": "duration",
+      "original_text": "roperty. The leased dwelling is located at [City], [State] (and will be otherwise known as the\n\u201cApartment\").",
+      "word_count": 17,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_7_clause_2",
+      "clause_number": "2",
+      "clause_title": "A",
+      "clause_type": "duration",
+      "original_text": "rrangement to Lease. The Property Management Company/Landlord is in agreement to\nlease to the Tenant. The Tenant is in agreement to lease from the Property Management\nCompany/Landlord, the Apartment, according to the terms and conditions cited in this Contract\nAgreement.",
+      "word_count": 40,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_7_clause_3",
+      "clause_number": "3",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "erm. This Lease will be for a term of [number] months beginning on [Lease start date] and\nending on [Lease end date] (the \u201cLong Term\").\nAlternatively, this Lease will be for a shorter Term duration beginning on [Start date] and ending\non [End date] (the \u201c Short Term\").",
+      "word_count": 48,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "deadline"
+      ]
+    },
+    {
+      "clause_id": "rental_7_clause_4",
+      "clause_number": "4",
+      "clause_title": "R",
+      "clause_type": "rent",
+      "original_text": "ent. The Tenant will pay the Property Management Company/Landlord a monthly rent of\n[Rent amount]. The rent can be paid in advance and/or is due on the [Date of month] of each\nmonth as obligated by the designated and agreed upon Term.",
+      "word_count": 42,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_7_clause_5",
+      "clause_number": "5",
+      "clause_title": "P",
+      "clause_type": "rent",
+      "original_text": "ayment will be made directly to the Property Management Company/Landlord at the address\nstated above (or at a designated online website portal that has been directed by the Property\nManagement Company for residents of said property). Payment can be made using a debit card\nor credit card for an additional fee of [Additional fee amount]. It can also be paid by mail or in\nperson by check in the Property Management Office of the Landlord.\nNote that the first rent payment is required upon the Tenant signing this Contract Agreement.",
+      "word_count": 90,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_7_clause_6",
+      "clause_number": "6",
+      "clause_title": "A",
+      "clause_type": "rent",
+      "original_text": "dditional Monies. Under this Agreement there could be situations where the Tenant may be\nnotified to pay extra monies to the Property Management Company/Landlord. These charges will\nbe in addition to the rent under this Contract Agreement and therefore will be paid upon the\nupcoming regularly scheduled rent due date.\nIf the Tenant fails to pay rent, the Tenant will pay a late charge in the amount of [Late fee\namount, usually a percentage] of the monthly rent, and will be known as \u201cAdditional Rent.\"",
+      "word_count": 85,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_7_clause_7",
+      "clause_number": "7",
+      "clause_title": "U",
+      "clause_type": "general",
+      "original_text": "se of Property. The Tenant will only occupy the Apartment. Or, also with his/her/their\nimmediate family only. Or, also with his/her/their pet(s). The Apartment will only be used only\nfor residential purposes. No illegal activities are allowed on the Apartment.",
+      "word_count": 40,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_7_clause_8",
+      "clause_number": "8",
+      "clause_title": "A",
+      "clause_type": "duration",
+      "original_text": "partment Possession. If the Property Management Company does not give possession of\nthe dwelling to the Tenant on the start date of the Term, the Tenant is not liable for the rent\nstarting on the start date, but only after possession of the Apartment is given to the Tenant. Rent\nwill be pro-rated.",
+      "word_count": 53,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_7_clause_9",
+      "clause_number": "9",
+      "clause_title": "S",
+      "clause_type": "deposit",
+      "original_text": "ecurity Deposit. When the Tenant signs this Contract Agreement, the Tenant will pay a\nsecurity deposit in the amount of [Security deposit amount] to the [Landlord/Apartment\nCommunity/Property Management Company Name]. The security deposit will be retained by the\nProperty Management Company/Landlord as security for the Tenant's fulfillment of obligations\nunder this Contract Agreement.\nIf the Tenant does not abide with the Terms of this Contract Agreement, the Property\nManagement Company/Landlord may apply the security deposit in payment of any amount owed\nfor damages incurred and costs incurred by the Property Management Company/Landlord due to\nthe Tenant's inability to comply to signed obligations of this Contract Agreement.\nThe Property Management Company/Landlord will provide a written notice to the Tenant that\nreferences use of any or all of the security deposit. The Tenant will, within [Number of days]\ndays following receipt of the notice, make a payment directly to the Landlord in an amount equal\nto that used by the Property Management Company/Landlord in order to reinstate the security\ndeposit to its full monetary value for the remainder of the Tenant's occupancy of the Apartment.\nAddendums, Provisions and Disclosures and Amendments\nThis Contract Agreement may only be amended or modified by way of a written agreement\nsigned by both the Tenant and the Property Management Company/ Landlord.\nSignatures\nLandlord or Property Management Company Name: [Printed name]\nCompany Representative Signature: [Landlord or Property Manager's signature]\nDate: [XX/XX/XX]\nTenant No. 1 Name: [Printed name]\nTenant No. 1 Signature: [Tenant signature]\nDate: [XX/XX/XX]\nTenant No. 2 Name: [Printed name]\nTenant No. 2 Signature: [Tenant signature]\nDate: [XX/XX/XX]",
+      "word_count": 262,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice"
+      ]
+    }
+  ]
+}

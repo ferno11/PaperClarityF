@@ -1,0 +1,15 @@
+CLAUSE 5: I
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 111
+------------------------------------------------------------
+
+f Tenant has defaulted under the Lease and Landlord has obtained a writ of possession. If Tenant has surrendered
+possession of the Premises to Landlord or if Tenant has abandoned the Premises, Landlord may:
+a. treat the Lease as terminated, retake possession for Landlord’s own account, and any further liability of
+Tenant will be ended;
+b. retake possession of the Premises for Tenant’s account. Tenant will remain liable for the difference between
+rent agreed to be paid under the Lease and rent Landlord is able to recover in good faith from a new tenant; or
+{219312.0001/M1805246_3}
+c. do nothing, and Tenant will be liable for the rent as it comes due.

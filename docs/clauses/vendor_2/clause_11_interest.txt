@@ -1,0 +1,22 @@
+CLAUSE 11: C
+============================================================
+Type: interest
+Risk Level: standard
+Word Count: 175
+------------------------------------------------------------
+
+ompliance With Laws. Vendor warrants that the Work shall be accomplished
+in compliance with all applicable Federal, State and local laws, ordinances, rules,
+regulations and codes, including, but not limited to, U.S. Occupational Safety and
+Health Administration (“OSHA”) requirements; applicable provisions of paragraphs
+(1) through (7) of section 202 of Executive Order 11246 relating to Equal
+Employment Opportunity; section 402 of the Vietnam Era Veterans Readjustment
+Act of 1974, as amended; and section 503 of the Rehabilitation Act of 1973. Vendor
+and its subcontractors, employees, and agents shall obtain and maintain in full force
+and effect, all necessary permits, licenses, and authorizations required by
+governmental and quasi-governmental agencies. Vendor shall advise Pace of all
+permits and licenses required to be obtained in Pace’s own name for the Work to be
+provided hereunder, and shall cooperate with Pace in obtaining the same. Vendor
+shall not solicit, possess, or use in any manner tools and equipment, including but not
+limited to ladders, hand tools, lifts or power tools, that are the property of Pace or its
+employees.

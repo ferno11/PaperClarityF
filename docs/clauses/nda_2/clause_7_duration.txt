@@ -1,0 +1,9 @@
+CLAUSE 7: S
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 15
+------------------------------------------------------------
+
+urvival. The confidentiality obligations contained herein shall survive the termination of the
+Parties’ business relationship.

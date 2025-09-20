@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 14: T\nRisk Level: standard Word Count: 27\nhat the Owner will keep the Tenant free and harmless from any claims, proceedings,\ndemands, or actions by others with respect to quiet possession of the premises.",
+  "plain_english": "This liability requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 14: T",
+  "word_count": 36,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "liability",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_14_general.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 40,
+    "word_count_cleaned": 36,
+    "cleaning_ratio": 0.9,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

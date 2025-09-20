@@ -1,0 +1,12 @@
+CLAUSE 2: R
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 44
+------------------------------------------------------------
+
+ENT: The monthly rent for house payable by the lessee to the lessor for the
+schedule property shall be Rs. 23,000/- (Rupees Twenty Three Thousand
+Only) including maintenance this amount shall be paid every month within 10
+day of subsequent month.
+—_—_—_— ee ee

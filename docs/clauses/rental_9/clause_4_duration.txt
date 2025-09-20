@@ -1,0 +1,13 @@
+CLAUSE 4: L
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 76
+------------------------------------------------------------
+
+andlord shall not recover possession of the Premises except:
+a. in a lawsuit for possession;
+b. when Tenant has surrendered possession of the Premises to Landlord; or
+c. when Tenant has abandoned the Premises. Absent actual knowledge of abandonment, the Premises shall be
+considered abandoned if Tenant is absent from them for at least one-half a Rental Installment Period, the rent
+is not current, and Tenant has not notified Landlord, in writing, of an intended absence.

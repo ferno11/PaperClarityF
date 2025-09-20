@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 39: E\nRisk Level: medium Word Count: 104\nXECUTION OF THIS RENTAL AGREEMENT. In lieu of an original signature to this Rental\nAgreement, Landlord will accept a valid and legitimate electronic and/or facsimile signature of the Tenant.\nIn doing so, Tenant hereby acknowledges his/her endorsement and acceptance of this agreement, and\nhe/she waives any challenge to validity of this Rental Agreement based on Tenant’s endorsement by\nelectronic and/or facsimile signature.\nWITNESS the following signatures and seals:\nBY AUTHORIZED OCCUPANT (of legal age):\nOccupant has read this Rental Agreement and acknowledges his or her responsibilities as occupant.\nGroup Initials Page 13 Authorized Agent for Landlord/Effective Date of Rental Agreement",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 2. Factors: signature(1), effective date(1)",
+  "clause_heading": "CLAUSE 39: E",
+  "word_count": 109,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.6422018348623852,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_39_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 117,
+    "word_count_cleaned": 109,
+    "cleaning_ratio": 0.9316239316239316,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 3: O\nRisk Level: standard Word Count: 140\nbligations of Receiving Party. Receiving Party shall hold and maintain the Confidential\nInformation in strictest confidence for the sole and exclusive benefit of the Disclosing Party.\nReceiving Party shall carefully restrict access to Confidential Information to employees,\ncontractors and third parties as is reasonably required and shall require those persons to sign\nnondisclosure restrictions at least as protective as those in this Agreement. Receiving Party\nshall not, without the prior written approval of Disclosing Party, use for Receiving Party's benefit,\npublish, copy, or otherwise disclose to others, or permit the use by others for their benefit or to\nthe detriment of Disclosing Party, any Confidential Information. Receiving Party shall return to\nDisclosing Party any and all records, notes, and other written, printed, or tangible materials in its\npossession pertaining to Confidential Information immediately if Disclosing Party requests it in",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 6. Factors: confidential(4), conditionals:1(2)",
+  "clause_heading": "CLAUSE 3: O",
+  "word_count": 148,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.47297297297297297,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_3_confidentiality.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 153,
+    "word_count_cleaned": 148,
+    "cleaning_ratio": 0.9673202614379085,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

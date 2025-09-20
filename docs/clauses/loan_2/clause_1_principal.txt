@@ -1,0 +1,11 @@
+CLAUSE 1: L
+============================================================
+Type: principal
+Risk Level: standard
+Word Count: 41
+------------------------------------------------------------
+
+oan Amount: The Lender agrees to loan the Borrower the principal sum of
+​ ​
+___________________ (the “Loan”), together with interest on the outstanding principal amount
+of the Loan (the "Principal Balance"), and in accordance with the terms set forth below.

@@ -1,0 +1,9 @@
+CLAUSE 15: T
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 25
+------------------------------------------------------------
+
+hat this Rent Agreement can be terminated before the expiry of this tenancy period by
+serving One month prior notice in writing by either party.

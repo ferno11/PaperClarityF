@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 4: T\nRisk Level: standard Word Count: 17\nhat the Tenant shall pay for the running cost of elevator and generator separately to the",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 4: T",
+  "word_count": 25,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_4_interest.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 30,
+    "word_count_cleaned": 25,
+    "cleaning_ratio": 0.8333333333333334,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

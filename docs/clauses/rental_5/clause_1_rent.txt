@@ -1,0 +1,10 @@
+CLAUSE 1: T
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 38
+------------------------------------------------------------
+
+he rent in respect of the “Demised Premises” shall commence from (Starting Date of
+Agreement) and shall be valid till (Expiry Date of Agreement). Thereafter, the same may be
+extended further on mutual consent of both the parties.

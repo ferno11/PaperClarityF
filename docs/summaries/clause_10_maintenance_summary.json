@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 10: T\nRisk Level: standard Word Count: 50\nhat the Lessee shall use the said premises along with its fixtures and fitting in\ncareful and responsible manner and shall handover the premises to the Lessor in\nworking condition (reasonable wear and tear and loss or damage by fire, flood,\nrains, accidents, irresistible force or act of God excepted).",
+  "plain_english": "This liability requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 2. Factors: conditionals:1(2)",
+  "clause_heading": "CLAUSE 10: T",
+  "word_count": 59,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "liability",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "condition"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_10_maintenance.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 63,
+    "word_count_cleaned": 59,
+    "cleaning_ratio": 0.9365079365079365,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

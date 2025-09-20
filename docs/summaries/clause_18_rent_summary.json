@@ -1,0 +1,33 @@
+{
+  "original_text": "CLAUSE 18: R\nRisk Level: medium Word Count: 271\nE-RENTING PREMISES BY LANDLORD. In the event that Landlord secures a new tenant to\ncomplete the term of this Rental Agreement or any part thereof, either because Tenant has so requested\nor because Tenant is in default, Tenant agrees to pay Landlord a re-renting fee equal to one month's rent\nfor expenses incurred by Landlord for re-renting Premises. New tenant shall be subject to Landlord's\nreasonable approval and may be required by Landlord to be a student or a graduate student. Such\npayments shall be in addition to other payments due or past due. If Tenant requests Landlord to secure\na new tenant for Premises, or if Tenant defaults on this Rental Agreement, Tenant understands that\nTenant remains liable for all responsibilities hereunder until such time said new tenancy commences. In\nthe event Tenant elects to request Landlord to find a new tenant to complete the term of this Rental\nAgreement, the procedure, dates and details must be agreed upon by Landlord and by Tenant in writing\nbefore Landlord will advertise or show Premises. In any circumstance, Landlord does not guarantee that\nit can secure a new tenant and does not agree to give the Premises priority over other existing vacant\nproperties. In the event a new tenant is not secured to complete the term of this Rental Agreement,\nTenant will be entirely responsible for the Rental Agreement, including, but not limited to, all rent, utility,\nreserved parking, furniture, and/or storage space fees, as well as expenses incurred by Landlord for\nattempting to re-rent Premises, including, but not limited to advertising costs and time spent presenting\nPremises to prospective new tenants.",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 17. Factors: default(7), conditionals:5(10)",
+  "clause_heading": "CLAUSE 18: R",
+  "word_count": 280,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.25,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "If",
+    "subject to",
+    "may",
+    "In the event",
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_18_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 284,
+    "word_count_cleaned": 280,
+    "cleaning_ratio": 0.9859154929577465,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

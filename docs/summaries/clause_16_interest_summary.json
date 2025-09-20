@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 16: B\nRisk Level: standard Word Count: 99\nEDBUGS. Resident agrees to maintain the Premises in a manner that prevents the occurrence of\nan infestation of bedbugs, and to immediately notify Landlord of any signs of infestation. Tenant\nrepresents and warrants that all furnishings and other personal property items to be moved into the\nPremises at any time have been inspected by Tenant and are free of bedbugs. Tenant may be required\nto pay all reasonable costs of cleaning and pest control treatments incurred by Landlord to treat\nPremises, and possibly units adjacent to Premises, for bedbugs and shall cooperate with pest control\nefforts to treat infestation.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 2. Factors: conditionals:1(2)",
+  "clause_heading": "CLAUSE 16: B",
+  "word_count": 108,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.6481481481481481,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_16_interest.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 112,
+    "word_count_cleaned": 108,
+    "cleaning_ratio": 0.9642857142857143,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

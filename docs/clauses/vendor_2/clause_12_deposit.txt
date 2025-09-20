@@ -1,0 +1,23 @@
+CLAUSE 12: C
+============================================================
+Type: deposit
+Risk Level: medium
+Word Count: 152
+------------------------------------------------------------
+
+ompliance With Pace Policies. Vendor and its subcontractors, employees, and
+agents shall comply with all Pace policies and procedures with respect to Vendor’s
+activities under or in connection with this Agreement, including, but not limited to,
+Pace’s Guiding Principles of Conduct,; Pace’s Information Technology Appropriate
+Use Policy; Pace’s Ebola Response Policy
+(http://www.pace.edu/sites/default/files/files/Message%20from%20the%20President
+%20on%20Ebola%20Preparedness.pdf); and security policies.
+[ADD THE FOLLOWING TWO PARAGRAPHS TO CONTRACTS WHERE THE
+VENDOR IS A RESTAURANT OR CATERER:
+Alcoholic Beverages. In the event that alcoholic beverages are to be served, Vendor
+shall be solely responsible for checking identifications and assuring that no persons
+under age 21 years are served alcoholic beverages during the function, and further
+assuring that all state and local regulations and laws with respect to the dispensing of
+alcoholic beverages will be strictly adhered to.
+Pace Approval. Any price increases or material substitution of goods, services, or
+facilities shall be subject to prior Pace written approval.]

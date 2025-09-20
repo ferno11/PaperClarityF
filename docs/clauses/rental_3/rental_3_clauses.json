@@ -1,0 +1,267 @@
+{
+  "document_name": "rental_3",
+  "document_type": "rental",
+  "total_clauses": 21,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 1,
+    "low": 0,
+    "standard": 20
+  },
+  "clauses": [
+    {
+      "clause_id": "rental_3_clause_1",
+      "clause_number": "1",
+      "clause_title": "T",
+      "clause_type": "rent",
+      "original_text": "he rent in respect of the \u201cDemised Premises\u201d shall commence from (Starting Date of\nAgreement) and shall be valid till (Expiry Date of Agreement). Thereafter, the same may be\nextended further on mutual consent of both the parties.",
+      "word_count": 38,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_2",
+      "clause_number": "2",
+      "clause_title": "T",
+      "clause_type": "rent",
+      "original_text": "hat the Tenant shall pay to the Owner a monthly rent of Rs.(Amount of rent in Numbers),\nexcluding electricity and water bill. The rent shall be paid on or before 7th day of each month\nwithout fail.",
+      "word_count": 37,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_3",
+      "clause_number": "3",
+      "clause_title": "T",
+      "clause_type": "rent",
+      "original_text": "hat the Tenant shall pay to the Owner a monthly maintenance charge of Rs.(Amount in\nNumbers) towards the maintenance of Generator & Elevator, Salaries towards guards, Charges\nfor Electricity Maintenance for Common Areas, Charges towards cleaning of Common Areas\nand towards maintaining the lawn.",
+      "word_count": 44,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_4",
+      "clause_number": "4",
+      "clause_title": "T",
+      "clause_type": "interest",
+      "original_text": "hat the Tenant shall pay for the running cost of elevator and generator separately to the\nOwner.",
+      "word_count": 17,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_5",
+      "clause_number": "5",
+      "clause_title": "T",
+      "clause_type": "rent",
+      "original_text": "hat during the Rent period, in addition to the rental amount payable to the Owner, the Tenant\nshall pay for the use of electricity and water as per bills received from the authorities concerned\ndirectly. For all the dues of electricity bills and water bills till the date the possession of the\npremises is handed over by the Owner to the Tenant it is the responsibility of the Owner to pay\nand clear them according to the readings on the respective meters. At the time of handing over\npossession of the premises back to the Owner by Tenant, it is the responsibility of the Tenant to\npay electricity & water bills, as presented by the Departments concerned according to the\nreadings on the respective meters upto the date of vacation of the property.",
+      "word_count": 133,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_6",
+      "clause_number": "6",
+      "clause_title": "T",
+      "clause_type": "deposit",
+      "original_text": "he Tenant will pay to the Owner an interest-free refundable security deposit of Rs.(Amount\nin Numbers) vide cheque no (Cheque Number) dated (date of the cheque) at the time of signing\nthe Rent Agreement. The said amount of the Security deposit shall be refunded by the Owner to\nthe Tenant at the time of handing over possession of the demised premises by the Tenant upon\nexpiry or sooner termination of this Rent after adjusting any dues (if any) or cost towards\ndamages caused by the negligence of the Tenant or the person he is responsible for, normal wear\n& tear and damages due to act of god exempted. In case the Owner fails to refund the security\ndeposit to the Tenant on early termination or expiry of the Rent agreement, the Tenant is entitled\nto hold possession of the Rented premises, without payment of rent and/or any other charges\nwhatsoever, till such time the Owner refunds the security deposit to the Tenant. This is without\nprejudice and in addition to the other remedies available to the Tenant to recover the amount\nfrom the Owner.",
+      "word_count": 184,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_7",
+      "clause_number": "7",
+      "clause_title": "T",
+      "clause_type": "maintenance",
+      "original_text": "hat all the sanitary, electrical and other fittings and fixtures and appliances in the premises\nshall be handed over from the Owner to the Tenant in good working condition.",
+      "word_count": 29,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_3_clause_8",
+      "clause_number": "8",
+      "clause_title": "T",
+      "clause_type": "general",
+      "original_text": "hat the Tenant shall not sublet, assign or part with the demised premises in whole or part\nthereof to any person in any circumstances whatsoever and the same shall be used for the\nbonafide residential purposes only.",
+      "word_count": 37,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_9",
+      "clause_number": "9",
+      "clause_title": "T",
+      "clause_type": "maintenance",
+      "original_text": "hat the day-to-day minor repairs will be the responsibility for the Tenant at his/her own\nexpense. However, any structural or major repairs, if so required, shall be carried out by the\nOwner.",
+      "word_count": 32,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_3_clause_10",
+      "clause_number": "10",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "hat no structural additions or alterations shall be made by the Tenant in the premises\nwithout the prior written consent of the Owner but the Tenant can install air-conditioners in the\nspace provided and other electrical gadgets and make such changes for the purposes as may be\nnecessary, at his own cost. On termination of the tenancy or earlier, the Tenant will be entitled to\nremove such equipment and restore the changes made, if any, to the original state.",
+      "word_count": 79,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "permission"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_11",
+      "clause_number": "11",
+      "clause_title": "T",
+      "clause_type": "maintenance",
+      "original_text": "hat the Owner shall hold the right to visit in person or through his authorized agent(s),\nservants, workmen etc., to enter upon the demised premises for inspection (not exceeding once in\na month) or to carry out repairs / construction, as and when required.",
+      "word_count": 44,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_3_clause_12",
+      "clause_number": "12",
+      "clause_title": "T",
+      "clause_type": "general",
+      "original_text": "hat the Tenant shall comply with all the rules and regulations of the local authority\napplicable to the demised premises. The premises will be used only for residential purposes of its\nemployees, families and guests.",
+      "word_count": 35,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_3_clause_13",
+      "clause_number": "13",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "hat the Owner shall pay for all taxes/cesses levied on the premises by the local or\ngovernment authorities in the way of property tax for the premises and so on. Further, any other\npayment in the nature of subscription or periodical fee to the welfare association shall be paid by\nthe Owner.",
+      "word_count": 52,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_14",
+      "clause_number": "14",
+      "clause_title": "T",
+      "clause_type": "general",
+      "original_text": "hat the Owner will keep the Tenant free and harmless from any claims, proceedings,\ndemands, or actions by others with respect to quiet possession of the premises.",
+      "word_count": 27,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_3_clause_15",
+      "clause_number": "15",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "hat this Rent Agreement can be terminated before the expiry of this tenancy period by\nserving One month prior notice in writing by either party.",
+      "word_count": 25,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_16",
+      "clause_number": "16",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "he Tenant shall maintain the Demised Premises in good and tenable condition and all the\nminor repairs such as leakage in the sanitary fittings, water taps and electrical usage etc. shall be\ncarried out by the Tenant. That it shall be the responsibility of the Tenant to hand over the vacant\nand peaceful possession of the demised premises on expiry of the Rent period, or on its early\ntermination, as stated hereinabove in the same condition subject to natural wear and tear.",
+      "word_count": 82,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_3_clause_17",
+      "clause_number": "17",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "hat in case, where the Premises are not vacated by the Tenant, at the termination of the Rent\nperiod, the Tenant will pay damages calculated at two times the rent for any period of occupation\ncommencing from the expiry of the Rent period. The payment of damages as aforesaid will not\npreclude the Owner from initiating legal proceedings against the Tenant for recovering\npossession of premises or for any other purpose.",
+      "word_count": 71,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_3_clause_18",
+      "clause_number": "18",
+      "clause_title": "T",
+      "clause_type": "duration",
+      "original_text": "hat both the parties shall observe and adhere to the terms and conditions contained\nhereinabove.",
+      "word_count": 15,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_3_clause_19",
+      "clause_number": "19",
+      "clause_title": "T",
+      "clause_type": "rent",
+      "original_text": "hat the Tenant and Owners represent and warrant that they are fully empowered and\ncompetent to make this Rent. That both the parties have read over and understood all the contents\nof this agreement and have signed the same without any force or pressure from any side.",
+      "word_count": 47,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_3_clause_20",
+      "clause_number": "20",
+      "clause_title": "I",
+      "clause_type": "governing_law",
+      "original_text": "n case of any dispute to this agreement and the clauses herein, the same will be settled in the\njurisdiction of the (city) civil courts.",
+      "word_count": 25,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    },
+    {
+      "clause_id": "rental_3_clause_21",
+      "clause_number": "21",
+      "clause_title": "T",
+      "clause_type": "rent",
+      "original_text": "hat the Rent Agreement will be registered in front of the Registrar and the charges towards\nstamp duty, court fee & lawyer/coordinator will be equally borne by the Owner and Tenant.\nANNEXURE-I\nThe (Complete Address) of the Property, consisting (Number of Bedrooms) bedrooms, living\nroom, family lounge, kitchen, servant room and inbuilt fittings & fixtures and inventory of\n(Number of Fans), (Number of CFL Lights), (Number of Geyser), (Number of Mirrors).\nON THIS DAY AND YEAR\n1. (Name of the Witness)\n(Signature of the Witness)\n(Address of the Witness)\n2. (Name of the Witness)\n(Signature of the Witness)\n(Address of the Witness)\n(Signature of the Owner) (Signature of the Tenant)\n(Name of the Owner) (Name of the Tenant)\nOWNER TENANT",
+      "word_count": 120,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": []
+    }
+  ]
+}

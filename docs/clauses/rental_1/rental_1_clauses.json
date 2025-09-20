@@ -1,0 +1,179 @@
+{
+  "document_name": "rental_1",
+  "document_type": "rental",
+  "total_clauses": 12,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 1,
+    "low": 1,
+    "standard": 10
+  },
+  "clauses": [
+    {
+      "clause_id": "rental_1_clause_1",
+      "clause_number": "1",
+      "clause_title": "D",
+      "clause_type": "duration",
+      "original_text": "URATION: The duration of the rental agreement shall be for a period of\nEleven (11) months, commencing from Date 01-08-2024 and is subject to\nrenewal thereafter under mutual agreed terms and conditions by the lessor and\nthe lessee with an enhancement of 5% in the monthly rent for every 11 months.",
+      "word_count": 51,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "deadline"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_2",
+      "clause_number": "2",
+      "clause_title": "R",
+      "clause_type": "rent",
+      "original_text": "ENT: The monthly rent for house payable by the lessee to the lessor for the\nschedule property shall be Rs. 23,000/- (Rupees Twenty Three Thousand\nOnly) including maintenance this amount shall be paid every month within 10\nday of subsequent month.\n\u2014_\u2014_\u2014_\u2014 ee ee",
+      "word_count": 44,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_3",
+      "clause_number": "3",
+      "clause_title": "D",
+      "clause_type": "deposit",
+      "original_text": "EPOSIT: The lessee has paid sum of Rs. 1,00,000/- (Rupees One Lakh Only)\nby the way online transfer to the Owner towards the security deposit. The said\n. amount shall not bear any interest and the owner will refund the same to the\ntenant at the time of vacating and handing over the schedule premises.",
+      "word_count": 55,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_4",
+      "clause_number": "4",
+      "clause_title": "E",
+      "clause_type": "utilities",
+      "original_text": "LECTRICAL CHARGES: The lessee shall pay the electrical to the concerned\ndepartment regularly as per the bill without fail in consultation with tenant. If\nany minor repairs in connection with electrical and plumbing to get them repair\nby lessee only, as per the monthly bill.",
+      "word_count": 45,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_5",
+      "clause_number": "5",
+      "clause_title": "I",
+      "clause_type": "maintenance",
+      "original_text": "NTERNAL MAINTENANCE: The lessee shall maintain the schedule property\nin a state of good order and condition and shall not cause any damage or\ndisfigurement to the schedule property there in expecting wear and tear.",
+      "word_count": 35,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_6",
+      "clause_number": "6",
+      "clause_title": "L",
+      "clause_type": "termination",
+      "original_text": "IABLE FOR DAMAGES: It is agreed that any damages caused by the lessee in\nthe schedule property shall be made good by the lessee promptly.\n7, ADDITIONS AND ALTERATIONS: The lessee shall not make any additions or\nalteration in the premises, without written consent of lessor.\n8. USER: The schedule property shall be used by the lessee for Residential Purpose\nOnly. And shall not use for any unlawful/illegal or business purpose. The lessee\nwill not store hazardous and inflammable articles like explosives and petroleum\nproducts.\n9. TAXES AND CESSES: The lessor shall bear and pay taxes, rates and cesses in\nregard to the schedule property.\n10. SUB LEASE: The lessee shall not be entitled or permitted to assign, underlet or\nsublet the schedule premises or any part thereof or part with possession of the\ndemised property or any part thereof to anybody whatsoever.\n11. PAINTING CHARGES: the tenant should pay painting at the time of vacating\nthe premises. Or get the painted by his own or deducted one month rent from the\ndeposit amount.\n12. TERMINATION OF THE RENT: In the event of Tenant/Owner wanting the\nScheduled Premises to be vacated, they shall give a notice of 3(Three) months\nin advance.\n13. In case tenant fails to pay the stipulated rent continuously for more than two\nmonths and commits breach of any of the terms, the owners hereby reserves the\nright to terminate the agreement and shall have every right to evict the tenant and\ntake possession of the said schedule premises without any notice.",
+      "word_count": 255,
+      "risk_level": "medium",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice",
+        "permission",
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_8",
+      "clause_number": "8",
+      "clause_title": "U",
+      "clause_type": "governing_law",
+      "original_text": "SER: The schedule property shall be used by the lessee for Residential Purpose\nOnly. And shall not use for any unlawful/illegal or business purpose. The lessee\nwill not store hazardous and inflammable articles like explosives and petroleum\nproducts.",
+      "word_count": 38,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_9",
+      "clause_number": "9",
+      "clause_title": "T",
+      "clause_type": "interest",
+      "original_text": "AXES AND CESSES: The lessor shall bear and pay taxes, rates and cesses in\nregard to the schedule property.",
+      "word_count": 19,
+      "risk_level": "low",
+      "is_complete": false,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_10",
+      "clause_number": "10",
+      "clause_title": "S",
+      "clause_type": "duration",
+      "original_text": "UB LEASE: The lessee shall not be entitled or permitted to assign, underlet or\nsublet the schedule premises or any part thereof or part with possession of the\ndemised property or any part thereof to anybody whatsoever.",
+      "word_count": 37,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "restriction"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_11",
+      "clause_number": "11",
+      "clause_title": "P",
+      "clause_type": "rent",
+      "original_text": "AINTING CHARGES: the tenant should pay painting at the time of vacating\nthe premises. Or get the painted by his own or deducted one month rent from the\ndeposit amount.",
+      "word_count": 30,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_12",
+      "clause_number": "12",
+      "clause_title": "T",
+      "clause_type": "termination",
+      "original_text": "ERMINATION OF THE RENT: In the event of Tenant/Owner wanting the\nScheduled Premises to be vacated, they shall give a notice of 3(Three) months\nin advance.",
+      "word_count": 26,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "deadline",
+        "notice"
+      ]
+    },
+    {
+      "clause_id": "rental_1_clause_13",
+      "clause_number": "13",
+      "clause_title": "I",
+      "clause_type": "duration",
+      "original_text": "n case tenant fails to pay the stipulated rent continuously for more than two\nmonths and commits breach of any of the terms, the owners hereby reserves the\nright to terminate the agreement and shall have every right to evict the tenant and\ntake possession of the said schedule premises without any notice.",
+      "word_count": 53,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "payment",
+        "deadline",
+        "notice"
+      ]
+    }
+  ]
+}

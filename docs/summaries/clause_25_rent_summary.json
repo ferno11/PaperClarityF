@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 25: V\nRisk Level: standard Word Count: 36\nENUE. Landlord and Tenant agree that the exclusive venue for resolution of any and all disputes\narising under this Rental Agreement shall be in the courts of the City of Charlottesville, Virginia or\nAlbemarle County, Virginia.",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 5. Factors: dispute(5)",
+  "clause_heading": "CLAUSE 25: V",
+  "word_count": 45,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_25_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 49,
+    "word_count_cleaned": 45,
+    "cleaning_ratio": 0.9183673469387755,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

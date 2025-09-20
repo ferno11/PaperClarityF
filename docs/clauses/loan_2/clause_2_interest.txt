@@ -1,0 +1,11 @@
+CLAUSE 2: I
+============================================================
+Type: interest
+Risk Level: standard
+Word Count: 49
+------------------------------------------------------------
+
+nterest: The Principal Balance shall bear interest at the rate of ______% per annum, accruing
+​ ​
+daily. Not withstanding, the total interest charged shall not exceed the maximum amount allowed
+by law and the Borrower shall not be obligated to pay any interest in excess of such amount.

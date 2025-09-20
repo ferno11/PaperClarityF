@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 6: N\nRisk Level: standard Word Count: 172\no Employment Relationship Created. It is understood and agreed between the\nparties that the Agreement is not intended to nor does it create an employment\ncontract between Pace, on the one hand, and Vendor and any of its employees, on the\nother, nor does it create a joint relationship or partnership between the parties hereto.\nNeither Vendor nor its employees are entitled to benefits that Pace provides for Pace\nemployees. Vendor’s relationship to Pace is solely and exclusively that of an\nindependent contractor. Pace is interested only in the results to be achieved and the\nconduct and control of the Work shall be solely with Vendor. Vendor shall be\npermitted to engage in any business and perform services for its own accounts,\nprovided that the Work is not compromised. Except as specifically permitted in this\nAgreement, neither party shall use the name or trademarks of the other party or incur\nany obligation or expense for or on behalf of the other party without the other party’s\nprior written consent in each instance.",
+  "plain_english": "This termination requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 7. Factors: interest(5), conditionals:1(2)",
+  "clause_heading": "CLAUSE 6: N",
+  "word_count": 181,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "termination",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.38674033149171266,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "provided that"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_6_duties.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 185,
+    "word_count_cleaned": 181,
+    "cleaning_ratio": 0.9783783783783784,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

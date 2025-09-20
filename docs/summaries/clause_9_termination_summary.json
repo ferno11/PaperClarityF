@@ -1,0 +1,30 @@
+{
+  "original_text": "CLAUSE 9: N\nRisk Level: standard Word Count: 215\notice of Immunity. Employee is provided notice that an individual shall not be held\ncriminally or civilly liable under any federal or state trade secret law for the disclosure of a trade\nsecret that is made (i) in confidence to a federal, state, or local government official, either\ndirectly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating\na suspected violation of law; or is made in a complaint or other document filed in a lawsuit or\nother proceeding, if such filing is made under seal. An individual who files a lawsuit for\nretaliation by an employer for reporting a suspected violation of law may disclose the trade\nsecret to the attorney of the individual and use the trade secret information in the court\nproceeding, if the individual (i) files any document containing the trade secret under seal; and (ii)\ndoes not disclose the trade secret, except pursuant to court order.\nThis Agreement and each party's obligations shall be binding on the representatives, assigns\nand successors of such party. Each party has signed this Agreement through its authorized\nTyped or Printed Name: ___________________________ Date: _______________ Typed or Printed Name: ___________________________ Date: _______________\nCopyright © 2020 NonDisclosureAgreement.com. All Rights Reserved.",
+  "plain_english": "This confidentiality requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 18. Factors: lawsuit(10), notice(4), conditionals:2(4)",
+  "clause_heading": "CLAUSE 9: N",
+  "word_count": 215,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "confidentiality",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.32558139534883723,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may",
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_9_termination.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 228,
+    "word_count_cleaned": 215,
+    "cleaning_ratio": 0.9429824561403509,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

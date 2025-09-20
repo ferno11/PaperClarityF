@@ -1,0 +1,10 @@
+CLAUSE 2: T
+============================================================
+Type: rent
+Risk Level: standard
+Word Count: 37
+------------------------------------------------------------
+
+hat the Tenant shall pay to the Owner a monthly rent of Rs.(Amount of rent in Numbers),
+excluding electricity and water bill. The rent shall be paid on or before 7th day of each month
+without fail.

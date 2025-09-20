@@ -1,0 +1,9 @@
+CLAUSE 1: Y
+============================================================
+Type: benefits
+Risk Level: standard
+Word Count: 23
+------------------------------------------------------------
+
+our Complete pet insurance policy
+This section describes the pet(s) you have covered, lists your details and some important definitions of the policy.

@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 4: F\nRisk Level: standard Word Count: 62\nees and Expenses. Fees shall be paid in accordance with the Scope of Work\nand Fee Schedule agreed to between the parties and attached hereto as Exhibit A.\nExcept as specifically provided in this Agreement, all expenses shall be borne by\nVendor. Final payment shall be subject to Vendor delivery to Pace of all deliverables\nin form and substance satisfactory to Pace.]",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 2. Factors: conditionals:1(2)",
+  "clause_heading": "CLAUSE 4: F",
+  "word_count": 71,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.9859154929577464,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "subject to"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_4_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 75,
+    "word_count_cleaned": 71,
+    "cleaning_ratio": 0.9466666666666667,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

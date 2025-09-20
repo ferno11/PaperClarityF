@@ -1,0 +1,30 @@
+{
+  "original_text": "CLAUSE 6: A\nRisk Level: standard Word Count: 85\ndditional Monies. Under this Agreement there could be situations where the Tenant may be\nnotified to pay extra monies to the Property Management Company/Landlord. These charges will\nbe in addition to the rent under this Contract Agreement and therefore will be paid upon the\nupcoming regularly scheduled rent due date.\nIf the Tenant fails to pay rent, the Tenant will pay a late charge in the amount of [Late fee\namount, usually a percentage] of the monthly rent, and will be known as “Additional Rent.\"",
+  "plain_english": "This payment requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 10. Factors: late fee(6), conditionals:2(4)",
+  "clause_heading": "CLAUSE 6: A",
+  "word_count": 94,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.7446808510638298,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may",
+    "If"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_6_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 98,
+    "word_count_cleaned": 94,
+    "cleaning_ratio": 0.9591836734693877,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

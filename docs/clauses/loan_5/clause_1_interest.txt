@@ -1,0 +1,13 @@
+CLAUSE 1: B
+============================================================
+Type: interest
+Risk Level: standard
+Word Count: 66
+------------------------------------------------------------
+
+orrower intends to construct a housing project on that certain real
+property located within the [LOCATION], County of Orange, State of California, and
+more particularly described in Exhibit "A" attached hereto and incorporated herein (the
+"Property"). The Borrower further intends to [construct] operate a [number of units]
+(__) residential development consisting of [PROEJCT INFORMATION]] which shall be
+constructed by Borrower on the Property (collectively, the “Project”).

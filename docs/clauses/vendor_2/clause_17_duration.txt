@@ -1,0 +1,17 @@
+CLAUSE 17: F
+============================================================
+Type: duration
+Risk Level: standard
+Word Count: 130
+------------------------------------------------------------
+
+orce Majeure. Notwithstanding anything to the contrary contained in the
+Agreement, Pace shall not be liable, nor shall any credit or other remedy be extended,
+for Pace’s failure, in whole or in part, to fulfill its obligations under the Agreement
+where such failure arises from or in connection with causes beyond Pace’s control,
+including, but not limited to, acts of God, flood, extreme weather, fire or other natural
+calamity, terrorist attack, any law, order, or regulation or action of any governmental
+entity or civil or military authority, power or utility failure, cable cuts, unavailability
+of rights-of-way, national emergencies, riots, wars, strikes, lock-outs, work stoppages,
+or other labor difficulties (each a “Force Majeure Event”). If a Force Majeure Event
+occurs during the term hereof, Pace shall be excused from performance hereunder.

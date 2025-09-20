@@ -1,0 +1,9 @@
+CLAUSE 9: A
+============================================================
+Type: general
+Risk Level: standard
+Word Count: 24
+------------------------------------------------------------
+
+GENT. Woodard Properties is the Agent for Landlord. Woodard Properties shall notify Tenant of
+the name and address of the resident manager, if any.

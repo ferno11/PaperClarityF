@@ -1,0 +1,14 @@
+CLAUSE 1: D
+============================================================
+Type: confidentiality
+Risk Level: standard
+Word Count: 81
+------------------------------------------------------------
+
+efinition of Confidential Information. For purposes of this Agreement, "Confidential
+Information" shall include all information or material that has or could have commercial value or
+other utility in the business in which Disclosing Party is engaged. If Confidential Information is in
+written form, the Disclosing Party shall label or stamp the materials with the word "Confidential"
+or some similar warning. If Confidential Information is transmitted orally, the Disclosing Party
+shall promptly provide writing indicating that such oral communication constituted Confidential
+Information.

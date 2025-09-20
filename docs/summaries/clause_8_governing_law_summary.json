@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 8: U\nRisk Level: standard Word Count: 38\nSER: The schedule property shall be used by the lessee for Residential Purpose\nOnly. And shall not use for any unlawful/illegal or business purpose. The lessee\nwill not store hazardous and inflammable articles like explosives and petroleum",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 8: U",
+  "word_count": 46,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_8_governing_law.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 51,
+    "word_count_cleaned": 46,
+    "cleaning_ratio": 0.9019607843137255,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

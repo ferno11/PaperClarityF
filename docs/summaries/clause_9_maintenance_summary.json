@@ -1,0 +1,29 @@
+{
+  "original_text": "CLAUSE 9: T\nRisk Level: standard Word Count: 32\nhat the day-to-day minor repairs will be the responsibility for the Tenant at his/her own\nexpense. However, any structural or major repairs, if so required, shall be carried out by the",
+  "plain_english": "This obligations requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 2. Factors: conditionals:1(2)",
+  "clause_heading": "CLAUSE 9: T",
+  "word_count": 40,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "obligations",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_9_maintenance.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 45,
+    "word_count_cleaned": 40,
+    "cleaning_ratio": 0.8888888888888888,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

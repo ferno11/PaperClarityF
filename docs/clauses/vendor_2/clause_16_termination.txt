@@ -1,0 +1,50 @@
+CLAUSE 16: I
+============================================================
+Type: termination
+Risk Level: medium
+Word Count: 478
+------------------------------------------------------------
+
+nsurance. Vendor shall at all times during the term of this agreement carry, and
+require its subcontractors to carry, at least the following types and amounts of
+insurance:
+ Workers Compensation insurance on all employees, whether paid or
+volunteer, as may be required by applicable state law. If Vendor is
+exempt under appropriate state law from the requirement to carry workers
+compensation insurance, Vendor must submit a written statement to that
+effect in a form satisfactory to Pace;
+ Commercial General Liability with limits of not less than $1,000,000 each
+occurrence, $1 million products and completed operations aggregate, and
+$2 million general aggregate. Such insurance shall include coverage for
+claims arising from all activities and work to be performed by Vendor;
+ If vehicles will be used in the performance of the work, Commercial
+Automobile Liability insurance with limits of not less than $1,000,000
+combined single limit each accident covering all owned and non-owned
+vehicles;
+ If professional services, or any other services, requiring a license are to be
+performed by Vendor, Professional Liability (Malpractice) insurance with
+limits of not less than $1 million each accident or occurrence covering
+claims arising from the professional service being performed.
+ Pace shall be named as additional insured on all of camp’s liability
+insurance policies, and the camp’s policies shall be primary coverage for
+Pace, regardless of whatever other insurance Pace may have available.
+Such policies of insurance shall be maintained with insurance companies authorized
+to do business in the State of New York and provide that they may not be canceled or
+materially changed except upon 30 days prior written notice to Pace. Vendor shall, at
+the time of the execution of this Agreement, furnish Pace with a certificate of
+insurance evidencing such coverage, and naming Pace as an additional insured with
+respect to its liability coverages. It is the intent of the parties that Vendor’s insurance
+be primary and non-contributory coverage for Pace for claims arising from Vendor’s
+performance of this contract, regardless of whatever other insurance Pace may have
+available. The insurance required pursuant to this Section 16 shall not be deemed to
+limit Vendor’s obligations to indemnify Pace under this Agreement.
+[ADD THE FOLLOWING TEXT TO INSURANCE PARAGRAPH FOR
+RESTAURANT AND CATERING CONTRACTS WHERE ALCOHOL MAY BE
+SERVED: Vendor’s liability insurance shall include coverage for Dram Shop
+liability or similar liability imposed by law. Vendor shall furnish a certificate from its
+insurance carrier showing that it has complied with the foregoing provisions, and
+providing that the said insurance policies will not be changed or canceled during their
+term until after at least thirty (30) days prior written notice by registered mail to Pace.
+If the required certificate of insurance is not provided to Pace in advance of the event,
+Pace shall have the right to terminate and receive a full refund of any amounts paid in
+advance.]

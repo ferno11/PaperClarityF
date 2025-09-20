@@ -1,0 +1,31 @@
+{
+  "original_text": "CLAUSE 10: C\nRisk Level: standard Word Count: 141\nONTACT PERSON. To simplify communication between Landlord and Tenant when more than\none person is listed as Tenant, Tenant hereby appoints (Email: ) as a primary contact person, herein\nreferred to as “Contact Person” for this rental term, and as Tenant’s attorney-in-fact for purposes of\nreceiving notices from Landlord and the Tenant’s security deposit statement and refund, if applicable.\nTenant acknowledges that verbal, written, electronic, telephone and/or any other form of communications\nwith Contact Person shall be considered adequate notice to Tenant. The Contact Person shall be\nresponsible for communicating with all person(s) listed as Tenant as well as distributing any additional\ncopies of the Rental Agreement. Although a Contact Person has been appointed, Landlord may at any\ntime communicate with any or all person(s) listed as Tenant and each person is responsible for\ncommunicating with all others listed as Tenant.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 18. Factors: notice(4), deposit(3), security deposit(4), contact(1), conditionals:3(6)",
+  "clause_heading": "CLAUSE 10: C",
+  "word_count": 150,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.4666666666666667,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "may",
+    "when",
+    "if"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_10_deposit.txt",
+    "processed_timestamp": "2025-09-20 05:34:26",
+    "word_count_original": 154,
+    "word_count_cleaned": 150,
+    "cleaning_ratio": 0.974025974025974,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

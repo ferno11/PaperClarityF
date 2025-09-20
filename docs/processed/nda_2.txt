@@ -1,0 +1,155 @@
+NON-DISCLOSURE AGREEMENT
+THIS AGREEMENT (“Agreement”) is made between ___________________________, (“Company”)
+and the Tribe (“Nation”), a sovereign tribal nation located within the boundaries of the State of (Insert
+state). Company and Nation are each referred to herein as a “Party” and collectively as the “Parties.” This
+Agreement governs the disclosure of confidential information by and between the Parties.
+WHEREAS, Company has made a proposal (“Proposal”) to provide goods and/or to perform professional
+services (“Services”) for Nation; and
+WHEREAS, in connection with the Proposal and any actions taken in furtherance of providing goods
+and/or services to Nation, Company is in need of certain Confidential Information belonging to Nation;
+and
+WHEREAS, Nation agrees to provide certain Confidential Information at its discretion, subject to the
+terms of this Agreement.
+Company hereby agrees as follows:
+1. Confidential and Proprietary Information. (a) Company acknowledges and agrees that in
+connection with the proposal or the provision of goods or services, Nation shall divulge to
+Company and its employees, agents, and/or representatives certain proprietary and confidential
+information which, for purposes of this Agreement, shall mean and include any and all
+information about Nation and Nation’s business, Nation’s non-public information, Nation’s
+patrons or customers, technical data or know-how including, but not limited to, salaries, pricing,
+expenses, margins, revenues and other financial information; technical data, production data,
+technical designs, detail designs, network configurations and topologies, test data and results,
+flowcharts, drawings, designs, graphs, diagrams, notes, outlines and the like created in connection
+with any services or with any of Nation’s activities, and all formulas, processes, algorithms,
+ideas, inventions, know-how, techniques and other information of a general and technical nature,
+whether in tangible or intangible form; marketing, distribution, promotion, sales or advertising
+processes, programs, projections or proposals; consulting or other business projects or proposals;
+all customer lists, requirements, product usage and other customer data; sales procedures, volume
+figures and strategies; supplier lists; personnel information including compensation, incentive
+compensation and bonus structures, employment agreements, performance standards, performance
+evaluations and all information in any way concerning the products, projects, activities, business
+or affairs of Nation or its affiliates or customers; business or marketing plans; security processes
+or precautions; customer or vendor lists; and any other information not listed but that is
+designated as confidential by Nation, or which by its nature should reasonably be expected to
+remain confidential.
+a) Confidential Information shall not include:
+i. Information that is disclosed to Company by any third party which is not under a
+confidentiality obligation to Nation;
+ii. Information that the Nation itself discloses to the public;
+iii. Information that is already legally in the possession of Company at the time of
+disclosure by Nation as shown by the Company’s files and records immediately
+prior to the time of disclosure;
+iv. Information that was publicly known and made generally available prior to the
+time of disclosure;
+v. Information that becomes publicly known and made generally available after
+disclosure by Nation to Company through no action or inaction of Company; or
+vi. Information that is independently developed by Company without use of or
+reference to Nation’s Confidential Information, as shown by documents and
+other competent evidence in Company’s possession.
+2. In connection with said Confidential Information, Company, on behalf of itself and all of its
+officers, directors, employees, shareholders, agents and representatives, covenants and agrees as
+follows:
+a) Company agrees to keep confidential the Confidential Information and shall disclose the
+Confidential Information to only those personnel and agents of Company who have a
+professional need to know such information and shall use the Confidential Information
+solely for the purpose of performing its engagement for the Nation. Company will show this
+Agreement to all of its personnel and agents having access to the Confidential Information
+and will be responsible for any breach of this Agreement by its personnel and agents.
+b) That it shall not, directly or indirectly, communicate, divulge, disseminate, use or
+disclose or permit to be disclosed to or by any individual, partnership, joint venture,
+corporation, association, syndicate, or any other group our combination (collectively
+"Entity"), in any manner or by any method at any time during or after the date hereof, any
+Confidential Information;
+c) That it shall not, jointly or severally, directly or indirectly, pursue, use, utilize, take
+advantage of, explore, develop or otherwise become involved with, in any manner or by
+any method, any product, concept or idea which in any way uses, utilizes, or has as its
+basis or foundation any Confidential Information;
+d) That it shall not permit at any time during or after the date of this Agreement, except as
+necessary to fulfill its obligation to the Nation pursuant to any agreement between them
+for the sale of purchase of products or services, any Entity to examine or make copies of
+any data, reports, papers, memoranda, correspondence, files, notebooks, compilations,
+drafts, prototypes, records or other documents (collectively "Documents") that contains
+Confidential Information belonging to the Nation;
+e) That it shall promptly return, delete, or destroy any or all Confidential Information, and
+any copies thereof, as requested by Nation;
+f) That it shall use commercially reasonable practices to protect confidential information,
+and that those practices shall meet or exceed the same degree of care Company employs
+with respect to avoid inadvertent disclosure or unpermitted use of the its own
+Confidential Information; and
+g) That if Company is requested or becomes legally compelled (by oral questions,
+interrogatories, requests for information or documents, subpoena, civil investigative
+demands, court order, or similar process) to disclose any of the Confidential Information
+or take any other action prohibited by this Agreement, Company shall provide the Nation
+with prompt written notice thereof (in reasonable detail) so that the Nation may elect to
+seek a protective order or other appropriate remedy and/or waive compliance with the
+provisions of this Agreement. In the event that such protective order or other remedy is
+not obtained, or that the Nation waives compliance with provisions of this Agreement,
+Company shall furnish only that portion of the Confidential Information or take only such
+action as is required by law or binding order and shall exercise its best efforts to obtain
+reliable assurance that confidential treatment shall be accorded any Confidential
+Information so furnished.
+3. Additional Documents. Company understands that the Nation may be subject to certain laws and
+regulations, including without limitation, data protection laws designed to protect personal employee
+information and “HIPAA”. While it is not currently expected that Company will have access to any
+such protected or confidential information, if in the course of rendering services, such access is
+deemed necessary, then Company agrees to execute such documents as may be necessary to enable
+the Nation to remain compliant with any such laws and regulations.
+4. Remedies. Company, recognizing that substantial and irreparable injury will result to Nation, and
+Nation’s business and property, in the event of the breach of the covenants set forth in this
+Agreement, agree that in the event of any violation of any such covenants, whether threatened or
+actual, that the Nation shall be entitled, in addition to any other legal or equitable remedy
+available, to the issuance of restraining orders or injunctive relief without the necessity of bond in
+order to provide full and ongoing protection to the Nation. Nation shall have the right to recover
+its monetary damages, and may be entitled to its reasonable attorney’s fees and court costs that
+result from the breach of the covenants set forth herein, although the Parties hereby acknowledge
+and agree that said damages shall be difficult to ascertain and, in any event, cannot serve as an
+adequate remedy in the event of a violation of any covenant contained in the Agreement. These
+covenants shall survive the execution of this Agreement and the commencement and/or
+termination of the business relationship between the Parties.
+5. Binding Effect. This Agreement shall be binding upon, and inure to the benefit of, the parties
+hereto and their respective legal representatives, voluntary and involuntary successors and
+permitted assigns.
+6. Assignment. Company may not assign any of its duties, obligations, liabilities, responsibilities or
+rights set forth in this Agreement without the Nation’s prior written consent.
+7. Survival. The confidentiality obligations contained herein shall survive the termination of the
+Parties’ business relationship.
+8. Amendment. This Agreement shall not be amended, altered, changed or modified except by a
+written agreement signed by all parties hereto.
+9. Notices. Any notice or communication required or permitted by this Agreement shall be given in
+writing and addressed as follows:
+If to Nation:
+Name:
+Title:
+Address:
+City: _______________, State: ______, ZIP_________
+Phone:
+Fax:
+With a copy to:
+Tribe
+Legal Department
+If to Company:
+Name:
+Title:
+Address:
+City:
+Phone:
+Fax:
+Notices shall be served personally, by telecopy, facsimile, overnight express mail service, or first-class,
+certified mail, return receipt requested, postage pre-paid. If served personally, by telecopy, or facsimile,
+notice shall be deemed delivered upon receipt. If mailed by overnight express mail service, notice shall be
+deemed delivered 24 hours after mailing. If mailed by first-class, certified mail with return receipt
+verification, then notice shall be deemed delivered the earlier of seventy-two (72) hours after mailing, or
+the date set forth on the signed receipt, if any. Either party may give notification to the other party in any
+manner described above for changes of address for the sending of notices.
+The person who signs below on behalf of Company warrants that he/she is authorized to bind Company to
+the terms contained herein.
+COMPANY
+Signed: _________________________________
+Print Name: _____________________________
+Title: _________________________________
+Date: _________________________________
+Tribe
+Signed: _________________________________
+Print Name: _____________________________
+Title: ___________________________________
+Date: ___________________________________

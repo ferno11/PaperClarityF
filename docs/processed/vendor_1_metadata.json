@@ -1,0 +1,10 @@
+{
+  "original_file": "vendor_1.pdf",
+  "doc_type": "tos",
+  "method_used": "PDFPlumber",
+  "quality_score": 28839,
+  "word_count": 3533,
+  "encoding_issues": 0,
+  "has_structure": true,
+  "extraction_timestamp": "2025-09-16T14:58:49.555011"
+}

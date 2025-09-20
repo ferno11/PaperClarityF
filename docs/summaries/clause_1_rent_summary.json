@@ -1,0 +1,33 @@
+{
+  "original_text": "CLAUSE 1: T\nRisk Level: standard Word Count: 37\nenant fails to pay rent when due and the default continues for 3 days, excluding Saturday, Sunday and legal\nholidays, after delivery of written demand by Landlord for payment of the rent or possession of the Premises.",
+  "plain_english": "This payment requires compliance with  3 days.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 9. Factors: default(7), conditionals:1(2)",
+  "clause_heading": "CLAUSE 1: T",
+  "word_count": 46,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [
+    "timeframe: 3 days"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "days: 3 days"
+  ],
+  "conditional_language": [
+    "when"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_1_rent.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 50,
+    "word_count_cleaned": 46,
+    "cleaning_ratio": 0.92,
+    "has_numeric_obligations": true,
+    "has_conditional_language": true
+  }
+}

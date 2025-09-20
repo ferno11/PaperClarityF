@@ -1,0 +1,28 @@
+{
+  "document_name": "consent_1",
+  "document_type": "consent",
+  "total_clauses": 1,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 0,
+    "low": 0,
+    "standard": 1
+  },
+  "clauses": [
+    {
+      "clause_id": "consent_1_clause_1",
+      "clause_number": "1",
+      "clause_title": "CONSENT TO TREAT MINOR CHILDREN",
+      "clause_type": "duration",
+      "original_text": "CONSENT TO TREAT MINOR CHILDREN\nI, _______________________, parent or legal guardian of _______________________, born\nthe ___ day of _______________________, 20___ do hereby consent to any medical care and\nthe administration of anesthesia determined by a physician to be necessary for the welfare of\nmy child while said child is under the care of _______________________ of\n_______________________, City of ____________ State of ____________ and I am not\nreasonably available by telephone to give consent.\nThis authorization is effective from the ___ day of _______________________, 20___ to\n___ day of _______________________, 20___\n_____________________________________ __________________\nSignature of Parent or Legal Guardian Date\n______________________________ ______________________________\nWitness Signature Witness Name (please print)\nThis consent form should be taken with the child to the hospital or physician's office when the\nchild is taken for treatment. This additional information will assist in treatment if it can be\nfurnished with the consent but is not required.\nFamily Address _________________________________________________\nFather\u2019s Telephone: ________________ Mother\u2019s Telephone: ________________\nLast Tetanus: __________________\nAllergies to drugs or foods: ______________________________________________________\nSpecial Medications, Blood Type or Pertinent Information: ______________________________\nChild's Physician: __________________________ Phone: ________________\nInsurance: ________________________________ Policy # ________________\nPreferred Hospital: ______________________________________________",
+      "word_count": 187,
+      "risk_level": "standard",
+      "is_complete": true,
+      "tags": [
+        "notice",
+        "permission"
+      ]
+    }
+  ]
+}

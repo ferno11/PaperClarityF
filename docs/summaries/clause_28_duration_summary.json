@@ -1,0 +1,31 @@
+{
+  "original_text": "CLAUSE 28: T\nRisk Level: standard Word Count: 111\nELEVISION SERVICE. Landlord shall have the absolute right to lease the interior television cable\nwiring, where Landlord has installed wiring, to any television service provider that Landlord selects. If\nLandlord installs a central television satellite dish or antenna system, Tenant agrees to use it rather than\nany other service that may be available. Any Tenant who desires to install a satellite dish must first sign\na Satellite Addendum and a Hold Harmless Addendum and pay for the installation as well as any\nadditional costs and fees to Landlord. Landlord must approve any installation prior to the\ncommencement of the work. Tenant shall pay for cable service if Tenant chooses to subscribe.",
+  "plain_english": "This property requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 6. Factors: conditionals:3(6)",
+  "clause_heading": "CLAUSE 28: T",
+  "word_count": 120,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "property",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 0.5833333333333334,
+  "numeric_obligations": [],
+  "conditional_language": [
+    "if",
+    "may",
+    "If"
+  ],
+  "processing_metadata": {
+    "original_file": "clause_28_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 124,
+    "word_count_cleaned": 120,
+    "cleaning_ratio": 0.967741935483871,
+    "has_numeric_obligations": false,
+    "has_conditional_language": true
+  }
+}

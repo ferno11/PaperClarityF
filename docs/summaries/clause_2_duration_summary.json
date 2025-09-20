@@ -1,0 +1,31 @@
+{
+  "original_text": "CLAUSE 2: R\nRisk Level: standard Word Count: 48\necruitment Actual direct and indirect operating costs to the service provider associated with\nrecruitment activities plus a net mark-up at determined by the service provider at its\nabsolute discretion. However, the mark- up must not exceed 10% of actual direct\nand indirect operating costs to the service",
+  "plain_english": "This payment requires compliance with  10%.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 9. Factors: numeric:percentage:10.0(9)",
+  "clause_heading": "CLAUSE 2: R",
+  "word_count": 56,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "payment",
+  "key_entities": [
+    "percentage: 10%"
+  ],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [
+    "percentage: 10%"
+  ],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_2_duration.txt",
+    "processed_timestamp": "2025-09-20 05:34:28",
+    "word_count_original": 61,
+    "word_count_cleaned": 56,
+    "cleaning_ratio": 0.9180327868852459,
+    "has_numeric_obligations": true,
+    "has_conditional_language": false
+  }
+}

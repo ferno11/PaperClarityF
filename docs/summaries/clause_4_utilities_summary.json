@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 4: P\nRisk Level: standard Word Count: 9\nrovide hot and cold running water 24-hours a day.",
+  "plain_english": "This duration requires compliance with specific requirements.",
+  "user_impact": "You must follow these low-risk requirements or face consequences.",
+  "risk_level": "Low",
+  "risk_reason": "Score: 0. Factors: ",
+  "clause_heading": "CLAUSE 4: P",
+  "word_count": 18,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": false,
+  "clause_type": "duration",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_4_utilities.txt",
+    "processed_timestamp": "2025-09-20 05:34:27",
+    "word_count_original": 22,
+    "word_count_cleaned": 18,
+    "cleaning_ratio": 0.8181818181818182,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "original_text": "CLAUSE 1: I\nRisk Level: medium Word Count: 54\nn addition to the duty to indemnify and hold the County harmless\nagainst any and all liability, claim, demand or suit resulting from\nBorrower, its agents, employee’s or subcontractor’s performance of this Contract, Borrower shall defend the County at its sole cost and\nexpense with counsel approved by Board of Supervisors against",
+  "plain_english": "This liability requires compliance with specific requirements.",
+  "user_impact": "You must follow these medium-risk requirements or face consequences.",
+  "risk_level": "Medium",
+  "risk_reason": "Score: 16. Factors: liability(8), indemnify(8)",
+  "clause_heading": "CLAUSE 1: I",
+  "word_count": 61,
+  "contains_numbers": true,
+  "contains_dates": false,
+  "contains_financial": true,
+  "clause_type": "liability",
+  "key_entities": [],
+  "confidence_score": 0.8,
+  "completeness_score": 1.0,
+  "numeric_obligations": [],
+  "conditional_language": [],
+  "processing_metadata": {
+    "original_file": "clause_1_duties.txt",
+    "processed_timestamp": "2025-09-20 05:34:25",
+    "word_count_original": 67,
+    "word_count_cleaned": 61,
+    "cleaning_ratio": 0.9104477611940298,
+    "has_numeric_obligations": false,
+    "has_conditional_language": false
+  }
+}

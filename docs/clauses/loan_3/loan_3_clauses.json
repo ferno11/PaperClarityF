@@ -1,0 +1,47 @@
+{
+  "document_name": "loan_3",
+  "document_type": "loan",
+  "total_clauses": 3,
+  "extraction_timestamp": "C:\\Users\\asus\\OneDrive\\Desktop\\genai-legal-tool",
+  "risk_summary": {
+    "high": 0,
+    "medium": 0,
+    "low": 0,
+    "standard": 3
+  },
+  "clauses": [
+    {
+      "clause_id": "loan_3_clause_292",
+      "clause_number": "292",
+      "clause_title": "A OF THE COMPANIES ACT WHERE ITS PAID UP",
+      "clause_type": "general",
+      "original_text": "capital exceeds Rs 5.00 Crores and above and shall submit a certificate from the",
+      "word_count": 14,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "loan_3_clause_58",
+      "clause_number": "58",
+      "clause_title": "AA AND 58AAA ARE BEING",
+      "clause_type": "deposit",
+      "original_text": "duly complied with and if the borrower is in default in honouring the Fixed Deposits",
+      "word_count": 15,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    },
+    {
+      "clause_id": "loan_3_clause_274",
+      "clause_number": "274",
+      "clause_title": "ON NON-",
+      "clause_type": "general",
+      "original_text": "compliance of the requirements of Companies Act.",
+      "word_count": 7,
+      "risk_level": "standard",
+      "is_complete": false,
+      "tags": []
+    }
+  ]
+}
