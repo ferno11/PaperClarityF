@@ -7,6 +7,7 @@ import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { Alert, AlertDescription } from "@/components/ui/alert";
 import { AlertCircle } from "lucide-react";
+import { uploadDocument, analyzeDocument } from "@/lib/api";
 
 export default function DashboardPage() {
   const router = useRouter();
@@ -16,26 +17,21 @@ export default function DashboardPage() {
   const handleProcessDocument = async (file: File) => {
     setIsProcessing(true);
     setError(null);
-    
-    const formData = new FormData();
-    formData.append("file", file);
 
     try {
-      const response = await fetch("http://localhost:8000/upload", {
-        method: "POST",
-        body: formData,
-      });
+      // Step 1: Upload the document
+      const uploadResponse = await uploadDocument(file);
+      console.log("Upload successful:", uploadResponse);
 
-      if (response.ok) {
-        const data = await response.json();
-        router.push(`/dashboard/analysis?doc_id=${data.doc_id}`);
-      } else {
-        const errorData = await response.json().catch(() => ({}));
-        setError(errorData.message || "Upload failed. Please try again.");
-      }
+      // Step 2: Analyze the document
+      const analysisResponse = await analyzeDocument(uploadResponse.file_id);
+      console.log("Analysis successful:", analysisResponse);
+
+      // Step 3: Navigate to analysis page with file_id
+      router.push(`/dashboard/analysis?file_id=${uploadResponse.file_id}`);
     } catch (error) {
-      console.error("Error uploading file:", error);
-      setError("Network error. Please check your connection and try again.");
+      console.error("Error processing document:", error);
+      setError(error instanceof Error ? error.message : "Failed to process document. Please try again.");
     } finally {
       setIsProcessing(false);
     }

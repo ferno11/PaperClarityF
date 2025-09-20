@@ -13,8 +13,12 @@ import shutil
 import time
 import json
 from datetime import datetime, timedelta
-from .utils import extract_text, split_clauses, summarize_clause, classify_risk
-from .qa import build_embeddings, semantic_search, generate_answer
+
+# Import backend modules
+import sys
+sys.path.append('backend')
+from utils import extract_text, split_clauses, summarize_clause, classify_risk
+from qa import build_embeddings, semantic_search, generate_answer
 
 app = FastAPI(title="Legal Document Analysis API", version="1.0.0")
 
@@ -131,7 +135,7 @@ async def health_check():
         "auto_delete_hours": AUTO_DELETE_HOURS
     }
 
-@app.post("/api/upload")
+@app.post("/upload")
 async def upload_document(file: UploadFile = File(...), background_tasks: BackgroundTasks = None):
     """
     Upload a legal document (PDF/DOCX) and store it temporarily.
@@ -171,7 +175,7 @@ async def upload_document(file: UploadFile = File(...), background_tasks: Backgr
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error uploading document: {str(e)}")
 
-@app.post("/api/analyze/{file_id}")
+@app.post("/analyze/{file_id}")
 async def analyze(file_id: str):
     """
     Trigger the analysis pipeline for an uploaded document.
@@ -250,7 +254,7 @@ async def analyze(file_id: str):
         file_metadata[file_id]["status"] = "failed"
         raise HTTPException(status_code=500, detail=f"Error analyzing document: {str(e)}")
 
-@app.get("/api/results/{file_id}")
+@app.get("/results/{file_id}")
 async def get_results(file_id: str):
     """
     Retrieve full analysis results for a specific document.
@@ -276,7 +280,7 @@ async def get_results(file_id: str):
         "analysis_time": results.get("analysis_time", "")
     }
 
-@app.post("/api/chat/{file_id}")
+@app.post("/chat/{file_id}")
 async def chat_with_doc(file_id: str, query: ChatQuery):
     """
     Answer a question about a specific document using its analyzed clauses.
@@ -337,6 +341,6 @@ async def ask_question_legacy(request: QuestionRequest):
 if __name__ == "__main__":
     import uvicorn
     print("🚀 Starting Legal Document Analysis API...")
-    print("📚 API Documentation: http://localhost:8000/docs")
+    print("📚 API Documentation: http://localhost:8001/docs")
     print("🔒 Auto-delete enabled for privacy (24 hours)")
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8001)

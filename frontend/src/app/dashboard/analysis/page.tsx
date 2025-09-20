@@ -13,10 +13,11 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { Alert, AlertDescription } from "@/components/ui/alert";
 import { AlertCircle, FileText, Loader2 } from "lucide-react";
 import type { Clause, ChatMessage } from "@/lib/types";
+import { fetchResults, chatWithDoc } from "@/lib/api";
 
 function AnalysisPageContent() {
   const searchParams = useSearchParams();
-  const docId = searchParams.get("doc_id");
+  const fileId = searchParams.get("file_id") || searchParams.get("doc_id");
 
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [documentText, setDocumentText] = useState("");
@@ -27,35 +28,30 @@ function AnalysisPageContent() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    if (docId) {
+    if (fileId) {
       const fetchAnalysis = async () => {
         setLoading(true);
         setError(null);
         
         try {
-          const response = await fetch(`http://localhost:8000/clauses/${docId}`);
-          if (response.ok) {
-            const data = await response.json();
-            setFilename(data.filename || "Document");
-            setClauses(data.clauses || []);
-            
-            const riskSummary = data.risk_summary || { High: 0, Medium: 0, Low: 0 };
-            setAnalysisSummary(
-              `Document processed successfully. Found ${data.total_clauses || 0} clauses with risk distribution: ` +
-              `High: ${riskSummary.High}, Medium: ${riskSummary.Medium}, Low: ${riskSummary.Low}`
-            );
-            
-            // Combine all clause text for document preview
-            const fullText = (data.clauses || []).map((clause: any) => 
-              `${clause.clause_id}: ${clause.original_text}`
-            ).join('\n\n');
-            setDocumentText(fullText);
-          } else {
-            setError("Failed to fetch analysis. Please try again.");
-          }
+          const data = await fetchResults(fileId);
+          setFilename(data.filename || "Document");
+          setClauses(data.clauses || []);
+          
+          const riskSummary = data.risk_summary || { High: 0, Medium: 0, Low: 0 };
+          setAnalysisSummary(
+            `Document processed successfully. Found ${data.total_clauses || 0} clauses with risk distribution: ` +
+            `High: ${riskSummary.High}, Medium: ${riskSummary.Medium}, Low: ${riskSummary.Low}`
+          );
+          
+          // Combine all clause text for document preview
+          const fullText = (data.clauses || []).map((clause: any) => 
+            `${clause.clause_id}: ${clause.original_text}`
+          ).join('\n\n');
+          setDocumentText(fullText);
         } catch (error) {
           console.error("Error fetching analysis:", error);
-          setError("Network error. Please check your connection and try again.");
+          setError(error instanceof Error ? error.message : "Network error. Please check your connection and try again.");
         } finally {
           setLoading(false);
         }
@@ -65,9 +61,11 @@ function AnalysisPageContent() {
       setError("No document ID provided.");
       setLoading(false);
     }
-  }, [docId]);
+  }, [fileId]);
 
   const handleSendMessage = async (input: string) => {
+    if (!fileId) return;
+
     const userMessage: ChatMessage = {
       id: `msg-${Date.now()}`,
       role: "user",
@@ -83,38 +81,20 @@ function AnalysisPageContent() {
     setMessages((prev) => [...prev, assistantTypingMessage]);
 
     try {
-      const response = await fetch("http://localhost:8000/ask", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ doc_id: docId, question: input }),
-      });
-
-      if (response.ok) {
-        const result = await response.json();
-        const assistantMessage: ChatMessage = {
-          id: `msg-${Date.now() + 1}`,
-          role: "assistant",
-          content: result.answer,
-          references: result.relevant_clauses,
-        };
-        setMessages((prev) =>
-          prev.map((msg) =>
-            msg.id === assistantMessage.id ? assistantMessage : msg
-          )
-        );
-      } else {
-        const errorMessage: ChatMessage = {
-          id: `msg-${Date.now() + 1}`,
-          role: "assistant",
-          content: "Sorry, I encountered an error. Please try again.",
-        };
-        setMessages((prev) =>
-          prev.map((msg) => (msg.id === errorMessage.id ? errorMessage : msg))
-        );
-      }
+      const result = await chatWithDoc(fileId, input);
+      const assistantMessage: ChatMessage = {
+        id: `msg-${Date.now() + 1}`,
+        role: "assistant",
+        content: result.answer,
+        references: result.relevant_clauses,
+      };
+      setMessages((prev) =>
+        prev.map((msg) =>
+          msg.id === assistantMessage.id ? assistantMessage : msg
+        )
+      );
     } catch (error) {
+      console.error("Error sending message:", error);
       const errorMessage: ChatMessage = {
         id: `msg-${Date.now() + 1}`,
         role: "assistant",
