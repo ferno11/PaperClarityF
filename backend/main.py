@@ -13,8 +13,6 @@ import shutil
 import time
 import json
 from datetime import datetime, timedelta
-from .utils import extract_text, split_clauses, summarize_clause, classify_risk
-from .qa import build_embeddings, semantic_search, generate_answer
 
 app = FastAPI(title="Legal Document Analysis API", version="1.0.0")
 
@@ -47,6 +45,61 @@ class QuestionRequest(BaseModel):
 
 class ChatQuery(BaseModel):
     question: str
+
+# Mock AI functions - replace with real implementations later
+def extract_text(file_path: str) -> str:
+    """Mock text extraction - replace with real PDF/DOCX extraction."""
+    return """
+    This is a sample legal document for testing purposes.
+    
+    Clause 1: Tenant must pay rent by the 5th of every month. Late payment will incur a 5% penalty fee.
+    
+    Clause 2: Either party may terminate this agreement with 30 days written notice.
+    
+    Clause 3: The landlord is responsible for major structural repairs and maintenance.
+    
+    Clause 4: All parties agree to maintain confidentiality regarding proprietary information.
+    
+    Clause 5: Disputes shall be resolved through binding arbitration in the jurisdiction of the property.
+    """
+
+def split_clauses(text: str) -> List[str]:
+    """Mock clause splitting - replace with real NLP processing."""
+    # Simple split by "Clause X:" pattern
+    import re
+    clauses = re.split(r'Clause \d+:', text)
+    return [clause.strip() for clause in clauses if clause.strip()]
+
+def summarize_clause(clause: str) -> str:
+    """Mock summarization - replace with real LLM."""
+    if len(clause) > 100:
+        return clause[:100] + "..."
+    return clause
+
+def classify_risk(clause: str) -> str:
+    """Mock risk classification - replace with real AI."""
+    clause_lower = clause.lower()
+    if any(word in clause_lower for word in ['penalty', 'termination', 'dispute', 'arbitration']):
+        return "High"
+    elif any(word in clause_lower for word in ['notice', 'payment', 'maintenance']):
+        return "Medium"
+    else:
+        return "Low"
+
+def build_embeddings(texts: List[str]) -> List[List[float]]:
+    """Mock embeddings - replace with real vector embeddings."""
+    import random
+    return [[random.random() for _ in range(10)] for _ in texts]
+
+def semantic_search(query: str, embeddings: List[List[float]]) -> List[int]:
+    """Mock semantic search - replace with real vector search."""
+    # Return all indices for now
+    return list(range(len(embeddings)))
+
+def generate_answer(question: str, relevant_clauses: List[Dict[str, Any]]) -> str:
+    """Mock answer generation - replace with real LLM."""
+    context = "\n".join([f"Clause {i+1}: {clause['original_text']}" for i, clause in enumerate(relevant_clauses)])
+    return f"Based on the document analysis, here's what I found regarding '{question}':\n\n{context[:200]}..."
 
 def find_file_by_id(file_id: str) -> Optional[str]:
     """Find file path by file_id."""
@@ -112,10 +165,10 @@ async def root():
         "version": "1.0.0",
         "documentation": "/docs",
         "endpoints": {
-            "POST /upload": "Upload a legal document for analysis",
-            "POST /analyze/{file_id}": "Trigger analysis for an uploaded document",
-            "GET /results/{file_id}": "Get full analysis results for a document",
-            "POST /chat/{file_id}": "Chat with the document",
+            "POST /api/upload": "Upload a legal document for analysis",
+            "POST /api/analyze/{file_id}": "Trigger analysis for an uploaded document",
+            "GET /api/results/{file_id}": "Get full analysis results for a document",
+            "POST /api/chat/{file_id}": "Chat with the document",
             "GET /health": "Health check endpoint"
         }
     }
@@ -220,7 +273,7 @@ async def analyze(file_id: str):
                 "summary": summary,
                 "risk_level": risk,
                 "word_count": len(clause_text.split()),
-                "embedding": clause_embeddings[i].tolist() if clause_embeddings and i < len(clause_embeddings) else None
+                "embedding": clause_embeddings[i] if clause_embeddings and i < len(clause_embeddings) else None
             }
             processed_clauses.append(clause_data)
         
@@ -337,6 +390,6 @@ async def ask_question_legacy(request: QuestionRequest):
 if __name__ == "__main__":
     import uvicorn
     print("🚀 Starting Legal Document Analysis API...")
-    print("📚 API Documentation: http://localhost:8000/docs")
+    print("📚 API Documentation: http://localhost:8001/docs")
     print("🔒 Auto-delete enabled for privacy (24 hours)")
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8001)
