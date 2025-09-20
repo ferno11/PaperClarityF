@@ -19,7 +19,7 @@ export function ClausesList({ clauses }: ClausesListProps) {
       <CardContent>
         <Accordion type="single" collapsible className="w-full">
           {clauses.map((clause) => (
-            <ClauseCard key={clause.id} clause={clause} />
+            <ClauseCard key={clause.clause_id} clause={clause} />
           ))}
         </Accordion>
       </CardContent>
