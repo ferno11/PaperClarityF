@@ -57,6 +57,8 @@ const riskConfig = {
 export function RiskOverview({ clauses }: RiskOverviewProps) {
   const { chartData, counts, totalClauses, riskScore } = React.useMemo(() => {
     const counts = { High: 0, Medium: 0, Low: 0 };
+    const totalClauses = clauses.length;
+    
     clauses.forEach((clause) => {
       if (clause.risk_level in counts) {
         counts[clause.risk_level]++;
@@ -74,7 +76,7 @@ export function RiskOverview({ clauses }: RiskOverviewProps) {
       ? Math.round(((counts.High * 3 + counts.Medium * 2 + counts.Low * 1) / (totalClauses * 3)) * 100)
       : 0;
 
-    return { chartData, counts, totalClauses: clauses.length, riskScore };
+    return { chartData, counts, totalClauses, riskScore };
   }, [clauses]);
 
   const getRiskLevel = (score: number) => {
