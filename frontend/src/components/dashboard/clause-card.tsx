@@ -86,19 +86,20 @@ export function ClauseCard({ clause }: ClauseCardProps) {
     )}>
       <AccordionItem value={clause.clause_id} className="border-none">
         <AccordionTrigger 
-          className="text-left hover:no-underline p-6 pb-4"
+          className="text-left hover:no-underline p-4 md:p-6 pb-4"
           onClick={() => setIsExpanded(!isExpanded)}
+          aria-label={`${isExpanded ? 'Collapse' : 'Expand'} clause ${clause.clause_id} - ${config.label}`}
         >
           <div className="flex flex-1 items-start gap-4 w-full">
-            <div className="flex items-center gap-3 flex-1">
-              <Icon className={`mt-1 h-5 w-5 shrink-0 ${config.className.split(' ')[1]}`} />
+            <div className="flex items-center gap-3 flex-1 min-w-0">
+              <Icon className={`mt-1 h-5 w-5 shrink-0 ${config.className.split(' ')[1]}`} aria-hidden="true" />
               <div className="flex-1 min-w-0">
-                <div className="flex items-center gap-2 mb-2">
+                <div className="flex flex-wrap items-center gap-2 mb-2">
                   <Badge variant="outline" className={cn("text-xs font-medium", config.badgeClassName)}>
                     {config.label}
                   </Badge>
                   <Badge variant="secondary" className="text-xs">
-                    <FileText className="h-3 w-3 mr-1" />
+                    <FileText className="h-3 w-3 mr-1" aria-hidden="true" />
                     {clause.clause_id}
                   </Badge>
                 </div>
@@ -121,13 +122,14 @@ export function ClauseCard({ clause }: ClauseCardProps) {
                   handleCopy();
                 }}
                 className="h-8 w-8 p-0"
+                aria-label={`Copy original text of clause ${clause.clause_id}`}
               >
                 <Copy className="h-4 w-4" />
               </Button>
               {isExpanded ? (
-                <ChevronDown className="h-4 w-4 text-muted-foreground" />
+                <ChevronDown className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
               ) : (
-                <ChevronRight className="h-4 w-4 text-muted-foreground" />
+                <ChevronRight className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
               )}
             </div>
           </div>

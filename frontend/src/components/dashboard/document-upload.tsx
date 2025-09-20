@@ -121,6 +121,15 @@ export function DocumentUpload({ onProcessDocument, isProcessing = false }: Docu
           onDragLeave={handleDrag}
           onDragOver={handleDrag}
           onDrop={handleDrop}
+          role="button"
+          tabIndex={0}
+          aria-label="File upload area. Drag and drop a file here or click to select."
+          onKeyDown={(e) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+              e.preventDefault();
+              fileInputRef.current?.click();
+            }
+          }}
         >
           <div className="mb-4 rounded-full border-8 border-muted bg-card p-4">
             {isProcessing ? (

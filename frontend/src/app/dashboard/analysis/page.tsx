@@ -1,7 +1,7 @@
 
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { RiskOverview } from "@/components/dashboard/risk-overview";
 import { ClausesList } from "@/components/dashboard/clauses-list";
@@ -14,7 +14,7 @@ import { Alert, AlertDescription } from "@/components/ui/alert";
 import { AlertCircle, FileText, Loader2 } from "lucide-react";
 import type { Clause, ChatMessage } from "@/lib/types";
 
-export default function AnalysisPage() {
+function AnalysisPageContent() {
   const searchParams = useSearchParams();
   const docId = searchParams.get("doc_id");
 
@@ -216,55 +216,91 @@ export default function AnalysisPage() {
   }
 
   return (
-    <div className="flex-1 items-start grid grid-cols-1 lg:grid-cols-12 gap-6 p-4 md:p-6">
-      <div className="hidden lg:block lg:col-span-5 xl:col-span-4">
-        <Card className="sticky top-20">
+    <div className="min-h-screen bg-background">
+      {/* Mobile Chat Panel - Always visible on mobile */}
+      <div className="block md:hidden p-4">
+        <ChatPanel messages={messages} onSendMessage={handleSendMessage} onReset={handleReset} />
+      </div>
+
+      <div className="flex-1 items-start grid grid-cols-1 lg:grid-cols-12 gap-6 p-4 md:p-6">
+        {/* Document Preview - Hidden on mobile, visible on desktop */}
+        <div className="hidden lg:block lg:col-span-5 xl:col-span-4">
+          <Card className="sticky top-20">
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <FileText className="h-5 w-5" />
+                Document Preview
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <ScrollArea className="h-[calc(100vh-12rem)]">
+                <pre className="text-sm text-muted-foreground whitespace-pre-wrap p-4 bg-muted/50 rounded-md font-sans">
+                  {documentText || "No document content available."}
+                </pre>
+              </ScrollArea>
+            </CardContent>
+          </Card>
+        </div>
+
+        {/* Main Content */}
+        <main className="lg:col-span-4 xl:col-span-5 space-y-6 pb-6">
+          {/* Analysis Summary */}
+          <Card>
+            <CardHeader>
+              <CardTitle>Analysis Summary</CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p className="text-sm text-muted-foreground">{analysisSummary}</p>
+            </CardContent>
+          </Card>
+
+          {/* Risk Assessment */}
+          <Card>
+            <CardHeader>
+              <CardTitle>Risk Assessment</CardTitle>
+            </CardHeader>
+            <CardContent className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+              <div className="lg:col-span-2">
+                <ClausesList clauses={clauses} />
+              </div>
+              <div className="lg:col-span-1">
+                <RiskOverview clauses={clauses} />
+              </div>
+            </CardContent>
+          </Card>
+
+          {/* Disclaimers */}
+          <Disclaimer />
+        </main>
+
+        {/* Desktop Chat Panel */}
+        <aside className="sticky top-20 hidden md:block lg:col-span-3 xl:col-span-3">
+          <ChatPanel messages={messages} onSendMessage={handleSendMessage} onReset={handleReset} />
+        </aside>
+      </div>
+    </div>
+  );
+}
+
+export default function AnalysisPage() {
+  return (
+    <Suspense fallback={
+      <div className="flex-1 flex items-center justify-center p-8">
+        <Card className="w-full max-w-md">
           <CardHeader>
-            <CardTitle className="flex items-center gap-2">
-              <FileText className="h-5 w-5" />
-              Document Preview
-            </CardTitle>
+            <CardTitle>Loading Analysis...</CardTitle>
           </CardHeader>
           <CardContent>
-            <ScrollArea className="h-[calc(100vh-12rem)]">
-              <pre className="text-sm text-muted-foreground whitespace-pre-wrap p-4 bg-muted/50 rounded-md font-sans">
-                {documentText || "No document content available."}
-              </pre>
-            </ScrollArea>
+            <div className="space-y-2">
+              <Skeleton className="h-4 w-full" />
+              <Skeleton className="h-4 w-3/4" />
+              <Skeleton className="h-4 w-1/2" />
+            </div>
           </CardContent>
         </Card>
       </div>
-
-      <main className="lg:col-span-4 xl:col-span-5 space-y-6 pb-6">
-        <Card>
-          <CardHeader>
-            <CardTitle>Analysis Summary</CardTitle>
-          </CardHeader>
-          <CardContent>
-            <p className="text-sm text-muted-foreground">{analysisSummary}</p>
-          </CardContent>
-        </Card>
-
-        <Card>
-          <CardHeader>
-            <CardTitle>Risk Assessment</CardTitle>
-          </CardHeader>
-          <CardContent className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-            <div className="lg:col-span-2">
-              <ClausesList clauses={clauses} />
-            </div>
-            <div className="lg:col-span-1">
-              <RiskOverview clauses={clauses} />
-            </div>
-          </CardContent>
-        </Card>
-
-        <Disclaimer />
-      </main>
-
-      <aside className="sticky top-20 hidden md:block lg:col-span-3 xl:col-span-3">
-        <ChatPanel messages={messages} onSendMessage={handleSendMessage} onReset={handleReset} />
-      </aside>
-    </div>
+    }>
+      <AnalysisPageContent />
+    </Suspense>
   );
 }

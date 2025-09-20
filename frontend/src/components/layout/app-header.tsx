@@ -6,6 +6,8 @@ import {
   LogOut,
   Menu,
   Settings,
+  Moon,
+  Sun,
 } from "lucide-react";
 import { useAuth } from "@/hooks/use-auth";
 import { auth } from "@/lib/firebase/config";
@@ -29,11 +31,13 @@ import { Logo } from "@/components/icons";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { cn } from "@/lib/utils";
 import { usePathname } from "next/navigation";
+import { useTheme } from "next-themes";
 
 export default function AppHeader() {
   const { user } = useAuth();
   const router = useRouter();
   const pathname = usePathname();
+  const { theme, setTheme } = useTheme();
   const userAvatar = PlaceHolderImages.find((img) => img.id === "user-avatar");
   const [isHidden, setIsHidden] = useState(false);
   const [lastScrollY, setLastScrollY] = useState(0);
@@ -102,6 +106,17 @@ export default function AppHeader() {
         ))}
       </nav>
       <div className="flex-1" />
+      <Button
+        variant="outline"
+        size="icon"
+        onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+        className="mr-2"
+        aria-label="Toggle theme"
+      >
+        <Sun className="h-4 w-4 rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" />
+        <Moon className="absolute h-4 w-4 rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100" />
+        <span className="sr-only">Toggle theme</span>
+      </Button>
       <DropdownMenu>
         <DropdownMenuTrigger asChild>
           <Button
