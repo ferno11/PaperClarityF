@@ -22,6 +22,8 @@ jobs:
 
       - name: Build and export Next.js
         working-directory: src/frontend
+        env:
+          NEXT_PUBLIC_API_URL: ${{ secrets.BACKEND_URL }}
         run: npm run export
 
       - name: Deploy to GitHub Pages
