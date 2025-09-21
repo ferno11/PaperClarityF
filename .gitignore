@@ -18,3 +18,5 @@ uploads/
 # IDE / OS
 .vscode/
 *.log
+
+venv/
