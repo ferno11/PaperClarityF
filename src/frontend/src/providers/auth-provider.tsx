@@ -39,10 +39,22 @@ export const AuthProvider = ({ children }: { children: React.ReactNode }) => {
   const pathname = usePathname();
 
   useEffect(() => {
+    // Temporarily disable localStorage check to force login page
     // Check if user is logged in from localStorage
     const savedUser = localStorage.getItem('user');
     if (savedUser) {
-      setUser(JSON.parse(savedUser));
+      try {
+        // Comment out to force login page
+        // setUser(JSON.parse(savedUser));
+        setUser(null);
+        localStorage.removeItem('user');
+      } catch (error) {
+        // If there's an error parsing, clear the invalid data
+        localStorage.removeItem('user');
+        setUser(null);
+      }
+    } else {
+      setUser(null);
     }
     setLoading(false);
   }, []);
@@ -64,6 +76,7 @@ export const AuthProvider = ({ children }: { children: React.ReactNode }) => {
   const logout = () => {
     setUser(null);
     localStorage.removeItem('user');
+    router.push('/login');
   };
 
   useEffect(() => {

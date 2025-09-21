@@ -1,5 +1,5 @@
 // API functions for communicating with the backend
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8001';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8003';
 
 // Types for API responses
 export interface UploadResponse {

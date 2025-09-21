@@ -574,6 +574,6 @@ async def ask_question_legacy(request: QuestionRequest):
 if __name__ == "__main__":
     import uvicorn
     print("🚀 Starting Legal Document Analysis API...")
-    print("📚 API Documentation: http://localhost:8001/docs")
+    print("📚 API Documentation: http://localhost:9000/docs")
     print("🔒 Auto-delete enabled for privacy (24 hours)")
-    uvicorn.run(app, host="0.0.0.0", port=8001)
+    uvicorn.run(app, host="0.0.0.0", port=9000)
