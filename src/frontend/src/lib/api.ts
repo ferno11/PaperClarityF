@@ -1,5 +1,7 @@
 // API functions for communicating with the backend
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8003';
+// Default to port 9000 to match the backend `uvicorn.run(..., port=9000)` used
+// in `src/backend/main.py` when running the server directly.
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:9000';
 
 // Types for API responses
 export interface UploadResponse {

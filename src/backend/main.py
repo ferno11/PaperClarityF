@@ -15,9 +15,40 @@ import json
 import asyncio
 from datetime import datetime, timedelta
 from pathlib import Path
-from sentence_transformers import SentenceTransformer, util
+import logging
+try:
+    from sentence_transformers import SentenceTransformer, util
+except Exception as _e:
+    # sentence-transformers is an optional dependency for semantic search.
+    # Fall back gracefully so the API can run without it (uses mock search).
+    SentenceTransformer = None
+    util = None
 
 app = FastAPI(title="Legal Document Analysis API", version="1.0.0")
+
+# Simple module logger
+logger = logging.getLogger("genai_legal")
+logging.basicConfig(level=logging.INFO)
+from .gemini_adapter import is_configured as gemini_configured, generate_answer_gemini
+
+# Lightweight request logging middleware to help diagnose client errors like "Failed to fetch"
+@app.middleware("http")
+async def log_requests(request, call_next):
+    try:
+        client = request.client.host if request.client else 'unknown'
+    except Exception:
+        client = 'unknown'
+    content_length = request.headers.get('content-length', 'unknown')
+    logger.info(f"Incoming request from {client}: {request.method} {request.url.path} (Content-Length: {content_length})")
+    start = time.time()
+    try:
+        response = await call_next(request)
+    except Exception as e:
+        logger.exception(f"Error while handling {request.method} {request.url.path}: {e}")
+        raise
+    duration = time.time() - start
+    logger.info(f"Responded {request.method} {request.url.path} -> {getattr(response, 'status_code', 'unknown')} in {duration:.3f}s")
+    return response
 
 # Enable CORS
 app.add_middleware(
@@ -44,15 +75,23 @@ file_metadata: Dict[str, Dict[str, Any]] = {}
 AUTO_DELETE_HOURS = 24
 
 # Load embeddings model once (lightweight model for fast inference)
-try:
-    embedder = SentenceTransformer("all-MiniLM-L6-v2")
-    print("✅ Semantic search model loaded successfully")
-except Exception as e:
-    print(f"⚠️ Warning: Could not load semantic search model: {e}")
-    embedder = None
+embedder = None
+if SentenceTransformer is not None:
+    try:
+        embedder = SentenceTransformer("all-MiniLM-L6-v2")
+        print("Semantic search model loaded successfully")
+    except Exception as e:
+        print(f"Warning: Could not load semantic search model: {e}")
+        embedder = None
+else:
+    print("Warning: sentence-transformers not available; semantic search disabled")
 
 class QuestionRequest(BaseModel):
+    # Legacy request model for /ask kept for backward compatibility
     question: str
+    # Doc id is required for the legacy endpoint which used to accept both
+    # a question and the document id to query against.
+    doc_id: str
 
 class ChatQuery(BaseModel):
     question: str
@@ -218,28 +257,28 @@ def load_results(file_id: str) -> Optional[Dict[str, Any]]:
 
 async def delete_file_later(file_path: str, file_id: str, delay: int = 86400):
     """Background task to delete file after specified delay (24 hours default)."""
-    print(f"🗑️ Scheduling deletion of {file_path} and file_id {file_id} in {delay} seconds.")
+    print(f"Scheduling deletion of {file_path} and file_id {file_id} in {delay} seconds.")
     await asyncio.sleep(delay)
     
     # Delete file
     if os.path.exists(file_path):
         os.remove(file_path)
-        print(f"✅ Deleted file: {file_path}")
+    print(f"Deleted file: {file_path}")
     
     # Delete results file
     results_file = os.path.join(RESULTS_DIR, f"{file_id}_results.json")
     if os.path.exists(results_file):
         os.remove(results_file)
-        print(f"✅ Deleted results: {results_file}")
+    print(f"Deleted results: {results_file}")
     
     # Remove from memory
     if file_id in documents:
         del documents[file_id]
-        print(f"✅ Removed document {file_id} from memory")
+    print(f"Removed document {file_id} from memory")
     
     if file_id in file_metadata:
         del file_metadata[file_id]
-        print(f"✅ Removed metadata for {file_id}")
+    print(f"Removed metadata for {file_id}")
 
 async def cleanup_expired_files():
     """Background task to clean up expired files periodically."""
@@ -465,95 +504,95 @@ async def chat_with_doc(file_id: str, query: ChatQuery):
                 "answer": "⚠️ No clauses found in this document.",
                 "relevant_clauses": []
             }
-        
+
         # Prepare clause data for semantic search
         clause_texts = [clause["original_text"] for clause in clauses]
         clause_ids = [clause["clause_id"] for clause in clauses]
-        
-        if embedder is not None:
-            # Use semantic search with embeddings
-            try:
-                # Encode question and clauses
-                question_embedding = embedder.encode([question], convert_to_tensor=True)
-                clause_embeddings = embedder.encode(clause_texts, convert_to_tensor=True)
-                
-                # Calculate similarities
-                similarities = util.cos_sim(question_embedding, clause_embeddings)[0]
-                
-                # Get top 3 most similar clauses
-                top_k = min(3, len(clauses))
-                top_indices = similarities.topk(k=top_k).indices
-                top_scores = similarities.topk(k=top_k).values
-                
-                # Filter by similarity threshold (0.3)
-                relevant_clauses = []
-                relevant_ids = []
-                
-                for idx, score in zip(top_indices, top_scores):
-                    if score.item() > 0.3:  # Similarity threshold
-                        relevant_clauses.append(clause_texts[idx])
-                        relevant_ids.append(clause_ids[idx])
-                
-                if not relevant_clauses:
-                    return {
-                        "answer": "⚠️ Sorry, I couldn't find any clauses relevant to your question. Please try rephrasing or asking about different aspects of the document.",
-                        "relevant_clauses": []
-                    }
-                
-                # Generate answer from relevant clauses
-                answer_parts = []
-                for i, clause_text in enumerate(relevant_clauses):
-                    # Create a brief summary of the clause
-                    summary = clause_text[:200] + "..." if len(clause_text) > 200 else clause_text
-                    answer_parts.append(f"• {summary}")
-                
-                answer = f"Based on the document analysis:\n\n" + "\n\n".join(answer_parts)
-                
-                return {
-                    "answer": answer,
-                    "relevant_clauses": relevant_ids
-                }
-                
-            except Exception as e:
-                print(f"Semantic search error: {e}")
-                # Fall back to keyword search
-                pass
-        
-        # Fallback: Simple keyword-based search
-        question_lower = question.lower()
+
+        # Try semantic search but guard it with a timeout and run blocking work in a thread
         relevant_clauses = []
         relevant_ids = []
+        if embedder is not None:
+            def _semantic_search_sync(question, clause_texts, clause_ids):
+                try:
+                    question_embedding = embedder.encode([question], convert_to_tensor=True)
+                    clause_embeddings = embedder.encode(clause_texts, convert_to_tensor=True)
+
+                    similarities = util.cos_sim(question_embedding, clause_embeddings)[0]
+                    top_k = min(3, len(clause_texts))
+                    topk = similarities.topk(k=top_k)
+                    top_indices = topk.indices.tolist()
+                    top_scores = topk.values.tolist()
+
+                    found_ids = []
+                    for idx, score in zip(top_indices, top_scores):
+                        if score and float(score) > 0.3:
+                            found_ids.append(clause_ids[idx])
+
+                    return found_ids
+                except Exception as e:
+                    logger.exception(f"Semantic search error: {e}")
+                    return []
+
+            try:
+                # Limit semantic search to 10 seconds to avoid long blocking operations
+                found_ids = await asyncio.wait_for(
+                    asyncio.to_thread(_semantic_search_sync, question, clause_texts, clause_ids),
+                    timeout=10.0
+                )
+                if found_ids:
+                    logger.info("chat_with_doc: semantic search returned results")
+                    relevant_ids = found_ids
+                    # Map ids to full clause objects
+                    relevant_clauses = [c for c in clauses if c.get("clause_id") in relevant_ids]
+                else:
+                    logger.info("chat_with_doc: semantic search returned no results, falling back to keyword search")
+            except asyncio.TimeoutError:
+                logger.warning("chat_with_doc: semantic search timed out after 10s, falling back to keyword search")
+            except Exception as e:
+                logger.exception(f"chat_with_doc: unexpected error during semantic search: {e}")
         
-        for i, clause_text in enumerate(clause_texts):
-            clause_lower = clause_text.lower()
-            
-            # Check for keyword matches
-            question_words = set(question_lower.split())
-            clause_words = set(clause_lower.split())
-            
-            # Calculate word overlap
-            common_words = question_words.intersection(clause_words)
-            if len(common_words) >= 2:  # At least 2 common words
-                relevant_clauses.append(clause_text)
-                relevant_ids.append(clause_ids[i])
-        
+    # If semantic search did not populate relevant_clauses, run simple keyword overlap
+        if not relevant_clauses:
+            question_lower = question.lower()
+            relevant_clauses = []
+            relevant_ids = []
+            for i, clause_text in enumerate(clause_texts):
+                clause_lower = clause_text.lower()
+                question_words = set(question_lower.split())
+                clause_words = set(clause_lower.split())
+                common_words = question_words.intersection(clause_words)
+                if len(common_words) >= 2:
+                    relevant_clauses.append(clauses[i])
+                    relevant_ids.append(clause_ids[i])
+
         if not relevant_clauses:
             return {
                 "answer": "⚠️ Sorry, I couldn't find any clauses relevant to your question. Please try rephrasing or asking about different aspects of the document.",
                 "relevant_clauses": []
             }
-        
-        # Generate answer from relevant clauses
+
+        # If Gemini is configured, try to generate a high-quality answer from the relevant clauses
+        if gemini_configured():
+            try:
+                gemini_answer = generate_answer_gemini(question, relevant_clauses)
+                if gemini_answer:
+                    return {"answer": gemini_answer, "relevant_clauses": [c.get("clause_id") for c in relevant_clauses]}
+            except Exception:
+                logger.exception("Gemini adapter failed; falling back to local summarization")
+
+        # Local summarization fallback
         answer_parts = []
-        for i, clause_text in enumerate(relevant_clauses[:3]):  # Limit to top 3
+        for c in relevant_clauses[:3]:
+            clause_text = c.get('original_text', '')
             summary = clause_text[:200] + "..." if len(clause_text) > 200 else clause_text
             answer_parts.append(f"• {summary}")
-        
+
         answer = f"Based on the document analysis:\n\n" + "\n\n".join(answer_parts)
-        
+
         return {
             "answer": answer,
-            "relevant_clauses": relevant_ids[:3]
+            "relevant_clauses": [c.get("clause_id") for c in relevant_clauses[:3]]
         }
         
     except Exception as e:
@@ -573,7 +612,7 @@ async def ask_question_legacy(request: QuestionRequest):
 
 if __name__ == "__main__":
     import uvicorn
-    print("🚀 Starting Legal Document Analysis API...")
-    print("📚 API Documentation: http://localhost:9000/docs")
-    print("🔒 Auto-delete enabled for privacy (24 hours)")
+    print("Starting Legal Document Analysis API...")
+    print("API Documentation: http://localhost:9000/docs")
+    print("Auto-delete enabled for privacy (24 hours)")
     uvicorn.run(app, host="0.0.0.0", port=9000)

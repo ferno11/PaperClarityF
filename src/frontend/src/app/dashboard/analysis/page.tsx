@@ -73,8 +73,13 @@ function AnalysisPageContent() {
     };
     setMessages((prev) => [...prev, userMessage]);
 
+    // Use a stable id for the assistant typing placeholder so we can
+    // replace it reliably with the final assistant message when the
+    // API returns. Previously we generated a new timestamp twice which
+    // made replacement fail.
+    const typingId = `msg-${Date.now()}`;
     const assistantTypingMessage: ChatMessage = {
-      id: `msg-${Date.now() + 1}`,
+      id: typingId,
       role: "assistant",
       content: "...",
     };
@@ -83,16 +88,12 @@ function AnalysisPageContent() {
     try {
       const result = await chatWithDoc(fileId, input);
       const assistantMessage: ChatMessage = {
-        id: `msg-${Date.now() + 1}`,
+        id: typingId, // same id so we replace the placeholder
         role: "assistant",
         content: result.answer,
         references: result.relevant_clauses,
       };
-      setMessages((prev) =>
-        prev.map((msg) =>
-          msg.id === assistantMessage.id ? assistantMessage : msg
-        )
-      );
+      setMessages((prev) => prev.map((msg) => (msg.id === typingId ? assistantMessage : msg)));
     } catch (error) {
       console.error("Error sending message:", error);
       const errorMessage: ChatMessage = {
